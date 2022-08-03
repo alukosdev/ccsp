@@ -1,6 +1,5 @@
 ---
-label: Welcome
-icon: circle-check
+icon: check-circle
 ---
 
 # References
