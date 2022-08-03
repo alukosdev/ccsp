@@ -1,6 +1,6 @@
 ---
 label: Welcome
-icon:
+icon: rocket
 ---
 
 # Welcome
