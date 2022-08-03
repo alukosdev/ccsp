@@ -16,3 +16,5 @@ The following exam objectives were translated directly from the official [\(ISC\
 | [4 - Cloud Application Security](/exam/domain-4.md) | 17% |
 | [5 - Cloud Security Operations](/exam/domain-5.md) | 16% |
 | [6 - Legal, Risk and Compliance](/exam/domain-6.md) | 13% |
+
+[!embed](https://retypetest.pages.dev/exam/code-of-ethics/#code)
