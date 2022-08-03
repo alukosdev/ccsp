@@ -4,7 +4,7 @@ order: 100
 
 # Objectives
 
-:::info
+:::
 The following exam objectives were translated directly from the official [\(ISC\)² Certification Exam Outline](https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CCSP-Exam-Outline-2022.ashx). The effective date of these objectives is **August 1, 2022.**
 :::
 
