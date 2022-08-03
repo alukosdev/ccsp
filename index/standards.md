@@ -25,11 +25,15 @@
 | ISO/IEC 27043:2015 | Forensics | Information technology - Security techniques - Incident investigation principles and processes |
 | [ISO/IEC 27050:2019](../standards/forensics/iso-iec-27050-2019.md) | eDiscovery | Information technology - Electronic discovery |
 | [ISO/IEC 28000:2007](../standards/supply-chain-management/iso-28000-2007.md) | Supply Chain | Specification for security management systems for the supply chain |
+
+## ISO
+
+| Standard | Category | Description | { class="compact" }
 | [ISO 31000:2009](../standards/risk-management/iso-31000-2018.md) | Risk | Risk management |
 
 ## NIST
 
-| Publication | Category | Description |
+| Publication | Category | Description | { class="compact" }
 | :--- | :--- | :--- |
 | NIST SP 500-292 | Cloud Computing | Cloud Computing Reference Architecture |
 | NIST SP 500-293 | Cloud Computing | Cloud Computing Technology Roadmap |
