@@ -18,7 +18,7 @@ label: Domain 6
 
 - Difference between contractual and regulated private data
   - Protected health information (PHI)
-  - Personally identifiable information (PII))
+  - Personally identifiable information (PII)
 - Country-specific legislation related to private data
   - Protected health information (PHI)
   - Personally identifiable information (PII)
@@ -56,7 +56,7 @@ label: Domain 6
   - North American Electric Reliability Corporation / Critical Infrastructure Protection (NERC / CIP)
   - Health Insurance Portability and Accountability Act (HIPAA)
   - Health Information Technology for Economic and Clinical Health (HITECH) Act
-  - Payment Card Industry (PCI))
+  - Payment Card Industry (PCI)
 - Impact of distributed information technology (IT) model
   - Diverse geographical locations and crossing over legal jurisdictions
 
