@@ -10,7 +10,7 @@ The following exam objectives were translated directly from the [\(ISC\)² Certi
 
 | Domains | Weight |
 | - | - |
-| [1 - Cloud Concepts, Architecture and Design](/domain-1.md) | 17% |
+| [1 - Cloud Concepts, Architecture and Design](/exam/domain-1.md) | 17% |
 | 2 - Cloud Data Security | 20% |
 | 3 - Cloud Platform and Infrastructure Security | 17% |
 | 4 - Cloud Application Security | 17% |
