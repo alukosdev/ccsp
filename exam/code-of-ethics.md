@@ -4,7 +4,7 @@ order: 200
 
 # Code of Ethics
 
-:::info
+:::
 The following Code of Ethics was translated directly from the official [\(ISC\)² Code of Ethics](https://www.isc2.org/Ethics).
 :::
 
