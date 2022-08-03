@@ -21,4 +21,6 @@ icon: check-circle
 
 ## Online Resources
 
+- (ISC)². \(2022\). (ISC)² Code of Ethics. https://www.isc2.org/Ethics
+- (ISC)². \(2022, August 1\). Certification Exam Outline. \[PDF file\]. https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CCSP-Exam-Outline-2022.ashx
 - Cloud Security Alliance. \(2017\). Security Guidance v4.0 \[PDF file\]. https://cloudsecurityalliance.org/research/guidance/
