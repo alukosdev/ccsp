@@ -1,4 +1,10 @@
+---
+label: Welcome
+icon:
+---
+
 # Welcome
+
 ## Purpose and Credit
 
 These notes were created by the following members of the Alukos team:
