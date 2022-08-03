@@ -5,17 +5,21 @@ icon: rocket
 
 # Welcome
 
-## Purpose and Credit
+## Purpose
+
+These notes have been created and shared for the sole purpose of aggregating accurate information from reliable sources in an effort to facilitate studying for the (ISC)² CCSP examination.
+
+## Credit
 
 These notes were created by the following members of the Alukos team:
 
 - [Michael Ferullo](https://linkedin.com/mjferullo)
 
-These notes have been created and shared for the sole purpose of aggregating accurate information from reliable sources in an effort to facilitate studying for the (ISC)² CCSP examination.
+These notes continue to be actively maintained by the Alukos team and members of the information security community.
 
 ## Disclaimer
 
-Information contained within these notes may be copyrighted. Sources of copyrighted information have been [documented accordingly](/index.md/#references).
+Information contained within these notes may be copyrighted. Sources of copyrighted information have been [documented accordingly](../#references).
 
 ## References
 
