@@ -2,10 +2,10 @@ input: .
 output: .retype
 url: # Add your website address here
 branding:
-  title: Project Name
-  label: Docs
+  title: CCSP
+  label: 2022
 links:
-- text: Getting Started
-  link: https://retype.com/guides/getting-started/
+- text:
+  link:
 footer:
-  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+  copyright:
