@@ -29,6 +29,7 @@
 ## ISO
 
 | Standard | Category | Description | { class="compact" }
+| :--- | :--- | :--- |
 | [ISO 31000:2009](../standards/risk-management/iso-31000-2018.md) | Risk | Risk management |
 
 ## NIST
