@@ -4,15 +4,15 @@ categories: [Auditing and Assurance]
 
 # Shared Assessments
 
-:::
+!!!
 Shared Assessments was formerly known as BITS Shared Assessments
-:::
+!!!
 
 ## Overview
 
-:::warning
+!!!warning
 The below two paragraphs are redundant and should be fixed.
-:::
+!!!
 
 An organization that provides firms with a way to obtain a detailed report about a service provider's controls (people, processes, and procedures) and a procedure for verifying that the information in the report is accurate. They offer the tools to assess third-party risk, including cloud-based risks.
 
