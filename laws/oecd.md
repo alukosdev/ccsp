@@ -1,6 +1,6 @@
 ---
 category: [Laws]
-tags: [Privacy, APAC]
+tags: [Privacy, International]
 ---
 
 # OECD
