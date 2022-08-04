@@ -1,6 +1,5 @@
 ---
-category: [Laws]
-tags: [Privacy, International]
+category: [Laws, Privacy Laws, International Laws]
 ---
 
 # OECD
