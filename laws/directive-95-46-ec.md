@@ -1,3 +1,8 @@
+---
+category: [Laws]
+tags: [Privacy, EU/EEA]
+---
+
 # Directive 95/46/EC
 
 ## Terminology
@@ -9,7 +14,7 @@
 
 ## Overview
 
-Directive 95/46/EC, also known as the EU Data Protection Directive of 1995, was the first major EU data private law. This overarching regulation describes the appropriate handling of personal and private information of all EU citizens. Any entity gathering the PII of any citizen of the EU is subject to the Data Directive. This includes by either automated or paper means.
+Directive 95/46/EC, also known as the EU Data Protection Directive of 1995, was the first major EU data privacy law. This overarching regulation describes the appropriate handling of personal and private information of all EU citizens. Any entity gathering the PII of any citizen of the EU is subject to the Data Directive. This includes by either automated or paper means.
 
 It does *not* apply to the processing of data in these instances:
 
