@@ -1,6 +1,5 @@
 ---
-category: [Laws]
-tags: [Privacy, Australia]
+category: [Laws, Privacy Laws, Australian Laws]
 ---
 
 # Privacy Act 1988
