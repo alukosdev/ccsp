@@ -1,5 +1,6 @@
 ---
 category: [Laws]
+tags: [Privacy]
 ---
 
 # Privacy Act 1988
