@@ -1,5 +1,5 @@
 ---
-category: [Laws, Privacy Laws, Argentina Laws]
+category: [Laws, Privacy Laws, Argentinian Laws]
 ---
 
 # PDPA 25.326
