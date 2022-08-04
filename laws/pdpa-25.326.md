@@ -1,8 +1,4 @@
----
-label: PDPA 25.326
----
-
-# Personal Data Protection Act
+# PDPA 25.326
 
 ## Quick Reference
 
