@@ -17,9 +17,9 @@ These notes were created by the following members of the Alukos team:
 
 These notes continue to be actively maintained by the Alukos team and members of the information security community.
 
-## Disclaimer
-
+!!!warning Disclaimer
 Information contained within these notes may be copyrighted. Sources of copyrighted information have been [documented accordingly](../#references).
+!!!
 
 ## References
 
