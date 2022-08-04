@@ -4,7 +4,7 @@ order: 800
 
 # Laws
 
-| Law | Location of Origin | { class="compact" }
+| Law Name | Location of Origin | { class="compact" }
 | - | - |
 | PDPA 25.326 | Argentina |
 | Privacy Act 1988 | Australia |
