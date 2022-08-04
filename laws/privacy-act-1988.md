@@ -1,3 +1,7 @@
+---
+category: [laws]
+---
+
 # Privacy Act 1988
 
 ## Quick Reference
