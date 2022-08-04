@@ -1,3 +1,7 @@
+---
+order: 800
+---
+
 # Laws
 
 | Law | Location of Origin | { class="compact" }
