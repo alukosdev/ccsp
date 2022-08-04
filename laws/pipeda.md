@@ -1,5 +1,5 @@
 ---
-category: [laws]
+category: [Laws]
 ---
 
 # PIPEDA
