@@ -1,5 +1,5 @@
 ---
-categories: [Threat Modeling]
+categories: [Threat Models]
 ---
 
 # STRIDE
