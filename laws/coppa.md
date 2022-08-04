@@ -1,6 +1,5 @@
 ---
-categories: [Laws]
-tags: [Privacy, United States]
+categories: [Laws, Privacy Laws, United States Laws]
 ---
 
 # COPPA
