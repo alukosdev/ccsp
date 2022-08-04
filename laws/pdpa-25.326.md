@@ -2,6 +2,7 @@
 
 ## Quick Reference
 
+| Acronym | Backronym |
 | - | - |
 | PDPA | Personal Data Protection Act |
 
