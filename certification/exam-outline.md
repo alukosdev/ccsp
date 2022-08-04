@@ -14,7 +14,7 @@ order: 100
     }
 </style>
 :::sample
-The following Exam Outline is derived from the official [\(ISC\)² Certification Exam Outline](https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CCSP-Exam-Outline-2022.ashx). The effective date is**August 1, 2022**.
+The following Exam Outline is derived from the official [\(ISC\)² Certification Exam Outline](https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CCSP-Exam-Outline-2022.ashx) with an effective date of **August 1, 2022**.
 :::
 
 # Exam Outline
