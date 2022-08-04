@@ -28,7 +28,7 @@ label: Domain 1
   - Databases
   - Orchestration
   
-## 1.2 Describe cloud reference archhitecture
+## 1.2 Describe cloud reference architecture
 
 - Cloud computing activities
 - Cloud service capabilities
