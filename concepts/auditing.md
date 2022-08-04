@@ -15,3 +15,9 @@
 ### 4. Refine/lessons learned
 
 ## Audit Responsibilities
+
+### Internal Audit
+
+### External Audit
+
+#### Auditing
