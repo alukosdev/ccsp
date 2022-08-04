@@ -1,6 +1,5 @@
 ---
-category: [Laws]
-tags: [Privacy, Russia]
+category: [Laws, Privacy Laws, Russian Laws]
 ---
 
 # Data Localization Law
