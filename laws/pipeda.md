@@ -1,3 +1,7 @@
+---
+category: [laws]
+---
+
 # PIPEDA
 
 ## Quick Reference
