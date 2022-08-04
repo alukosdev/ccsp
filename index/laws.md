@@ -13,7 +13,7 @@ order: 800
 | Directive 95/46/EC | EU/EEA |
 | ENISA NIS | EU/EEA |
 | GDPR | EU/EEA |
-| APEC | Asia Pacific |
+| APEC | APAC |
 | EFTA | EFTA |
 | OECD | International |
 | Data Localization Law | Russia |
