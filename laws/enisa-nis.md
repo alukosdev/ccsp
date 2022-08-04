@@ -5,7 +5,7 @@ tags: [Privacy, EU/EEA]
 
 # ENISA NIS
 
-## Terminology
+## Quick Reference
 
 | Acronym | Backronym |
 | - | - |
