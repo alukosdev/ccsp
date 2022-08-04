@@ -1,5 +1,5 @@
 ---
-categories: [Application Risk Management]
+categories: [Threat Modeling]
 ---
 
 # STRIDE
