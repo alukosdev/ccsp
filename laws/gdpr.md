@@ -5,7 +5,7 @@ tags: [Privacy, EU/EEA]
 
 # GDPR
 
-## Terminology
+## Quick Reference
 
 | Acronym | Backronym |
 | - | - |
