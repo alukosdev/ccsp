@@ -18,7 +18,6 @@ PIPEDA is a Canadian law relating to data privacy. It governs how private sector
 ## Exam Reference
 
 !!!success
-:star: PIPEDA is a Canadian law.
-
-:star: PIPEDA governs private sector organizations.
+- [x] PIPEDA is a Canadian law.
+- [x] PIPEDA governs private sector organizations.
 !!!
