@@ -1,3 +1,7 @@
+---
+category: [laws]
+---
+
 # PDPA 25.326
 
 ## Quick Reference
