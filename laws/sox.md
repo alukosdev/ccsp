@@ -18,3 +18,7 @@ In 2002 the Sarbanes-Oxley Act (SOX) was enacted as an attempt to prevent fraudu
 SOX is not a set of business practices and does not specify how a business should store records; rather, it defines which records (such as financial records) are to be stored and for how long.
 
 SOX is also known as the "*public company* accounting reform and investor protection act".
+
+### Enforcement
+
+The SEC is the organization responsible for establishing standards and guidelines and conducting audits and imposing subsequent fines should any be required.
