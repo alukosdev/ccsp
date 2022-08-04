@@ -2,10 +2,6 @@
 order: 200
 ---
 
-!!!
-The following Code of Ethics was translated directly from the official [\(ISC\)² Code of Ethics](https://www.isc2.org/Ethics).
-!!!
-
 # Code of Ethics
 
 <style>
@@ -20,7 +16,7 @@ The following Code of Ethics was translated directly from the official [\(ISC\)�
     }
 </style>
 :::sample
-The following Code of Ethics was translated directly from the official [\(ISC\)² Code of Ethics](https://www.isc2.org/Ethics).
+The following Code of Ethics is derived from the official [\(ISC\)² Code of Ethics](https://www.isc2.org/Ethics).
 :::
 
 ## Code
