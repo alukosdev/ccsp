@@ -48,7 +48,7 @@ Violations of the GDPR expose a company to significant sanctions. These sanction
 | - | - |
 | EU | Yes |
 | United States | No |
-| Australia and New Zealand | No |
+| Australia and New Zealand | Yes |
 | EFTA | Yes |
 | Israel | Yes |
 | Japan | Yes |
