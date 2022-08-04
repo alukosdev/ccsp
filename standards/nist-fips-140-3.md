@@ -61,7 +61,9 @@ Some important sections that were included in FIPS 140-2 but are no longer expli
 
 Requires production-grade equipment and externally tested algorithms.
 
+!!!
 This is the lowest level of security.
+!!!
 
 ### Security Level 2
 
@@ -79,4 +81,6 @@ Adds requirements for physical tamper-resistance and identity-based authenticati
 
 This level makes the physical security requirements more stringent, requiring the ability to be tamper-active, erasing the contents of the device if it detects various forms of environmental attack.
 
+!!!
 This is the highest level of security.
+!!!
