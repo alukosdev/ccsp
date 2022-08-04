@@ -1,6 +1,5 @@
 ---
-category: [Laws]
-tags: [Privacy, EU/EEA]
+category: [Laws, Privacy Laws, EU/EEA Laws]
 ---
 
 # ENISA NIS
