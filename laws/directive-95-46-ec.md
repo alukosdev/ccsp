@@ -1,6 +1,5 @@
 ---
-category: [Laws]
-tags: [Privacy, EU/EEA]
+category: [Laws, Privacy Laws, EU/EEA Laws]
 ---
 
 # Directive 95/46/EC
