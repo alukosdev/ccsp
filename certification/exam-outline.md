@@ -2,12 +2,6 @@
 order: 100
 ---
 
-!!!
-The following Exam Outline was translated directly from the official [\(ISC\)² Certification Exam Outline](https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CCSP-Exam-Outline-2022.ashx). The effective date of the Exam Outline is **August 1, 2022.**
-!!!
-
-# Exam Outline
-
 <style>
     .sample {
         text-align: center;
@@ -20,8 +14,10 @@ The following Exam Outline was translated directly from the official [\(ISC\)² 
     }
 </style>
 :::sample
-The following Exam Outline is derived from the official [\(ISC\)² Certification Exam Outline](https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CCSP-Exam-Outline-2022.ashx). The effective date of the Exam Outline is `August 1, 2022`.
+The following Exam Outline is derived from the official [\(ISC\)² Certification Exam Outline](https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CCSP-Exam-Outline-2022.ashx). The effective date is**August 1, 2022**.
 :::
+
+# Exam Outline
 
 ## Examination Weights
 
