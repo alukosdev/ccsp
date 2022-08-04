@@ -8,6 +8,21 @@ The following Code of Ethics was translated directly from the official [\(ISC\)�
 
 # Code of Ethics
 
+<style>
+    .sample {
+        text-align: center;
+        color: #1956AF;
+        border-radius: 10px;
+        background-color: #E1EDFF;
+        border: 1px solid #1956AF;
+        padding-top: 20px;
+        margin-bottom: 20px;
+    }
+</style>
+:::sample
+The following Code of Ethics was translated directly from the official [\(ISC\)² Code of Ethics](https://www.isc2.org/Ethics).
+:::
+
 ## Code
 
 All information security professionals who are certified by (ISC)² recognize that such certification is a privilege that must be both earned and maintained. In support of this principle, all (ISC)² members are required to commit to fully support this Code of Ethics (the "Code"). (ISC)² members who intentionally or knowingly violate any provision of the Code will be subject to action by a peer review panel, which may result in the revocation of certification. (ISC)² members are obligated to follow the ethics complaint procedure upon observing any action by an (ISC)² member that breach the Code. Failure to do so may be considered a breach of the Code pursuant to Canon IV.
