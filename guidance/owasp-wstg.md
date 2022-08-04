@@ -4,6 +4,12 @@ categories: [Application Risk Management]
 
 # OWASP WSTG
 
+## Quick Reference
+
+| Acronym | Backronym |
+| - | - |
+| WSTG | Web Security Testing Guide |
+
 ## Testing Methods
 
 1. Information Gathering
