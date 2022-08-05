@@ -22,7 +22,7 @@ This page requires formatting updates to make it easier to flow. Additionally, i
 === CAIQ
 A self-assessment performed by cloud providers, detailing their evaluation of the practice areas and control groups they use in providing their services.
 === CCM
-[!ref](/csa-ccm/)
+[!ref](/standards/csa-ccm/)
 ===
 
 ## Overview
