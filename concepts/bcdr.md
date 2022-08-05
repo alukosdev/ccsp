@@ -189,15 +189,84 @@ Budget is *not* a risk since it should be something that is already factored in 
 
 ### 2. Gather Requirements
 
+In migrating to a cloud service architecture, your organization will want to review its existing BIA and consider a new BIA, or at least a partial assessment, for cloud-specific concerns and the new risks and opportunities offered by the cloud.
+
+BIA (link me)
+
+Potential emergent BIA concerns include, but are not limited to, the following:
+
+- New Dependencies
+- Regulatory Failure
+- Data Breach/Inadvertent Disclosure
+- Vendor Lock-In/Lock-Out
+
 ### 3. Analyze
+
+Will our plan meet the metrics specified in the previous step?
 
 ### 4. Assess
 
+Assessing Risk (link me)
+
 ### 5. Design
+
+Should address technical alternatives, procedures, workflow, staff, other business necessities.
 
 ### 6. Implement
 
+Implement plan, exercising, assessing, and maintaining the plan.
+
 ### 7. Test
+
+Any BCDR plan should be tested at *regular intervals*.
+
+- Tabletop Exercise
+- Walk-Through Drill
+- Functional Drill
+- Full-Interruption
+
+There are two reasons to conduct a test of the organization's recovery from backup in an environment other than the primary production environment:
+
+- You want to approximate contingency conditions, which includes not operating in the primary location. Assuming your facility is not available during contingency operations allows you to better simulate an emergency situation, which adds realism to the test.
+- The risk of negative impact to both production and backup is too high. A recovery from backup into the production environment carries the risk of failure of both data sets (the production and the backup set).
+
+#### Tabletop Exercise
+
+Essential participants work together at a scheduled time to describe how they would perform their tasks in a given BCDR scenario.
+
+!!!
+This has the *least impact* on production of the testing alternatives, but is also the *least thorough*.
+!!!
+
+#### Walk-Through Drill
+
+Simulates a disaster scenario but only includes operational and support personnel. It is more complicated than a tabletop exercise. Attendees practice certain functional steps to ensure that they have the knowledge and skills needed to complete them. Acting out the critical steps, recognizing difficulties, and resolving problems is critical for this type of test.
+
+Moves beyond the involvement of a tabletop exercise. Chooses a specific event scenario and applies the BCP to it.
+
+Specific characteristics include:
+
+- Practice and validation of specific functional response capabilities
+- Demonstration of knowledge as well as team interaction
+- Role playing with simulated response at alternate locations
+- Mobilization of the crisis management and response team
+- Actual resource mobilization to reinforce the content of the plan
+
+#### Functional Drill
+
+Involves moving personnel to the recovery site(s) to attempt to establish communications and perform real recovery processing. The drill will help the organization determine whether following the BCP will successfully recover critical systems at an alternate processing site. Because a functional drive fully tests the BCP, all employees are involved. It demonstrates emergency management capabilities and tests procedures for evacuation, medical response, and warnings.
+
+This test is also sometimes considered a "parallel" test. Parallel tests indicate that both the DR site and the production site are processing transactions, which results in heightened risk.
+
+#### Full-Interruption Test
+
+The entire organization takes part in an unscheduled, unannounced practice scenario, performing their full BCDR activities.
+
+Provides the highest level of simulation, including notification and resource mobilization. A real-life emergency is simulated as closely as possible. It is important to properly plan this type of test to ensure that business operations are not negatively affected. This usually includes processing data and transactions using backup media at the recovery site. All employees must participate in this type of test, and all response teams must be involved.
+
+!!!
+As this could include system failover and facility evacuation, this test is the most useful for detecting shortcomings in the plan, but it has the greatest impact on productivity.
+!!!
 
 ### 8. Report
 
@@ -205,8 +274,52 @@ Budget is *not* a risk since it should be something that is already factored in 
 
 ## Cloud vs. Traditional
 
+Cloud backup provides many advantages over tape-based backup:
+
+- *Convenience*. As long as you have an Internet connection, data can be backed up as it is saved to disk. Data can be synced across multiple computers so that the data is not only backed up, but it is also instantly shared with other users.
+- *Safety*. Local disasters such as fire or flood are no longer concerns.
+- *Ease of Recovery*. Online backup systems can be configured to maintain multiple versions of a file. While this may be available with local backup, the ease with which different versions of a file can be restored are superior in the cloud.
+- *Ease of Access*. Data can be accessed from anywhere there is an Internet connection.
+Affordability. Capital expenditure is reduced as tape drives, libraries, servers, or other hardware is no longer necessary to perform the backup.
+
+Advantages to using a cloud BC/DR include:
+
+- Rapid elasticity
+- Broad network connectivity
+- On-demand self-service
+- Experienced and capable staff
+- Measured service
+
 ## Backup Methodologies
+
+### Private Architecture with CSP as BC/DR
+
+The organization maintains its own on-premise IT infrastructure and uses a CSP for BC/DR purposes.
+
+### Cloud Operations with Primary CSP as BC/DR
+
+The organization's infrastructure is already hosted in the cloud and they choose to use that same CSP for BC/DR purposes.
+
+In some cases, cloud providers may offer a backup solution as a feature of their service and would ideally be located at another datacenter owned by the provider in case of a local disaster-level event.
+
+### Cloud Operations with Third-Party CSP as BC/DR
+
+Regular operations are hosted by the cloud provider, but contingency operations require failover to another cloud provider.
 
 ## Shared Responsibilities
 
+### Declaration
+
+The cloud customer and provider must decide, prior to the contingency, who specifically will be authorized to make decisions for disaster declaration and the explicit process for communicating when it has been made.
+
+### Testing
+
+BC/DR testing will have to be coordinated with the cloud provider. This should be planned well in advance of the scheduled testing.
+
 ## Similarities to Traditional BC/DR
+
+### Traditional Hot Site
+
+This would equate to an *ctive-passive* cloud model.
+
+- In an active-passive deployment, resources are held in a secondary datacenter in standby mode. This would be similar to a hot site in the traditional DR methodology.
