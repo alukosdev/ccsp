@@ -111,10 +111,10 @@ Any BC/DR plan should include the following:
 In DR terms, `RTO + WRT < MTD`.
 !!!
 
-## Comsiderations
+## Considerations
 
-=== Notification
-### Forms
+=== ### Notification
+#### Forms
 
 - Telephone call tree rosters
 - Website postings
