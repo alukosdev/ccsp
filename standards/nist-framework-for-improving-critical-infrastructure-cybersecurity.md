@@ -36,8 +36,22 @@ Cybersecurity activities and outcomes divided into five functions:
 - Respond
 - Recover
 
-=== Identify
+#### Identify (ID)
+
 Contains two categories:
-=== Protect
-=== Detect
-===
+
+- Asset Management (ID.AM)
+  - ID.AM-2. Software platforms and applications within the organization are inventoried.
+  - ID.AM-3. Organizational communication and data flows are mapped.
+  - ID.AM-5. Resources (such as hardware, devices, data, and software) are prioritized based on their classification, criticality, and business value.
+- Risk Assessment (ID.RA)
+  - ID.RA-1. Asset vulnerabilities are identified and documented.
+  - ID.RA-5. Threats, vulnerabilities, likelihoods, and impacts are used to determine risk.
+
+### Framework Profile
+
+Used to assist the organization in aligning activities with business requirements, risk tolerance, and resources.
+
+### Framework Implementation Tiers
+
+Used to identify where the organization is with regard to their particular approach.
