@@ -113,20 +113,20 @@ In DR terms, `RTO + WRT < MTD`.
 
 ## Considerations
 
-=== ### Notification
-#### Forms
+=== Notification
+Forms:
 
 - Telephone call tree rosters
 - Website postings
 - SMS blasts
 
-### Inclusions
+Inclusions:
 
 - Personnel
 - Public
 - Regulatory and response agencies
 
-### Processes
+Processes:
 
 - Getting the People Out
 - Getting the People Out Safely
