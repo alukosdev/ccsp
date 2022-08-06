@@ -152,8 +152,8 @@ In the United States, copyrights last for either 70 years after the author's dea
 
 There are a family of exceptions to copyright exclusivity. Limitations to copyrights include:
 
-    - First sale: selling a purchased book at a yard sale.
-    - Fair use: copies of songs can be made within reason (not well defined).
+- First sale: selling a purchased book at a yard sale.
+- Fair use: copies of songs can be made within reason (not well defined).
 
 It is not mandatory to register works in order to own them. The U.S. Copyright Office allows copyright holders to register their works as means of *securing proof*.
 === Trademarks
