@@ -6,10 +6,14 @@ label: Operations > Service Level Management
 
 ## Quick Reference
 
+==- Acronyms
 | Acronym | Backronym |
 | - | - |
 | SLM | Service Level Management |
 | UC | Underpinning Contract |
+===
+
+### Definitions
 
 === Efficient Service Management
 Are we doing the right things properly and are we getting the benefits? Are we going about it in the most efficient manner to achieve the most benefits?
