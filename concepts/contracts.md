@@ -52,17 +52,19 @@ At a minimum, you should ensure that your cloud service contract states that you
 
 Immediate notification from a CSP to a customer should be required for all security related events. This is especially true for security breaches. This should be explicitly addressed in the service contract between the client and the CSP and should be non-negotiable.
 
-## Operational-Level Agreements (OLAs)
+## Types of Contracts
 
-### Overview
+### Operational-Level Agreements (OLAs)
+
+#### Overview
 
 OLAs are SLAs negotiated between internal business units within the enterprise. OLAs are a contract that defines how various IT groups within a company plan to deliver a server or set of services.
 
 For example, an IT department may guarantee system uptime to a separate group within the same organization.
 
-## Privacy-Level Agreements (PLAs)
+### Privacy-Level Agreements (PLAs)
 
-### Overview
+#### Overview
 
 PLAs are an agreement whereby the cloud provider states the level and types of personal data protection(s) in place. A PLA would require the cloud provider to document expectations for the cloud customer's data security, which could be an explicit admission of liability for CSPs, which is why this typically isn't common.
 
@@ -73,13 +75,13 @@ The CSA allows for four items in a PLA:
 - A PLA should offer a clear and effective way to communicate the level of data protection offered by a CSP.
 - The eventual goal for a PLA is to provide customers with a tool to baseline personal data protection legal requirements across an environment and to evaluate the data protection offered by different CSPs.
 
-### Characteristics
+#### Characteristics
 
 - Provides a clear and effective way to communicate the level of personal data protection offered by a service provider
 - Works as a tool to assess the level of a service provider's compliance with data protection legislative requirements and leading practices
 - Provides a way to offer contractual protection against possible financial damages due to lack of compliance
 
-## Service-Level Agreements (SLAs)
+### Service-Level Agreements (SLAs)
 
 The SLA will set specific, quantified goals for these services and their provision over a certain timeframe.
 
