@@ -1,4 +1,8 @@
-# Operations > Capacity Management
+---
+label: Operations > Capacity Management
+---
+
+# Capacity Management
 
 ## Summary
 
