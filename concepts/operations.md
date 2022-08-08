@@ -7,6 +7,8 @@
 | BCM | Business Continuity Management |
 | CI | Configuration Item |
 | CSIM | Continual Service Improvement Management |
+| IMT | Incident Management Team |
+| IRT | IOncident Response Team |
 | SLM | Service Level Management |
 
 === Configuration Item (CI)
@@ -20,6 +22,28 @@ Configuration items can be applied to anything designated for the application of
 - Service
 - Documentation
 - People (Staff and Contractors)
+=== Event
+According to the ITIL framework, an event is defined as a change of state that has significance for the management of an IT service or other CI. This could be any unscheduled adverse impact to the operating environment.
+
+Events are anything that occur in the IT framework. As a result, the term can also be used to mean an alert or notification created by an IT service, CI, or monitoring tool.
+
+Events often require IT operations staff to take actions and lead to incidents being logged.
+
+!!!
+Not all events are incidents, but all incidents are events.
+!!!
+
+!!!
+An event is distinguished form a disaster by the duration of impact. We consider events impact to last 3 days or less.
+!!!
+=== Incident
+According to the ITIL framework, an incident is defined as an unplanned interruption to an IT service or a reduction in the quality of an IT service.
+
+Essentially, incidents are unscheduled events.
+
+!!!
+Not all events are incidents, but all incidents are events.
+!!!
 ===
 
 ## Operations Management
@@ -157,9 +181,46 @@ An applicability assessment is performed by the customer organization to determi
 
 ### Configuration Management
 
+#### Overview
+
+Configuration management *deals with the documentation of processes*.
+
+Configuration management aims to maintain information about CIs required to deliver an IT service, including their relationships. Configuration management occurs when the configuration of an item, such as a network device, must be changed.
+
+The process should include policies and procedures for each of the following:
+
+- The development and implementation of new configurations that should apply to the hardware and software configurations of the cloud environment
+- Quality evaluation of configuration changes and compliance with established security baselines
+- Changing systems, including testing and deployment procedures, that should include adequate oversight of all configuration changes
+- The *prevention* of any unauthorized changes in system configurations
+
+#### Operational Relationships
+
+=== Availability Management
+- If an existing configuration were to have negative impacts on system availability, they would have to be identified, monitored, and remediated as per the existing SLAs for the services and systems affected.
+=== Change Management
+- Change management has to approve modifications to all production systems prior to them taking place. There should never be a change that is allowed to take place to a CI in a production system unless change management has approved the change first.
+- Configuration management aims to **prevent** *unauthorized changes* whereas change management aims to **allow** *changes through a formal approval process*.
+=== Release and Deployment Management
+- Once the release is officially live in the production environment, the existing configurations for all systems and infrastructure affected by the release have to be updated to accurately reflect their new running configurations and status within the configuration management database (CMDB).
+
 ### Continual Service Improvement Management
 
+Continual service improvement management *deals with identifying how the organization can perform more efficiently*.
+
+Metrics on all services and processes should be collected and analyzed to find areas of improvement using a formal process. You can use various tools and standards to monitor performance. One example is the ITIL framework.
+
 ### Incident Management
+
+Incident management *deals with minimizing the impact to the business*.
+
+Incident management describes the activities of an organization to identify, analyze, and correct hazards to prevent a future reoccurrence. Incident management is typically involved in an initial attack and resolution of the attack. Identifying the root cause of the attack and deploying a fix to a known error is part of problem management.
+
+Within a structured organization, an IRT or IMT typically addresses these types of incidents.
+
+!!!
+Incident management should be focused on the identification, classification, investigation, and resolution of an incident, with the ultimate goal of *returning the effected systems to normal as soon as possible*.
+!!!
 
 ### Information Security Management
 
