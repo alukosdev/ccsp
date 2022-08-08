@@ -4,7 +4,14 @@ label: Operations > Incident Management
 
 # Incident Management
 
-## Overview
+## Quick Reference
+
+| Acronym | Backronym |
+| - | - |
+| IMT | Incident Management Team |
+| IRT | Incident Response Team |
+
+## Summary
 
 Incident management *deals with minimizing the impact to the business*.
 
