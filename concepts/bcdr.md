@@ -1,4 +1,4 @@
-# BCDR
+# Business Continuity and Disaster Recovery
 
 ## Quick Reference
 
