@@ -54,7 +54,7 @@ Immediate notification from a CSP to a customer should be required for all secur
 
 ## Types of Contracts
 
-### OLAs
+### Operational-Level Agreements (OLAs)
 
 #### Overview
 
@@ -62,7 +62,7 @@ OLAs are SLAs negotiated between internal business units within the enterprise. 
 
 For example, an IT department may guarantee system uptime to a separate group within the same organization.
 
-### PLAs
+### Privacy-Level Agreements (PLAs)
 
 #### Overview
 
@@ -81,7 +81,7 @@ The CSA allows for four items in a PLA:
 - Works as a tool to assess the level of a service provider's compliance with data protection legislative requirements and leading practices
 - Provides a way to offer contractual protection against possible financial damages due to lack of compliance
 
-### SLAs
+### Service-Level Agreements (SLAs)
 
 The SLA will set specific, quantified goals for these services and their provision over a certain timeframe.
 
