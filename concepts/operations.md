@@ -1,4 +1,4 @@
-# Operations Management
+# Operations
 
 ## Availability Management
 
