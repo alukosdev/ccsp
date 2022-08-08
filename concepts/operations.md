@@ -203,6 +203,7 @@ The process should include policies and procedures for each of the following:
 - Configuration management aims to **prevent** *unauthorized changes* whereas change management aims to **allow** *changes through a formal approval process*.
 === Release and Deployment Management
 - Once the release is officially live in the production environment, the existing configurations for all systems and infrastructure affected by the release have to be updated to accurately reflect their new running configurations and status within the configuration management database (CMDB).
+===
 
 ### Continual Service Improvement Management
 
@@ -211,6 +212,8 @@ Continual service improvement management *deals with identifying how the organiz
 Metrics on all services and processes should be collected and analyzed to find areas of improvement using a formal process. You can use various tools and standards to monitor performance. One example is the ITIL framework.
 
 ### Incident Management
+
+#### Overview
 
 Incident management *deals with minimizing the impact to the business*.
 
@@ -222,7 +225,77 @@ Within a structured organization, an IRT or IMT typically addresses these types 
 Incident management should be focused on the identification, classification, investigation, and resolution of an incident, with the ultimate goal of *returning the effected systems to normal as soon as possible*.
 !!!
 
+#### Purpose
+
+- Restore normal service operation as quickly as possible
+- Minimize the adverse impact on business operations
+- Ensure service quality and availability are maintained
+
+#### Objectives
+
+- Ensure standardized methods and procedures are used for efficient and prompt response, analysis, documentation of ongoing management, and reporting of incidents
+- Increase visibility and communication of incidents to business and IT support staff
+- Enhance business perception of IT by using a professional approach in quickly resolving and communicating incidents when they occur
+- Align incident management activities with those of the business
+- Maintain user satisfaction
+
+#### Plan
+
+- Definitions of an incident by service type or offering
+- Customer and provider roles and responsibilities for an incident
+- Incident management process from detection to resolution
+- Response requirements
+- Media coordination
+- Legal and regulatory requirements such as data breach notification
+
+#### Incident Prioritization
+
+Incident prioritization is made up of the following items (displayed in a matrix of 1-5 where 1 is highest and 5 is lowest).
+
+##### Impact
+
+Effect on the business
+
+##### Urgency
+
+Extent to which the resolution can be delayed
+
+##### Priority
+
+`Urgency * Impact`
+
+#### Process
+
+1. Incident Occurs
+2. Incident is Reported
+3. Incident is Classified
+4. Investigate and Collect Data
+5. Resolution
+6. Approvals
+7. Implement Changes
+8. Review
+9. Reports
+
 ### Information Security Management
+
+#### Overview
+
+Information security management deals with the CIA of data.
+
+- Security management
+- Security policy
+- Information security organization
+- Asset management
+- Human resources security
+- Physical and environmental security
+- Communications and operations management
+- Access control
+- Information systems acquisition, development, and maintenance
+- Provider and customer responsibilities
+
+!!!
+This section looks much like what you'd see as the foundation for ISO 27001 as part of the ISMS (Information Security Management System or Program).
+!!!
 
 ### Problem Management
 
