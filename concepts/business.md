@@ -18,7 +18,7 @@
 - Set hardware to log events and incidents.
 - Determine compute component composition by customer need.
 - Configure secure remote administrative access.
-- 
+
 ##### Secure Logical Framework
 
 - Installation of Virtual OSs
