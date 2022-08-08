@@ -1,5 +1,5 @@
 ---
-label: Operations: Availability Management
+label: Operations > Availability Management
 ---
 
 # Availability Management
