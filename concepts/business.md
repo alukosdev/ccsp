@@ -131,9 +131,9 @@ The BIA is the basis of almost everything done with the organization. Business p
 
 #### Goals
 
-*Identify critical business processes and dependencies.* Such as determining RPOs and RTOs.
-*Identify risks and threats.* Such as CSP failure.
-*Identify requirements.* These may come from senior management, regulations, or a combination of both.
+- *Identify critical business processes and dependencies.* Such as determining RPOs and RTOs.
+- *Identify risks and threats.* Such as CSP failure.
+- *Identify requirements.* These may come from senior management, regulations, or a combination of both.
 
 ### Components
 
