@@ -1,4 +1,4 @@
-# Emerging Technologies
+# Technologies
 
 ## Artificial Intelligence
 
