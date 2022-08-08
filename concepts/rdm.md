@@ -39,6 +39,7 @@ Are users and software licenses up to date?
 Are software licenses being automatically re-harvested?
 === Leavers
 How much are you overpaying for what you no longer need?
+===
 
 ## Operational Relationships
 
@@ -51,3 +52,4 @@ If anything were to go wrong with the release, incident and problem management w
 Once the release is officially live in the production environment, the existing configurations for all systems and infrastructure affected by the release have to be updated to accurately reflect their new running configurations and status within the configuration management database (CMDB).
 === Availability Management
 === If the release were not to go as planned, any negative impacts on system availability would have to be identified, monitored, and remediated as per the existing SLAs for the services and systems affected.
+===
