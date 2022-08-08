@@ -1,5 +1,5 @@
 ---
-label: Operations > Business Requirements
+label: Business > Business Requirements
 ---
 
 # Business Requirements
