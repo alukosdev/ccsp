@@ -26,7 +26,7 @@ The rapid adoption of cloud services has caused a disconnect between providers a
 On-premises transfer is a pitfall that occurs when a company transfers its applications and configurations to the cloud. APIs that were developed to use on-premises resources may not function properly in the cloud or provide the appropriate security.
 ==- Not all apps are cloud-ready.
 Because it's true.
-===- Lack of training and awareness.
+==- Lack of training and awareness.
 Not all developers understand the cloud.
 ==- Lack of documentation and guidelines.
 For example, the rapid adoption of ever-evolving cloud services may result in outdated documentation or no documentation whatsoever.
