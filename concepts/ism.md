@@ -4,7 +4,13 @@ label: Operations > Information Security Management
 
 # Information Security Management
 
-## Overview
+## Quick Reference
+
+| Acronym | Backronym |
+| - | - |
+| ISM | Information Security Management |
+
+## Summary
 
 Information security management deals with the CIA of data.
 
