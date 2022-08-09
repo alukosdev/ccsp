@@ -3,13 +3,13 @@
 ## Quick Reference
 
 ==- Acronyms
+| Acronym | Backronym |
 | - | - |
 | ALE | Annualized Loss Expectancy |
 | ARO | Annual Rate of Occurrence |
 | AV | Asset Value |
 | EF | Exposure Factor |
 | SLE | Single Loss Expectancy |
-
 ==- Risk Modeling
 Risk modeling is based on an asset or a threat.
 ==- Risk Register
