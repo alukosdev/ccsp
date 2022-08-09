@@ -1,7 +1,3 @@
----
-label: Operations > Incident Management
----
-
 # Incident Management
 
 ## Quick Reference
