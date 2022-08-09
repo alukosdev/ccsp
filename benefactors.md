@@ -1,4 +1,5 @@
 ---
+order: 1100
 label: Benefactors
 icon: heart
 ---
