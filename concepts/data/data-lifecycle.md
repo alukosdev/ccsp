@@ -45,9 +45,15 @@ To determine the necessary controls to be deployed, you must first understand th
 ## Phases
 
 ==- Create/Update
+1
 ==- Store
+2
 ==- Use
+3
 ==- Share
+4
 ==- Archive
+5
 ==- Destroy
-===
+6
+==-
