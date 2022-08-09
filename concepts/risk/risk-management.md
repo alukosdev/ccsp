@@ -134,6 +134,10 @@ Risk response provides a consistent, organization-wide response to risk in accor
 - Determining appropriate courses of action consistent with organizational risk tolerance
 - Implementing risk responses based on selected courses of action
 
+!!!
+Risk response is sometimes also referred to as risk management methods or risk treatment.
+!!!
+
 Organizations have four primary ways to address risk, all of which should take into effect the cost-benefit analysis (the potential cost should not outweigh the benefit). For example, we do not put a $10 lock on a $5 bicycle:
 
 1. Avoidance
