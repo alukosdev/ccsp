@@ -57,17 +57,19 @@ Threat categories:
 - Environmental
 - Operational
 
+### Risk Assessments
+
 !!!
 Risk assessments should be performed *periodically*.
 !!!
 
-### Qualititative Risk Assessments
+#### Qualititative Risk Assessments
 
 Qualitative risk assessments typically employ a set of methods, principles, or rules for assessing risk based on *non-numerical* categories or levels (such as high, medium, or low). Qualitative risk assessments use subjective analysis to help prioritize probability and impact of risk events.
 
 The opinion of an expert in the field is a prime source for qualitative analysis. Interviews and risk workshops are two ways in which you can work with experts on managing qualitative risk.
 
-#### Characteristics
+##### Characteristics
 
 - Assessors have limited expertise in quantitative assessments (assessors do not require as much experience when performing a qualitative assessment)
 - The timeframe to complete the assessment is short
@@ -76,7 +78,7 @@ The opinion of an expert in the field is a prime source for qualitative analysis
 - The assessors are long-term employees who have experience with the business and critical systems
 - Results that are descriptive versus measurable
 
-#### Process
+##### Process
 
 - Management approval is obtained and management is kept informed
 - A risk-assessment team can be formed. Members may include staff from senior management, IS, legal or compliance, internal audit, HR, facilities and safety coordination, IT, and business owners, as appropriate.
@@ -87,13 +89,13 @@ The opinion of an expert in the field is a prime source for qualitative analysis
 - Once risk is determined, additional countermeasures can be recommended to minimize, transfer, or avoid the risk.
  When this is completed, the risk that is left over-after countermeasures have been applied to protect against the risk-is also calculated. This is the residual risk.
 
-### Quantitative Risk Assessments
+#### Quantitative Risk Assessments
 
 Quantitative risk assessments typically employ a set of methods, principles, or rules for assessing risk based on the use of numbers.
 
 The hallmark of a quantitative assessment is the numeric nature of the analysis. Frequency, probability, impact, countermeasure effectiveness, and other aspects of the risk assessment have a discrete mathematical value in a pure quantitative analysis.
 
-#### Characteristics
+##### Characteristics
 
 - Allows the assessor to determine whether the cost of the risk outweighs the cost of the countermeasure
 - Requires a lot of time
@@ -105,7 +107,7 @@ The hallmark of a quantitative assessment is the numeric nature of the analysis.
 Most organizations are not in a position to authorize the level of work required for a quantitative risk assessment.
 !!!
 
-#### Process
+##### Process
 
 Three steps are undertaken in a quantitative risk assessment:
 
