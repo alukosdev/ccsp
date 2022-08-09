@@ -1,7 +1,3 @@
----
-label: Operations > Availability Management
----
-
 # Availability Management
 
 ## Summary
