@@ -22,9 +22,9 @@ Authentication requires a match against a template or a known quantity. Therefor
 
 Multifactor authentication requires at least two of the following:
 
-*Type 1*: Something you know
-*Type 2*: Something you have
-*Type 3*: Something you are
+- *Type 1*: Something you know
+- *Type 2*: Something you have
+- *Type 3*: Something you are
 
 In some cases, a fourth factor is mentioned:
 
