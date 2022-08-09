@@ -1,7 +1,3 @@
----
-label: Business > Business Responsibilities
----
-
 # Business Responsibilities
 
 ## Responsibilities in the Cloud
