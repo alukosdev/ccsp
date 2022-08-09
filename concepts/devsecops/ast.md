@@ -1,5 +1,5 @@
 ---
-label: DevSecOps > Application Security Testing
+label: Application Security Testing
 ---
 
 # Application Security Testing (AST)
