@@ -6,7 +6,7 @@ Every decision we make should be based on risk. Risk management in the cloud is 
 
 There are four steps to adequately managing risk:
 
-1. Risk Framing
+1. Framing Risk
 2. Assessing Risk
 3. Responding to Risk
 4. Monitoring Risk
