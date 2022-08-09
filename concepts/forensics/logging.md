@@ -52,7 +52,8 @@ A SIEM *aggregates* data from many sources and is able to make *correlations* ba
 
 ## Logging by Service Model
 
-=== SaaS
+### SaaS
+
 - Webserver logs
 - Application server logs
 - Database logs
@@ -61,7 +62,9 @@ A SIEM *aggregates* data from many sources and is able to make *correlations* ba
 - Virtualization platform logs and SaaS portal logs
 - Network captures
 - Billing records
-=== PaaS
+
+### PaaS
+
 Application data that can be extracted and monitored is typically defined by the developers when building their PaaS application. At a minimum, however, OWASP recommends the following logs be available:
 
 - Session management failures
@@ -71,7 +74,9 @@ Application data that can be extracted and monitored is typically defined by the
 - Logging initialization (starting, stopping, or pausing)
 - Use of higher-risk functionalities, such as network connections and the addition or deletion of users
 - Legal and other opt-ins, such as permissions for mobile phone capabilities and terms of use
-=== IaaS
+
+### IaaS
+
 - Cloud or network provider perimeter network logs
 - Logs from DNS servers
 - Virtual machine manager logs
@@ -80,4 +85,3 @@ Application data that can be extracted and monitored is typically defined by the
 - Management portal logs
 - Packet captures
 - Billing records
-===
