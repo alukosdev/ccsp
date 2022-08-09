@@ -1,5 +1,9 @@
 # Data Policies
 
+!!!warning
+Perhaps this page should move beneath the policies page instead?
+!!!
+
 ## Data Archiving Policy
 
 Needs to include the ability to perform eDiscovery and granular retrieval. The capability to retrieve data by date, subject, and author is very useful. A good archiving policy should include eDiscovery capability. Data monitoring should also be included in a data archiving policy. Cloud storage allows for data to be moved and replicated frequently. This provides for high availability and high resiliency, while requiring good data governance.
