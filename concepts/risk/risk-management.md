@@ -66,6 +66,46 @@ The organization takes steps to decrease the likelihood or the impact of the ris
 
 When we choose to mitigate risk by applying countermeasures and controls, the remaining, leftover risk is called residual risk. The task of the security program is to reduce residual risk until it falls within the acceptable level of risk according to the organization's risk appetite.
 
+There are four main categories of controls:
+
+- Administrative Controls
+- Technical Controls
+- Physical Controls
+- Compensating Controls
+
+#### Administrative Controls
+
+Administrative controls are those processes and activities that provide some aspect of security.
+
+!!!
+Examples include personnel background checks, scheduled routine log reviews, mandatory vacations, robust and comprehensive security policies and procedures, and deciding business processes so that there are no single points of failure and so that proper separation of duties exists.
+!!!
+
+#### Technical Controls
+
+Technical (logical) controls, are those controls that enhance some facets of the CIA triad, usually operating within a system, often in electronic fashion.
+
+!!!
+Technical controls include encryption mechanisms, access control lists to limit user permissions, and audit trails and logs of system activity.
+!!!
+
+#### Physical Controls
+
+Physical controls are controls that limit physical access to assets or that operate in a manner that reduces the impact of a physical event.''
+
+!!!
+Examples include locks on doors, fire suppression equipment in datacenters, fences, and guards.
+!!!
+
+#### Compensating Controls
+
+Controls to catch the failure of a first control.
+
+- Intent and rigor of the original equipment
+- Provide a similar level of defense as the original requirement
+- Be above and beyond other requirements
+- Be commensurate with the additional risk imposed by not adhering to the requirement
+
 ### Rejection
 
 Risk rejection isn't a legitimate form of risk response. Rejection involves ignoring risks and continuing with operations. This is essentially the same thing as accepting a risk without mitigating it to a tolerable level. In most cases, this would indicate failure of due diligence and may put the organization in a position of liability.
