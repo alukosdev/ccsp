@@ -1,8 +1,8 @@
 ---
-label: Operations > Release and Deployment Management
+label: Release and Deployment Management
 ---
 
-# Release and Deployment Management
+# Release and Deployment Management (RDM)
 
 ## Quick Reference
 
