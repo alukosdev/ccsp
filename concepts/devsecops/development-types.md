@@ -1,7 +1,3 @@
----
-label: DevSecOps > Development Types
----
-
 # Development Types
 
 ## Agile
