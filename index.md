@@ -1,6 +1,6 @@
 ---
 label: Welcome
-icon: heart
+icon: bookmark
 ---
 
 # Welcome
