@@ -1,5 +1,5 @@
 ---
-label: Business > Business Impact Analysis
+label: Business Impact Analysis
 ---
 
 # Business Impact Analysis (BIA)
