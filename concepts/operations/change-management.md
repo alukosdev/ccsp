@@ -1,7 +1,3 @@
----
-label: Operations > Change Management
----
-
 # Change Management
 
 ## Summary
