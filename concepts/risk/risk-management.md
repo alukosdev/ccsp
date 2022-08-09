@@ -1,5 +1,21 @@
 # Risk Management
 
+## Quick Reference
+
+==- Acronyms
+| - | - |
+| ALE | Annualized Loss Expectancy |
+| ARO | Annual Rate of Occurrence |
+| AV | Asset Value |
+| EF | Exposure Factor |
+| SLE | Single Loss Expectancy |
+
+==- Risk Modeling
+Risk modeling is based on an asset or a threat.
+==- Risk Register
+A risk register is a table to consolidate information about risks.
+==-
+
 ## Summary
 
 Every decision we make should be based on risk. Risk management in the cloud is based on the *shared responsibilities* model.
