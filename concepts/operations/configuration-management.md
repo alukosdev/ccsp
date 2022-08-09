@@ -1,7 +1,3 @@
----
-label: Operations > Configuration Management
----
-
 # Configuration Management
 
 ## Quick Reference
