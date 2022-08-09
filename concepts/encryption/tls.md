@@ -1,8 +1,4 @@
----
-label: Transport Layer Security
----
-
-# Transport Layer Security (TLS)
+# TLS
 
 ## Quick Reference
 
