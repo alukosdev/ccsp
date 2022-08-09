@@ -88,7 +88,7 @@ For data being accessed from the user side:
 - Permissions for modifying and processing should be implemented.
 - Logging and auditing should be implemented.
 
-For data being access from the provider side:
+For data being accessed from the provider side:
 
 - Strong protections in the implementation of virtualization.
 - Personnel and administrative controls should be implemented.
