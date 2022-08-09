@@ -1,7 +1,3 @@
----
-label: Business > Business Requirements
----
-
 # Business Requirements
 
 ## Quick Reference
