@@ -10,6 +10,8 @@
 | AV | Asset Value |
 | EF | Exposure Factor |
 | SLE | Single Loss Expectancy |
+==- Annualized Loss Expectancy (ALE)
+
 ==- Risk Modeling
 Risk modeling is based on an asset or a threat.
 ==- Risk Register
@@ -27,6 +29,12 @@ NIST 800-30 recommends a risk management process containing the following four c
 3. Risk Response
 4. Risk Monitoring
 
+## Risk Identification
+
+While not contained as part of the NIST 800-30 model, risk identification is the process of determining risks that could potentially prevent the program, enterprise, or investment from achieving its objectives. It includes documenting and communicating the concern.
+
+Risk identification is the critical first step of the risk management process.
+
 ## Risk Framing
 
 Addresses how organizations describe the environment in which risk-based decisions are made. Refers to determine what risk and levels are to be evaluated.
@@ -35,7 +43,7 @@ Risk framing is designed to produce a risk-management strategy intended to addre
 
 ## Risk Assessment
 
-Risk assessment is the process used to identify, estimate, and prioritize information security risks. It is the process of determining risks that could potentially prevent the program, enterprise, or investment from achieving its objectives. It includes documenting and communicating the concern.
+Risk assessment is the process used to identify, estimate, and prioritize information security risks.
 
 Risks must be communicated in a way that is clear and easy to understand. It may also be important to communicate risk information outside the organization. To be successful in this, the organization must agree to a set of risk-management metrics.
 
