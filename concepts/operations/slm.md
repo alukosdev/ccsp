@@ -1,8 +1,8 @@
 ---
-label: Operations > Service Level Management
+label: Service Level Management
 ---
 
-# Service Level Management
+# Service Level Management (SLM)
 
 ## Quick Reference
 
