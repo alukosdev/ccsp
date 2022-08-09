@@ -4,7 +4,7 @@
 
 Every decision we make should be based on risk. Risk management in the cloud is based on the *shared responsibilities* model.
 
-There are four steps to adequately managing risk:
+NIST 800-30 recommends a risk management process containing the following four components:
 
 1. Risk Framing
 2. Risk Assessment
@@ -19,7 +19,7 @@ Risk framing is designed to produce a risk-management strategy intended to addre
 
 ## Risk Assessment
 
-Risk assessment is the process used to identify, estimate, and prioritize information security risks.
+Risk assessment is the process used to identify, estimate, and prioritize information security risks. It is the process of determining risks that could potentially prevent the program, enterprise, or investment from achieving its objectives. It includes documenting and communicating the concern.
 
 Risks must be communicated in a way that is clear and easy to understand. It may also be important to communicate risk information outside the organization. To be successful in this, the organization must agree to a set of risk-management metrics.
 
@@ -35,6 +35,16 @@ The purpose of engaging in risk assessment is to identify:
 - Vulnerabilities internal and external to organizations.
 - The harm (i.e., adverse impact) that may occur given the potential for threats exploiting vulnerabilities.
 - The likelihood that harm will occur.
+
+`Risk = Asset + Threat + Vulnerability`
+
+- If there is no threat, there is no vulnerability.
+- If there is no vulnerability, there is no risk.
+- If the asset has no value, there is no risk.
+
+!!!
+In some cases, the asset is excluded from the risk calculation. The asset should always be included in the calculation because you do not want to spend more money than the asset is worth to protect it.
+!!!
 
 There are additional cloud-specific risk concerns that should also be considered:
 
