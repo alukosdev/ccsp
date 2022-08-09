@@ -1,8 +1,8 @@
 ---
-label: Operations > Business Continuity Management
+label: Business Continuity Management
 ---
 
-# Business Continuity Management
+# Business Continuity Management (BCM)
 
 ## Quick Reference
 
