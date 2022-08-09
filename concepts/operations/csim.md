@@ -2,7 +2,7 @@
 label: Operations > Continual Service Improvement Management
 ---
 
-# Continual Service Improvement Management
+# Continual Service Improvement Management (CSIM)
 
 ## Quick Reference
 
