@@ -1,6 +1,6 @@
 ---
 label: Welcome
-icon: bookmark
+icon: home
 ---
 
 # Welcome
