@@ -1,7 +1,3 @@
----
-label: Operations > Information Security Management
----
-
 # Information Security Management
 
 ## Quick Reference
