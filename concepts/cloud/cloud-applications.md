@@ -1,7 +1,3 @@
----
-label: Cloud > Cloud Applications
----
-
 # Cloud Applications
 
 ## Quick Reference
