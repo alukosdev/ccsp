@@ -1,5 +1,5 @@
 ---
-label: DevSecOps > Software Development Lifecycle
+label: Software Development Lifecycle
 ---
 
 # Software Development Lifecycle (SDLC)
