@@ -5,9 +5,7 @@
 | Acronym | Backronym |
 | - | - |
 | ABAC | Attribute-Based Access Control |
-| IAM | ==- Identity and Access Management
-Poop
-==- |
+| IAM | Identity and Access Management |
 | RBAC | Role-Based Access Control |
 | SCIM | System for Cross-domain Identity Management |
 | SPML | Service Provisioning Markup Language |
