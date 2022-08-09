@@ -1,7 +1,3 @@
----
-label: Operations > Problem Management
----
-
 # Problem Management
 
 ## Quick Reference
