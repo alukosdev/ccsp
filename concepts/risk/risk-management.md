@@ -6,18 +6,18 @@ Every decision we make should be based on risk. Risk management in the cloud is 
 
 There are four steps to adequately managing risk:
 
-1. Framing Risk
-2. Assessing Risk
-3. Responding to Risk
-4. Monitoring Risk
+1. Risk Framing
+2. Risk Assessment
+3. Risk Response
+4. Risk Monitoring
 
-## Framing Risk
+## Risk Framing
 
 Addresses how organizations describe the environment in which risk-based decisions are made. Refers to determine what risk and levels are to be evaluated.
 
 Risk framing is designed to produce a risk-management strategy intended to address how organizations assess, respond to, and monitor risk. This allows the organization to clearly articulate the risks that it needs to manage, and it establishes the boundaries for risk-based decisions within organizations.
 
-## Assessing Risk
+## Risk Assessment
 
 Risk assessment is the process used to identify, estimate, and prioritize information security risks.
 
@@ -57,19 +57,17 @@ Threat categories:
 - Environmental
 - Operational
 
-### Risk Assessments
-
 !!!
 Risk assessments should be performed *periodically*.
 !!!
 
-#### Qualititative Risk Assessments
+### Qualititative Risk Assessments
 
 Qualitative risk assessments typically employ a set of methods, principles, or rules for assessing risk based on *non-numerical* categories or levels (such as high, medium, or low). Qualitative risk assessments use subjective analysis to help prioritize probability and impact of risk events.
 
 The opinion of an expert in the field is a prime source for qualitative analysis. Interviews and risk workshops are two ways in which you can work with experts on managing qualitative risk.
 
-##### Characteristics
+#### Characteristics
 
 - Assessors have limited expertise in quantitative assessments (assessors do not require as much experience when performing a qualitative assessment)
 - The timeframe to complete the assessment is short
@@ -78,7 +76,7 @@ The opinion of an expert in the field is a prime source for qualitative analysis
 - The assessors are long-term employees who have experience with the business and critical systems
 - Results that are descriptive versus measurable
 
-##### Process
+#### Process
 
 - Management approval is obtained and management is kept informed
 - A risk-assessment team can be formed. Members may include staff from senior management, IS, legal or compliance, internal audit, HR, facilities and safety coordination, IT, and business owners, as appropriate.
@@ -89,13 +87,13 @@ The opinion of an expert in the field is a prime source for qualitative analysis
 - Once risk is determined, additional countermeasures can be recommended to minimize, transfer, or avoid the risk.
  When this is completed, the risk that is left over-after countermeasures have been applied to protect against the risk-is also calculated. This is the residual risk.
 
-#### Quantitative Risk Assessments
+### Quantitative Risk Assessments
 
 Quantitative risk assessments typically employ a set of methods, principles, or rules for assessing risk based on the use of numbers.
 
 The hallmark of a quantitative assessment is the numeric nature of the analysis. Frequency, probability, impact, countermeasure effectiveness, and other aspects of the risk assessment have a discrete mathematical value in a pure quantitative analysis.
 
-##### Characteristics
+#### Characteristics
 
 - Allows the assessor to determine whether the cost of the risk outweighs the cost of the countermeasure
 - Requires a lot of time
@@ -107,7 +105,7 @@ The hallmark of a quantitative assessment is the numeric nature of the analysis.
 Most organizations are not in a position to authorize the level of work required for a quantitative risk assessment.
 !!!
 
-##### Process
+#### Process
 
 Three steps are undertaken in a quantitative risk assessment:
 
@@ -123,11 +121,11 @@ Quantitative risk assessments often use values such as AV, EF, SLE, ARO, and ALE
 Often, the risk assessment an organization conducts is a combination of qualitative and quantitative methods. Fully quantitative risk assessment may not be possible because there is always some subjective input present, such as the value of information. Value of information is often one of the most difficult factors to calculate.
 !!!
 
-### Vulnerability Assessments
-
+!!!
 Unlike risk assessments, vulnerability assessments tend to focus on the technology aspects of an organization, such as the network or applications. Data gathering for vulnerability assessments typically includes the use of software tools.
+!!!
 
-## Responding to Risk
+## Risk Response
 
 Risk response provides a consistent, organization-wide response to risk in accordance with the organizational risk frame by taking these steps:
 
@@ -222,7 +220,7 @@ Controls to catch the failure of a first control.
 
 Risk rejection isn't a legitimate form of risk response. Rejection involves ignoring risks and continuing with operations. This is essentially the same thing as accepting a risk without mitigating it to a tolerable level. In most cases, this would indicate failure of due diligence and may put the organization in a position of liability.
 
-## Monitoring Risk
+## Risk Monitoring
 
 Risk monitoring is the process of keeping track of identified risks. It should be treated as an ongoing process and implemented throughout the system life cycle.
 
