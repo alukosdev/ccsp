@@ -1,5 +1,5 @@
 ---
-label: DevSecOps > Application Programming Interfaces
+label: Application Programming Interfaces
 ---
 
 # Application Programming Interfaces (APIs)
