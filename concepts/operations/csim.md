@@ -1,5 +1,5 @@
 ---
-label: Operations > Continual Service Improvement Management
+label: Continual Service Improvement Management
 ---
 
 # Continual Service Improvement Management (CSIM)
