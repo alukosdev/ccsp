@@ -6,9 +6,7 @@ icon: home
 # Welcome
 
 !!!danger
-We are actively working to ensure these notes are updated to reflect the latest exam revision released on August 1st, 2022. Please keep in mind that some of this material, while likely still relevant for the new exam, was originally added for the previous revision of the exam, and that the content on these pages may change as these updates occur.
-
-We truly appreciate your patience and understanding! :heart:
+We are actively working to ensure these notes are updated to reflect the latest exam revision released on August 1st, 2022. Please keep in mind that some of this material, while likely still relevant for the new exam, was originally added for the previous revision of the exam, and that the content on these pages may change as these updates occur. We truly appreciate your patience and understanding! :heart:
 !!!
 
 ## Purpose
@@ -25,7 +23,7 @@ These notes continue to be actively maintained by the Alukos team and members of
 
 ## Errata
 
-Please contact me on LinkedIn or Discord if you discover any pages containing inaccurate or outdated information or any grammatical or spelling errors.
+Please do not hesitate to contact me on LinkedIn or Discord if you discover any pages containing inaccurate or outdated information or any grammatical or spelling errors.
 
 ## References
 
