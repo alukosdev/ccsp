@@ -1,8 +1,15 @@
 # Testpage
 
-## I like bananas
-
 ## A title page
+
+=== My very special panel
+I love this panel because it's beautiful
+=== It is the best panel
+It is my panel, so it is the best panel.
+=== I like bananas
+Mostly because they have a lot of potassium, but they also look cool. Like yellow eggplants but smaller and not as thick.
+===
+
 
 ### A subtitle page
 
@@ -28,10 +35,4 @@ Lie.
 
 ### Another subtitle page
 
-=== My very special panel
-I love this panel because it's beautiful
-=== It is the best panel
-It is my panel, so it is the best panel.
-=== I like bananas
-Mostly because they have a lot of potassium, but they also look cool. Like yellow eggplants but smaller and not as thick.
-===
+## I like bananas
