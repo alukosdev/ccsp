@@ -125,7 +125,7 @@ Often, the risk assessment an organization conducts is a combination of qualitat
 
 ### Vulnerability Assessments
 
-Unlike a risk assessment, vulnerability assessments tend to focus on the technology aspects of an organization, such as the network or applications. Data gathering for vulnerability assessments typically includes the use of software tools.
+Unlike risk assessments, vulnerability assessments tend to focus on the technology aspects of an organization, such as the network or applications. Data gathering for vulnerability assessments typically includes the use of software tools.
 
 ## Responding to Risk
 
