@@ -28,7 +28,7 @@ Perform a transaction on the data; update it; use it in a business processing tr
 Hold the data (in a file, database, etc.).
 ===
 
-[Information Lifecycle Phases](/static/information-lifecycle-phases.png)
+![Information Lifecycle Phases](/static/information-lifecycle-phases.png)
 
 ### Controls
 
@@ -40,7 +40,7 @@ To determine the necessary controls to be deployed, you must first understand th
 - Locations of the data
 - Actors upon the data
 
-[Mapping the Lifecycle](/static/mapping-the-lifecycle.png)
+![Mapping the Lifecycle](/static/mapping-the-lifecycle.png)
 
 ## Phases
 
