@@ -3,22 +3,11 @@ label: Welcome
 icon: home
 ---
 
-<style>
-    .lightblue {
-        text-align: center;
-        color: #1956AF;
-        border-radius: 10px;
-        background-color: #E1EDFF;
-        border: 1px solid #1956AF;
-        padding-top: 20px;
-        margin-bottom: 20px;
-    }
-</style>
-:::lightblue
-We are actively working to ensure these notes are updated to reflect the latest exam revision released on August 1st, 2022. Please keep in mind that some of this material, while likely still relevant for the new exam, was originally added for the previous revision of the exam, and that the content on these pages may change as these updates occur. We truly appreciate your patience and understanding! :heart:
-:::
-
 # Welcome
+
+!!!
+We are actively working to ensure these notes are updated to reflect the latest exam revision released on August 1st, 2022. Please keep in mind that some of this material, while likely still relevant for the new exam, was originally added for the previous revision of the exam, and that the content on these pages may change as these updates occur. We truly appreciate your patience and understanding! :heart:
+!!!
 
 ## Purpose
 
