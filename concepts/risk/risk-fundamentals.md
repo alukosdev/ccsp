@@ -1,4 +1,4 @@
-# Risk Terminology
+# Risk Fundamentals
 
 | Acronym | Backronym |
 | - | - |
@@ -43,3 +43,6 @@ Something or someone that carries out the attack. Also known as a threat actor.
 ==- Total Risk
 The risk that exists &before& any controls are implemented.
 ==- 
+
+## Risk Types
+
