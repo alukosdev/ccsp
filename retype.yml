@@ -24,6 +24,10 @@ links:
    target: blank
 footer:
   copyright:
+  links:
+    - text:
+      icon:
+      link:
 meta:
   title: " | CCSP by Alukos"
 poweredByRetype: false
