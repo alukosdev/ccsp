@@ -17,7 +17,7 @@ These notes have been created and shared for the sole purpose of aggregating acc
 
 These notes were created by the following members of the Alukos team:
 
-- [Michael Ferullo](https://linkedin.com/mjferullo)
+- [Michael Ferullo](https://linkedin.com/mjferullo) (xyeLz#1337 on Discord)
 
 These notes continue to be actively maintained by the Alukos team and members of the information security community.
 
