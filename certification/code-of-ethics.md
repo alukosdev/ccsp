@@ -10,6 +10,8 @@ order: 200
         background-color: #E1EDFF;
         border: 1px solid #1956AF;
         padding-top: 20px;
+        padding-right: 20px;
+        padding-left: 20px;
         margin-bottom: 20px;
     }
 </style>
