@@ -4,9 +4,12 @@ url: retypetest.pages.dev
 branding:
   label: 2022
   logo: /static/isc2_ccsp.png
+  title:
 links:
 - text:
   link:
 footer:
   copyright:
+meta:
+  title: " | CCSP by Alukos"
 poweredByRetype: false
