@@ -1,4 +1,8 @@
-# IRM/DRM
+---
+label: Digital Rights Management
+---
+
+# Digital Rights Management (DRM)
 
 ## Quick Reference
 
