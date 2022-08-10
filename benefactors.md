@@ -1,7 +1,8 @@
 ---
-order: 1100
-label: Benefactors
 icon: heart
+label: Benefactors
+order: 1100
+visibility: hidden
 ---
 
 # Benefactors
