@@ -3,7 +3,7 @@ order: 200
 ---
 
 <style>
-    .sample {
+    .lightblue {
         text-align: center;
         color: #1956AF;
         border-radius: 10px;
@@ -13,7 +13,7 @@ order: 200
         margin-bottom: 20px;
     }
 </style>
-:::sample
+:::lightblue
 The following Code of Ethics is derived from the official [\(ISC\)² Code of Ethics](https://www.isc2.org/Ethics).
 :::
 
