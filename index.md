@@ -6,7 +6,7 @@ icon: home
 # Welcome
 
 !!!warning
-We are actively working to ensure these notes are updated to reflect the latest exam revision released on August 1st, 2022. The content on these pages may change dynamically as these updates occur. We truly appreciate your patience and understanding! :heart:
+We are actively working to ensure these notes are updated to reflect the latest exam revision released on August 1st, 2022. The content on these pages may change dynamically as these updates occur. We appreciate your patience and understanding! :heart:
 !!!
 
 ## Purpose
