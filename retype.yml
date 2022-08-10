@@ -9,12 +9,12 @@ links:
 - text: Study
   icon: zap
   link: https://ccsp.alukos.com
-- text: Blog
-  icon: pencil
-  link: https://blog.alukos.com
-- text: Donate
-  icon: heart
-  link: https://donate.alukos.com
+#- text: Blog
+#  icon: pencil
+#  link: https://blog.alukos.com
+#- text: Donate
+#  icon: heart
+#  link: https://donate.alukos.com
 footer:
   copyright:
 meta:
