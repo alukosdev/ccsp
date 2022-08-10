@@ -1,4 +1,8 @@
-# MFA
+---
+label: Multifactor Authentication
+---
+
+# Multifactor Authentication (MFA)
 
 ## Quick Reference
 
