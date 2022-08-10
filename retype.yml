@@ -7,8 +7,11 @@ branding:
   title:
 links:
 - text: Study
-  icon: book
+  icon: mortar-board
   link: https://ccsp.alukos.com
+- text: Blog
+  icon: comment
+  link: https://blog.alukos.com
 footer:
   copyright:
 meta:
