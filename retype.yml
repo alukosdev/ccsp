@@ -2,7 +2,6 @@ input: .
 output: .retype
 url: retypetest.pages.dev
 branding:
-  title: CCSP
   label: 2022
   logo: /static/isc2_ccsp.png
 links:
