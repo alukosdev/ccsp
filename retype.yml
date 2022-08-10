@@ -12,6 +12,9 @@ links:
 - text: Blog
   icon: pencil
   link: https://blog.alukos.com
+- text: Donate
+  icon: heart
+  link: 
 footer:
   copyright:
 meta:
