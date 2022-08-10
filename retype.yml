@@ -6,9 +6,9 @@ branding:
   logo: /static/isc2_ccsp.png
   title:
 links:
-- text: Study
-  icon: zap
-  link: https://ccsp.alukos.com
+#- text: Study
+#  icon: zap
+#  link: https://ccsp.alukos.com
 #- text: Blog
 #  icon: pencil
 #  link: https://blog.alukos.com
