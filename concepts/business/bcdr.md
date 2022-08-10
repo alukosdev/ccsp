@@ -1,4 +1,8 @@
-# BCDR
+---
+label: Business Continuity and Disaster Recovery
+---
+
+# Business Continuity and Disaster Recovery (BCDR)
 
 ## Quick Reference
 
