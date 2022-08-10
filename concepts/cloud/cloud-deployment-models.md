@@ -1,5 +1,9 @@
 # Cloud Deployment Models
 
+Cloud deployment models affect the *extent of resource sharing* the organization will be subjected to.
+
+There are four major cloud deployment models:
+
 - Private Cloud
 - Public Cloud
 - Community Cloud
