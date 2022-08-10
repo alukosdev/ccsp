@@ -2,6 +2,8 @@
 
 Cloud service models affect the *level of control* an organization has over their resources.
 
+![Cloud Service Models](/static/cloud-service-models.webp)
+
 There are three major cloud service models:
 
 - IaaS
