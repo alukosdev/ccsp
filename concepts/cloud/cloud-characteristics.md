@@ -1,7 +1,5 @@
 # Cloud Characteristics
 
-## Summary
-
 - Broad Network Access
 - On-Demand Services
 - Resource Pooling
