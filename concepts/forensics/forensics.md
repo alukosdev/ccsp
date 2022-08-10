@@ -12,7 +12,7 @@ Forensic science is generally defined as the application of science to the law.
 Network forensics is defined as the capture, storage, and analysis of network events. The idea is to capture every packet of network traffic and make it available in a single searchable database so that the traffic can be examined and analyzed in detail.
 ==-
 
-### Standards
+### Associated Standards
 
 The goal of the following standards is to promote best practices for the acquisition and investigation of digital evidence.
 
