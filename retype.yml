@@ -6,8 +6,9 @@ branding:
   logo: /static/isc2_ccsp.png
   title:
 links:
-- text:
-  link:
+- text: Study
+  icon: mortar-board
+  link: https://ccsp.alukos.com
 footer:
   copyright:
 meta:
