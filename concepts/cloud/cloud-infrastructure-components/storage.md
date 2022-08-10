@@ -6,6 +6,10 @@
 +++ PaaS
 - Structured storage
 - Unstructured storage
+
+!!!
+If storage is accessible via API, then it's considered PaaS.
+!!!
 +++ SaaS
 - Information storage and management (long-term)
 - Content and file storage (long-term)
@@ -13,10 +17,6 @@
 - Ephemeral storage
 - Content delivery network (CDN)
 +++
-
-!!!
-If storage is accessible via API, then it's considered PaaS.
-!!!
 
 ## Storage Architectures
 
