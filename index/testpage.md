@@ -1,6 +1,5 @@
 ---
-author:
-  link: https://twitter.com
+redirect: https://twitter.com
 ---
 
 # Testpage
