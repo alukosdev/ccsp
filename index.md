@@ -23,7 +23,7 @@ These notes continue to be actively maintained by the Alukos team and members of
 
 ## Errata
 
-Please do not hesitate to contact me on LinkedIn or Discord if you discover any pages containing inaccurate or outdated information or any grammatical or spelling errors.
+Please do not hesitate to contact me on LinkedIn or Discord if you discover any pages containing inaccurate or outdated information, grammatical or spelling errors, and/or formatting issues.
 
 ## References
 
