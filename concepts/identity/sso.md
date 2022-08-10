@@ -1,4 +1,8 @@
-# SSO
+---
+label: Single Sign-On
+---
+
+# Single Sign-On (SSO)
 
 ## Quick Reference
 
