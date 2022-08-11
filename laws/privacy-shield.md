@@ -1,5 +1,5 @@
 ---
-category: [Laws]
+categories: [Laws]
 tags: [privacy, united states]
 ---
 
