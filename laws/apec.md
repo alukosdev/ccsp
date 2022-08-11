@@ -1,5 +1,6 @@
 ---
-category: [Laws, Privacy Laws, APEC Laws]
+categories: [Laws]
+tags: [privacy, apec]
 ---
 
 # APEC
