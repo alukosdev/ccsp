@@ -1,5 +1,6 @@
 ---
 categories: [Cloud Computing Risk Management]
+tags: [csa]
 ---
 
 # CSA Treacherous Twelve
