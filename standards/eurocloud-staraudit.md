@@ -1,5 +1,6 @@
 ---
 categories: [Auditing and Assurance]
+tags: [eurocloud]
 ---
 
 # EuroCloud StarAudit
