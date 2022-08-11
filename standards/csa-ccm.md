@@ -1,5 +1,5 @@
 ---
-categories: [Security Management and Controls, CSA]
+categories: [CSA, Security Management and Controls]
 ---
 
 # CSA CCM
