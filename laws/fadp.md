@@ -1,5 +1,6 @@
 ---
-category: [Laws, Privacy Laws, Swiss Laws]
+categories: [Laws]
+tags: [privacy, switzerland]
 ---
 
 # FADP
