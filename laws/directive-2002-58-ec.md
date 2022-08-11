@@ -1,6 +1,6 @@
 ---
 category: [Laws]
-tags: [privacy, eu, eea]
+tags: [eea, eu, privacy]
 ---
 
 # Directive 2002/58/EC
