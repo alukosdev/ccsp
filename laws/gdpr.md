@@ -1,5 +1,6 @@
 ---
-category: [Laws, Privacy Laws, EU/EEA Laws]
+category: [Laws]
+tags: [eea, eu, privacy]
 ---
 
 # GDPR
