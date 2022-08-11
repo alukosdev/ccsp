@@ -1,5 +1,6 @@
 ---
-categories: [ISACA, Secure Architecture and Design]
+categories: [Secure Architecture and Design]
+tags: [isaca]
 ---
 
 # ISACA ITIL
