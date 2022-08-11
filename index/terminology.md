@@ -268,7 +268,7 @@ To protect trust zones:
 - Enforce policy and regulations
 - Protect, detect, and contain
 
-![Trust Zones](/img/trust-zones.png)
+![Trust Zones](/static/trust-zones.png)
 
 ## V-Z
 
