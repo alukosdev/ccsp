@@ -1,5 +1,6 @@
 ---
-category: [Laws, Privacy Laws, United States Laws]
+category: [Laws]
+tags: [privacy, united states]
 ---
 
 # Privacy Shield
