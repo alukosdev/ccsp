@@ -1,7 +1,3 @@
----
-order: 1000
----
-
 # Auditing
 
 ## Quick Reference
