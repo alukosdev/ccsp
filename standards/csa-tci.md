@@ -1,5 +1,6 @@
 ---
-categories: [Cloud Computing Reference Architecture, CSA]
+categories: [Cloud Computing Reference Architecture]
+tags: [csa]
 ---
 
 # CSA TCI
