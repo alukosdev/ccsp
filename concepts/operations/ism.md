@@ -1,4 +1,8 @@
-# Information Security Management
+---
+label: Information Security Management
+---
+
+# Information Security Management (ISM)
 
 ## Quick Reference
 
