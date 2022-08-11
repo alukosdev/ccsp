@@ -1,5 +1,5 @@
 ---
-category: [Laws, Privacy Laws, United States Laws]
+categories: [Laws, Privacy Laws, United States Laws]
 ---
 
 # ECPA
