@@ -7,7 +7,7 @@ order: 800
 ## ISO/IEC
 
 | Standard | Category | Description | { class="compact" }
-| :--- | :--- | :--- |
+| - | - | - |
 | [ISO/IEC 15408:2009](/standards/iso-iec-15408-2009.md) | Common Criteria | Information technology - Security techniques - Evaluation criteria for IT security |
 | ISO/IEC 17788:2014 | Cloud Computing | Information technology - Cloud computing - Overview and vocabulary |
 | [ISO/IEC 17789:2014](/standards/iso-iec-17789-2014.md) | Cloud Computing | Information technology - Cloud computing - Reference architecture |
@@ -33,13 +33,13 @@ order: 800
 ## ISO
 
 | Standard | Category | Description | { class="compact" }
-| :--- | :--- | :--- |
+| - | - | - |
 | [ISO 31000:2009](/standards/iso-31000-2018.md) | Risk | Risk management |
 
 ## NIST
 
 | Publication | Category | Description | { class="compact" }
-| :--- | :--- | :--- |
+| - | - | - |
 | NIST SP 500-292 | Cloud Computing | Cloud Computing Reference Architecture |
 | NIST SP 500-293 | Cloud Computing | Cloud Computing Technology Roadmap |
 | NIST SP 800-12 Rev. 1 |  | An Introduction to Information Security |
