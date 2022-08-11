@@ -1,3 +1,7 @@
+---
+order: 600
+---
+
 # Training
 
 ## Types of Training
