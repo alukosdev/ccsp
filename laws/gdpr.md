@@ -1,5 +1,5 @@
 ---
-category: [Laws]
+categories: [Laws]
 tags: [eea, eu, privacy]
 ---
 
