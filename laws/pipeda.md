@@ -1,6 +1,6 @@
 ---
 categories: [Laws]
-tags: [privacy, canada]
+tags: [canada, privacy]
 ---
 
 # PIPEDA
