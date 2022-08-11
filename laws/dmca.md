@@ -1,5 +1,5 @@
 ---
-category: [Laws]
+categories: [Laws]
 tags: [copyright, united states]
 ---
 
