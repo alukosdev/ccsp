@@ -1,5 +1,6 @@
 ---
 categories: [Cloud Computing Certification]
+tags: [enisa]
 ---
 
 # ENISA CCSL
