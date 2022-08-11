@@ -1,5 +1,6 @@
 ---
-categories: [Auditing and Assurance, NIST]
+categories: [Auditing and Assurance]
+tags: [nisa]
 ---
 
 # NIST FIPS 140-3
