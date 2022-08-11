@@ -1,6 +1,6 @@
 ---
 categories: [Laws]
-tags: [privacy, argentina]
+tags: [argentina, privacy]
 ---
 
 # PDPA 25.326
