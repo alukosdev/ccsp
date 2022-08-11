@@ -1,5 +1,6 @@
 ---
-category: [Laws, United States Laws]
+categories: [Laws]
+privacy: [united states]
 ---
 
 # HITECH
