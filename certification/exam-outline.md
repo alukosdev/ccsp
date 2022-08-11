@@ -25,9 +25,9 @@ The following Exam Outline is derived from the official [\(ISC\)² Certification
 
 | Domains | Weight |
 | - | - |
-| [1 - Cloud Concepts, Architecture and Design](../domain-1/) | 17% |
-| [2 - Cloud Data Security](../domain-2/) | 20% |
-| [3 - Cloud Platform and Infrastructure Security](../domain-3/) | 17% |
-| [4 - Cloud Application Security](../domain-4/) | 17% |
-| [5 - Cloud Security Operations](../domain-5/) | 16% |
-| [6 - Legal, Risk and Compliance](../domain-6/) | 13% |
+| [1 - Cloud Concepts, Architecture and Design](/certification/domain-1.md) | 17% |
+| [2 - Cloud Data Security](/certification/domain-2.md) | 20% |
+| [3 - Cloud Platform and Infrastructure Security](/certification/domain-3.md) | 17% |
+| [4 - Cloud Application Security](/certification/domain-4.md) | 17% |
+| [5 - Cloud Security Operations](/certification/domain-5.md) | 16% |
+| [6 - Legal, Risk and Compliance](/certification/domain-6.md) | 13% |
