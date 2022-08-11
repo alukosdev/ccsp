@@ -1,5 +1,6 @@
 ---
 categories: [Auditing and Assurance]
+tags: [csa]
 ---
 
 # CSA STAR
