@@ -1,5 +1,6 @@
 ---
 categories: [Data Center Design]
+tags: [nfpa]
 ---
 
 # NFPA 75 and 76
