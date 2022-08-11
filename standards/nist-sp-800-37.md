@@ -1,5 +1,5 @@
 ---
-categories: [Risk Management, NIST]
+categories: [NIST, Risk Management]
 ---
 
 # NIST SP 800-37
