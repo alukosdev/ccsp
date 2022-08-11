@@ -1,5 +1,6 @@
 ---
 categories: [Privacy]
+tags: [aicpa, cica]
 ---
 
 # AICPA/CICA GAPP
