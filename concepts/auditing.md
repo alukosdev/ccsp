@@ -44,7 +44,7 @@ These high-level objectives should interpret the goals and outputs from the audi
 
 ### 2. Define scope
 
-The -organization- is the entity involved in defining the audit scope. The phase includes the following core steps:
+The *organization* is the entity involved in defining the audit scope. The phase includes the following core steps:
 
 - Document the core focus and boundaries of the audit.
 - Define the key components of services.
