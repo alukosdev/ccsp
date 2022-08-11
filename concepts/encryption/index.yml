@@ -1,2 +1,3 @@
-label: Encryption
 icon: key
+label: Encryption
+order: 1400
