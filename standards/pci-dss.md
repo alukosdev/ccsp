@@ -1,5 +1,6 @@
 ---
-categories: [Security Management and Controls, ISO/IEC]
+categories: [Security Management and Controls]
+tags: [pci]
 ---
 
 # PCI DSS
