@@ -1,5 +1,6 @@
 ---
 categories: [Data Center Design]
+tags: [idca]
 ---
 
 # IDCA Infinity Paradigm
