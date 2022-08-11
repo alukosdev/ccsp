@@ -1,5 +1,6 @@
 ---
 categories: [Security Management and Controls]
+tags: [cis]
 ---
 
 # CIS CSC
