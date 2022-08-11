@@ -1,6 +1,6 @@
 ---
-label: Welcome
 icon: home
+label: Welcome
 ---
 
 # Welcome
