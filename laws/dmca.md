@@ -1,5 +1,6 @@
 ---
-category: [Laws, Copyright Laws, United States Laws]
+category: [Laws]
+tags: [copyright, united states]
 ---
 
 # DMCA
