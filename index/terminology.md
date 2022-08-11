@@ -8,20 +8,12 @@ order: 1000
 
 ### A
 
-==- Agreed-Upon Procedures
+==- Agreed-Upon Procedures (AUP)
 An agreed-upon procedure is a standard a company or client outlines when it hires an external party to perform an audit on a specific test or business process. The procedures, which are called audit standards, are designed and agreed upon by the entity conducting the audit, as well as any appropriate third parties.
 
 The auditor does not provide an opinion; rather, the entities or third parties form their own conclusions based on the report.
 ==- Auditability
 Auditability is collecting and making available necessary evidence related to the operation and use of the cloud.
-==- Gap Analysis
-To create an accurate frame of reference, a gap analysis is conducted. This is like a lightweight audit in that there are generally findings of weaknesses or vulnerabilities, but the purpose is to identify those weaknesses so they can be remediated prior to any actual audit work. It also provides a starting point for those organizations in the early stages of an information system program development, providing them with a clear starting point.
-
-Gap analysis benchmarks and identifies relevant gaps against specified frameworks or standards. This includes reviewing the organization's current position/performance as revealed by an audit against a given standard.
-
-The value of such an assessment is often determined based on what you did not know or for an independent resource to communicate to relevant management or senior personnel such risks, as opposed to internal resources saying what you need or should be doing.
-
-Typically, resources or personnel who are not engaged or functioning within the area of scope perform gap analysis. The use of independent or impartial resources is best served to ensure there are no conflicts or favoritism. Perspectives gained from people outside the audit target are invaluable because they may see possibilities and opportunities revealed by the audit, whereas the personnel in the target department may be constrained by habit and tradition.
 ==-
 
 ### B
@@ -33,6 +25,27 @@ A bastion host is a method for remote access to a secure environment. The bastio
 :::info
 The difference between a jump server and a bastion host is that a jump server is intended to breach the gap between two security zones and have a gateway to obtain access to something inside of the other security zone. A bastion host is outside of your security zone and will require additional security considerations.
 :::
+
+==- Business Continuity (BC)
+Business continuity efforts are concerned with maintaining (or "continuing") critical operations during any interruption in service.
+
+Business continuity is defined as the capability of the organization to "continue" delivery of products or services at acceptable predefined levels following a disruptive incident. It focuses primarily on the continuity of business processes (as opposed to technical processes).
+==- Business Continuity Management (BCM)
+Business continuity management is the process by which risks and threats are actively reviewed and managed at set intervals as part of the overall risk management process.
+
+BCM is defined as a holistic management process that identifies potential threats to an organization and the impacts to business operations those threats, if realized, might cause.
+
+It provides a framework for building organizational resilience with the capability of an effective response that safeguards the interests of its key stakeholders, reputation, brand, and value-creating activities.
+==- Business Continuity Plan (BCP)
+The business continuity plan allows a business to plan what it needs to do to ensure that its key products and services *continue to be delivered* in case of a disaster.
+
+Business continuity plans typically outline how to maintain or "continue" business operations back to the point of permanent operations. It allows an enterprise to plan what is necessary to ensure that its key products and services will "continue" to be available in the event of a disaster, and that disruption to the business is minimized as much as possible.
+==-
+
+!!!
+The BCP is *not* critical to the continuation of services in the event of a business interruption. BC, however, *is*. The BCP is drafted to support BC.
+!!!
+==-
 
 ### C
 
@@ -70,6 +83,10 @@ An example of a cross-cutting aspect is security.
 
 Any data left over after sanitization and disposal methods have been attempted.
 
+==- Data Replication
+The process of copying data from one location to another. The system works to keep up-to-date copies of its data in the event of a disaster.
+==-
+
 #### Demand Management
 
 Can we meet our demand requirements \(can we scale up and down\)? Elasticity in the cloud solves this.
@@ -78,11 +95,29 @@ Can we meet our demand requirements \(can we scale up and down\)? Elasticity in 
 
 Uses the senders private key *and* a hash to guarantee the integrity and the origin \(authenticity/non-repudiation\) of a message. This method requires a PKI.
 
+==- Disaster Recovery (DR)
+Disaster recovery efforts are focused on the resumption of operations after an interruption due to disaster.
+
+Disaster recovery is a subset of business continuity. It is the process of saving data with the sole purpose of being able to recover it in the event of a disaster. Disaster recovery includes backing up systems and IT contingency plans for critical functions and applications.
+
+Disaster recovery focuses on technology and data policies (as opposed to business processes).
+==- Disaster Recovery Plan (DRP)
+The disaster recovery plan allows a business to plan what needs to be done immediately after a disaster to *recover from the event*.
+
+Disaster recovery planning is the process by which suitable plans and measures are taken to ensure that, in the event of a disaster, the business can respond appropriately with the view to recovering critical and essential operations to a state of partial or full level of service in as little time as possible.
+
+DRP is usually part of the BCP and typically tends to be more technical in nature. Addresses what needs to be accomplished during a disaster to restore business processes in order to recover from the event.
+==-
+
 ### E
 
 #### Enterprise Application
 
 Applications or software that a business would use to assist the organization in solving enterprise problems.
+
+==- Enterprise Cloud Backup
+Adds essential features such as archiving and disaster recovery to cloud backup solutions.
+==-
 
 #### European Economic Area \(EEA\)
 
@@ -106,9 +141,23 @@ Do we have the funds and can we allocate them appropriately? Are we receiving a 
 
 A variation to the Smurf attack is the Fraggle attack. The attack is essentially the same as the Smurf attack but instead of sending an ICMP echo request to the direct broadcast address, it sends UDP packets.
 
+==- Functionality Replication
+Used to duplicate processing capability at a secondary location. The secondary location could be with the same CSP or it could be a different CSP. It occurs anytime a needed *function*, including DNS, database, or other functionality is replicated to a CSP's other facilities.
+==-
+
 ## G-I
 
 ### G
+
+==- Gap Analysis
+To create an accurate frame of reference, a gap analysis is conducted. This is like a lightweight audit in that there are generally findings of weaknesses or vulnerabilities, but the purpose is to identify those weaknesses so they can be remediated prior to any actual audit work. It also provides a starting point for those organizations in the early stages of an information system program development, providing them with a clear starting point.
+
+Gap analysis benchmarks and identifies relevant gaps against specified frameworks or standards. This includes reviewing the organization's current position/performance as revealed by an audit against a given standard.
+
+The value of such an assessment is often determined based on what you did not know or for an independent resource to communicate to relevant management or senior personnel such risks, as opposed to internal resources saying what you need or should be doing.
+
+Typically, resources or personnel who are not engaged or functioning within the area of scope perform gap analysis. The use of independent or impartial resources is best served to ensure there are no conflicts or favoritism. Perspectives gained from people outside the audit target are invaluable because they may see possibilities and opportunities revealed by the audit, whereas the personnel in the target department may be constrained by habit and tradition.
+==-
 
 #### Generally Accepted Accounting Practices \(GAAP\)
 
@@ -174,6 +223,14 @@ The difference between a jump server and a bastion host is that a jump server is
 
 ### M
 
+==- Maximum Allowable Downtime (MAD)/Maximum Tolerable Downtime (MTD)
+A measure of how long it would take for an interruption in service to kill an organization. For example, if a company would fail because it had to halt operations for a week, then it's MAD is one week.
+
+!!!
+MAD is measured in *time*.
+!!!
+==-
+
 #### Microsoft Best Practice Analyzers \(BPA\)
 
 #### Microsoft Deployment Toolkit \(MDT\)
@@ -220,6 +277,33 @@ A theoretical technology which allows superposition of physical states to increa
 
 A data structure or collection of information that is retained by an organization for legal, regulator, or business reasons.
 
+==- Recovery Point Objective (RPO)
+The RPO indicates the amount of acceptable data loss measured in terms of how much data can be lost before the business is too adversely affected.
+
+The point in time at which you would like to restore to. For instance, if an organization performs daily full backups and the BCDR plan includes a goal of resuming critical operations using the last full backup, the RPO would be 24 hours.
+
+*Data replication strategies will most affect this metric*, as the choice of strategy will determine how much recent data is available for recovery purposes.
+!!!
+RPO is measured in *time*.
+!!!
+==- Recovery Time Objective (RTO)
+The RTO indicates the amount of system downtime defining the total time of the disaster until the business can resume operations.
+
+This is the goal for recovery of operational capability after an interruption in service (i.e., the amount of time it takes to recover). For example, a company might have an MAD of one week, while the company's BCDR plan includes and supports an RTO of six days.
+
+!!!
+RTO is measured in *time*. The RTO must be lower than the MAD.
+!!!
+==- Recovery Service Level (RSL)
+The recovery service level is a *percentage measurement (0-100%)* of how much computing power is necessary based on the percentage of the production system needed during a disaster.
+
+For example, an RSL of 50% would specify that the DR system would need to operate at a minimum of 50% the performance level of the normal production system.
+
+!!!
+RSL is measured in *percentage*.
+!!!
+==-
+
 #### Return on Investment
 
 A term used to describe a profitability ratio.
@@ -240,6 +324,10 @@ Generally calculated by dividing net profit by net assets.
 Dictates that one person/entity cannot complete an entire transaction alone.
 
 In the case of encryption, a single entity should not be able to administer the issuing of keys, encrypt the data, and store the keys, because this could lead to a situation where that entity has the ability to access or take encrypted data.
+
+==- Server Replication
+Concerned more about the processing system rather than the data being replicated.
+==-
 
 #### Service Oriented Architecture \(SOA\)
 
@@ -264,6 +352,10 @@ Having silos in an enterprise deployment could be a precursor to migrating the e
 #### Smurf Attack
 
 The Smurf attack is a distributed denial-of-service attack in which large numbers of Internet Control Message Protocol \(ICMP\) packets with the intended victim’s spoofed source IP are broadcast to a computer network using an IP broadcast address. Most devices on a network will, by default, respond to this by sending a reply to the source IP address. If the number of machines on the network that receive and respond to these packets is very large, the victim’s computer will be flooded with traffic.
+
+==- Storage Replication
+Works with a local service to store or archive data to secondary storage using a SAN. This would typically be in the same location.
+==-
 
 ### T
 
@@ -299,3 +391,7 @@ To protect trust zones:
 #### Write Once, Read Many \(WORM\)
 
 A type of long-term storage, meaning it is written to initially and only used for read purposes thereafter.
+
+==- WRT
+The time necessary to very restoration of systems once they have been returned to operation.
+==-
