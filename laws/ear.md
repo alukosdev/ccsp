@@ -1,5 +1,7 @@
 ---
-category: [Laws, United States Laws]
+category: [Laws]
+tags: [united states]
+---
 
 # EAR
 
