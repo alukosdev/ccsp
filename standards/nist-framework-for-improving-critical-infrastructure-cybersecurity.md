@@ -1,5 +1,6 @@
 ---
-categories: [Risk Management, NIST]
+categories: [Risk Management]
+tags: [nist]
 ---
 
 # NIST Framework for Improving Critical Infrastructure Cybersecurity
