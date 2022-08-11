@@ -1,5 +1,6 @@
 ---
 categories: [Data Center Design]
+tags: [ansi, bicsi]
 ---
 
 # ANSI/BICSI 002-2014
