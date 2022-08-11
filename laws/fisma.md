@@ -1,5 +1,6 @@
 ---
-categories: [Laws, United States Laws]
+categories: [Laws]
+tags: [united states]
 ---
 
 # FISMA
