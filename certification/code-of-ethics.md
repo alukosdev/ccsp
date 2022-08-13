@@ -2,20 +2,7 @@
 order: 200
 ---
 
-<style>
-    .lightblue {
-        text-align: center;
-        color: #1956AF;
-        border-radius: 10px;
-        background-color: #E1EDFF;
-        border: 1px solid #1956AF;
-        padding-top: 20px;
-        padding-right: 20px;
-        padding-left: 20px;
-        margin-bottom: 20px;
-    }
-</style>
-:::lightblue
+:::banner
 The following Code of Ethics is derived from the official [\(ISC\)² Code of Ethics](https://www.isc2.org/Ethics).
 :::
 

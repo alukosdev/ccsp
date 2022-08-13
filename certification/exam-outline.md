@@ -2,20 +2,7 @@
 order: 100
 ---
 
-<style>
-    .lightblue {
-        text-align: center;
-        color: #1956AF;
-        border-radius: 10px;
-        background-color: #E1EDFF;
-        border: 1px solid #1956AF;
-        padding-top: 20px;
-        padding-right: 20px;
-        padding-left: 20px;
-        margin-bottom: 20px;
-    }
-</style>
-:::lightblue
+:::banner
 The following Exam Outline is derived from the official [\(ISC\)² Certification Exam Outline](https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CCSP-Exam-Outline-2022.ashx) with an effective date of **August 1, 2022**.
 :::
 
