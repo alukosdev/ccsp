@@ -4,6 +4,8 @@ order: 2000
 
 # Auditing
 
+{{ include "/index/terminology.md#11-17" }}
+
 ## Quick Reference
 
 | Acronym | Backronym |
