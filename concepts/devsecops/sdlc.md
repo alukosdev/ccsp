@@ -19,7 +19,7 @@ The application meets technical requirements.
 A type of IT setup wherein developers or operations teams automatically manage and provision the technology stack for an application through software, rather than using a manual process to configure discrete hardware devices and operating systems.
 ===
 
-## Summary
+## Overview
 
 The purpose of the SDLC to ensure that applications are properly secured prior to an organization using them. Several software development lifecycles have been published with most of them containing similar phases.
 

@@ -1,6 +1,6 @@
 # Change Management
 
-## Summary
+## Overview
 
 Change management *deals with ensuring you are following the appropriate processes*.
 

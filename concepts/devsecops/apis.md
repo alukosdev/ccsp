@@ -12,7 +12,7 @@ label: Application Programming Interfaces
 | REST | Representation State Transfer |
 | SOAP | Simple Object Access Protocol |
 
-## Summary
+## Overview
 
 APIs allow secure communication from one web service to another. This is typically an interface that allows for proper communication to occur. They are the coding components that allow applications to speak to one another, generally through a web interface of some kind.
 

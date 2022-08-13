@@ -58,7 +58,7 @@ The key difference between HSM and TPM is that an HSM manages keys for several d
 !!!
 ==-
 
-## Summary
+## Overview
 
 Encryption will be used to protect data at rest, in transit, and in use. Encryption will be used on the remote user end to create the secure communication connection (VPN), on the cloud customer's enterprise to protect their own data, and within the datacenter by the cloud provider to ensure various cloud customers don't accidentally access each other's data.
 

@@ -17,7 +17,7 @@ label: Federated Identity Management
 | SPML | Service Provisioning Markup Language |
 | SSO | Single Sign-On |
 
-## Summary
+## Overview
 
 FIM is the process of asserting an identity *across different systems or organizations*. This is the key enabler of SSO and also core to managing IAM in cloud computing.
 

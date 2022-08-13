@@ -18,7 +18,7 @@ label: Data Loss Prevention
 Includes the tools and processes to identify sensitive information in storage.
 ==-
 
-## Summary
+## Overview
 
 DLP solutions are designed to protect your documents when they are *inside* your organization (unlike IRM/DRM which can protect an object anywhere it travels). It is a set of controls that is used to ensure that data is only accessible to those who should have access to it.
 

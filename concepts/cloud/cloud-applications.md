@@ -6,7 +6,7 @@
 The idea of moving an existing legacy enterprise application to the cloud with little or no code changes.
 ===
 
-## Summary
+## Overview
 
 Applications can be broken down into the following subcomponents:
 

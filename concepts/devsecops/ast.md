@@ -35,7 +35,7 @@ Automates security controls.
 Reviewing the source code.
 ===
 
-## Summary
+## Overview
 
 Security of applications must be viewed as a holistic approach in a broad context that includes not just software development considerations but also the business and regulatory context and other external factors that can affect the overall security posture of the applications being consumed by an organization.
 

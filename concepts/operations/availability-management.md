@@ -1,6 +1,6 @@
 # Availability Management
 
-## Summary
+## Overview
 
 Availability management aims to define, analyze, plan, measure, and improve all aspects of the availability of IT services. It is also responsibility for ensuring that all IT infrastructure, processes, tools, roles, and so on, are appropriate for the agreed-upon availability targets.
 

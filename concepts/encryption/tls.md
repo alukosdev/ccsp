@@ -15,7 +15,7 @@
 When the server proves its identity to the client.
 ==-
 
-## Summary
+## Overview
 
 In TLS, the parties will establish a shared secret, or *symmetric key*, for the duration of the session. The session key is uniquely generated each time a new connection is made. Asymmetric encryption is used in establishing a secure TLS connection.
 

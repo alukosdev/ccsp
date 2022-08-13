@@ -1,6 +1,6 @@
 # Data Categorization
 
-## Summary
+## Overview
 
 Data is categorized based on its *use and organization*. This is performed in the *create phase* of the data lifecycle.
 

@@ -1,6 +1,6 @@
 # Capacity Management
 
-## Summary
+## Overview
 
 Capacity management *deals with scalability and elasticity*.
 

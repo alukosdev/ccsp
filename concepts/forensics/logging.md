@@ -12,7 +12,7 @@ The ability of a SIEM to collect logs from several data sources.
 The ability of a SIEM to analyze and search logs.
 ==-
 
-## Summary
+## Overview
 
 Four key subsystems should be monitored in cloud environments:
 

@@ -1,6 +1,6 @@
 # Data Classification
 
-## Summary
+## Overview
 
 Data is classified based on its *value or sensitivity level*. This is performed in the *create phase* of the data lifecycle.
 

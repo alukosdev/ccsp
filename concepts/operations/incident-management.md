@@ -31,7 +31,7 @@ Not all events are incidents, but all incidents are events.
 !!!
 ===
 
-## Summary
+## Overview
 
 Incident management *deals with minimizing the impact to the business*.
 

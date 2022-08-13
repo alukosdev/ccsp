@@ -24,7 +24,7 @@ The foundation of federation relies on the existence of an identity provider; th
 !!!
 ==-
 
-## Summary
+## Overview
 
 SSO refers to a situation where the user signs in once, usually to an authentication server; then when the user wants to access the organization's resources, each resource will query the authentication server to determine if the user is logged in and properly authenticated; the authentication server then approves the request and the resource server grants the user access.
 
