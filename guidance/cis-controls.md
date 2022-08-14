@@ -7,9 +7,9 @@ tags: [cis]
 This page is currently being updated for the 2022 version of the CCSP exam.
 !!!
 
-# CIS CSC
+# CIS Controls
 
-## Acronyms and Abbreviations
+## Glossary
 
 | Acronym | Backronym |
 | - | - |
