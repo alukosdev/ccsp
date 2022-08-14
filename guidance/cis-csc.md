@@ -3,6 +3,10 @@ categories: [Security Management and Controls]
 tags: [cis]
 ---
 
+!!!danger
+This page is currently being updated for the 2022 version of the CCSP exam. On May 18, 2021, CIS launched version 8 of the controls which are different than what is shown below.
+!!!
+
 # CIS CSC
 
 ## Quick Reference
@@ -10,36 +14,40 @@ tags: [cis]
 | Acronym | Backronym |
 | - | - |
 | CIS | Center for Internet Security |
-| CSC | Critical Security Controls |
+| CSC | Critical Security Controls (formerly) |
 
 ## Overview
 
-The Critical Security Controls for Effective Cyber Defense are a recommended set of actions for cyber-defense that provide specific and actionable ways to stop today's most pervasive attacks. The guidelines consist of 20 key actions, called critical security controls (CSC), that organization should implement to block or mitigate known attacks.
+The Critical Security Controls for Effective Cyber Defense are a recommended set of actions for cyber-defense that provide specific and actionable ways to stop today's most pervasive attacks.[¹] The guidelines consist of 20 key actions, called critical security controls (CSC), that organizations should implement to block or mitigate known attacks.
 
 ## Controls
 
-- CSC 1: Inventory of Authorized and Unauthorized Devices
-- CSC 2: Inventory of Authorized and Unauthorized Software
-- CSC 3: Continuous Vulnerability Assessment and Remediation
-- CSC 4: Controlled Use of Administrative Privileges
-- CSC 5: Secure Configurations for Hardware and Software on Mobile Devices, Laptops, Workstations, and Servers
-- CSC 6: Maintenance, Monitoring, and Analysis of Audit Logs
-- CSC 7: Email and Web Browser Protections
-- CSC 8: Malware Defenses
-- CSC 9: Limitation and Control of Network Ports, Protocols, and Services
-- CSC 10: Data Recovery Capability
-- CSC 11: Secure Configurations for Network Devices such as Firewalls, Routers, and Switches
-- CSC 12: Boundary Defense
-- CSC 13: Data Protection
-- CSC 14: Controlled Access Based on the Need to Know
-- CSC 15: Wireless Access Control
-- CSC 16: Account Monitoring and Control
-- CSC 17: Security Skills Assessment and Appropriate Training to Fill Gaps
-- CSC 18: Application Software Security
-- CSC 19: Incident Response and Management
-- CSC 20: Penetration Tests and Red Team Exercises
+:::banner
+The following CIS Controls are derived from the official CIS Critical Security Controls, Version 8, released May 18, 2021.
+:::
 
-An underlying theme for the controls is support for large-scale, standards-based security automation for the management of cyber defenses.
+- Control 01: Inventory and Control of Enterprise Assets
+- Control 02: Inventory and Control of Software Assets
+- Control 03: Data Protection
+- Control 04: Secure Configuration of Enterprise Assets and Software
+- Control 05: Account Management
+- Control 06: Access Control Management
+- Control 07: Continuous Vulnerability Management
+- Control 08: Audit Log Management
+- Control 09: Email and Web Browser Protections
+- Control 10: Malware Defenses
+- Control 11: Data Recovery
+- Control 12: Network Infrastructure Management
+- Control 13: Network Monitoring and Defense
+- Control 14: Security Awareness and Skills Training
+- Control 15: Service Provider Management
+- Control 16: Application Software Security
+- Control 17: Incident Response Management
+- Control 18: Penetration Testing
+
+!!!info
+An underlying theme for these controls is support for large-scale, standards-based security automation for the management of cyber defenses.
+!!!
 
 ### CIS CSC 2
 
@@ -60,3 +68,7 @@ Organizations should gather the following information to automate the collection
 - The average amount of time it takes to remove unauthorized applications from the organization's business systems
 - The total number of the organization's business systems that are not running whitelisting software
 - The total number of applications that have been recently blocked
+
+## References
+
+[1] https://www.sans.org/blog/cis-controls-v8/
