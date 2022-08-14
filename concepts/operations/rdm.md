@@ -10,7 +10,7 @@ label: Release and Deployment Management
 | - | - |
 | RDM | Release and Deployment Management |
 
-## Summary
+## Overview
 
 In one sentence, this section deals with procedures for testing, certification, accreditation, and moving to operations (including monitoring and upgrades).
 

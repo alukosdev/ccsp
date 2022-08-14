@@ -10,7 +10,7 @@ label: Business Continuity Management
 | - | - |
 | BCM | Business Continuity Management |
 
-## Summary
+## Overview
 
 Business continuity management *deals with planning, redundancy, criticality analysis, and sustaining the long-term operations of the business*.
 

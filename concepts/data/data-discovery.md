@@ -6,7 +6,7 @@
 Enables an organization to know all of the locations where data is present within an application and within other storage. Allows for the ability to implement security controls and policies by understanding what type of data is present in the system.
 ==-
 
-## Summary
+## Overview
 
 Discovery is a process for identifying and providing visibility into the location, volume, and context of structured and unstructured data stored in a variety of data repositories.
 

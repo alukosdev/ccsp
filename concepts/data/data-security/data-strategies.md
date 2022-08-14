@@ -6,7 +6,7 @@
 The action of grabbing data and using it without the owner's consent.
 ==-
 
-## Summary
+## Overview
 
 Individuals who gain unauthorized access to data are the most common and well understood threat to storage. The unauthorized access can be from an outside attacker, a malicious insider, or a user who may not be malicious but still has access to something he or she shouldn't.
 

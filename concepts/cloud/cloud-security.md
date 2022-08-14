@@ -46,7 +46,7 @@ In the absence of cloud-specific security standards that are universally accepte
 | ISO/IEC 27017 | Code of practice for information security controls based on ISO/IEC 27002 for cloud services |
 | NIST SP 800-53 | Security and Privacy Controls for Federal Information Systems and Organizations |
 
-## Summary
+## Overview
 
 Enterprise security architecture provides the conceptual design of network security infrastructure and related security mechanisms, policies, and procedures. It links components of the security infrastructure as a cohesive unit with the goal of protecting corporate information.
 

@@ -11,7 +11,7 @@ label: Digital Rights Management
 | DRM | Digital Rights Management |
 | IRM | Information Rights Management |
 
-## Summary
+## Overview
 
 DRM was originally associated with digital media content/multimedia whereas IRM was associated with business. The terms are now used interchangeably.
 

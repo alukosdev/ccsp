@@ -67,7 +67,7 @@ A method for automating account creation.
 - Older and uses XML, which is slow
 ==-
 
-## Summary
+## Overview
 
 IAM is about the people, processes, and procedures used to create, manage, and destroy identities of all kinds. It is the security discipline that enables the right individuals to access the right resources at the right times for the right reasons.
 

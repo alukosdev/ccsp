@@ -1,6 +1,6 @@
 # Data Deidentification
 
-## Summary
+## Overview
 
 In certain scenarios, we may find it necessary to obscure actual data and instead use a representation of that data. Data de-identification is a method of creating a structurally similar but inauthentic version of an organization's data, typically used for purposes like software testing and user training or:
 

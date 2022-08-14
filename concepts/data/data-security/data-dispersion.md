@@ -7,7 +7,7 @@
 | AONT-RS | All-or-Nothing-Transform with Reed-Solomon |
 | SMSS | Secret Sharing Made Short |
 
-## Summary
+## Overview
 
 Data dispersion is a technique that is commonly used to improve data security, but without the use of encryption mechanisms.
 

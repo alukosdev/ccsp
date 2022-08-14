@@ -10,7 +10,7 @@ label: Continual Service Improvement Management
 | - | - |
 | CSIM | Continual Service Improvement Management |
 
-## Summary
+## Overview
 
 Continual service improvement management *deals with identifying how the organization can perform more efficiently*.
 

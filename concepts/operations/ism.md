@@ -10,7 +10,7 @@ label: Information Security Management
 | - | - |
 | ISM | Information Security Management |
 
-## Summary
+## Overview
 
 Information security management deals with the CIA of data.
 

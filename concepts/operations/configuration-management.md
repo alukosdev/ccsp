@@ -19,7 +19,7 @@ Configuration items can be applied to anything designated for the application of
 - People (Staff and Contractors)
 ===
 
-## Summary
+## Overview
 
 Configuration management *deals with the documentation of processes*.
 

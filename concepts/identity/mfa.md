@@ -20,7 +20,7 @@ Step-up authentication is an additional factor or procedure that validates a use
 - Dynamic knowledge-based authentication (questions unique to the end user)
 ==-
 
-## Summary
+## Overview
 
 Authentication requires a match against a template or a known quantity. Therefore, variables (such as variable keystrokes) aren't useful for authentication.
 

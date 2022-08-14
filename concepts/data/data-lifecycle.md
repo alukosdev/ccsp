@@ -8,7 +8,7 @@
 | DRM | Digital Rights Management |
 | IRM | Information Rights Management |
 
-## Summary
+## Overview
 
 Being able to destroy data, or render it inaccessible, in the cloud is critical to ensuring confidentiality and managing a secure lifecycle for data.
 

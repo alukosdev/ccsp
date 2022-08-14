@@ -18,7 +18,7 @@ Risk modeling is based on an asset or a threat.
 A risk register is a table to consolidate information about risks.
 ==-
 
-## Summary
+## Overview
 
 Every decision we make should be based on risk. Risk management in the cloud is based on the *shared responsibilities* model.
 

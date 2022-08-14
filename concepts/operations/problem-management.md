@@ -10,7 +10,7 @@ A known error is an *identified* root cause of a problem.
 A workaround is a *temporary* way of overcoming technical difficulties (such as incidents or problems).
 ===
 
-## Summary
+## Overview
 
 The objective of problem management is to *minimize the impact of problems* on the organization by *identifying the root cause* of the problem at hand. It aims to prevent reoccurrence of a problem.
 

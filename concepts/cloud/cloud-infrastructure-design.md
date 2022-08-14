@@ -1,6 +1,6 @@
 # Cloud Infrastructure Design
 
-## Terminology
+## Quick Reference
 
 ==- Chicken Coop
 A design methodology in which a datacenter arranges racks within long rectangles with a long side facing the wind to provide natural cooling.
@@ -10,7 +10,7 @@ Deploying duplicate devices that can take over active operation if the primary d
 The ability to restore normal operations after a disruptive event. Redundancy is the foundation of resiliency.
 ==-
 
-## Summary
+## Overview
 
 Location is the major and primary concern when building a data center. It's important to understand the jurisdiction where the datacenter will be located. This means understanding the local laws and regulations under that jurisdiction. In addition, the physical location of the datacenter will also drive requirements for protecting data during threats such as natural disasters.
 

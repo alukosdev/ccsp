@@ -21,7 +21,7 @@ Are we doing the right things properly and are we getting the benefits? Are we g
 Underpinning contracts are external contracts negotiated between the organization and their vendors or suppliers.
 ===
 
-## Summary
+## Overview
 
 Service level management *deals with third-party governance*.
 

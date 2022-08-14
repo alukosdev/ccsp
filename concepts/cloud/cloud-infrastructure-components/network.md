@@ -1,6 +1,6 @@
 # Network
 
-## Reference
+## Quick Reference
 
 ![Network Models](/static/network-models.png)
 
