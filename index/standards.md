@@ -1,7 +1,3 @@
----
-order: 800
----
-
 # Standards
 
 ## ISO/IEC

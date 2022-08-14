@@ -1,8 +1,4 @@
----
-order: 1000
----
-
-# Terminology
+# Definitions
 
 ## A-C
 

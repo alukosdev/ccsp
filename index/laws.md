@@ -1,7 +1,3 @@
----
-order: 900
----
-
 # Laws
 
 | Name | Origin | { class="compact" }
