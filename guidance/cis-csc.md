@@ -9,7 +9,7 @@ This page is currently being updated for the 2022 version of the CCSP exam. On M
 
 # CIS CSC
 
-## Quick Reference
+## Acronyms and Abbreviations
 
 | Acronym | Backronym |
 | - | - |
