@@ -18,7 +18,7 @@ This page is currently being updated for the 2022 version of the CCSP exam. On M
 
 ## Overview
 
-The Critical Security Controls for Effective Cyber Defense are a recommended set of actions for cyber-defense that provide specific and actionable ways to stop today's most pervasive attacks.[¹] The guidelines consist of 20 key actions, called critical security controls (CSC), that organizations should implement to block or mitigate known attacks.
+The CIS Controls (formerly known as Critical Security Controls) are a recommended set of actions for cyber defense that provide specific and actionable ways to stop today's most pervasive and dangerous attacks.[¹]
 
 ## Controls
 
