@@ -4,7 +4,7 @@ tags: [cis]
 ---
 
 !!!danger
-This page is currently being updated for the 2022 version of the CCSP exam. On May 18, 2021, CIS launched version 8 of the controls which are different than what is shown below.
+This page is currently being updated for the 2022 version of the CCSP exam.
 !!!
 
 # CIS CSC
@@ -23,27 +23,29 @@ The CIS Controls (formerly known as Critical Security Controls) are a recommende
 ## Controls
 
 :::banner
-The following CIS Controls are derived from the official CIS Critical Security Controls, Version 8, released May 18, 2021.
+The following CIS Controls are derived from the official CIS Critical Security Controls, Version 8, released **May 18, 2021**.
 :::
 
-- Control 01: Inventory and Control of Enterprise Assets
-- Control 02: Inventory and Control of Software Assets
-- Control 03: Data Protection
-- Control 04: Secure Configuration of Enterprise Assets and Software
-- Control 05: Account Management
-- Control 06: Access Control Management
-- Control 07: Continuous Vulnerability Management
-- Control 08: Audit Log Management
-- Control 09: Email and Web Browser Protections
-- Control 10: Malware Defenses
-- Control 11: Data Recovery
-- Control 12: Network Infrastructure Management
-- Control 13: Network Monitoring and Defense
-- Control 14: Security Awareness and Skills Training
-- Control 15: Service Provider Management
-- Control 16: Application Software Security
-- Control 17: Incident Response Management
-- Control 18: Penetration Testing
+| Control Number | Control Name |
+| - | - |
+| Control 01 | Inventory and Control of Enterprise Assets |
+| Control 02 | Inventory and Control of Software Assets |
+| Control 03 | Data Protection |
+| Control 04 | Secure Configuration of Enterprise Assets and Software |
+| Control 05 | Account Management |
+| Control 06 | Access Control Management |
+| Control 07 | Continuous Vulnerability Management |
+| Control 08 | Audit Log Management |
+| Control 09 | Email and Web Browser Protections |
+| Control 10 | Malware Defenses |
+| Control 11 | Data Recovery |
+| Control 12 | Network Infrastructure Management |
+| Control 13 | Network Monitoring and Defense |
+| Control 14 | Security Awareness and Skills Training |
+| Control 15 | Service Provider Management |
+| Control 16 | Application Software Security |
+| Control 17 | Incident Response Management |
+| Control 18 | Penetration Testing |
 
 !!!info
 An underlying theme for these controls is support for large-scale, standards-based security automation for the management of cyber defenses.
