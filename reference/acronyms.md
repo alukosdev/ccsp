@@ -23,10 +23,10 @@ We need to add links to the Glossary page. For example, API should link to eithe
 | ARO | Annual Rate of Occurrence |
 | ASMP | Application Security Management Process |
 | AST | Application Security Testing |
-| AUP | Agreed-Upon Procedures |
-| AV | Asset Value |
-| BC | Business Continuity |
-| BCM | Business Continuity Management |
+| AUP | [Agreed-Upon Procedures](/reference/glossary/#agreed-upon-procedures-aup) |
+| AV | [Asset Value](/reference/glossary/#bastion-host) |
+| BC | [Business Continuity](/reference/glossary/#Confidentiality) |
+| BCM | [Business Continuity Management](/reference/glossary.md) |
 | BCP | Business Continuity Plan |
 | BIA | Business Impact Analysis |
 | BICSI | Building Industry Consulting Services International |
