@@ -9,6 +9,10 @@ label: Welcome
 We are actively working to ensure these notes are updated to reflect the latest exam revision released on August 1st, 2022. The content on these pages may change dynamically as these updates occur. We appreciate your patience and understanding! :heart:
 !!!
 
+!!!
+Information contained within these notes is copyrighted. Sources of copyrighted information have been documented on their respective pages.
+!!!
+
 ## Purpose
 
 These notes have been created and shared for the sole purpose of aggregating accurate information from reliable sources in an effort to facilitate studying for the (ISC)² CCSP examination.
@@ -24,7 +28,3 @@ These notes continue to be actively maintained by the Alukos team and members of
 ## Errata
 
 Please do not hesitate to contact me on LinkedIn or Discord if you discover any pages containing inaccurate or outdated information, grammatical or spelling errors, and/or formatting issues.
-
-## References
-
-Information contained within these notes is copyrighted. Sources of copyrighted information have been documented on their respective pages.

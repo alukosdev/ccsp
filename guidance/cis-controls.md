@@ -47,7 +47,7 @@ The following CIS Controls are derived from the official CIS Critical Security C
 | Control 17 | Incident Response Management |
 | Control 18 | Penetration Testing |
 
-!!!info
+!!!
 An underlying theme for these controls is support for large-scale, standards-based security automation for the management of cyber defenses.
 !!!
 
@@ -73,7 +73,7 @@ Organizations should gather the following information to automate the collection
 
 ## References
 
-1. https://www.sans.org/blog/cis-controls-v8/
+#### 1. https://www.sans.org/blog/cis-controls-v8/
 
 ## Sources
 
