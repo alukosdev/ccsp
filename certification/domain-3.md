@@ -53,3 +53,7 @@ label: Domain 3
   - Recovery Point Objective (RPO)
   - Recovery service level
 - Creation, implementation and testing of plan
+
+## Sources
+
+- (ISC)². (2022, August 1). Certification Exam Outline. [PDF file]. https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CCSP-Exam-Outline-2022.ashx

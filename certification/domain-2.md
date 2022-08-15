@@ -65,3 +65,7 @@ label: Domain 2
   - Geolocation
 - Logging, storage and analysis of data events
 - Chain of custody and non-repudiation
+
+## Sources
+
+- (ISC)². (2022, August 1). Certification Exam Outline. [PDF file]. https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CCSP-Exam-Outline-2022.ashx

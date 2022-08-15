@@ -110,3 +110,7 @@ label: Domain 6
   - Cyber risk insurance
 - Supply-chain management
   - International Organization for Standardization/International Electrotechnical Commission (ISO/IEC) 27036
+
+## Sources
+
+- (ISC)². (2022, August 1). Certification Exam Outline. [PDF file]. https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CCSP-Exam-Outline-2022.ashx
