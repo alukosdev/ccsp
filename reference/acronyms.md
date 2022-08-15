@@ -14,9 +14,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 
 | Acronym, Abbreviation, or Initialism | Glossary Term | { class="compact" }
 | - | - |
-| ABAC | ==- Attribute-Based Access Control
-This is my definition!
-==- |
+| ABAC | Attribute-Based Access Control |
 | AICPA | American Institute of Certified Public Accountants |
 | ALE | Annualized Loss Expectancy |
 | ANF | Application Normative Framework |
