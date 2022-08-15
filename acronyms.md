@@ -7,11 +7,7 @@ order: 1200
 # Acronyms, Abbreviations, and Initialisms
 
 !!!danger
-I do not know if this should include acronyms, initalisms, and abbreviations or not.
-!!!
-
-!!!danger
-This page should link to the Glossary page. For example, API should link to either API or Application Programming Interface on the Glossary page.
+We need to add links to the Glossary page. For example, API should link to either API or Application Programming Interface on the Glossary page.
 !!!
 
 | Acronym, Abbreviation, or Initialism | Term | { class="compact" }
@@ -136,7 +132,7 @@ This page should link to the Glossary page. For example, API should link to eith
 | ITIL | Information Technology Infrastructure Library (formerly) |
 | ITSM | Information Technology Service Management |
 | KRI | Key Risk Indicator |
-| KVM | ? |
+| KVM | Kernel-based Virtual Machine |
 | LOI | Letter of Intent |
 | MAD | Maximum Allowable Downtime |
 | MDT | Microsoft Deployment Toolkit |
