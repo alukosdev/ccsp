@@ -4,7 +4,7 @@ tags: [cis]
 ---
 
 :::banner
-The following CIS Controls are derived from the official CIS Critical Security Controls, Version 8, released **May 18, 2021**.
+The following CIS Controls are derived from the official [CIS Critical Security Controls Version 8](https://www.cisecurity.org/controls/v8) released **May 18, 2021**.
 :::
 
 !!!danger
@@ -45,7 +45,7 @@ The CIS Controls (formerly known as Critical Security Controls) are a recommende
 | Control 15 | Service Provider Management |
 | Control 16 | Application Software Security |
 | Control 17 | Incident Response Management |
-| Control 18 | Penetration Testing |
+| Control 18 | Penetration Testing | [[²]](#2-httpswwwcisecurityorgcontrolsv8)
 
 !!!
 An underlying theme for these controls is support for large-scale, standards-based security automation for the management of cyber defenses.
@@ -74,6 +74,7 @@ Organizations should gather the following information to automate the collection
 ## References
 
 ###### 1. https://www.sans.org/blog/cis-controls-v8/
+###### 2. https://www.cisecurity.org/controls/v8
 
 ## Sources
 
