@@ -1,5 +1,5 @@
 ---
-icon: repo
+icon: quote
 order: 1100
 ---
 
