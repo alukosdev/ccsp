@@ -5,7 +5,7 @@ tags: [csa]
 
 # CSA STAR
 
-!!!danger
+!!!warning
 This page requires formatting updates to make it easier to flow. Additionally, it seems CSA has updated some of their verbiage. Therefore, this page should be reviewed and updated accordingly.
 !!!
 

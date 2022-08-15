@@ -18,3 +18,7 @@ The following Exam Outline is derived from the official [\(ISC\)² Certification
 | [4 - Cloud Application Security](/certification/domain-4.md) | 17% |
 | [5 - Cloud Security Operations](/certification/domain-5.md) | 16% |
 | [6 - Legal, Risk and Compliance](/certification/domain-6.md) | 13% |
+
+## Sources
+
+- (ISC)². \(2022, August 1\). Certification Exam Outline. \[PDF file\]. https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CCSP-Exam-Outline-2022.ashx

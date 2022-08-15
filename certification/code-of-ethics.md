@@ -25,3 +25,7 @@ There are only four mandatory canons in the Code. By necessity, such high-level 
 - Act honorably, honestly, justly, responsibly, and legally.
 - Provide diligent and competent service to principals.
 - Advance and protect the profession.
+
+## Sources
+
+- (ISC)². (2022). (ISC)² Code of Ethics. https://www.isc2.org/Ethics

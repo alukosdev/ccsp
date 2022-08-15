@@ -25,7 +25,7 @@ Auditability is collecting and making available necessary evidence related to th
 
 A bastion host is a method for remote access to a secure environment. The bastion host is an extremely hardened device that is typically focused on providing access to one application or for one particular usage. Having the device set up in this focused manner makes hardening it more effective. Bastion hosts are made publicly available on the Internet.
 
-:::info
+:::
 The difference between a jump server and a bastion host is that a jump server is intended to breach the gap between two security zones and have a gateway to obtain access to something inside of the other security zone. A bastion host is outside of your security zone and will require additional security considerations.
 :::
 
@@ -129,7 +129,7 @@ The European Economic Area, abbreviated as EEA, consists of the Member States of
 
 Fault tolerance involves the use of specialized hardware that can detect faults and automatically switch to redundant components or systems.
 
-:::info
+:::
 Should be used when the goal is to **eliminate** system downtime as a threat to system availability altogether.
 :::
 
@@ -182,7 +182,7 @@ High availability makes use of shared and pooled resources to maintain a high le
 - Live recovery
 - Automatic migration
 
-:::info
+:::
 Should be used when the goal is to **minimize** the impact of system downtime.
 :::
 
@@ -211,7 +211,7 @@ ITSM makes it possible to:
 
 A jump server, jump host or jump box is a system on a network used to access and manage devices in a separate security zone. A jump server is a hardened and monitored device that spans two dissimilar security zones and provides a controlled means of access between them. The most common example is managing a host in a DMZ from trusted networks or computers.
 
-:::info
+:::
 The difference between a jump server and a bastion host is that a jump server is intended to breach the gap between two security zones and have a gateway to obtain access to something inside of the other security zone. A bastion host is outside of your security zone and will require additional security considerations.
 :::
 
