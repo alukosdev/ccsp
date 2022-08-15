@@ -42,7 +42,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | CAMP | Cloud Application Management for Platforms |
 | CapEx | Capital Expenditure |
 | CASB | Cloud Access Security Broker |
-| CBA | Cost-Benefit Analysis |
+| CBA | [Cost-Benefit Analysis](/reference/glossary/#cost-benefit-analysis-cba) |
 | CC | Common Criteria |
 | CCL | Commerce Control List |
 | CCM | Cloud Controls Matrix |
@@ -53,7 +53,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | CICA | Canadian Institute of Chartered Accountants |
 | CIP | Critical Infrastructure Plan |
 | CIS | Center for Internet Security |
-| CMM | Capability Maturity Model |
+| CMM | [Capability Maturity Model](/reference/glossary/#capability-maturity-model-cmm) |
 | CMVP | Cryptographic Module Validation Program |
 | COBIT | Control Objectives for Information and Related Technologies |
 | CompaaS | Compliance as a Service |
@@ -78,16 +78,16 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | DoC | Department of Commerce |
 | DoT | Department of Transportation |
 | DPA | Data Protection Act |
-| DR | Disaster Recovery |
+| DR | [Disaster Recovery](/reference/glossary/#disaster-recovery-dr) |
 | DRM | Digital Rights Management |
-| DRP | Disaster Recovery Plan |
+| DRP | [Disaster Recovery Plan](/reference/glossary/#disaster-recovery-plan-drp) |
 | DRS | Distributed Resource Scheduling |
 | DSaaS | Data Science as a Service |
 | DSS | Data Security Standards |
 | EAL | Evaluation Assurance Level |
 | EAR | Export Administration Regulations |
 | ECPA | Electronic Communication Privacy Act |
-| EEA | European Economic Area |
+| EEA | [European Economic Area](/reference/glossary/#european-economic-area-eea) |
 | EF | Exposure Factor |
 | EFS | Encrypting File System |
 | EFTA | European Free Trade Association |
@@ -105,8 +105,9 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | FIPS | Federal Information Processing Standard |
 | FISMA | Federal Information Security Management Act |
 | FPE | Format-Preserving Encryption |
+| FT | [Fault Tolerance](/reference/glossary/#fault-tolerance-ft) |
 | FTC | Federal Trade Commission |
-| GAAP | Generally Accepted Accounting Principles |
+| GAAP | [Generally Accepted Accounting Principles](/reference/glossary/#generally-accepted-accounting-principles-gaap) |
 | GDPR | Global Data Protection Regulation |
 | GLBA | Gramm-Leach-Bliley Act |
 | HA | High Availability |
@@ -132,16 +133,16 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | IT | Information Technology |
 | ITAR | International Traffic in Arms Regulations |
 | ITIL | Information Technology Infrastructure Library (formerly) |
-| ITSM | Information Technology Service Management |
+| ITSM | [Information Technology Service Management](/reference/glossary/#information-technology-service-management-itsm) |
 | KRI | Key Risk Indicator |
 | KVM | Kernel-based Virtual Machine |
 | LOI | Letter of Intent |
-| MAD | Maximum Allowable Downtime |
-| MDT | Microsoft Deployment Toolkit |
+| MAD | [Maximum Allowable Downtime](/reference/glossary/#maximum-allowable-downtime-mad) |
+| MDT | [Microsoft Deployment Toolkit](/reference/glossary/#microsoft-deployment-toolkit-mtd) |
 | MFA | Multifactor Authentication |
 | MOA | Memorandum of Agreement |
 | MOU | Memorandum of Understanding |
-| MTD | Maximum Tolerable Downtime |
+| MTD | [Maximum Tolerable Downtime](/reference/glossary/#maximum-tolerable-downtime-mtd) |
 | MSP | Managed Service Provider |
 | MTBF | Mean Time Before Failure |
 | MTTR | Mean Time to Repair |
@@ -177,11 +178,11 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | RDM | Release and Deployment Management |
 | REST | Representational State Transfer |
 | ROC | Report of Compliance |
-| ROI | Return on Investment |
-| RPO | Recovery Point Objective |
-| RSL | Recovery Service Level |
+| ROI | [Return on Investment](/reference/glossary/#return-on-investment-roi) |
+| RPO | [Recovery Point Objective](/reference/glossary/#recovery-point-objective-rpo) |
+| RSL | [Recovery Service Level](/reference/glossary/#recovery-service-level-rsl) |
 | RSO | Reduced Sign-On |
-| RTO | Recovery Time Objective |
+| RTO | [Recovery Time Objective](/reference/glossary/#recovery-time-objective-rto) |
 | SA | Supervisory Authority |
 | SaaS | Software-as-a-Service |
 | SABSA | Sherwood Applied Business Security Architecture |
@@ -201,7 +202,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | SLE | Single Loss Expectancy |
 | SLM | Service Level Management |
 | SMSS | Secret Sharing Made Short |
-| SOA | Service-Oriented Architecture |
+| SOA | [Service-Oriented Architecture](/reference/glossary/service-oriented-architecture-soa) |
 | SOAP | Simple Object Access Protocol |
 | SOC | System and Organization Controls |
 | SOX | Sarbanes-Oxley Act |
@@ -223,6 +224,6 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | VMI | Virtual Machine Introspection |
 | WAF | Web Application Firewall |
 | WDE | Whole Disk Encryption |
-| WORM | Write Once, Read Many |
+| WORM | [Write Once, Read Many](/reference/glossary/write-once-read-many-worm) |
 | WRT | Work Recovery Time |
 | WSTG | Web Security Testing Guide |
