@@ -1,5 +1,6 @@
 ---
 icon: typography
+label: Acronyms, Abbreviations, and Initialisms
 order: 1200
 ---
 
