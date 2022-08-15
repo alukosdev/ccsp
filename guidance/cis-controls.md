@@ -18,7 +18,7 @@ This page is currently being updated for the 2022 version of the CCSP exam.
 
 ## Overview
 
-The CIS Controls (formerly known as Critical Security Controls) are a recommended set of actions for cyber defense that provide specific and actionable ways to stop today's most pervasive and dangerous attacks.(¹)[#1-httpswwwsansorgblogcis-controls-v8]
+The CIS Controls (formerly known as Critical Security Controls) are a recommended set of actions for cyber defense that provide specific and actionable ways to stop today's most pervasive and dangerous attacks.[¹](#1-httpswwwsansorgblogcis-controls-v8)
 
 ## Controls
 
@@ -73,7 +73,7 @@ Organizations should gather the following information to automate the collection
 
 ## References
 
-#### 1. https://www.sans.org/blog/cis-controls-v8/
+##### 1. https://www.sans.org/blog/cis-controls-v8/
 
 ## Sources
 
