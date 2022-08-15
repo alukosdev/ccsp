@@ -78,6 +78,8 @@ Organizations should gather the following information to automate the collection
 
 ## Sources
 
+- Add PDF reference for CIS Controls
+
 - Gordon, A. (2016). The Official (ISC)² Guide to the CCSP CBK. Sybex.
 - Malisow, B. (2017). CCSP (ISC)² Certified Cloud Security Professional Official Study Guide. Sybex.
 - Carter, D. (2017). CCSP Certified Cloud Security Professional All-in-One Exam Guide. McGraw-Hill Education.
