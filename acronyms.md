@@ -1,5 +1,5 @@
 ---
-icon: list-ordered
+icon: typography
 order: 1200
 ---
 

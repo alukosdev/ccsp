@@ -1,5 +1,5 @@
 ---
-icon: list-ordered
+icon: repo
 order: 1100
 ---
 
