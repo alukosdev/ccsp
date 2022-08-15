@@ -13,7 +13,7 @@ I do not know if this should include acronyms, initalisms, and abbreviations or 
 This page should link to the Glossary page. For example, API should link to either API or Application Programming Interface on the Glossary page.
 !!!
 
-| Acronym | Term | { class="compact" }
+| Acronym, Abbreviation, or Initialism | Term | { class="compact" }
 | - | - |
 | ABAC | Attribute-Based Access Control |
 | AICPA | American Institute of Certified Public Accountants |
