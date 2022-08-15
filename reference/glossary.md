@@ -5,7 +5,7 @@ Should this page should be updated to contain both the word as well as the hyphe
 # Glossary
 
 !!!
-Terms on this page are collapsed by default to allow for a method of "flashcard studying."
+Terms on this page are collapsed by default to allow for flashcard-style studying.
 !!!
 
 ## A
