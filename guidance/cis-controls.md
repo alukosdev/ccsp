@@ -78,14 +78,7 @@ Organizations should gather the following information to automate the collection
 ###### 1. https://www.sans.org/blog/cis-controls-v8/
 ###### 2. https://www.cisecurity.org/controls/v8
 
-| TEsting | Someformatting |
-| - | - |
-| ###### 1 | https:// |
-| ###### 6 | poop |
-
 ## Sources
-
-- Add PDF reference for CIS Controls
 
 - Gordon, A. (2016). The Official (ISC)² Guide to the CCSP CBK. Sybex.
 - Malisow, B. (2017). CCSP (ISC)² Certified Cloud Security Professional Official Study Guide. Sybex.
@@ -96,3 +89,4 @@ Organizations should gather the following information to automate the collection
 - [OktaDev] (2019, November 5). An Illustrated Guide to OAuth and OpenID Connect  [Video]. YouTube. https://www.youtube.com/watch?v=t18YB3xDfXI
 - [Programming with Mosh] (2018, January 19). What is a REST API? [Video]. YouTube. https://www.youtube.com/watch?v=SLwpqD8n3d0
 - Cloud Security Alliance. (2017). Security Guidance v4.0 [PDF file]. https://cloudsecurityalliance.org/research/guidance/
+- Center for Internet Security. (2021, May 18). CIS Critical Security Controls Version 8 [PDF file]. https://www.cisecurity.org/controls/v8{:target="_blank"}
