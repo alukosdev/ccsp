@@ -9,7 +9,7 @@ This page is currently being updated for the 2022 version of the CCSP exam.
 
 # CIS Controls
 
-## Glossary
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |
@@ -73,4 +73,4 @@ Organizations should gather the following information to automate the collection
 
 ## References
 
-[1] https://www.sans.org/blog/cis-controls-v8/
+1. https://www.sans.org/blog/cis-controls-v8/
