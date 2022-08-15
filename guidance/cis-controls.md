@@ -74,7 +74,6 @@ Organizations should gather the following information to automate the collection
 ## References
 
 ###### 1. https://www.sans.org/blog/cis-controls-v8/
-####### 2. https://www.sans.org/blog/cis-controls-v8/
 
 ## Sources
 
