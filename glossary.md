@@ -9,9 +9,7 @@ order: 1100
 In order for this to be considered an "index" of these terms, page references should be provided. This has not yet been accomplished. I am not sure if this is even necessary since the search feature effectively eliminates the need for an index.
 !!!
 
-## A-C
-
-### A
+## A
 
 ==- Agreed-Upon Procedures (AUP)
 An agreed-upon procedure is a standard a company or client outlines when it hires an external party to perform an audit on a specific test or business process. The procedures, which are called audit standards, are designed and agreed upon by the entity conducting the audit, as well as any appropriate third parties.
@@ -21,7 +19,7 @@ The auditor does not provide an opinion; rather, the entities or third parties f
 Auditability is collecting and making available necessary evidence related to the operation and use of the cloud.
 ==-
 
-### B
+## B
 
 #### Bastion Host
 
@@ -51,7 +49,7 @@ The BCP is *not* critical to the continuation of services in the event of a busi
 !!!
 ==-
 
-### C
+## C
 
 #### Capability Maturity Model \(CMM\)
 
@@ -79,9 +77,7 @@ Cross-cutting aspects are behaviors or capabilities which need to be coordinated
 
 An example of a cross-cutting aspect is security.
 
-## D-F
-
-### D
+## D
 
 #### Data Remanence
 
@@ -113,7 +109,7 @@ Disaster recovery planning is the process by which suitable plans and measures a
 DRP is usually part of the BCP and typically tends to be more technical in nature. Addresses what needs to be accomplished during a disaster to restore business processes in order to recover from the event.
 ==-
 
-### E
+## E
 
 #### Enterprise Application
 
@@ -127,7 +123,7 @@ Adds essential features such as archiving and disaster recovery to cloud backup 
 
 The European Economic Area, abbreviated as EEA, consists of the Member States of the European Union \(EU\) and three countries of the European Free Trade Association \(EFTA\) \(Iceland, Liechtenstein and Norway; excluding Switzerland\). The Agreement on the EEA entered into force on 1 January 1994.
 
-### F
+## F
 
 #### Fault Tolerance
 
@@ -149,9 +145,7 @@ A variation to the Smurf attack is the Fraggle attack. The attack is essentially
 Used to duplicate processing capability at a secondary location. The secondary location could be with the same CSP or it could be a different CSP. It occurs anytime a needed *function*, including DNS, database, or other functionality is replicated to a CSP's other facilities.
 ==-
 
-## G-I
-
-### G
+## G
 
 ==- Gap Analysis
 To create an accurate frame of reference, a gap analysis is conducted. This is like a lightweight audit in that there are generally findings of weaknesses or vulnerabilities, but the purpose is to identify those weaknesses so they can be remediated prior to any actual audit work. It also provides a starting point for those organizations in the early stages of an information system program development, providing them with a clear starting point.
@@ -175,7 +169,7 @@ A standard framework of guidelines for financial accounting.
 
 A geofence is a virtual perimeter for a real-world geographic area.
 
-### H
+## H
 
 #### Hashing
 
@@ -192,7 +186,7 @@ High availability makes use of shared and pooled resources to maintain a high le
 Should be used when the goal is to **minimize** the impact of system downtime.
 :::
 
-### I
+## I
 
 #### Inference
 
@@ -211,9 +205,7 @@ ITSM makes it possible to:
 - Ensure portfolio management, demand management, and financial management are all working together for efficient service delivery to customers and effective charging for services if appropriate
 - Involve all the people and systems necessary to create alignment and ultimately success
 
-## J-L
-
-### J
+## J
 
 #### Jump Server
 
@@ -223,9 +215,11 @@ A jump server, jump host or jump box is a system on a network used to access and
 The difference between a jump server and a bastion host is that a jump server is intended to breach the gap between two security zones and have a gateway to obtain access to something inside of the other security zone. A bastion host is outside of your security zone and will require additional security considerations.
 :::
 
-## M-O
+## K
 
-### M
+## L
+
+## M
 
 ==- Maximum Allowable Downtime (MAD)/Maximum Tolerable Downtime (MTD)
 A measure of how long it would take for an interruption in service to kill an organization. For example, if a company would fail because it had to halt operations for a week, then it's MAD is one week.
@@ -245,7 +239,7 @@ Microsoft Deployment Toolkit is a computer program that permits network deployme
 
 A term used to describe software that works between an operating system and another application or database of some sort. Typically operates above the transport layer and below the application layer.
 
-### N
+## N
 
 #### NERC CIP
 
@@ -255,27 +249,25 @@ The NERC \(North American Electric Reliability Corporation\) CIP \(Critical Infr
 
 The assurance that a specific author actually did create and send a specific item to a specific recipient and that it was successfully received. The sender of the message cannot later credibly deny having sent the message, nor can the recipient credibly claim not to have received it.
 
-### O
+## O
 
 #### Outage Duration
 
 Outage duration is the length of time of a documented outage and is expressed as an amount of time \(minutes, hours, days\).
 
-## P-R
-
-### P
+## P
 
 #### Portfolio Management
 
 A portfolio consists of all endeavors undertaken by an organization. We are looking to show value for each individual endeavor but also the IT program as a whole. For example, are we receiving the value from cloud services that we're looking for?
 
-### Q
+## Q
 
 #### Quantum Computing
 
 A theoretical technology which allows superposition of physical states to increase both computing capacity and encryption keyspace.
 
-### R
+## R
 
 #### Record
 
@@ -314,9 +306,7 @@ A term used to describe a profitability ratio.
 
 Generally calculated by dividing net profit by net assets.
 
-## S-U
-
-### S
+## S
 
 #### Sandboxing
 
@@ -361,7 +351,7 @@ The Smurf attack is a distributed denial-of-service attack in which large number
 Works with a local service to store or archive data to secondary storage using a SAN. This would typically be in the same location.
 ==-
 
-### T
+## T
 
 #### Trust Zones/Security Zones
 
@@ -384,9 +374,11 @@ To protect trust zones:
 
 ![Trust Zones](/static/trust-zones.png)
 
-## V-Z
+## U
 
-### W
+## V
+
+## W
 
 #### Wassenaar Arrangement
 
@@ -399,3 +391,9 @@ A type of long-term storage, meaning it is written to initially and only used fo
 ==- WRT
 The time necessary to very restoration of systems once they have been returned to operation.
 ==-
+
+## X
+
+## Y
+
+## Z
