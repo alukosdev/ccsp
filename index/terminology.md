@@ -1,5 +1,9 @@
 # Terminology
 
+!!!
+Remember, this page isn't to define the words or the acronyms, it's to create a holistic list encompassing all terms and potentially their locations throughout the pages.
+!!!
+
 - AUP
 - Agreed-Upon Procedures (AUP)
 - Auditability
