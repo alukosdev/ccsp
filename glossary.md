@@ -1,7 +1,11 @@
-# Terminology
+---
+icon: list-ordered
+---
+
+# Glossary
 
 !!!danger
-In order for this to be properly considered an "index" of these terms, page references should be provided. This has not yet been accomplished.
+In order for this to be considered an "index" of these terms, page references should be provided. This has not yet been accomplished. I am not sure if this is even necessary since the search feature effectively eliminates the need for an index.
 !!!
 
 ## A-C
