@@ -1,0 +1,89 @@
+# Terminology
+
+- AUP
+- Agreed-Upon Procedures (AUP)
+- Auditability
+- Bastion Host
+- BC
+- BCM
+- BCP
+- Business Continuity (BC)
+- Business Continuity Management (BCM)
+- Business Continuity Plan (BCP)
+- Capability Maturity Model (CMM)
+- CMM
+- Confidentiality
+- Controls
+- Cost Benefit Analysis (CBA)
+- Countermeasure
+- Cross-Cutting Aspects
+- Data Remanance
+- Data Replication
+- Demand Management
+- Digital Signatures
+- Disaster Recovery (DR)
+- Disaster Recovery Plan (DRP)
+- DR
+- DRP
+- EEA
+- Enterprise Application
+- Enterprise Cloud Backup
+- European Economic Area (EEA)
+- Fault Tolerance
+- Financial Management
+- Fraggle Attack
+- Functionality Replication
+- Gap Analysis
+- Generally Accepted Accounting Practices (GAAP)
+- GAAP
+- Geofence
+- Hashing
+- HA
+- High Availability (HA)
+- Inference
+- Integrity
+- IT Service Management (ITSM)
+- ITSM
+- Jump Server
+- Maximum Allowable Downtime (MAD)
+- MAD
+- Maximum Tolerable Downtime (MTD)
+- MTD
+- Microsoft Best Practice Analyzers (BPA)
+- BPA
+- Microsoft Deployment Toolkit (MDT)
+- MDT
+- Middleware
+- North American Electric Reliability Corporation (NERC)
+- Critical Infrastructure Plan (CIP)
+- NERC
+- CIP
+- Nonrepudiation
+- Outage Duration
+- Portfolio Management
+- Quanum Computing
+- Record
+- RPO
+- RTO
+- RSL
+- Recovery Point Objective (RPO)
+- Recovery Time Objective (RTO)
+- Recovery Service Level (RSL)
+- Return on Investment (RoI)
+- RoI
+- Sandboxing
+- Separation of Duties
+- Server Replication
+- Service Oriented Architecture (SOA)
+- Severity Assessment
+- Shadow IT
+- Silos
+- Smurf Attack
+- Storage Replication
+- Trust Zones
+- Security Zones
+- Wassenaar Arrangement
+- Write Once, Read Many (WORM)
+- WORM
+- Work Recovery Time (WRT)
+- WRT
