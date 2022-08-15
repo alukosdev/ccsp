@@ -4,11 +4,11 @@ label: Acronyms
 order: 1200
 ---
 
-# Acronyms, Abbreviations, and Initialisms
-
-!!!danger
+!!!danger Incomplete Page
 We need to add links to the Glossary page. For example, API should link to either API or Application Programming Interface on the Glossary page.
 !!!
+
+# Acronyms, Abbreviations, and Initialisms
 
 | Acronym, Abbreviation, or Initialism | Term | { class="compact" }
 | - | - |
@@ -224,7 +224,3 @@ We need to add links to the Glossary page. For example, API should link to eithe
 | WORM | Write Once, Read Many |
 | WRT | Work Recovery Time |
 | WSTG | Web Security Testing Guide |
-
-!!!warning
-Find an acronym, abbreviation, or initialism on a page that isn't listed here? Please [let us know](https://)!
-!!!
