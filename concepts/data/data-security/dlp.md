@@ -4,7 +4,7 @@ label: Data Loss Prevention
 
 # Data Loss Prevention (DLP)
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |
@@ -13,6 +13,8 @@ label: Data Loss Prevention
 | DIT | Data in Transit |
 | DIU | Data in Use |
 | DLP | Data Loss Prevention |
+
+## Glossary
 
 ==- Content Discovery
 Includes the tools and processes to identify sensitive information in storage.

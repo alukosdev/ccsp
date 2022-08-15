@@ -4,7 +4,7 @@ order: 1200
 
 # Governance
 
-## Quick Reference
+## Glossary
 
 === Loss of Governance
 The risk that the client cedes control to the cloud provider.

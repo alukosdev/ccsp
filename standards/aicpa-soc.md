@@ -4,7 +4,7 @@ categories: [Auditing and Assurance]
 
 # AICPA SOC
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |

@@ -6,7 +6,7 @@ categories: [Secure Architecture and Design]
 
 > Sherwood Applied Business Security Architecture
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |

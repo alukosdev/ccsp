@@ -5,7 +5,7 @@ tags: [privacy, efta]
 
 # EFTA
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |

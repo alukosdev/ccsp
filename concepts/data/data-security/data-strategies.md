@@ -1,6 +1,6 @@
 # Data Strategies
 
-## Quick Reference
+## Glossary
 
 ==- Snarfing
 The action of grabbing data and using it without the owner's consent.

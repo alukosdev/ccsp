@@ -1,10 +1,12 @@
 # Configuration Management
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |
 | CI | Configuration Item |
+
+## Glossary
 
 === Configuration Item (CI)
 Configuration items can be applied to anything designated for the application of the elements of configuration management and treated as a single entity in the configuration-management system. Examples of CI types include:

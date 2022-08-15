@@ -1,10 +1,12 @@
 # Logging
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |
 | SIEM | Security Information and Event Management |
+
+## Glossary
 
 ==- Aggregation
 The ability of a SIEM to collect logs from several data sources.

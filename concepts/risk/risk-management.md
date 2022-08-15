@@ -1,6 +1,6 @@
 # Risk Management
 
-## Quick Reference
+## Acronyms
 
 ==- Acronyms
 | Acronym | Backronym |
@@ -10,8 +10,13 @@
 | AV | Asset Value |
 | EF | Exposure Factor |
 | SLE | Single Loss Expectancy |
-==- Annualized Loss Expectancy (ALE)
+==-
 
+## Glossary
+
+==- Annualized Loss Expectancy (ALE)
+The annualized loss expectancy is a product of the yearly estimate for the exploit (ARO) and the loss in value of an asset after an SLE.
+`ALE = SLE * ARO`
 ==- Risk Modeling
 Risk modeling is based on an asset or a threat.
 ==- Risk Register

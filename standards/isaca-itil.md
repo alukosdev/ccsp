@@ -7,7 +7,7 @@ tags: [isaca]
 
 > Information Technology Infrastructure Library
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |

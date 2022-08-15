@@ -5,7 +5,7 @@ tags: [australia, privacy]
 
 # Privacy Act 1988
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |

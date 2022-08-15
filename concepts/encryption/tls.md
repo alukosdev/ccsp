@@ -1,6 +1,6 @@
 # TLS
 
-## Quick Reference
+## Acronyms
 
 ==- Acronyms found on this page
 | Acronym | Backronym |
@@ -10,6 +10,8 @@
 | DIT | Data in Transit |
 | TLS | Transport Layer Security |
 ==-
+
+## Glossary
 
 ==- TLS Authentication
 When the server proves its identity to the client.

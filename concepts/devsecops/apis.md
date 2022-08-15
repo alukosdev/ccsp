@@ -4,7 +4,7 @@ label: Application Programming Interfaces
 
 # Application Programming Interfaces (APIs)
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |

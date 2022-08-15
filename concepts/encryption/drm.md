@@ -4,7 +4,7 @@ label: Digital Rights Management
 
 # Digital Rights Management (DRM)
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Definition |
 | - | - |

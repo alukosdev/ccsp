@@ -5,7 +5,7 @@ tags: [nist]
 
 # NIST Framework for Improving Critical Infrastructure Cybersecurity
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |

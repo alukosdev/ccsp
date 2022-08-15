@@ -1,6 +1,6 @@
 # Business Requirements
 
-## Quick Reference
+## Glossary
 
 ### Business Requirements
 

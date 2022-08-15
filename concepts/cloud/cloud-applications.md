@@ -1,6 +1,6 @@
 # Cloud Applications
 
-## Quick Reference
+## Glossary
 
 ==- Forklifting
 The idea of moving an existing legacy enterprise application to the cloud with little or no code changes.

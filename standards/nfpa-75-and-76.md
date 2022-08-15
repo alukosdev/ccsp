@@ -5,7 +5,7 @@ tags: [nfpa]
 
 # NFPA 75 and 76
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |

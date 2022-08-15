@@ -1,6 +1,6 @@
 # Forensics Fundamentals
 
-## Quick Reference
+## Glossary
 
 ==- Cloud Computing Forensic Science
 The application of scientific principles, technological practices, and derived and proven methods to reconstruct past cloud computing events through identification, collection, preservation, examination, interpretation, and reporting of digital evidence.

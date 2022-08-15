@@ -7,7 +7,7 @@ tags: [aicpa, cica]
 
 > Generally Accepted Privacy Principles
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |

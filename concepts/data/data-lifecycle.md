@@ -1,6 +1,6 @@
 # Data Lifecycle
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |

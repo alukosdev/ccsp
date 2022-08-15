@@ -5,7 +5,7 @@ privacy: [united states]
 
 # HITECH
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |

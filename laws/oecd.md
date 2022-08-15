@@ -5,7 +5,7 @@ tags: [international, privacy]
 
 # OECD
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |

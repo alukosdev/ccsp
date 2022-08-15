@@ -1,6 +1,6 @@
 # Encryption Fundamentals
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |
@@ -17,6 +17,8 @@
 | SaaS | Software as a Service |
 | TPM | Trusted Platform Module |
 | WDE | Whole Disk Encryption |
+
+## Glossary
 
 ==- Diffie-Hellman
 The Diffie-Hellman *key exchange process* is used for *asymmetric encryption* and is designed to allow two parties to create a shared secret (symmetric key) over an untrusted medium.

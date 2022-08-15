@@ -4,7 +4,7 @@ label: Single Sign-On
 
 # Single Sign-On (SSO)
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |
@@ -13,6 +13,8 @@ label: Single Sign-On
 | SCIM | System for Cross-domain Identity Management |
 | SPML | Service Provisioning Markup Language |
 | SSO | Single Sign-On |
+
+## Glossary
 
 ==- Federated SSO
 Federated SSO is typically used for facilitating interorganizational and intersecurity domain access to resources leveraging federated identity management.

@@ -4,12 +4,14 @@ label: Software Development Lifecycle
 
 # Software Development Lifecycle (SDLC)
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |
 | IaC | Infrastructure as Code |
 | SDLC | Software Development Lifecycle |
+
+## Glossary
 
 ==- Application Accreditation
 The application has been approved by management.

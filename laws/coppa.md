@@ -5,7 +5,7 @@ tags: [privacy, united states]
 
 # COPPA
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |

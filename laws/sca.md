@@ -5,7 +5,7 @@ tags: [privacy, united states]
 
 # SCA
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |

@@ -5,7 +5,7 @@ tags: [owasp]
 
 # OWASP WSTG
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |

@@ -4,7 +4,7 @@ order: 1700
 
 # Contracts
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |
@@ -14,6 +14,8 @@ order: 1700
 | OLA | Operational-Level Agreement |
 | PLA | Privacy-Level Agreement |
 | SLA | Service-Level Agreement |
+
+## Glossary
 
 === Memorandum of Agreement/Understanding (MOA/MOU)
 A *nonbinding* agreement between two or more parties outlining the terms and details of an understanding, including each parties' requirements and responsibilities.

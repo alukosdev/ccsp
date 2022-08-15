@@ -5,7 +5,7 @@ tags: [copyright, united states]
 
 # DMCA
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backroynm |
 | - | - |

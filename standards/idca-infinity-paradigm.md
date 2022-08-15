@@ -5,7 +5,7 @@ tags: [idca]
 
 # IDCA Infinity Paradigm
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |

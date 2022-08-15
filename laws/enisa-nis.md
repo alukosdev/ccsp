@@ -5,7 +5,7 @@ tags: [eea, enisa, eu, privacy]
 
 # ENISA NIS
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |

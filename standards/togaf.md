@@ -6,7 +6,7 @@ categories: [Secure Architecture and Design]
 
 > The Open Group Architecture Framework
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |

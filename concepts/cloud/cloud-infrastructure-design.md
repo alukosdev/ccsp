@@ -1,6 +1,6 @@
 # Cloud Infrastructure Design
 
-## Quick Reference
+## Glossary
 
 ==- Chicken Coop
 A design methodology in which a datacenter arranges racks within long rectangles with a long side facing the wind to provide natural cooling.

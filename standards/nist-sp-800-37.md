@@ -7,7 +7,7 @@ tags: [nist]
 
 > Guide for Applying the Risk Management Framework to Federal Information Systems
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |

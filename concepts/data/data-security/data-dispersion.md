@@ -1,6 +1,6 @@
 # Data Dispersion
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |

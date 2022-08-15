@@ -4,7 +4,7 @@ label: Identity and Access Management
 
 # Identity and Access Management (IAM)
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |
@@ -13,6 +13,8 @@ label: Identity and Access Management
 | RBAC | Role-Based Access Control |
 | SCIM | System for Cross-domain Identity Management |
 | SPML | Service Provisioning Markup Language |
+
+## Glossary
 
 ==- Access Control
 Access control is restricting access to resources.

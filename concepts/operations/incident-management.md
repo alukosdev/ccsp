@@ -1,11 +1,13 @@
 # Incident Management
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |
 | IMT | Incident Management Team |
 | IRT | Incident Response Team |
+
+## Glossary
 
 === Event
 According to the ITIL framework, an event is defined as a change of state that has significance for the management of an IT service or other CI. This could be any unscheduled adverse impact to the operating environment.

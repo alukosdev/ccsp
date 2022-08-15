@@ -9,7 +9,7 @@ tags: [csa]
 This page requires formatting updates to make it easier to flow. Additionally, it seems CSA has updated some of their verbiage. Therefore, this page should be reviewed and updated accordingly.
 !!!
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |
@@ -19,6 +19,8 @@ This page requires formatting updates to make it easier to flow. Additionally, i
 | CSA | Cloud Security Alliance |
 | CTP | CloudTrust Protocol |
 | STAR | Security, Trust, and Assurance Registry |
+
+## Glossary
 
 === CAIQ
 A self-assessment performed by cloud providers, detailing their evaluation of the practice areas and control groups they use in providing their services.

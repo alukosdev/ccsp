@@ -4,7 +4,7 @@ label: Release and Deployment Management
 
 # Release and Deployment Management (RDM)
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |

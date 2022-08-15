@@ -4,12 +4,14 @@ label: Multifactor Authentication
 
 # Multifactor Authentication (MFA)
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |
 | MFA | Multifactor Authentication |
 | TOTP | Time-Based One-Time Password |
+
+## Glossary
 
 ==- Step-Up Authentication
 

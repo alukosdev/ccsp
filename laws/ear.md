@@ -5,7 +5,7 @@ tags: [united states]
 
 # EAR
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |

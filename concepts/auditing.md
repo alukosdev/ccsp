@@ -4,11 +4,13 @@ order: 2000
 
 # Auditing
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |
 | AUP | Agreed-Upon Procedures |
+
+## Glossary
 
 === AUP
 An agreed-upon procedure is a standard a company or client outlines when it hires an external party to perform an audit on a specific test or business process. The procedures, which are called audit standards, are designed and agreed upon by the entity conducting the audit, as well as any appropriate third parties.

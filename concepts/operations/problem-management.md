@@ -1,6 +1,6 @@
 # Problem Management
 
-## Quick Reference
+## Glossary
 
 === Problem
 A problem is the *unknown* root cause of one or more incidents, often identified as a result of multiple similar incidents.

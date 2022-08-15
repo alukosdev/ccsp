@@ -5,7 +5,7 @@ tags: [enisa]
 
 # ENISA CCSL
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |

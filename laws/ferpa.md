@@ -5,7 +5,7 @@ tags: [privacy, united states]
 
 # FERPA
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |

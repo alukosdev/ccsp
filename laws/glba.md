@@ -5,7 +5,7 @@ tags: [united states]
 
 # GLBA
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |

@@ -4,7 +4,7 @@ categories: [Laws, Privacy Laws, United States Laws]
 
 # ECPA
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |

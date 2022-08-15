@@ -5,7 +5,7 @@ tags: [united states]
 
 # ITAR
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |

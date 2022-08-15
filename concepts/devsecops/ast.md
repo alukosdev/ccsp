@@ -4,7 +4,7 @@ label: Application Security Testing
 
 # Application Security Testing (AST)
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |
@@ -12,6 +12,8 @@ label: Application Security Testing
 | DAST | Dynamic Application Security Testing |
 | RASP | Runtime Application Self-Protection |
 | SAST | Static Application Security Testing |
+
+## Glossary
 
 ==- Black-Box Testing
 Testing the program as it functions, in runtime.

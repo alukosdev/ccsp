@@ -4,7 +4,7 @@ order: 1000
 
 # Legal
 
-## Quick Reference
+## Glossary
 
 === Applicable Law
 Determines the legal standing of a case or issue.

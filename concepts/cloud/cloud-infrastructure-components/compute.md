@@ -1,6 +1,6 @@
 # Compute
 
-## Quick Reference
+## Glossary
 
 ==- Affinity
 Grouping of resources.

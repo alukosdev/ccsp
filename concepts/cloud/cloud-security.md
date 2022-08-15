@@ -1,6 +1,6 @@
 # Cloud Security
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |
@@ -8,6 +8,8 @@
 | DAM | Database Activity Monitoring |
 | FAM | File Activity Monitoring |
 | WAF | Web Application Firewall |
+
+## Glossary
 
 ==- API Gateway
 An API gateway translates requests from clients into multiple requests to many microservices and delivers the content as a whole via an API it assigns to that client/session.

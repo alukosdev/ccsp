@@ -1,6 +1,11 @@
 # Network
 
-## Quick Reference
+## Acronyms
+
+| Acronym | Backronym |
+| - | - |
+| NBI | Northbound Interface |
+| SBI | Southbound Interface |
 
 ![Network Models](/static/network-models.png)
 

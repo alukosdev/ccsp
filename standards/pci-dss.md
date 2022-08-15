@@ -7,7 +7,7 @@ tags: [pci]
 
 > Payment Card Industry Data Security Standards
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |
@@ -22,6 +22,8 @@ tags: [pci]
 | RoC |	Report of Compliance |
 | SAD |	Sensitive Authentication Data |
 | SAQ |	Self-Assessment Questionnaire |
+
+## Glossary
 
 === ISA
 An ISA is an individual who has earned a certificate from the PCI Security Standards Company for their sponsoring organization. This certified person has the ability to perform PCI self-assessments for their organization.

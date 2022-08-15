@@ -4,7 +4,7 @@ label: Business Continuity and Disaster Recovery
 
 # Business Continuity and Disaster Recovery (BCDR)
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |
@@ -20,6 +20,8 @@ label: Business Continuity and Disaster Recovery
 | RSL	| Recovery Service Level |
 | RTO	| Recovery Time Objective |
 | WRT	| Work Recovery Time |
+
+## Glossary
 
 === Business Continuity
 Business continuity efforts are concerned with maintaining (or "continuing") critical operations during any interruption in service.

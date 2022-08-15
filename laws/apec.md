@@ -5,7 +5,7 @@ tags: [apec, privacy]
 
 # APEC
 
-## Quick Reference
+## Acronyms
 
 | Acronym | Backronym |
 | - | - |
