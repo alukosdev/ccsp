@@ -125,7 +125,7 @@ We need to add links to the Glossary page. For example, API should link to eithe
 | IRT | Incident Response Team |
 | ISA | Internal Security Assessor |
 | ISM | Information Security Management |
-| ISO | International Organization for Standardization <br> Information Security Officer |
+| ISO | Information Security Officer <br> International Organization for Standardization |
 | ISP | Information Security Plan |
 | IT | Information Technology |
 | ITAR | International Traffic in Arms Regulations |
