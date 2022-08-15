@@ -3,7 +3,7 @@ order: 200
 ---
 
 :::banner
-The following Code of Ethics is derived from the official [\(ISC\)² Code of Ethics](https://www.isc2.org/Ethics).
+The following Code of Ethics is derived from the official ![\(ISC\)² Code of Ethics](https://www.isc2.org/Ethics).
 :::
 
 # Code of Ethics
