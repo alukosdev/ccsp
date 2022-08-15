@@ -75,7 +75,7 @@ This page should link to the Glossary page. For example, API should link to eith
 | DIT | Data in Transit |
 | DIU | Data in Use |
 | DMCA | Digital Millenium Copyright Act |
-| DLP | Data Loss Prevention *see also* Data Leak Prevention |
+| DLP | Data Leak Prevention <br> Data Loss Prevention |
 | DoC | Department of Commerce |
 | DoT | Department of Transportation |
 | DPA | Data Protection Act |
@@ -128,7 +128,7 @@ This page should link to the Glossary page. For example, API should link to eith
 | IRT | Incident Response Team |
 | ISA | Internal Security Assessor |
 | ISM | Information Security Management |
-| ISO | Information Security Officer *see also* |
+| ISO | International Organization for Standardization <br> Information Security Officer |
 | ISP | Information Security Plan |
 | IT | Information Technology |
 | ITAR | International Traffic in Arms Regulations |
@@ -193,7 +193,7 @@ This page should link to the Glossary page. For example, API should link to eith
 | SAST | Static Application Security Testing |
 | SBI | Southbound Interface |
 | SBU | Sensitive But Unclassified |
-| SCA | Source Code Analysis *also see* Stored Communication Act |
+| SCA | Source Code Analysis <br> Stored Communication Act |
 | SCIM | System for Cross-domain Identity Management |
 | SDLC | Software Development Lifecycle |
 | SDN | Software-Defined Networking |
