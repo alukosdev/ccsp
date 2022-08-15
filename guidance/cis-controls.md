@@ -15,7 +15,7 @@ This page is currently being updated for the 2022 version of the CCSP.
 
 ## Acronyms
 
-| Acronym | Backronym |
+| Acronym | Backronym | { class="compact" }
 | - | - |
 | CIS | Center for Internet Security |
 | CSC | Critical Security Controls (formerly) |
@@ -89,4 +89,4 @@ Organizations should gather the following information to automate the collection
 - [OktaDev] (2019, November 5). An Illustrated Guide to OAuth and OpenID Connect  [Video]. YouTube. https://www.youtube.com/watch?v=t18YB3xDfXI
 - [Programming with Mosh] (2018, January 19). What is a REST API? [Video]. YouTube. https://www.youtube.com/watch?v=SLwpqD8n3d0
 - Cloud Security Alliance. (2017). Security Guidance v4.0 [PDF file]. https://cloudsecurityalliance.org/research/guidance/
-- Center for Internet Security. (2021, May 18). CIS Critical Security Controls Version 8 [PDF file]. https://www.cisecurity.org/controls/v8{:target="_blank"}
+- Center for Internet Security. (2021, May 18). CIS Critical Security Controls Version 8 [PDF file]. https://www.cisecurity.org/controls/v8
