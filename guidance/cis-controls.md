@@ -26,7 +26,7 @@ The CIS Controls (formerly known as Critical Security Controls) are a recommende
 
 ## Controls
 
-| Control Number | Control Name |
+| Control Number | Control Name | { class="compact" }
 | - | - |
 | Control 01 | Inventory and Control of Enterprise Assets |
 | Control 02 | Inventory and Control of Software Assets |
@@ -46,6 +46,7 @@ The CIS Controls (formerly known as Critical Security Controls) are a recommende
 | Control 16 | Application Software Security |
 | Control 17 | Incident Response Management |
 | Control 18 | Penetration Testing |
+
 [[²]](#2-httpswwwcisecurityorgcontrolsv8)
 
 !!!
@@ -76,6 +77,11 @@ Organizations should gather the following information to automate the collection
 
 ###### 1. https://www.sans.org/blog/cis-controls-v8/
 ###### 2. https://www.cisecurity.org/controls/v8
+
+| TEsting | Someformatting |
+| - | - |
+| ###### 1 | https:// |
+| ###### 6 | poop |
 
 ## Sources
 
