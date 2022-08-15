@@ -202,7 +202,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | SLE | Single Loss Expectancy |
 | SLM | Service Level Management |
 | SMSS | Secret Sharing Made Short |
-| SOA | [Service-Oriented Architecture](/reference/glossary/service-oriented-architecture-soa) |
+| SOA | [Service-Oriented Architecture](/reference/glossary/#service-oriented-architecture-soa) |
 | SOAP | Simple Object Access Protocol |
 | SOC | System and Organization Controls |
 | SOX | Sarbanes-Oxley Act |
@@ -224,6 +224,6 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | VMI | Virtual Machine Introspection |
 | WAF | Web Application Firewall |
 | WDE | Whole Disk Encryption |
-| WORM | [Write Once, Read Many](/reference/glossary/write-once-read-many-worm) |
+| WORM | [Write Once, Read Many](/reference/glossary/#write-once-read-many-worm) |
 | WRT | Work Recovery Time |
 | WSTG | Web Security Testing Guide |
