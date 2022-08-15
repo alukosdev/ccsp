@@ -33,12 +33,16 @@ The difference between a jump server and a bastion host is that a jump server is
 Business continuity efforts are concerned with maintaining (or "continuing") critical operations during any interruption in service.
 
 Business continuity is defined as the capability of the organization to "continue" delivery of products or services at acceptable predefined levels following a disruptive incident. It focuses primarily on the continuity of business processes (as opposed to technical processes).
+==-
+
 ==- Business Continuity Management (BCM)
 Business continuity management is the process by which risks and threats are actively reviewed and managed at set intervals as part of the overall risk management process.
 
 BCM is defined as a holistic management process that identifies potential threats to an organization and the impacts to business operations those threats, if realized, might cause.
 
 It provides a framework for building organizational resilience with the capability of an effective response that safeguards the interests of its key stakeholders, reputation, brand, and value-creating activities.
+==-
+
 ==- Business Continuity Plan (BCP)
 The business continuity plan allows a business to plan what it needs to do to ensure that its key products and services *continue to be delivered* in case of a disaster.
 
