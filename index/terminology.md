@@ -14,6 +14,8 @@ Remember, this page isn't to define the words or the acronyms, it's to create a 
 - Business Continuity (BC)
 - Business Continuity Management (BCM)
 - Business Continuity Plan (BCP)
+- Business Impact Analysis (BIA)
+- BIA
 - Capability Maturity Model (CMM)
 - CMM
 - Confidentiality

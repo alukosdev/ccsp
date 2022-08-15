@@ -6,7 +6,7 @@ order: 1100
 # Glossary
 
 !!!danger
-In order for this to be considered an "index" of these terms, page references should be provided. This has not yet been accomplished. I am not sure if this is even necessary since the search feature effectively eliminates the need for an index.
+Should this page should be updated to contain both the word as well as the hyphenised acronym? Or should it just contain the acronym and then the definition can contain the word with the hypenised acronym?
 !!!
 
 ## A
