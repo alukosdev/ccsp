@@ -1,7 +1,5 @@
 ---
-icon: typography
 label: Acronyms
-order: 1200
 ---
 
 !!!danger Incomplete Page
