@@ -18,7 +18,7 @@ This page is currently being updated for the 2022 version of the CCSP exam.
 
 ## Overview
 
-The CIS Controls (formerly known as Critical Security Controls) are a recommended set of actions for cyber defense that provide specific and actionable ways to stop today's most pervasive and dangerous attacks.[¹](#1-httpswwwsansorgblogcis-controls-v8)
+The CIS Controls (formerly known as Critical Security Controls) are a recommended set of actions for cyber defense that provide specific and actionable ways to stop today's most pervasive and dangerous attacks.(¹)[#1-httpswwwsansorgblogcis-controls-v8]
 
 ## Controls
 
@@ -96,3 +96,7 @@ Organizations should gather the following information to automate the collection
 - (ISC)². \(2022\). (ISC)² Code of Ethics. https://www.isc2.org/Ethics
 - (ISC)². \(2022, August 1\). Certification Exam Outline. \[PDF file\]. https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CCSP-Exam-Outline-2022.ashx
 - Cloud Security Alliance. \(2017\). Security Guidance v4.0 \[PDF file\]. https://cloudsecurityalliance.org/research/guidance/
+
+==- Hello there!
+Sup there dawg.
+==-
