@@ -3,11 +3,11 @@ icon: home
 label: Welcome
 ---
 
-# Welcome
-
-!!!danger
-We are actively working to ensure these notes are updated to reflect the latest exam revision released on August 1st, 2022. The content on these pages may change dynamically as these updates occur. We appreciate your patience and understanding! :heart:
+!!!danger Disclaimer
+We are actively updating these notes to reflect the latest exam revision released on August 1st, 2022. The content on these pages will change dynamically as these updates occur. We appreciate your patience and understanding! :heart:
 !!!
+
+# Welcome
 
 !!!
 Information contained within these notes is copyrighted. Sources of copyrighted information have been documented on their respective pages.
