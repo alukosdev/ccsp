@@ -8,9 +8,15 @@ We need to add links to the Glossary page. For example, API should link to eithe
 
 # Acronyms, Abbreviations, and Initialisms
 
+!!!
+Please note that not all acronyms, abbreviations, and initialisms referenced below exist in the glossary with a simple definition. Some acronyms, abbreviations, and initialisms describe concepts, laws, standards, or guidance that require more thoughtful explanation and may exist in their own respective page or pages.
+!!!
+
 | Acronym, Abbreviation, or Initialism | Glossary Term | { class="compact" }
 | - | - |
-| ABAC | Attribute-Based Access Control |
+| ABAC | ==- Attribute-Based Access Control
+This is my definition!
+==- |
 | AICPA | American Institute of Certified Public Accountants |
 | ALE | Annualized Loss Expectancy |
 | ANF | Application Normative Framework |
