@@ -8,7 +8,7 @@ The following CIS Controls are derived from the official [CIS Critical Security 
 :::
 
 !!!danger
-This page is currently being updated for the 2022 version of the CCSP exam.
+This page is currently being updated for the 2022 version of the CCSP.
 !!!
 
 # CIS Controls
