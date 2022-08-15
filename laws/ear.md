@@ -9,7 +9,7 @@ tags: [united states]
 
 | Acronym | Backronym |
 | - | - |
-| CCL | Communications Control List |
+| CCL | Commerce Control List |
 | EAR | Export Administration Regulations |
 | USML | United States Munitions List |
 

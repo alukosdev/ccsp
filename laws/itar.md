@@ -9,7 +9,7 @@ tags: [united states]
 
 | Acronym | Backronym |
 | - | - |
-| CCL | Commercial Control List |
+| CCL | Commerce Control List |
 | ITAR | International Traffic in Arms Regulations |
 | USML | United States Munitions List |
 

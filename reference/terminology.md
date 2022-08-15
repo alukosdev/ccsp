@@ -329,7 +329,6 @@ Remember, this page isn't to define the words or the acronyms, it's to create a 
 - Organization for Economic Cooperation and Development (OECD)
 - Digital Millenium Copyright Act (DMCA)
 - Export Administration Regulations (EAR)
-- Communications Control List (CCL)
 - United States Munitions List (USML)
 - Electronic Communication Privacy Act (ECPA)
 - European Free Trade Association (EFTA)
@@ -353,7 +352,7 @@ Remember, this page isn't to define the words or the acronyms, it's to create a 
 - Electronic Health Records (EHR)
 - Health Information Technology for Economic and Clinical Health (HITECH)
 - International Traffic in Arms Regulations (ITAR)
-- Commerce Control List (CCL) **FIX THIS**
+- Commerce Control List (CCL)
 - Personal Data Protection Act (PDPA)
 - Personal Information Protection and Electronics Document Act (PIPEDA)
 - Australian Privacy Principles (APP)

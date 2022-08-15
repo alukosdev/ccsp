@@ -9,7 +9,7 @@ We need to add links to the Glossary page. For example, API should link to eithe
 # Acronyms, Abbreviations, and Initialisms
 
 !!!
-Please note that not all acronyms, abbreviations, and initialisms referenced below exist in the glossary with a simple definition. Some acronyms, abbreviations, and initialisms describe concepts, laws, standards, or guidance that require more thoughtful explanation and may exist in their own respective page or pages. Please use the search feature to locate these terms.
+Please note that not all acronyms, abbreviations, and initialisms referenced below exist in the glossary with a simple definition. Some acronyms, abbreviations, and initialisms describe concepts, laws, standards, or guidance that require more thoughtful explanation and may exist in their own respective page or pages. Please use the search feature to research these terms.
 !!!
 
 | Acronym, Abbreviation, or Initialism | Glossary Term | { class="compact" }
