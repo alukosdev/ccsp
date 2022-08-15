@@ -7,27 +7,34 @@ Should this page should be updated to contain both the word as well as the hyphe
 ## A
 
 ==- Agreed-Upon Procedures (AUP)
+
 An agreed-upon procedure is a standard a company or client outlines when it hires an external party to perform an audit on a specific test or business process. The procedures, which are called audit standards, are designed and agreed upon by the entity conducting the audit, as well as any appropriate third parties.
 
 The auditor does not provide an opinion; rather, the entities or third parties form their own conclusions based on the report.
+
 ==- Auditability
+
 Auditability is collecting and making available necessary evidence related to the operation and use of the cloud.
+
 ==-
 
 ## B
 
-#### Bastion Host
+==- Bastion Host
 
 A bastion host is a method for remote access to a secure environment. The bastion host is an extremely hardened device that is typically focused on providing access to one application or for one particular usage. Having the device set up in this focused manner makes hardening it more effective. Bastion hosts are made publicly available on the Internet.
 
-:::
+
+!!!
 The difference between a jump server and a bastion host is that a jump server is intended to breach the gap between two security zones and have a gateway to obtain access to something inside of the other security zone. A bastion host is outside of your security zone and will require additional security considerations.
-:::
+!!!
 
 ==- Business Continuity (BC)
+
 Business continuity efforts are concerned with maintaining (or "continuing") critical operations during any interruption in service.
 
 Business continuity is defined as the capability of the organization to "continue" delivery of products or services at acceptable predefined levels following a disruptive incident. It focuses primarily on the continuity of business processes (as opposed to technical processes).
+
 ==-
 
 ==- Business Continuity Management (BCM)
