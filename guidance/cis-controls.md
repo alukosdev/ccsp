@@ -45,7 +45,8 @@ The CIS Controls (formerly known as Critical Security Controls) are a recommende
 | Control 15 | Service Provider Management |
 | Control 16 | Application Software Security |
 | Control 17 | Incident Response Management |
-| Control 18 | Penetration Testing | [[²]](#2-httpswwwcisecurityorgcontrolsv8)
+| Control 18 | Penetration Testing |
+[[²]](#2-httpswwwcisecurityorgcontrolsv8)
 
 !!!
 An underlying theme for these controls is support for large-scale, standards-based security automation for the management of cyber defenses.
