@@ -10,6 +10,7 @@ The protection of PII.
 Processing is any *manipulation* of the data, to include security or destroying it, in electronic or hard-copy form. Viewing data is not considered processing.
 ==- Security
 The owner's right to determine to whom information is disclosed. Security protects privacy.
+==-
 
 ## Direct and Indirect Identifiers
 

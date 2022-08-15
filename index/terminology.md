@@ -4,8 +4,134 @@
 Remember, this page isn't to define the words or the acronyms, it's to create a holistic list encompassing all terms and potentially their locations throughout the pages.
 !!!
 
+- Audit Planning
+- Internal Audit
+- External Audit
 - AUP
+- CapEx
+- Capital Expenditure (CapEx)
+- OpEx
+- Operational Expenditure (OpEx)
+- Affinity
+- Anti-affinity
+- KVM?
+- Cable Mining
+- Mean Time Before Failure (MTBF)
+- Mean Time to Repair (MTTR)
+- Mean Time to Switchover (MTTS)
+- Plenum
+- MTBF
+- MTTR
+- MTTS
+- FM-200
+- Halon
+- Compute Parameters
+- Limits
+- Reservations
+- Shares
+- Northbound Interface (NBI)
+- NBI
+- Southbound Interface (SBI)
+- SBI
+- Software-Defined Networking (SDN)
+- SDN
+- API
+- Application Programming Interface (API)
+- Database Activity Monitoring (DAM)
+- DAM
+- File Activity Monitoring (FAM)
+- FAM
+- Web Application Firewall (WAF)
+- WAF
+- API Gateway
+- Honeynet
+- Honeypot
+- Infrastructure-as-a-Service (IaaS)
+- Platform-as-a-Service (PaaS)
+- Software-as-a-Service (SaaS)
+- IaaS
+- PaaS
+- SaaS
+- XML Gateway
+- Traditional Networking
+- Converged Networking
+- Volume Storage
+- Object Storage
+- Structured Storage
+- Unstructured Storage
+- Information Storage and Management
+- Content and File Storage
+- Ephemeral Storage
+- Content Delivery Network (CDN)
+- CDN
+- Tightly Coupled
+- Loosely Coupled
+- Primary Storage
+- Secondary Storage
 - Agreed-Upon Procedures (AUP)
+- Type 1 Hypervisor
+- Type 2 Hypervisor
+- Virtual Local Area Network (VLAN)
+- Distributed Resource Scheduling (DRS)
+- DRS
+- Apache CloudStack
+- Capacity
+- Cloud App
+- Cloud Application Management for Platforms (CAMP)
+- CAMP
+- Cloud Appropriateness
+- Cloud Bursting
+- Cloud Deployment
+- Cloud Migration
+- Cloud Provisioning
+- Cloud Standards Customer Council (CSCC)
+- Cloud Testing
+- Cloud Washing
+- Compliance-as-a-Service (CompaaS/CaaS)
+- CompaaS
+- CaaS
+- Data Science as a Service (DSaaS)
+- DSaaS
+- Dynamic Optimization
+- Elasticity
+- Eucalyptus
+- Multitenancy
+- Networking as a Service (NaaS)
+- NaaS
+- Scalability
+- Simplicity
+- Sprawl
+- Tenancy Separation
+- Vertical Cloud Computing
+- Cloud Access Security Broker (CASB)
+- CASB
+- Cloud Application Architect
+- Cloud Architect
+- Cloud Carrier
+- Cloud Data Architect
+- Cloud Developer
+- Cloud Service Auditor
+- Cloud Service Broker (CSB)
+- CSB
+- Cloud Service Customer
+- Cloud Service Consumer
+- Cloud Service Integrator
+- Cloud Service Manager
+- Cloud Service Operations Manager
+- Cloud Service Provider (CSP)
+- CSP
+- Cloud Service User
+- Cloud Storage Administrator
+- Cloud User
+- Managed Service Provider (MSP)
+- MSP
+- Virtual Machine Introspection (VMI)
+- VMI
+- Forklifting
+- Virtual Switches
+- Application Virtualization
+- Live Migration
+- VLAN
 - Auditability
 - Bastion Host
 - BC
@@ -15,6 +141,11 @@ Remember, this page isn't to define the words or the acronyms, it's to create a 
 - Business Continuity Management (BCM)
 - Business Continuity Plan (BCP)
 - Business Impact Analysis (BIA)
+- Business Requirements
+- Business Rules
+- Scoping
+- Functional Requirements
+- Nonfunctional Requirements
 - BIA
 - Capability Maturity Model (CMM)
 - CMM
@@ -93,3 +224,415 @@ Remember, this page isn't to define the words or the acronyms, it's to create a 
 - WORM
 - Work Recovery Time (WRT)
 - WRT
+- Letter of Intent (LOI)
+- LOI
+- Memorandum of Agreement (MOA)
+- MOA
+- Memorandum of Understanding (MOU)
+- MOU
+- Operational-Level Agreement (OLA)
+- OLA
+- Privacy-Level Agreement (PLA)
+- PLA
+- Service-Level Agremeent (SLA)
+- All-or-Nothing-Transform with Reed-Solomon (AONT-RS)
+- AONT-RS
+- SMSS
+- Secret Sharing Made Short (SMSS)
+- Bit Splitting
+- Erasure Coding
+- Data at Rest (DAR)
+- DAR
+- Data in Motion (DIM)
+- DIM
+- Data in Transit (DIT)
+- DIT
+- Data in Use (DIU)
+- DIU
+- Data Loss Prevention (DLP)
+- DLP
+- Content Discovery
+- Snarfing
+- Mapping
+- Digital Rights Management (DRM)
+- DRM
+- Information Rights Management (IRM)
+- IRM
+- Personal Data
+- Privacy
+- Processing
+- Security
+- Data Owner
+- Data Controller
+- Data Custodian
+- Data Processor
+- Data Steward
+- Data Subject
+- Representational State Transfer (REST)
+- REST
+- Simple Object Access Protocol (SOAP)
+- SOAP
+- Application Security Testing (AST)
+- AST
+- Dynamic Application Security Testing (DAST)
+- DAST
+- Runtime Application Self-Protection (RASP)
+- RASP
+- Static Application Security Testing (SAST)
+- SAST
+- Black-Box Testing
+- Event-Driven Security
+- Functional Testing
+- OWASP Dependency-Check
+- Regression Testing
+- Source Code Analysis (SCA)
+- SCA
+- Software Assurance
+- Software-Defined Security
+- White-Box Testing
+- Infrastructure as Code (IaC)
+- IaC
+- Software Development Lifecycle (SDLC)
+- SDLC
+- Application Accreditation
+- Application Certification
+- Encrypting File System (EFS)
+- EFS
+- Full Disk Encryption (FDE)
+- FDE
+- Whole Disk Encryption (WDE)
+- WDE
+- Format-Preserving Encryption (FPE)
+- FPE
+- Hardware Security Module (HSM)
+- HSM
+- Trusted Platform Module (TPM)
+- TPM
+- Diffie-Hellman
+- Homomorphic Encryption
+- IPsec
+- Transport Layer Security (TLS)
+- TLS
+- TLS Authentication
+- Electronically Stored Information (ESI)
+- ESI
+- Cloud Computing Forensic Science
+- Digital Forensics
+- Forensic Science
+- Network Forensics
+- Security Information and Event Management (SIEM)
+- SIEM
+- Aggregation
+- Correlation
+- Loss of Governance
+- Federated Identity Management (FIM)
+- FIM
+- Identity and Access Management (IAM)
+- IAM
+- Identity Provider (IdP)
+- IdP
+- OpenID Connect (OIDC)
+- OIDC
+- Security Assertion Markup Language (SAML)
+- SAML
+- System for Cross-domain Identity Management (SCIM)
+- SCIM
+- Service Provisioning Markup Language (SPML)
+- SPML
+- Single Sign-On (SSO)
+- SSO
+- Attribute-Based Access Control (ABAC)
+- ABAC
+- Role-Based Access Control (RBAC)
+- RBAC
+- Access Control
+- Access Management
+- Attributes
+- Authentication
+- Authoritative Source
+- Authorization
+- Entitlement
+- Entity
+- Federation
+- Identifier
+- Identity
+- Persona
+- Policy Enforcement Point
+- Policy Management
+- Role
+- Multifactor Authentication (MFA)
+- MFA
+- Time-Based One-Time Password (TOTP)
+- TOTP
+- Step-Up Authentication
+- Reduced Sign-On (RSO)
+- Applicable Law
+- Common Law
+- Culpable Negligence
+- Due Care
+- Due Diligence
+- Jurisdiction
+- Liability
+- Prudent Person Rule
+- Spoliation
+- Configuration Item (CI)
+- CI
+- Continual Service Improvement Management (CSIM)
+- CSIM
+- Incident Management Team (IMT)
+- IMT
+- Incident Response Team (IRT)
+- IRT
+- Event
+- Incident
+- Information Security Management (ISM)
+- ISM
+- Problem
+- Known Error
+- Workaround
+- Release and Deployment Management (RDM)
+- RDM
+- Service Level Management (SLM)
+- SLM
+- Underpinning Contract (UC)
+- UC
+- Efficient Service Management
+- Enterprise Risk Management (ERM)
+- ERM
+- Key Risk Indicator (KRI)
+- Asset
+- Exploit
+- Natural Disaster
+- Reputational Risk
+- Residual Risk
+- Risk Appetite
+- Risk Owners and Players
+- Risk Profiles
+- Risk Tolerance
+- Secondary Risk
+- Threat
+- Threat Actor
+- Threat Agent
+- Total Risk
+- Annualized Loss Expectancy (ALE)
+- Annual Rate of Occurrence (ARO)
+- Asset Value (AV)
+- Exposure Factor (EF)
+- Single Loss Expectancy (SLE)
+- ALE
+- ARO
+- AV
+- EF
+- SLE
+- Risk Modeling
+- Risk Register
+- Analytical Artificial Intelligence
+- Artificial Intelligence
+- Humanized Artificial Intelligence
+- Training
+- Education
+- Awareness
+- Asia-Pacific Economic Cooperation (APEC)
+- APEC
+- Children's Online Privacy Protection Act (COPPA)
+- COPPA
+- European Union (EU)
+- EU
+- Organization for Economic Cooperation and Development (OECD)
+- OECD
+- Digital Millenium Copyright Act (DMCA)
+- DMCA
+- Export Administration Regulations (EAR)
+- EAR
+- CCL
+- USML
+- Communications Control List (CCL)
+- United States Munitions List (USML)
+- ECPA
+- Electronic Communication Privacy Act (ECPA)
+- European Free Trade Association (EFTA)
+- EFTA
+- European Union Agency for Cybersecurity (ENISA)
+- ENISA
+- NIS
+- Network and Information Security (NIS)
+- Federal Act on Data Protection (FADP)
+- FADP
+- Data Protection Act (DPA)
+- DPA
+- FERPA
+- Family Educational Rights and Privacy Act (FERPA)
+- Federal Information Security Management Act (FISMA)
+- FISMA
+- NIST
+- National Institute of Standards and Technology (NIST)
+- OMB
+- Office of Management and Budget (OMB)
+- Global Data Protection Regulation (GDPR)
+- GDPR
+- SA
+- Supervisory Authority (SA)
+- Gramm-Leach-Bliley Act (GLBA)
+- GLBA
+- Information Security Officer (ISO)
+- ISO (??) 	International Organization for Standardization ALSO Information Security Officer
+- ISP
+- Information Security Plan (ISP)
+- Health Insurance Portability and Accountability Act (HIPAA)
+- HIPAA
+- DHHS
+- Department of Health and Human Services (DHHS)
+- PHI
+- Personal Health Information (PHI)
+- OCR
+- Office for Civil Rights (OCR)
+- EHR
+- Electronic Health Records (EHR)
+- HITECH
+- Health Information Technology for Economic and Clinical Health (HITECH)
+- International Traffic in Arms Regulations (ITAR)
+- ITAR
+- CCL
+- Commercial Control List (CCL)
+- PDPA
+- Personal Data Protection Act (PDPA)
+- PIPEDA
+- Personal Information Protection and Electronics Document Act (PIPEDA)
+- Australian Privacy Principles (APP)
+- NPP
+- APP
+- National Privacy Principles (NPP)
+- DoC
+- Department of Commerce (DoC)
+- DoT
+- Department of Transportation (DoT)
+- FTC
+- Federal Trade Commission (FTC)
+- SCA
+- Stored Communication Act (SCA)
+- SEC
+- Securities and Exchange Commission (SEC)
+- SOX
+- Sarbanes-Oxley Act (SOX)
+- AICPA
+- American Institute of Certified Public Accountants (AICPA)
+- IAASB
+- International Auditing and Assurance Standards Board (IAASB)
+- SAS
+- Statement on Auditing Standards (SAS)
+- SOC
+- System and Organization Controls (SOC)
+- SSAE
+- Statement on Standards for Attestation Engagements (SSAE)
+- CICA
+- Canadian Institute of Chartered Accountants (CICA)
+- GAPP
+- Generally Accepted Privacy Principles (GAPP)
+- ANSI
+- BICSI
+- American National Standards Institute (ANSI)
+- Building Industry Consulting Services International (BICSI)
+- Cloud Security Alliance (CSA)
+- CSA
+- CCM
+- Cloud Controls Matrix (CCM)
+- Consensus Assessments Initiative (CAI)
+- CAI
+- CAIQ
+- Consensus Assessments Initiative Questionnaire (CAIQ)
+- CTP
+- CloudTrust Protocol (CTP)
+- STAR
+- Security, Trust, and Assurance Registry (STAR)
+- TCI
+- Trusted Cloud Initiative (TCI)
+- Federal Risk and Authorization Management Program (FedRAMP)
+- FedRAMP
+- IDCA
+- International Data Center Authority (IDCA)
+- Control Objectives for Information and Related Technologies (COBIT)
+- COBIT
+- ITIL
+- Information Technology Infrastructure Library (formerly) (ITIL)
+- PDCA
+- Plan-Do-Check-Act (PDCA)
+- CC
+- Common Criteria (CC)
+- EAL
+- Evaluation Assurance Level (EAL)
+- IEC
+- International Electrotechnical Commission (IEC)
+- IDS
+- IPS
+- Intrusion Detection System (IDS)
+- Intrusion Prevention System (IPS)
+- Security Target (ST)
+- ST
+- TCSEC
+- Trusted Computer System Evaluation Criteria (TCSEC)
+- UTM
+- Unified Threat Management (UTM)
+- International Electrotechnical Commission (IEC)
+- ANF
+- Application Normative Framework (ANF)
+- Application Security Management Process (ASMP)
+- Organizational Normative Framework (ONF)
+- ASMP
+- ONF
+- Jericho
+- NFPA
+- National Fire Protection Association (NFPA)
+- CST
+- CMVP
+- FIPS
+- NVLAP
+- SBU
+- Cryptographic and Security Testing (CST)
+- Cryptographic Module Validation Program (CMVP)
+- Federal Information Processing Standard (FIPS)
+- National Voluntary Laboratory Accreditation Program (NVLAP)
+- Sensitive But Unclassified (SBU)
+- SP
+- Special Publication (SP)
+- AoC
+- ASV???
+- DSS
+- ISA
+- PAN
+- PCI
+- PFI
+- QSA
+- RoC
+- SAD
+- SAQ
+- Attestation of Compliance (AoC)
+- Approved Scanning Number (ASV)???
+- Data Security Standards (DSS)
+- Internal Security Assessor (ISA)
+- Primary Account Number (PAN)
+- Payment Card Industry (PCI)
+- PCI Forensic Investigator (PFI)
+- Qualified Security Assessor (QSA)
+- Report of Compliance (RoC)
+- Sensitive Authentication Data (SAD)
+- Self-Assessment Questionnaire (SAQ)
+- Sherwood Applied Business Security Architecture (SABSA)
+- SABSA
+- BOSS
+- Business Operation Support Services (BOSS)
+- The Open Group Architecture Framework (TOGAF)
+- CIS
+- CSC
+- Center for Internet Security (CIS)
+- Critical Security Controls (formerly) (CSC)
+- DREAD
+- STRIDE
+- CCSL
+- Cloud Certification Schemes List (CCSL)
+- CCSM
+- Cloud Certification Schemes Metaframework (CCSM)
+- Open Web Application Security Project (OWASP)
+- OWASP
+- WSTG
+- Web Security Testing Guide (WSTG)
+

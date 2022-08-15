@@ -30,6 +30,6 @@ Threats include:
 
 - *Abuse or nefarious use of cloud services*. Even when using the cloud for legitimate purposes, from a management perspective, users in a cloud customer organization often do not pay directly for cloud services (and are often not even aware of the cost of use) and can create dozens or even hundreds of new virtual systems in a cloud environment for whatever purposes they need or desire.
 
-## Measured Srevice
+## Measured Service
 
 Measured or metered service simply means that the customer is charged for only what they use and nothing more.
