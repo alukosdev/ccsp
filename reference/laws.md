@@ -1,3 +1,7 @@
+!!!danger
+This is a new page. We need to determine whether it's relevant to keep around or not. If so, all laws should be linked to their respective pages. We should also determine whether "origin" is the appropriate/most useful column to include here.
+!!!
+
 # Laws
 
 | Name | Origin | { class="compact" }

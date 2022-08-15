@@ -1,3 +1,7 @@
+!!!danger Temporary Page
+This page will eventually be destroyed.
+!!!
+
 # Terminology
 
 !!!
