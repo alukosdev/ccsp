@@ -16,7 +16,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | - | - |
 | ABAC | Attribute-Based Access Control |
 | AICPA | American Institute of Certified Public Accountants |
-| ALE | [Annualized Loss Expectancy](/reference/glossary.md#annualized-loss-expectancy-ale) |
+| ALE | [Annualized Loss Expectancy](/reference/glossary/#annualized-loss-expectancy-ale) |
 | ANF | Application Normative Framework |
 | ANSI | American National Standards Institute |
 | AoC | Attestation of Compliance |
@@ -28,7 +28,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | ASMP | Application Security Management Process |
 | AST | Application Security Testing |
 | ASV | Approved Scanning Vendor |
-| AUP | [Agreed-Upon Procedures](/reference/glossary.md#agreed-upon-procedures-aup) |
+| AUP | [Agreed-Upon Procedures](/reference/glossary/#agreed-upon-procedures-aup) |
 | AV | Asset Value |
 | BC | [Business Continuity](/reference/glossary/#business-continuity-bc) |
 | BCM | [Business Continuity Management](/reference/glossary/#business-continuity-management-bcm) |
