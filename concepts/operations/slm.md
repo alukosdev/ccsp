@@ -17,7 +17,7 @@ label: Service Level Management
 
 === Efficient Service Management
 Are we doing the right things properly and are we getting the benefits? Are we going about it in the most efficient manner to achieve the most benefits?
-=== Underpinning Contract
+=== Underpinning Contract (UC)
 Underpinning contracts are external contracts negotiated between the organization and their vendors or suppliers.
 ===
 

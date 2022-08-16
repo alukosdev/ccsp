@@ -214,6 +214,17 @@ Includes a variety of compliance services such as data encryption, disaster reco
 A cloud server’s compute parameters depend on the number of *CPUs* and the amount of *RAM* used. The ability to allocate these resources is a vital compute concern.
 ==- Confidentiality
 Protecting information from unauthorized access/dissemination.
+==- Configuration Item (CI)
+Configuration items can be applied to anything designated for the application of the elements of configuration management and treated as a single entity in the configuration-management system. Examples of CI types include:
+
+- Hardware/Devices
+- Software/Applications
+- Communications/Networks
+- Location
+- Database
+- Service
+- Documentation
+- People (Staff and Contractors)
 ==- Content Discovery
 Includes the tools and processes to identify sensitive information in storage.
 ==- Controls
@@ -332,6 +343,8 @@ The process in which cloud environments are constantly monitored and maintained 
 
 ## E
 
+==- Efficient Service Management
+Are we doing the right things properly and are we getting the benefits? Are we going about it in the most efficient manner to achieve the most benefits?
 ==- Elasticity
 The flexibility of allocating resources as needed for immediate usage, instead of purchasing resources according to other variables.
 ==- Enterprise Application
@@ -347,6 +360,20 @@ Eucalyptus is a paid and open-source computer software building AWS-compatible p
 ==- European Economic Area (EEA)
 
 The European Economic Area, abbreviated as EEA, consists of the Member States of the European Union (EU) and three countries of the European Free Trade Association (EFTA) (Iceland, Liechtenstein and Norway; excluding Switzerland). The Agreement on the EEA entered into force on 1 January 1994.
+==- Event
+According to the ITIL framework, an event is defined as a change of state that has significance for the management of an IT service or other CI. This could be any unscheduled adverse impact to the operating environment.
+
+Events are anything that occur in the IT framework. As a result, the term can also be used to mean an alert or notification created by an IT service, CI, or monitoring tool.
+
+Events often require IT operations staff to take actions and lead to incidents being logged.
+
+!!!
+Not all events are incidents, but all incidents are events.
+!!!
+
+!!!
+An event is distinguished form a disaster by the duration of impact. We consider events impact to last 3 days or less.
+!!!
 ==- Event-Driven Security
 Automates detection and remediation of security issues.
 ==-
@@ -437,6 +464,14 @@ Enticement vs. entrapment. The real term to be used should be "distract".
 The means by which an identity can be asserted. For digital identities this is often a cryptological token. In the real world it might be your passport.
 ==- Identity
 The unique expression of an entity within a given namespace. An entity can have multiple digital identities, such as a single individual having a work identity (or even multiple identities, depending on the systems), a social media identity, and a personal identity. For example, if you are a single entry in a single directory server then that is your identity.
+==- Incident
+According to the ITIL framework, an incident is defined as an unplanned interruption to an IT service or a reduction in the quality of an IT service.
+
+Essentially, incidents are unscheduled events.
+
+!!!
+Not all events are incidents, but all incidents are events.
+!!!
 ==- Inference
 An attack technique that derives sensitive material from an aggregation of innocuous data.
 ==- Infrastructure as Code (IaC)
@@ -483,6 +518,10 @@ This usually determines the ability of a national court to decide a case or enfo
 ==-
 
 ## K
+
+==- Known Error
+A known error is an *identified* root cause of a problem.
+==-
 
 ## L
 
@@ -566,6 +605,8 @@ Establishes the security and access policies based on business needs and the deg
 A portfolio consists of all endeavors undertaken by an organization. We are looking to show value for each individual endeavor but also the IT program as a whole. For example, are we receiving the value from cloud services that we're looking for?
 ==- Privacy
 The protection of PII.
+==- Problem
+A problem is the *unknown* root cause of one or more incidents, often identified as a result of multiple similar incidents.
 ==- Processing
 Processing is any *manipulation* of the data, to include security or destroying it, in electronic or hard-copy form. Viewing data is not considered processing.
 ==- Prudent Person Rule
@@ -740,6 +781,10 @@ The key difference between HSM and TPM is that an HSM manages keys for several d
 
 ## U
 
+==- Underpinning Contract (UC)
+Underpinning contracts are external contracts negotiated between the organization and their vendors or suppliers.
+==-
+
 ## V
 
 ==- Vertical Cloud Computing
@@ -759,6 +804,8 @@ A WAF operates at layer 7 of the OSI model.
 A type of long-term storage, meaning it is written to initially and only used for read purposes thereafter.
 ==- White-Box Testing
 Reviewing the source code.
+==- Workaround
+A workaround is a *temporary* way of overcoming technical difficulties (such as incidents or problems).
 ==- Work Recovery Time (WRT)
 The time necessary to very restoration of systems once they have been returned to operation.
 ==-
