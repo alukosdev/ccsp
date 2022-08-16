@@ -14,14 +14,14 @@
 
 ## Glossary
 
-==- Annualized Loss Expectancy (ALE)
+=== Annualized Loss Expectancy (ALE)
 The annualized loss expectancy is a product of the yearly estimate for the exploit (ARO) and the loss in value of an asset after an SLE.
 `ALE = SLE * ARO`
-==- Risk Modeling
+=== Risk Modeling
 Risk modeling is based on an asset or a threat.
-==- Risk Register
+=== Risk Register
 A risk register is a table to consolidate information about risks.
-==-
+===
 
 ## Overview
 

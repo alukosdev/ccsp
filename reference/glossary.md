@@ -22,6 +22,9 @@ An agreed-upon procedure is a standard a company or client outlines when it hire
 !!!
 The auditor does not provide an opinion; rather, the entities or third parties form their own conclusions based on the report.
 !!!
+==- Annualized Loss Expectancy (ALE)
+The annualized loss expectancy is a product of the yearly estimate for the exploit (ARO) and the loss in value of an asset after an SLE.
+`ALE = SLE * ARO`
 ==- Anti-affinity
 Separation of resources.
 ==- Apache CloudStack
@@ -38,6 +41,8 @@ Determines the legal standing of a case or issue.
 The application has been approved by management.
 ==- Application Certification
 The application meets technical requirements.
+==- Asset
+Anything of value to a company.
 ==- Attributes
 Attributes are facets of an identity. Attributes can be relatively static (like an organizational unit) or highly dynamic (IP address, device being used, if the user authenticated with MFA, location, etc.).
 ==- Auditability
@@ -351,6 +356,8 @@ The flexibility of allocating resources as needed for immediate usage, instead o
 Applications or software that a business would use to assist the organization in solving enterprise problems.
 ==- Enterprise Cloud Backup
 Adds essential features such as archiving and disaster recovery to cloud backup solutions.
+==- Enterprise Risk Management (ERM)
+ERM includes managing overall risk for the organization, aligned to the organization’s governance and risk tolerance. Enterprise risk management includes all areas of risk, not merely those concerned with technology. It is the overall management of risk for an organization.
 ==- Entitlement
 An entitlement maps an identity (including roles, personas, and attributes) to an authorization. The entitlement is what they are allowed to do, and for documentation purposes we keep these in an entitlement matrix.
 ==- Entity
@@ -376,6 +383,8 @@ An event is distinguished form a disaster by the duration of impact. We consider
 !!!
 ==- Event-Driven Security
 Automates detection and remediation of security issues.
+==- Exploit
+An instance of compromise.
 ==-
 
 ## F
@@ -571,6 +580,8 @@ Multitenancy refers to the notion of hosting multiple cloud tenants on a single 
 
 ## N
 
+==- Natural Disaster
+Natural disasters are a category of risks to cloud deployments that is based *solely* on geography and location. Regulatory violations are not always based on location. They can also be based on the type of industry.
 ==- Network Forensics
 Network forensics is defined as the capture, storage, and analysis of network events. The idea is to capture every packet of network traffic and make it available in a single searchable database so that the traffic can be examined and analyzed in detail.
 ==- Networking as a Service (NaaS)
@@ -658,14 +669,37 @@ The foundation of federation relies on the existence of an identity provider; th
 Deploying duplicate devices that can take over active operation if the primary device fails.
 ==- Regression Testing
 Re-running functional and non-functional tests to ensure that previously developed and tested software still performs after a change. If not, that would be called a regression.
+==- Reputational Risk
+Reputational risk is the loss of value of a brand or the ability of an organization to persuade.
 ==- Reservations
 A reservation creates a guaranteed *minimum* resource allocation that the host must meet.
+==- Residual Risk
+The risk that exists after controls have been implemented.
 ==- Resiliency
 The ability to restore normal operations after a disruptive event. Redundancy is the foundation of resiliency.
 ==- Return on Investment (ROI)
 A term used to describe a profitability ratio.
 
 Generally calculated by dividing net profit by net assets.
+==- Risk Appetite
+Risk appetite is the total risk that the organization can bear in a given risk profile, usually expressed in aggregate. Risk appetite is set by senior management and is the level, amount, or type of risk that the organization finds acceptable.
+
+- Organizations accept a level of risk that allows operations to continue in a successful manner.
+- It is legal and defensible to accept risks higher than the norm, or greater than your competitors, except risks to health and human safety; these risks *must* be addressed to the industry standard or whatever regulator motif to which your organization adheres.
+
+As risk appetite or tolerance increases, so does the willingness to take greater and greater risks.
+==- Risk Modeling
+Risk modeling is based on an asset or a threat.
+==- Risk Owners and Players
+These are the individuals in the organization who together determine the organization's overall risk profile. For example, while one department may be willing to take moderately high risks in engaging cloud activities, another may have a lower risk tolerance. It is the aggregate of these individual tolerances that determines the organization's overall risk appetite.
+==- Risk Profiles
+The risk profile of the organization is a comprehensive analysis of the possible risks the organization is exposed to. It lists the identified risks and their potential effects.
+
+The risk profile is determined by an organization's willingness to take risks as well as the threats to which it is exposed. The risk profile should identify the level of risk to be accepted, the way risks are taken, and the way risk-based decision making is performed. Additionally, the risk profile should take into account potential costs and disruptions should one or more risks be exploited.
+==- Risk Register
+A risk register is a table to consolidate information about risks.
+==- Risk Tolerance
+Risk tolerance is the level of risk that an organization can accept per *individual* risk.
 ==- Role
 Identities can have multiple roles which indicate context. “Role” is a confusing and abused term used in many different ways. For our purposes we will think of it as similar to a persona, or as a subset of a persona. For example, a given developer on a given project may have different roles, such as “super-admin” and “dev”, which are then used to make access decisions.
 ==-
@@ -679,6 +713,8 @@ Identities can have multiple roles which indicate context. “Role” is a confu
 New computing resources can be assigned and allocated without any significant additional capital investment on the part of the cloud provider, and at an incremental cost to the cloud customer.
 ==- Scoping
 Scoping is the process that refers to including only departments or business units impacted by any (cloud) engagement.
+==- Secondary Risk
+When one risk response triggers another risk event. For example, a fire suppression system that displaces oxygen is a means to mitigate the original risk (fire) but adds a new risk (suffocating people).
 ==- Security
 The owner's right to determine to whom information is disclosed. Security protects privacy.
 ==- Separation of Duties
@@ -750,8 +786,16 @@ SCIM is a standard for exchanging identity information between domains. It can b
 
 ==- Tenancy Separation
 Tenants, while running on the same host, are maintained separately in their virtual environments. This is known as tenancy separation.
+==- Threat
+Something that could cause loss to all or part of an asset.
+==- Threat Actor
+Something or someone that carries out the attack. Also known as a threat agent.
+==- Threat Agent
+Something or someone that carries out the attack. Also known as a threat actor.
 ==- TLS Authentication
 When the server proves its identity to the client.
+==- Total Risk
+The risk that exists &before& any controls are implemented.
 ==- Trust Zones/Security Zones
 A trust zone is a network segment within which data flows relatively freely, whereas data flowing in and out of the trust zone is subject to stronger restrictions. These could be physical, logical, or virtual boundaries around network resources, such as:
 
