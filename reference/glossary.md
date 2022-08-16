@@ -20,6 +20,10 @@ The auditor does not provide an opinion; rather, the entities or third parties f
 !!!
 ==- Anti-affinity
 Separation of resources.
+==- Apache CloudStack
+Apache CloudStack creates, manages, and deploys clouds. It is an open-source application. It is software utilized to deploy and manage large networks of virtual machines, that need to be highly available.
+
+It is deployed as a highly scalable IaaS computing platform.
 ==- API Gateway
 An API gateway translates requests from clients into multiple requests to many microservices and delivers the content as a whole via an API it assigns to that client/session.
 
@@ -65,6 +69,8 @@ Business rules are lists of statements that tell you whether you may or may not 
 
 ==- Capability Maturity Model (CMM)
 A way of determining a target's maturity in terms of **process** documentation and repeatability. Contains five levels. Is typically not associated with security, however.
+==- Capacity
+Capacity is the measurement of the degree to which the cloud can support or provide service.
 ==- Chicken Coop
 A design methodology in which a datacenter arranges racks within long rectangles with a long side facing the wind to provide natural cooling.
 ==- CIP
@@ -75,10 +81,16 @@ Typically a third-party entity or company that looks to extend or enhance value 
 A third-party entity offering independent identity and access management (IAM) and key management services to CSPs and cloud customers, often as an intermediary. This can take the form of a variety of services, including SSO, certificate management, and cryptographic key escrow.
 ==- Cloud Administrator
 ?
+==- Cloud App
+A cloud application is a software application accessed via the internet and which may include an agent or applet installed locally on the user's device.
 ==- Cloud Application Architect
 Responsible for adapting, porting, or deploying an application to a target cloud environment.
 
 The cloud application architect is responsible for prepping and deploying an application to the cloud environment. This person will work alongside development and implementation resources to ensure that the performance, reliability, and security of an application are sustained over the lifecycle of the application. Knowledge and application of the phases of the SLDC, including assessment, verification, and testing are required.
+==- Cloud Application Management for Platforms (CAMP)
+CAMP is a specification geared towards PaaS. The specification indicates that for consumers this will provider for "portability between clouds." This is accomplished by standardization of the management API, which allows use cases for deploying, stopping, starting, and updating applications.
+==- Cloud Appropriateness
+A pitfall in which application development in cloud environments is much different since applications are built on web service frameworks and typically do not support legacy systems and programming languages.
 ==- Cloud Architect
 Responsible for an organization's cloud computing strategy.
 
@@ -92,6 +104,10 @@ The cloud architect is responsible for an organization's cloud computing strateg
 - Designing/deploying hybrid cloud solutions
 
 The architect has a key role in understanding and evaluating technologies, vendors, services, to support private and hybrid cloud. The architect will be required to build relationships between customers and team members.
+==- Cloud Bursting
+Augmenting internal, private datacenter capabilities with managed services during times of increased demand.
+
+The organization might have datacenter assets it owns, but it can't handle the increased demand during times of elevated need (crisis situations, heavy holiday shopping periods, and so on), so it rents the additional capacity as needed from an external cloud provider.
 ==- Cloud Carrier
 The cloud carrier is the intermediary that provides connectivity and transport of cloud services between the CSPs and the cloud service consumers.
 
@@ -100,8 +116,22 @@ The intermediary that provides connectivity and transport of cloud services betw
 Ensures the various storage types and mechanisms utilized within the cloud environment meet and conform to the relevant SLAs and that the storage components are functioning according to their specified requirements.
 
 A cloud architect that focuses on storage. A focal point is to make sure storage types and mechanisms used in the cloud environment meet requirements and the relevant SLAs and that the storage components function according to their specifications.
+==- Cloud Deployment
+Deals with *which type* of cloud you will be leveraging: private, public, community, or hybrid.
 ==- Cloud Developer
 Full stack engineering, automation and development of the infrastructure are key aspects of the role. Interactions with cloud administrators and security practitioners will be required for debugging, code reviews, and security assessment requirements.
+==- Cloud Migration
+Cloud migration is the process of transitioning all or part of a company's data, applications, and services from onsite premises to the cloud, where the information can be provided over the Internet on an on-demand basis. The steps in a cloud migration include:
+
+- Choosing a provider
+- Planning
+- Migrating
+- Testing and validation
+- Maintaining
+
+Concerned with the actual *movement* of the data, application, and services to the cloud.
+==- Cloud Provisioning
+A term used to describe the deployment of a company's cloud computing strategy, which typically first involves selecting which applications and services will reside in the public cloud and which will remain on-site behind the firewall or in the private cloud.
 ==- Cloud Service Auditor
 A cloud service auditor can provide value by determining the effectiveness of the CSP, identify control deficiencies within the consumer organization, and provide an assessment of the quality of service. This would include determining if the SLA is being met.
 
@@ -134,14 +164,22 @@ Examples include Amazon Web Services, Rackspace, and Microsoft Azure.
 The cloud service user has the legal responsibility for data processing that is carried out by the CSP.
 
 The cloud service user is also known as the *data controller*.
+==- Cloud Standards Customer Council (CSCC)
+The Cloud Standards Customer Council (CSCC) is an end-user advocacy group. It is dedicated to accelerating cloud's successful adoption, as well as to drilling down into the standards, security, and interoperability issues that surround the transition to the cloud.
 ==- Cloud Storage Administrator
 Focuses on user groups and the mapping, segregations, bandwidth, and reliability of storage volumes assigned. Additionally, this role may work with network and cloud administrators to ensure SLAs are met.
+==- Cloud Testing
+Cloud testing is load and performance testing conducted on the cloud applications and services, to ensure optimal performance and scalability under a wide variety of conditions.
 ==- Cloud User
 Someone using cloud services. It could be an employee of a company who is a cloud customer or just a private individual.
 
 !!!
 Not all cloud users are staff of cloud customers. Many cloud users are simply individuals who are using publicly available cloud services for their personal purposes, such as a person who has a OneDrive account to sync their data.
 !!!
+==- Cloud Washing
+The act of adding the name "cloud" to a non-cloud service and selling it as a cloud solution.
+==- Compliance as a Service (CompaaS/CaaS)
+Includes a variety of compliance services such as data encryption, disaster recovery, reporting, and vulnerability scanning.
 ==- Compute Parameters
 A cloud server’s compute parameters depend on the number of *CPUs* and the amount of *RAM* used. The ability to allocate these resources is a vital compute concern.
 ==- Confidentiality
@@ -164,6 +202,8 @@ An example of a cross-cutting aspect is security.
 Any data left over after sanitization and disposal methods have been attempted.
 ==- Data Replication
 The process of copying data from one location to another. The system works to keep up-to-date copies of its data in the event of a disaster.
+==- Data Science as a Service (DSaaS)
+Involves an outside company providing advanced analytics applications (gathered using data science) to corporate clients for their business use.
 ==- Database Activity Monitoring (DAM)
 Captures and records, at a minimum, all SQL activity in real time or near real time, including database administrator activity, across multiple database platforms; and can generate alerts on policy violations.
 
@@ -184,14 +224,20 @@ The disaster recovery plan allows a business to plan what needs to be done immed
 Disaster recovery planning is the process by which suitable plans and measures are taken to ensure that, in the event of a disaster, the business can respond appropriately with the view to recovering critical and essential operations to a state of partial or full level of service in as little time as possible.
 
 DRP is usually part of the BCP and typically tends to be more technical in nature. Addresses what needs to be accomplished during a disaster to restore business processes in order to recover from the event.
+==- Dynamic Optimization
+The process in which cloud environments are constantly monitored and maintained to ensure that the resources are available when needed and that nodes share the load equally so that one node doesn't become overloaded.
 ==-
 
 ## E
 
+==- Elasticity
+The flexibility of allocating resources as needed for immediate usage, instead of purchasing resources according to other variables.
 ==- Enterprise Application
 Applications or software that a business would use to assist the organization in solving enterprise problems.
 ==- Enterprise Cloud Backup
 Adds essential features such as archiving and disaster recovery to cloud backup solutions.
+==- Eucalyptus
+Eucalyptus is a paid and open-source computer software building AWS-compatible private and hybrid cloud computing environments.
 ==- European Economic Area (EEA)
 
 The European Economic Area, abbreviated as EEA, consists of the Member States of the European Union (EU) and three countries of the European Free Trade Association (EFTA) (Iceland, Liechtenstein and Norway; excluding Switzerland). The Agreement on the EEA entered into force on 1 January 1994.
@@ -318,10 +364,14 @@ MAD is measured in *time*.
 Microsoft Deployment Toolkit is a computer program that permits network deployment of Microsoft Windows and Microsoft Office.
 ==- Middleware
 A term used to describe software that works between an operating system and another application or database of some sort. Typically operates above the transport layer and below the application layer.
+==- Multitenancy
+Multitenancy refers to the notion of hosting multiple cloud tenants on a single host while sharing resources.
 ==-
 
 ## N
 
+==- Networking as a Service (NaaS)
+Includes network services from third-parties to customers that do not want to build their own networking infrastructure.
 ==- Nonrepudiation
 The assurance that a specific author actually did create and send a specific item to a specific recipient and that it was successfully received. The sender of the message cannot later credibly deny having sent the message, nor can the recipient credibly claim not to have received it.
 ==-
@@ -390,6 +440,8 @@ Generally calculated by dividing net profit by net assets.
 ==- Sandboxing
 - Testing untested or untrusted code
 - To better understand if an application is working the way it was intended to work
+==- Scalability
+New computing resources can be assigned and allocated without any significant additional capital investment on the part of the cloud provider, and at an incremental cost to the cloud customer.
 ==- Scoping
 Scoping is the process that refers to including only departments or business units impacted by any (cloud) engagement.
 ==- Separation of Duties
@@ -412,14 +464,24 @@ The concept of shares is used to arbitrate the issues associated with compute re
 The configuration when an enterprise deploys applications in dedicated infrastructure.
 
 Having silos in an enterprise deployment could be a precursor to migrating the environments to the cloud.
+==- Simplicity
+Usage and administration of cloud services ought to be transparent to cloud customers and users; from their perspective, a digital data service is paid for and can be used, with very little additional input other than what is necessary to perform their duties.
 ==- Smurf Attack
 The Smurf attack is a distributed denial-of-service attack in which large numbers of Internet Control Message Protocol (ICMP) packets with the intended victim’s spoofed source IP are broadcast to a computer network using an IP broadcast address. Most devices on a network will, by default, respond to this by sending a reply to the source IP address. If the number of machines on the network that receive and respond to these packets is very large, the victim’s computer will be flooded with traffic.
+==- Sprawl
+A phenomenon that occurs when the number of VMs on a network reaches a point where the administrators can no longer manage them effectively.
+
+Sprawl is a virtualization risk that occurs when the amount of content grows to such a degree that management is near impossible.
+
+To prevent sprawl, the administrator should define and enforce a process for the deployment of VMs and create a library of standardized VM image files.
 ==- Storage Replication
 Works with a local service to store or archive data to secondary storage using a SAN. This would typically be in the same location.
 ==-
 
 ## T
 
+==- Tenancy Separation
+Tenants, while running on the same host, are maintained separately in their virtual environments. This is known as tenancy separation.
 ==- Trust Zones/Security Zones
 A trust zone is a network segment within which data flows relatively freely, whereas data flowing in and out of the trust zone is subject to stronger restrictions. These could be physical, logical, or virtual boundaries around network resources, such as:
 
@@ -444,6 +506,10 @@ To protect trust zones:
 ## U
 
 ## V
+
+==- Vertical Cloud Computing
+Refers to the optimization of cloud computing and cloud services for a particular vertical (e.g., a specific industry) or specific-use application.
+==-
 
 ## W
 
