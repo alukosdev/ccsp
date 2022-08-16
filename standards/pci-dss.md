@@ -12,7 +12,7 @@ tags: [pci]
 | Acronym | Backronym |
 | - | - |
 | AoC | Attestation of Compliance |
-| ASV | Approved Scanning Number |
+| ASV | Approved Scanning Vendor |
 | DSS | Data Security Standards |
 | ISA | Internal Security Assessor |
 | PAN | Primary Account Number |

@@ -16,14 +16,19 @@ Access control is restricting access to resources.
 Access management is the process of managing access to resources.
 ==- Affinity
 Grouping of resources.
+==- Aggregation
 ==- Agreed-Upon Procedures (AUP)
 An agreed-upon procedure is a standard a company or client outlines when it hires an external party to perform an audit on a specific test or business process. The procedures, which are called audit standards, are designed and agreed upon by the entity conducting the audit, as well as any appropriate third parties.
 
 !!!
 The auditor does not provide an opinion; rather, the entities or third parties form their own conclusions based on the report.
 !!!
+==- All-or-Nothing-Transform with Reed-Solomon (AONT-RS)
+==- American Institute of Certified Public Accountants (AICPA)
+==- American National Standards Institute (ANSI)
 ==- Analytical Artificial Intelligence
 Solely cognitive-based, focusing on a system-s ability to analyze past data and make future decisions.
+==- Annual Rate of Occurrence (ARO)
 ==- Annualized Loss Expectancy (ALE)
 The annualized loss expectancy is a product of the yearly estimate for the exploit (ARO) and the loss in value of an asset after an SLE.
 `ALE = SLE * ARO`
@@ -43,18 +48,28 @@ Determines the legal standing of a case or issue.
 The application has been approved by management.
 ==- Application Certification
 The application meets technical requirements.
+==- Application Normative Framework (ANF)
 ==- Application Programming Interface (API)
+==- Application Security Management Process (ASMP)
+==- Application Security Testing (AST)
+==- Application Virtualization
+==- Approved Scanning Vendor (ASV)
 ==- Artificial Intelligence
 Artificial intelligence is the ability of devices to perform human-like analysis. Artificial intelligence operates by consuming a large amount of data and recognizing patterns and trends in the data.
 
 Contains humanized and analytical types.
+==- Asia-Pacific Economic Cooperation (APEC)
 ==- Asset
 Anything of value to a company.
+==- Asset Value (AV)
+==- Attestation of Compliance (AoC)
+==- Attribute-Based Access Control (ABAC)
 ==- Attributes
 Attributes are facets of an identity. Attributes can be relatively static (like an organizational unit) or highly dynamic (IP address, device being used, if the user authenticated with MFA, location, etc.).
 ==- Auditability
 Auditability is collecting and making available necessary evidence related to the operation and use of the cloud.
 ==- Audit Planning
+==- Australian Privacy Principles (APP)
 ==- Authentication
 Authentication is the process of confirming an identity. When you log in to a system you present a username (the identifier) and password (an attribute we refer to as an authentication factor).
 
@@ -69,6 +84,7 @@ Authorization is the process of granting an identity access to something (.e.g. 
 !!!
 Authorization is often referred to as AuthZ.
 !!!
+==- Awareness
 ==-
 
 ## B
@@ -79,8 +95,11 @@ A bastion host is a method for remote access to a secure environment. The bastio
 !!!
 The difference between a jump server and a bastion host is that a jump server is intended to breach the gap between two security zones and have a gateway to obtain access to something inside of the other security zone. A bastion host is outside of your security zone and will require additional security considerations.
 !!!
+==- Best Practices Analyzer (BPA)
+==- Bit Splitting
 ==- Black-Box Testing
 Testing the program as it functions, in runtime.
+==- Building Industry Consulting Services International (BICSI)
 ==- Business Continuity (BC)
 Business continuity efforts are concerned with maintaining (or "continuing") critical operations during any interruption in service.
 
@@ -99,6 +118,8 @@ Business continuity plans typically outline how to maintain or "continue" busine
 !!!
 The BCP is *not* critical to the continuation of services in the event of a business interruption. BC, however, *is*. The BCP is drafted to support BC.
 !!!
+==- Business Impact Analysis (BIA)
+==- Business Operation Support Services (BOSS)
 ==- Business Requirements
 Business Requirements
 A business requirement is an operational driver for decision making and input for risk management.
@@ -109,13 +130,16 @@ Business rules are lists of statements that tell you whether you may or may not 
 ## C
 
 ==- Cable Mining
+==- Canadian Institute of Chartered Accountants (CICA)
 ==- Capability Maturity Model (CMM)
 A way of determining a target's maturity in terms of **process** documentation and repeatability. Contains five levels. Is typically not associated with security, however.
 ==- Capacity
 Capacity is the measurement of the degree to which the cloud can support or provide service.
 ==- Capital Expenditure (CapEx)
+==- Center for Internet Security (CIS)
 ==- Chicken Coop
 A design methodology in which a datacenter arranges racks within long rectangles with a long side facing the wind to provide natural cooling.
+==- Children's Online Privacy Protection Act (COPPA)
 ==- Cloud Access Security Broker (CASB)
 Typically a third-party entity or company that looks to extend or enhance value to multiple customers of cloud-based services through relationships with multiple cloud service providers. It acts as a liaison between cloud services customers and cloud service providers, selecting the best provider for each customer and monitoring the services.
 
@@ -153,6 +177,8 @@ The organization might have datacenter assets it owns, but it can't handle the i
 The cloud carrier is the intermediary that provides connectivity and transport of cloud services between the CSPs and the cloud service consumers.
 
 The intermediary that provides connectivity and transport of cloud services between the CSPs and the cloud service consumers.
+==- Cloud Certification Schemes List (CCSL)
+==- Cloud Certification Schemes Metaframework (CCSM)
 ==- Cloud Computing Forensic Science
 The application of scientific principles, technological practices, and derived and proven methods to reconstruct past cloud computing events through identification, collection, preservation, examination, interpretation, and reporting of digital evidence.
 ==- Cloud Controls Matrix (CCM)
@@ -177,6 +203,7 @@ Cloud migration is the process of transitioning all or part of a company's data,
 Concerned with the actual *movement* of the data, application, and services to the cloud.
 ==- Cloud Provisioning
 A term used to describe the deployment of a company's cloud computing strategy, which typically first involves selecting which applications and services will reside in the public cloud and which will remain on-site behind the firewall or in the private cloud.
+==- Cloud Security Alliance (CSA)
 ==- Cloud Service Auditor
 A cloud service auditor can provide value by determining the effectiveness of the CSP, identify control deficiencies within the consumer organization, and provide an assessment of the quality of service. This would include determining if the SLA is being met.
 
@@ -223,6 +250,9 @@ Not all cloud users are staff of cloud customers. Many cloud users are simply in
 !!!
 ==- Cloud Washing
 The act of adding the name "cloud" to a non-cloud service and selling it as a cloud solution.
+==- CloudTrust Protocol (CTP)
+==- Commerce Control List (CCL)
+==- Common Criteria (CC)
 ==- Common Law
 The existing set of rulings and decisions made by courts, informed by cultural mores and legislation. These create precedents, which each party will cite in court as a means to sway the court to their own side of a case.
 ==- Compliance as a Service (CompaaS/CaaS)
@@ -242,28 +272,39 @@ Configuration items can be applied to anything designated for the application of
 - Service
 - Documentation
 - People (Staff and Contractors)
+==- Consensus Assessments Initiative (CAI)
 ==- Consensus Assessments Initiative Questionnaire (CAIQ)
 A self-assessment performed by cloud providers, detailing their evaluation of the practice areas and control groups they use in providing their services.
+==- Content and File Storage
+==- Content Delivery Network (CDN)
 ==- Content Discovery
 Includes the tools and processes to identify sensitive information in storage.
+==- Continual Service Improvement Management (CSIM)
+==- Control Objectives for Information and Related Technologies (COBIT)
 ==- Controls
 Act as mechanisms designed to restrict a list of possible actions to allowed or permitted actions. If a control is breached, the next step of mitigating is a countermeasure. Proactive.
+==- Converged Networking
+==- Correlation
 ==- Cost-Benefit Analysis (CBA)
 A cost-benefit analysis (CBA) is the process used to measure the benefits of a decision or taking action minus the costs associated with taking that action. It determines whether certain activities (such as BC/DR) are worth implementing. The CBA will compare the costs of a disaster and the impact of downtime against the cost of implementing the BCDR solution. Another example would be whether the movement to a cloud model would be lower than the cost of not moving to the cloud.
 ==- Countermeasure
 Countermeasures are what is deployed once a control has been breached. Reactive.
 ==- Critical Infrastructure Plan (CIP)
 The CIP (Critical Infrastructure Plan), developed by NERC (North American Electric Reliability Corporation), is a set of requirements designed to secure the assets required for operating North America's bulk electric system.
+==- Critical Security Controls (formerly) (CSC)
 ==- Cross-Cutting Aspects
 Cross-cutting aspects are behaviors or capabilities which need to be coordinated across roles and implemented consistently in a cloud computing system.
 
 An example of a cross-cutting aspect is security.
+==- Cryptographic and Security Testing (CST)
+==- Cryptographic Module Validation Program (CMVP)
 ==- Culpable Negligence
 Often used to prove liability.
 ==-
 
 ## D
 
+==- Data at Rest (DAR)
 ==- Data Controller
 The person who either alone or jointly with other persons determines the purposes for which and the manner in which any personal data is processed; this entity determines the "why" and "how" personal data is processed.
 
@@ -280,6 +321,11 @@ The data custodian must adhere to any policies set forth by the data owner in re
 !!!
 In the cloud context, the data custodian is usually the **cloud service provider.** From an international perspective, the data custodian is also known as the **data processor.**
 !!!
+==- Data in Motion (DIM)
+==- Data in Transit (DIT)
+==- Data in Use (DIU)
+==- Data Leak Prevention (DLP)
+==- Data Loss Prevention (DLP)
 ==- Data Owner
 The entity that holds the legal rights and control over a set of data. Data owners define distribution and associated policies.
 
@@ -294,12 +340,14 @@ Any person other than the data owner who processes the data on behalf of the dat
 !!!
 In the cloud context, the data processor is usually the **cloud service provider.** From an international perspective, the data processor is also known as the **data custodian.**
 !!!
+==- Data Protection Act (DPA)
 ==- Data Remanence
 Any data left over after sanitization and disposal methods have been attempted.
 ==- Data Replication
 The process of copying data from one location to another. The system works to keep up-to-date copies of its data in the event of a disaster.
 ==- Data Science as a Service (DSaaS)
 Involves an outside company providing advanced analytics applications (gathered using data science) to corporate clients for their business use.
+==- Data Security Standards (DSS)
 ==- Data Steward
 The person responsible for data content, context, and associated business rules.
 
@@ -312,6 +360,9 @@ Captures and records, at a minimum, all SQL activity in real time or near real t
 A DAM operates at layer 7 of the OSI model.
 ==- Demand Management
 Can we meet our demand requirements (can we scale up and down)? Elasticity in the cloud solves this.
+==- Department of Commerce (DOC)
+==- Department of Health and Human Services (DHHS)
+==- Department of Transportation (DOT)
 ==- Diffie-Hellman
 The Diffie-Hellman *key exchange process* is used for *asymmetric encryption* and is designed to allow two parties to create a shared secret (symmetric key) over an untrusted medium.
 
@@ -320,6 +371,8 @@ Diffie-Hellman is not a symmetric algorithm; it is an asymmetric algorithm used 
 !!!
 ==- Digital Forensics
 Digital forensics is generally considered the application of science to the identification, collection, examination, and analysis of data while preserving the integrity of the information and maintaining a strict chain of custody for the data.
+==- Digital Millenium Copyright Act (DMCA)
+==- Digital Rights Management (DRM)
 ==- Digital Signatures
 Uses the senders private key *and* a hash to guarantee the integrity and the origin (authenticity/non-repudiation) of a message. This method requires a PKI.
 ==- Disaster Recovery (DR)
@@ -335,6 +388,7 @@ Disaster recovery planning is the process by which suitable plans and measures a
 
 DRP is usually part of the BCP and typically tends to be more technical in nature. Addresses what needs to be accomplished during a disaster to restore business processes in order to recover from the event.
 ==- Distributed Resource Scheduling (DRS)
+==- DREAD
 ==- Due Care
 A company practices due care by *developing (taking action)* security policies, procedures, and standards. Due care shows that a company has taken responsibility for the activities that take place within the corporation and has taken the necessary steps to help protect the company, its resources, and employees from possible risks.
 
@@ -357,16 +411,22 @@ Due diligence is any activity taken in support or furtherance of due care.
 !!!
 Due diligence is *understanding (researching)* the current threats and due care is *implementing countermeasures (taking action)* to provide protection from those threats.
 !!!
+==- Dynamic Application Security Testing (DAST)
 ==- Dynamic Optimization
 The process in which cloud environments are constantly monitored and maintained to ensure that the resources are available when needed and that nodes share the load equally so that one node doesn't become overloaded.
 ==-
 
 ## E
 
+==- Education
 ==- Efficient Service Management
 Are we doing the right things properly and are we getting the benefits? Are we going about it in the most efficient manner to achieve the most benefits?
 ==- Elasticity
 The flexibility of allocating resources as needed for immediate usage, instead of purchasing resources according to other variables.
+==- Electronic Communication Privacy Act (ECPA)
+==- Electronic Health Records (EHR)
+==- Electronically Stored Information (ESI)
+==- Encrypting File System (EFS)
 ==- Enterprise Application
 Applications or software that a business would use to assist the organization in solving enterprise problems.
 ==- Enterprise Cloud Backup
@@ -377,11 +437,17 @@ ERM includes managing overall risk for the organization, aligned to the organiza
 An entitlement maps an identity (including roles, personas, and attributes) to an authorization. The entitlement is what they are allowed to do, and for documentation purposes we keep these in an entitlement matrix.
 ==- Entity
 The person or “thing” that will have an identity. It could be an individual, a system, a device, or application code.
+==- Ephemeral Storage
+==- Erasure Coding
 ==- Eucalyptus
 Eucalyptus is a paid and open-source computer software building AWS-compatible private and hybrid cloud computing environments.
 ==- European Economic Area (EEA)
 
 The European Economic Area, abbreviated as EEA, consists of the Member States of the European Union (EU) and three countries of the European Free Trade Association (EFTA) (Iceland, Liechtenstein and Norway; excluding Switzerland). The Agreement on the EEA entered into force on 1 January 1994.
+==- European Free Trade Association (EFTA)
+==- European Union (EU)
+==- European Union Agency for Cybersecurity (ENISA)
+==- Evaluation Assurance Level (EAL)
 ==- Event
 According to the ITIL framework, an event is defined as a change of state that has significance for the management of an IT service or other CI. This could be any unscheduled adverse impact to the operating environment.
 
@@ -400,18 +466,27 @@ An event is distinguished form a disaster by the duration of impact. We consider
 Automates detection and remediation of security issues.
 ==- Exploit
 An instance of compromise.
+==- Export Administration Regulations (EAR)
+==- Exposure Factor (EF)
 ==- External Audit
 ==- 
 
 ## F
 
+==- Family Educational Rights and Privacy Act (FERPA)
 ==- Fault Tolerance (FT)
 Fault tolerance involves the use of specialized hardware that can detect faults and automatically switch to redundant components or systems.
 
 !!!
 Should be used when the goal is to **eliminate** system downtime as a threat to system availability altogether.
 !!!
-==- Federated SSO
+==- Federal Act on Data Protection (FADP)
+==- Federal Information Processing Standard (FIPS)
+==- Federal Information Security Management Act (FISMA)
+==- Federal Risk and Authorization Management Program (FedRAMP)
+==- Federal Trade Commission (FTC)
+==- Federated Identity Management (FIM)
+==- Federated Single Sign-On
 Federated SSO is typically used for facilitating interorganizational and intersecurity domain access to resources leveraging federated identity management.
 ==- Federation
 An association of organizations that come together to exchange information as appropriate about their users and resources to enable collaborations and transactions.
@@ -424,8 +499,11 @@ Do we have the funds and can we allocate them appropriately? Are we receiving a 
 Forensic science is generally defined as the application of science to the law.
 ==- Forklifting
 The idea of moving an existing legacy enterprise application to the cloud with little or no code changes.
+==- Format-Preserving Encryption (FPE)
 ==- Fraggle Attack
 A variation to the Smurf attack is the Fraggle attack. The attack is essentially the same as the Smurf attack but instead of sending an ICMP echo request to the direct broadcast address, it sends UDP packets.
+==- Full Disk Encryption (FDE)
+==- Functional Requirements
 ==- Functional Testing
 Functional testing is performed to confirm the functional aspect of a product. It verifies that a product is performing as expected based on the initial requirements laid out.
 ==- Functionality Replication
@@ -449,8 +527,11 @@ GAAP is a combination of authoritative standards (set by policy boards) and the 
 These are the industry standards, also recognized by the courts and regulators, that accountants and auditors must adhere to in professional practice. Many of these deal with elements of the CIA Triad, but they also include aspects such as conflict of interest, client privacy, and so forth.
 
 A standard framework of guidelines for financial accounting.
+==- Generally Accepted Privacy Principles (GAPP)
 ==- Geofence
 A geofence is a virtual perimeter for a real-world geographic area.
+==- Global Data Protection Regulation (GDPR)
+==- Gramm-Leach-Bliley Act (GLBA)
 ==-
 
 ## H
@@ -464,6 +545,8 @@ The key difference between HSM and TPM is that an HSM manages keys for several d
 !!!
 ==- Hashing
 Able to detect corruption.
+==- Health Information Technology for Economic and Clinical Health (HITECH)
+==- Health Insurance Portability and Accountability Act (HIPAA)
 ==- High Availability
 High availability makes use of shared and pooled resources to maintain a high level of availability and minimize downtime. It typically includes the following capabilities:
 
@@ -493,6 +576,8 @@ Incorporates emotional intelligence, cognitive learning and responses, and also 
 The means by which an identity can be asserted. For digital identities this is often a cryptological token. In the real world it might be your passport.
 ==- Identity
 The unique expression of an entity within a given namespace. An entity can have multiple digital identities, such as a single individual having a work identity (or even multiple identities, depending on the systems), a social media identity, and a personal identity. For example, if you are a single entry in a single directory server then that is your identity.
+==- Identity and Access Management (IAM)
+==- Identity Provider (IdP)
 ==- Incident
 According to the ITIL framework, an incident is defined as an unplanned interruption to an IT service or a reduction in the quality of an IT service.
 
@@ -501,13 +586,16 @@ Essentially, incidents are unscheduled events.
 !!!
 Not all events are incidents, but all incidents are events.
 !!!
+==- Incident Management Team (IMT)
+==- Incident Response Team (IRT)
 ==- Inference
 An attack technique that derives sensitive material from an aggregation of innocuous data.
-==- Infrastructure as Code (IaC)
-A type of IT setup wherein developers or operations teams automatically manage and provision the technology stack for an application through software, rather than using a manual process to configure discrete hardware devices and operating systems.
-==- Integrity
-The process of ensuring that data is real, accurate, and protected from unauthorized modification.
-==- Internal Audit
+==- Information Rights Management (IRM)
+==- Information Security Management (ISM)
+==- Information Security Officer (ISO)
+==- Information Security Plan (ISP)
+==- Information Storage and Management
+==- Information Technology Infrastructure Library (formerly) (ITIL)
 ==- Information Technology Service Management (ITSM)
 The activities that are performed by an organization to design, plan, deliver, operate and control IT services offered to customers.
 
@@ -515,8 +603,20 @@ ITSM makes it possible to:
 
 - Ensure portfolio management, demand management, and financial management are all working together for efficient service delivery to customers and effective charging for services if appropriate
 - Involve all the people and systems necessary to create alignment and ultimately success
+==- Infrastructure-as-a-Service (IaaS)
+==- Infrastructure as Code (IaC)
+A type of IT setup wherein developers or operations teams automatically manage and provision the technology stack for an application through software, rather than using a manual process to configure discrete hardware devices and operating systems.
+==- Integrity
+The process of ensuring that data is real, accurate, and protected from unauthorized modification.
+==- Internal Audit
 ==- Internal Security Assessor (ISA)
 An ISA is an individual who has earned a certificate from the PCI Security Standards Company for their sponsoring organization. This certified person has the ability to perform PCI self-assessments for their organization.
+==- International Auditing and Assurance Standards Board (IAASB)
+==- International Data Center Authority (IDCA)
+==- International Electrotechnical Commission (IEC)
+==- International Traffic in Arms Regulations (ITAR)
+==- Intrusion Detection System (IDS)
+==- Intrusion Prevention System (IPS)
 ==- IPsec
 IPsec is a framework for providing secure transmission of sensitive information over unsecured networks such as the Internet. IPSec works at the network layer, protecting and authenticating IP packets between participating IPsec endpoints.
 
@@ -535,10 +635,11 @@ Downsides to IPsec:
 !!!
 IPsec does not always tunnel traffic. GRE is a technology leveraged by IPsec that performs tunneling. IKE is another aspect of IPsec that provides encryption.
 !!!
-==-
+==- 
 
 ## J
 
+==- Jericho
 ==- Jump Server
 A jump server, jump host or jump box is a system on a network used to access and manage devices in a separate security zone. A jump server is a hardened and monitored device that spans two dissimilar security zones and provides a controlled means of access between them. The most common example is managing a host in a DMZ from trusted networks or computers.
 
@@ -564,6 +665,8 @@ A LOI outlines the general plans of an agreement between two or more parties bef
 The measure of responsibility an entity has for providing due care. An organization can share risk, but it cannot share liability.
 ==- Limits
 A limit creates a *maximum* ceiling for a resource allocation.
+==- Live Migration
+==- Loosely Coupled
 ==- Loss of Governance
 The risk that the client cedes control to the cloud provider.
 ==-
@@ -601,26 +704,42 @@ A *nonbinding* agreement between two or more parties outlining the terms and det
 Microsoft Deployment Toolkit is a computer program that permits network deployment of Microsoft Windows and Microsoft Office.
 ==- Middleware
 A term used to describe software that works between an operating system and another application or database of some sort. Typically operates above the transport layer and below the application layer.
+==- Multifactor Authentication (MFA)
 ==- Multitenancy
 Multitenancy refers to the notion of hosting multiple cloud tenants on a single host while sharing resources.
 ==-
 
 ## N
 
+==- National Fire Protection Association (NFPA)
+==- National Institute of Standards and Technology (NIST)
+==- National Privacy Principles (NPP)
+==- National Voluntary Laboratory Accreditation Program (NVLAP)
 ==- Natural Disaster
 Natural disasters are a category of risks to cloud deployments that is based *solely* on geography and location. Regulatory violations are not always based on location. They can also be based on the type of industry.
+==- Network and Information Security (NIS)
 ==- Network Forensics
 Network forensics is defined as the capture, storage, and analysis of network events. The idea is to capture every packet of network traffic and make it available in a single searchable database so that the traffic can be examined and analyzed in detail.
 ==- Networking as a Service (NaaS)
 Includes network services from third-parties to customers that do not want to build their own networking infrastructure.
+==- Nonfunctional Requirements
 ==- Nonrepudiation
 The assurance that a specific author actually did create and send a specific item to a specific recipient and that it was successfully received. The sender of the message cannot later credibly deny having sent the message, nor can the recipient credibly claim not to have received it.
+==- North American Electric Reliability Corporation (NERC)
 ==- Northbound Interface (NBI)
 ==-
 
 ## O
 
+==- Object Storage
+==- Office for Civil Rights (OCR)
+==- Office of Management and Budget (OMB)
+==- Open Web Application Security Project (OWASP)
+==- OpenID Connect (OIDC)
 ==- Operational Expenditure (OpEx)
+==- Operational-Level Agreement (OLA)
+==- Organization for Economic Cooperation and Development (OECD)
+==- Organizational Normative Framework (ONF)
 ==- Outage Duration
 Outage duration is the length of time of a documented outage and is expressed as an amount of time (minutes, hours, days).
 ==- OWASP Dependency-Check
@@ -631,21 +750,30 @@ A utility that identifies project dependencies and checks whether there are any 
 
 ## P
 
+==- Payment Card Industry (PCI)
 ==- Persona
 The expression of an identity with attributes that indicates context. For example, a developer who logs into work and then connects to a cloud environment as a developer on a particular project. The identity is still the individual, and the persona is the individual in the context of that project.
+==- PCI Forensic Investigator (PFI)
 ==- Personal Data
 Any information relating to an identified or identifiable natural personal data subject; an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his or her physical, physiological, mental, economic, cultural, or social identity.
+==- Personal Data Protection Act (PDPA)
+==- Personal Health Information (PHI)
+==- Personal Information Protection and Electronics Document Act (PIPEDA)
+==- Plan-Do-Check-Act (PDCA)
+==- Platform-as-a-Service (PaaS)
 ==- Plenum
 ==- Policy Decision Point
-?
 ==- Policy Enforcement Point
 Access decisions can be enforced at various points with various technologies.
 ==- Policy Management
 Establishes the security and access policies based on business needs and the degree of acceptable risk.
 ==- Portfolio Management
 A portfolio consists of all endeavors undertaken by an organization. We are looking to show value for each individual endeavor but also the IT program as a whole. For example, are we receiving the value from cloud services that we're looking for?
+==- Primary Account Number (PAN)
+==- Primary Storage
 ==- Privacy
 The protection of PII.
+==- Privacy-Level Agreement (PLA)
 ==- Problem
 A problem is the *unknown* root cause of one or more incidents, often identified as a result of multiple similar incidents.
 ==- Processing
@@ -701,8 +829,10 @@ The foundation of federation relies on the existence of an identity provider; th
 Deploying duplicate devices that can take over active operation if the primary device fails.
 ==- Regression Testing
 Re-running functional and non-functional tests to ensure that previously developed and tested software still performs after a change. If not, that would be called a regression.
+==- Release and Deployment Management (RDM)
 ==- Report of Compliance (ROC)
 A ROC is a form that has to be filled by *all level 1 merchants* undergoing a PCI DSS audit. The ROC form is used to verify that the merchant being audited is compliant with the PCI DSS standard.
+==- Representational State Transfer (REST)
 ==- Reputational Risk
 Reputational risk is the loss of value of a brand or the ability of an organization to persuade.
 ==- Reservations
@@ -736,6 +866,8 @@ A risk register is a table to consolidate information about risks.
 Risk tolerance is the level of risk that an organization can accept per *individual* risk.
 ==- Role
 Identities can have multiple roles which indicate context. “Role” is a confusing and abused term used in many different ways. For our purposes we will think of it as similar to a persona, or as a subset of a persona. For example, a given developer on a given project may have different roles, such as “super-admin” and “dev”, which are then used to make access decisions.
+==- Role-Based Access Control (RBAC)
+==- Runtime Application Self-Protection (RASP)
 ==-
 
 ## S
@@ -743,20 +875,29 @@ Identities can have multiple roles which indicate context. “Role” is a confu
 ==- Sandboxing
 - Testing untested or untrusted code
 - To better understand if an application is working the way it was intended to work
+==- Sarbanes-Oxley Act (SOX)
 ==- Scalability
 New computing resources can be assigned and allocated without any significant additional capital investment on the part of the cloud provider, and at an incremental cost to the cloud customer.
 ==- Scoping
 Scoping is the process that refers to including only departments or business units impacted by any (cloud) engagement.
+==- Securities and Exchange Commission (SEC)
+==- Security Information and Event Management (SIEM)
 ==- Secondary Risk
 When one risk response triggers another risk event. For example, a fire suppression system that displaces oxygen is a means to mitigate the original risk (fire) but adds a new risk (suffocating people).
+==- Secondary Storage
+==- Secret Sharing Made Short (SMSS)
 ==- Security
 The owner's right to determine to whom information is disclosed. Security protects privacy.
+==- Security Assertion Markup Language (SAML)
+==- Security Target (ST)
+==- Security, Trust, and Assurance Registry (STAR)
 ==- Security Zones
 *See [Trust Zones](/reference/glossary/#trust-zones)*.
 ==- Self-Assessment Questionnaire (SAQ)
 The PCI DSS SAQs are validation tools intended to assist merchants and service providers report the results of their PCI DSS self-assessment.
 ==- Sensitive Authentication Data (SAD)
 Examples include CVV or PIN numbers.
+==- Sensitive But Unclassified (SBU)
 ==- Separation of Duties
 Dictates that one person/entity cannot complete an entire transaction alone.
 
@@ -765,6 +906,8 @@ In the case of encryption, a single entity should not be able to administer the 
 Concerned more about the processing system rather than the data being replicated.
 ==- Service-Oriented Architecture (SOA)
 Views software as a combination of interoperable services, the components of which can be substituted at will.
+==- Service-Level Agremeent (SLA)
+==- Service Level Management (SLM)
 ==- Service Levels
 Service levels indicate the minimum expected performance.
 ==- Service Provisioning Markup Language (SPML)
@@ -781,24 +924,31 @@ Money spent on technology to acquire services without the IT department's dollar
 For example, on-demand self service promotes and allows the ability to provision computing resources without human interaction, The consumer can provision resources regardless of location and time. This can be a challenge to purchasing departments as the typical purchasing processes can be avoided.
 ==- Shares
 The concept of shares is used to arbitrate the issues associated with compute resource *contention* situations. Share values are used to prioritize compute resource access for all guests assigned a certain number of shares. Shares allow the cluster's *reservations* to be allocated and then addresses any remaining resources that may be available for use by members of the cluster through a prioritized percentage-based allocation mechanism.
+==- Sherwood Applied Business Security Architecture (SABSA)
 ==- Silos
 The configuration when an enterprise deploys applications in dedicated infrastructure.
 
 Having silos in an enterprise deployment could be a precursor to migrating the environments to the cloud.
+==- Simple Object Access Protocol (SOAP)
 ==- Simplicity
 Usage and administration of cloud services ought to be transparent to cloud customers and users; from their perspective, a digital data service is paid for and can be used, with very little additional input other than what is necessary to perform their duties.
+==- Single Loss Expectancy (SLE)
+==- Single Sign-On (SSO)
 ==- Smurf Attack
 The Smurf attack is a distributed denial-of-service attack in which large numbers of Internet Control Message Protocol (ICMP) packets with the intended victim’s spoofed source IP are broadcast to a computer network using an IP broadcast address. Most devices on a network will, by default, respond to this by sending a reply to the source IP address. If the number of machines on the network that receive and respond to these packets is very large, the victim’s computer will be flooded with traffic.
 ==- Snarfing
 The action of grabbing data and using it without the owner's consent.
+==- Software-as-a-Service (SaaS)
 ==- Software Assurance
 Encompasses the development and implementation of methods and processes for ensuring that software functions as intended while mitigating the risks of vulnerabilities, malicious code, or defects that could bring harm to the end user.
 ==- Software-Defined Networking
 ==- Software-Defined Security
 Automates security controls.
+==- Software Development Lifecycle (SDLC)
 ==- Source Code Analysis (SCA)
 Performing an analysis of the source code, byte code, and binaries.
 ==- Southbound Interface (SBI)
+==- Special Publication (SP)
 ==- Spoliation
 The term used to describe the destruction of potential evidence (intentionally or otherwise); in various jurisdictions, it can be a crime, or the grounds for another lawsuit.
 ==- Sprawl
@@ -807,15 +957,22 @@ A phenomenon that occurs when the number of VMs on a network reaches a point whe
 Sprawl is a virtualization risk that occurs when the amount of content grows to such a degree that management is near impossible.
 
 To prevent sprawl, the administrator should define and enforce a process for the deployment of VMs and create a library of standardized VM image files.
+==- Statement on Auditing Standards (SAS)
+==- Statement on Standards for Attestation Engagements (SSAE)
+==- Static Application Security Testing (SAST)
 ==- Step-Up Authentication
 Step-up authentication is an additional factor or procedure that validates a user's identity by using the following means:
 
 - Challenge questions
 - Out-of-band authentication (phone call or SMS)
 - Dynamic knowledge-based authentication (questions unique to the end user)
-==-
 ==- Storage Replication
 Works with a local service to store or archive data to secondary storage using a SAN. This would typically be in the same location.
+==- Stored Communication Act (SCA)
+==- STRIDE
+==- Structured Storage
+==- Supervisory Authority (SA)
+==- System and Organization Controls (SOC)
 ==- System for Cross-domain Identity Management (SCIM)
 SCIM is a standard for exchanging identity information between domains. It can be used for provisioning and deprovisioning accounts in external systems and for exchanging attribute information.
 
@@ -828,16 +985,22 @@ SCIM is a standard for exchanging identity information between domains. It can b
 
 ==- Tenancy Separation
 Tenants, while running on the same host, are maintained separately in their virtual environments. This is known as tenancy separation.
+==- The Open Group Architecture Framework (TOGAF)
 ==- Threat
 Something that could cause loss to all or part of an asset.
 ==- Threat Actor
 Something or someone that carries out the attack. Also known as a threat agent.
 ==- Threat Agent
 Something or someone that carries out the attack. Also known as a threat actor.
+==- Tightly Coupled
+==- Time-Based One-Time Password (TOTP)
 ==- TLS Authentication
 When the server proves its identity to the client.
 ==- Total Risk
 The risk that exists &before& any controls are implemented.
+==- Traditional Networking
+==- Training
+==- Transport Layer Security (TLS)
 ==- Trust Zones
 A trust zone is a network segment within which data flows relatively freely, whereas data flowing in and out of the trust zone is subject to stronger restrictions. These could be physical, logical, or virtual boundaries around network resources, such as:
 
@@ -863,6 +1026,10 @@ A physical chip on a host device which stores RSA encryption keys specific to th
 !!!
 The key difference between HSM and TPM is that an HSM manages keys for several devices, whereas a TPM is specific to a single device.
 !!!
+==- Trusted Cloud Initiative (TCI)
+==- Trusted Computer System Evaluation Criteria (TCSEC)
+==- Type 1 Hypervisor
+==- Type 2 Hypervisor
 ==-
 
 ## U
@@ -870,6 +1037,8 @@ The key difference between HSM and TPM is that an HSM manages keys for several d
 ==- Underpinning Contract (UC)
 Underpinning contracts are external contracts negotiated between the organization and their vendors or suppliers.
 ==- Unified Threat Management (UTM)
+==- United States Munitions List (USML)
+==- Unstructured Storage
 ==-
 
 ## V
@@ -878,6 +1047,8 @@ Underpinning contracts are external contracts negotiated between the organizatio
 Refers to the optimization of cloud computing and cloud services for a particular vertical (e.g., a specific industry) or specific-use application.
 ==- Virtual Local Area Network (VLAN)
 ==- Virtual Machine Introspection (VMI)
+==- Virtual Switches
+==- Volume Storage
 ==-
 
 ## W
@@ -891,8 +1062,10 @@ A WAF operates at layer 7 of the OSI model.
 ==- Write Once, Read Many (WORM)
 
 A type of long-term storage, meaning it is written to initially and only used for read purposes thereafter.
+==- Web Security Testing Guide (WSTG)
 ==- White-Box Testing
 Reviewing the source code.
+==- Whole Disk Encryption (WDE)
 ==- Workaround
 A workaround is a *temporary* way of overcoming technical difficulties (such as incidents or problems).
 ==- Work Recovery Time (WRT)

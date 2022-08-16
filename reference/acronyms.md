@@ -27,6 +27,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | ARO | Annual Rate of Occurrence |
 | ASMP | Application Security Management Process |
 | AST | Application Security Testing |
+| ASV | Approved Scanning Vendor |
 | AUP | [Agreed-Upon Procedures](/reference/glossary/#agreed-upon-procedures-aup) |
 | AV | Asset Value |
 | BC | [Business Continuity](/reference/glossary/#business-continuity-bc) |
@@ -75,8 +76,8 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | DIU | Data in Use |
 | DMCA | Digital Millenium Copyright Act |
 | DLP | Data Leak Prevention <br> Data Loss Prevention |
-| DoC | Department of Commerce |
-| DoT | Department of Transportation |
+| DOC | Department of Commerce |
+| DOT | Department of Transportation |
 | DPA | Data Protection Act |
 | DR | [Disaster Recovery](/reference/glossary/#disaster-recovery-dr) |
 | DRM | Digital Rights Management |
