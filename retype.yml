@@ -5,7 +5,7 @@ branding:
   logo: /static/isc2_ccsp.png
 links:
   - text: Donate
-    icon: heart
+    icon: heart-fill
     link: https://patreon.com/alukos
     target: blank
 meta:
