@@ -44,7 +44,7 @@ The application has been approved by management.
 ==- Application Certification
 The application meets technical requirements.
 ==- Application Programming Interface (API)
-== Artificial Intelligence
+==- Artificial Intelligence
 Artificial intelligence is the ability of devices to perform human-like analysis. Artificial intelligence operates by consuming a large amount of data and recognizing patterns and trends in the data.
 
 Contains humanized and analytical types.
