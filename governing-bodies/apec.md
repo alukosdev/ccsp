@@ -3,10 +3,6 @@ categories: []
 tags: [apec, privacy]
 ---
 
-!!!danger
-Technically, APEC is not a law. It is an organization. This probably shouldn't be under laws, but it has nowhere else to go. Sad panda is sad.
-!!!
-
 # APEC
 
 ## Acronyms
