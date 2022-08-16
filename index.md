@@ -4,7 +4,7 @@ label: Welcome
 ---
 
 !!!danger Disclaimer
-We are actively updating these notes to reflect the latest exam revision released on August 1st, 2022. The content on these pages will change dynamically as these updates occur. We appreciate your patience and understanding! :heart:
+We are actively updating these notes to reflect the latest exam revision released on August 1st, 2022. The content on these pages will change dynamically as these updates occur. We appreciate your patience and understanding!
 !!!
 
 # Welcome
@@ -31,7 +31,7 @@ Please do not hesitate to contact me on LinkedIn or Discord if you discover any 
 
 ## Donate
 
-I do my best to ensure these notes are actively updated and actively. This is a community project and I intend on keeping it that way. I would not ask nor expect anyone to contribute monetarily; however, if you are interested in helping out, please subscribe to one of our [Patreon tiers](https://patreon.com/alukos){ target="_blank" }.
+I do my best to ensure these notes are actively updated and actively. This is a community project and I intend on keeping it that way. I would not ask nor expect anyone to contribute monetarily. If you are interested in helping out, please subscribe to one of our [Patreon tiers](https://patreon.com/alukos){ target="_blank" }. :heart:
 
 ## Additional Resources
 
