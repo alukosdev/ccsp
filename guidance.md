@@ -1,6 +1,6 @@
 # Guidance
 
-| Name | Category |
+| Name | Category | { class="compact" }
 | - | - |
 | CIS Controls | Security Management and Controls |
 | CSA Treacherous Twelve | Cloud Computing Risk Management |
