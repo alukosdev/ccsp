@@ -1,5 +1,5 @@
 !!!danger Incomplete Page
-This page needs a formatting update. Additionally, all standards should be linked to their appropriate page.
+This page needs a formatting update. Additionally, all standards should be linked to their appropriate page. Also, this page does not match the actual standards drop-down, so we should re-evaluate whether including this as part of the folder makes sense unless we plan to include everything.
 !!!
 
 # Standards
