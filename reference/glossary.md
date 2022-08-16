@@ -28,6 +28,10 @@ It is deployed as a highly scalable IaaS computing platform.
 An API gateway translates requests from clients into multiple requests to many microservices and delivers the content as a whole via an API it assigns to that client/session.
 
 API gateways can provide access control, rate limiting, logging, metrics, and security filtering services.
+==- Application Accreditation
+The application has been approved by management.
+==- Application Certification
+The application meets technical requirements.
 ==- Auditability
 Auditability is collecting and making available necessary evidence related to the operation and use of the cloud.
 ==-
@@ -40,6 +44,8 @@ A bastion host is a method for remote access to a secure environment. The bastio
 !!!
 The difference between a jump server and a bastion host is that a jump server is intended to breach the gap between two security zones and have a gateway to obtain access to something inside of the other security zone. A bastion host is outside of your security zone and will require additional security considerations.
 !!!
+==- Black-Box Testing
+Testing the program as it functions, in runtime.
 ==- Business Continuity (BC)
 Business continuity efforts are concerned with maintaining (or "continuing") critical operations during any interruption in service.
 
@@ -110,6 +116,8 @@ The organization might have datacenter assets it owns, but it can't handle the i
 The cloud carrier is the intermediary that provides connectivity and transport of cloud services between the CSPs and the cloud service consumers.
 
 The intermediary that provides connectivity and transport of cloud services between the CSPs and the cloud service consumers.
+==- Cloud Computing Forensic Science
+The application of scientific principles, technological practices, and derived and proven methods to reconstruct past cloud computing events through identification, collection, preservation, examination, interpretation, and reporting of digital evidence.
 ==- Cloud Data Architect
 Ensures the various storage types and mechanisms utilized within the cloud environment meet and conform to the relevant SLAs and that the storage components are functioning according to their specified requirements.
 
@@ -182,6 +190,8 @@ Includes a variety of compliance services such as data encryption, disaster reco
 A cloud server’s compute parameters depend on the number of *CPUs* and the amount of *RAM* used. The ability to allocate these resources is a vital compute concern.
 ==- Confidentiality
 Protecting information from unauthorized access/dissemination.
+==- Content Discovery
+Includes the tools and processes to identify sensitive information in storage.
 ==- Controls
 Act as mechanisms designed to restrict a list of possible actions to allowed or permitted actions. If a control is breached, the next step of mitigating is a countermeasure. Proactive.
 ==- Cost Benefit Analysis (CBA)
@@ -198,18 +208,62 @@ An example of a cross-cutting aspect is security.
 
 ## D
 
+==- Data Controller
+The person who either alone or jointly with other persons determines the purposes for which and the manner in which any personal data is processed; this entity determines the "why" and "how" personal data is processed.
+
+!!!
+In the cloud context, the data controller is usually the **cloud customer.** From an international perspective, the data controller is also known as the **data owner.**
+!!!
+==- Data Custodian
+Data custodians are responsible for the safe custody, transport, data storage, and implementation of business rules. This is any organization or person who manipulates, stores, or moves the data on behalf of the data owner.
+
+The custodian is usually a specific entity in charge of maintaining and securing the privacy-related data on a *daily basis*, as an element of the data's use; for example, this could be a database administrator hired by the CSP.
+
+The data custodian must adhere to any policies set forth by the data owner in regard to the use of the data.
+
+!!!
+In the cloud context, the data custodian is usually the **cloud service provider.** From an international perspective, the data custodian is also known as the **data processor.**
+!!!
+==- Data Owner
+The entity that holds the legal rights and control over a set of data. Data owners define distribution and associated policies.
+
+In most cases, this is the organization that has collected or created the data. This is also the individual with rights and responsibilities for that data; this is usually the department head or business unit manager for the office that has created or collected a certain dataset. 
+
+!!!
+In the cloud context, the data owner is usually the **cloud customer.** From an international perspective, the data owner is also known as the **data controller.**
+!!!
+==- Data Processor
+Any person other than the data owner who processes the data on behalf of the data owner/controller.
+
+!!!
+In the cloud context, the data processor is usually the **cloud service provider.** From an international perspective, the data processor is also known as the **data custodian.**
+!!!
 ==- Data Remanence
 Any data left over after sanitization and disposal methods have been attempted.
 ==- Data Replication
 The process of copying data from one location to another. The system works to keep up-to-date copies of its data in the event of a disaster.
 ==- Data Science as a Service (DSaaS)
 Involves an outside company providing advanced analytics applications (gathered using data science) to corporate clients for their business use.
+==- Data Steward
+The person responsible for data content, context, and associated business rules.
+
+While the data owner maintains sole responsibility for the data and the controls surrounding that data, there is sometimes the additional role of data steward, who will oversee data access requests and the utilization of the data.
+=== Data Subject
+The individual who is the focus of personal data.
 ==- Database Activity Monitoring (DAM)
 Captures and records, at a minimum, all SQL activity in real time or near real time, including database administrator activity, across multiple database platforms; and can generate alerts on policy violations.
 
 A DAM operates at layer 7 of the OSI model.
 ==- Demand Management
 Can we meet our demand requirements (can we scale up and down)? Elasticity in the cloud solves this.
+==- Diffie-Hellman
+The Diffie-Hellman *key exchange process* is used for *asymmetric encryption* and is designed to allow two parties to create a shared secret (symmetric key) over an untrusted medium.
+
+!!!
+Diffie-Hellman is not a symmetric algorithm; it is an asymmetric algorithm used to establish a shared secret for a symmetric key algorithm.
+!!!
+==- Digital Forensics
+Digital forensics is generally considered the application of science to the identification, collection, examination, and analysis of data while preserving the integrity of the information and maintaining a strict chain of custody for the data.
 ==- Digital Signatures
 Uses the senders private key *and* a hash to guarantee the integrity and the origin (authenticity/non-repudiation) of a message. This method requires a PKI.
 ==- Disaster Recovery (DR)
@@ -241,6 +295,8 @@ Eucalyptus is a paid and open-source computer software building AWS-compatible p
 ==- European Economic Area (EEA)
 
 The European Economic Area, abbreviated as EEA, consists of the Member States of the European Union (EU) and three countries of the European Free Trade Association (EFTA) (Iceland, Liechtenstein and Norway; excluding Switzerland). The Agreement on the EEA entered into force on 1 January 1994.
+==- Event-Driven Security
+Automates detection and remediation of security issues.
 ==-
 
 ## F
@@ -255,10 +311,14 @@ Should be used when the goal is to **eliminate** system downtime as a threat to 
 FAM monitors and records all activity within designated file repositories at the user level, and generate alerts on policy violations.
 ==- Financial Management
 Do we have the funds and can we allocate them appropriately? Are we receiving a good return on investment (ROI)? Are we good stewards of the money entrusted to us? Are we making a profit?
+==- Forensic Science
+Forensic science is generally defined as the application of science to the law.
 ==- Forklifting
 The idea of moving an existing legacy enterprise application to the cloud with little or no code changes.
 ==- Fraggle Attack
 A variation to the Smurf attack is the Fraggle attack. The attack is essentially the same as the Smurf attack but instead of sending an ICMP echo request to the direct broadcast address, it sends UDP packets.
+==- Functional Testing
+Functional testing is performed to confirm the functional aspect of a product. It verifies that a product is performing as expected based on the initial requirements laid out.
 ==- Functionality Replication
 Used to duplicate processing capability at a secondary location. The secondary location could be with the same CSP or it could be a different CSP. It occurs anytime a needed *function*, including DNS, database, or other functionality is replicated to a CSP's other facilities.
 ==-
@@ -286,6 +346,12 @@ A geofence is a virtual perimeter for a real-world geographic area.
 
 ## H
 
+==- Hardware Security Module (HSM)
+A device that can safely *store* and *manage* encryption keys used in servers, data transmission, log files, and so forth.
+
+!!!
+The key difference between HSM and TPM is that an HSM manages keys for several devices, whereas a TPM is specific to a single device.
+!!!
 ==- Hashing
 Able to detect corruption.
 ==- High Availability
@@ -297,6 +363,8 @@ High availability makes use of shared and pooled resources to maintain a high le
 !!!
 Should be used when the goal is to **minimize** the impact of system downtime.
 !!!
+==- Homomorphic Encryption
+Intended to allow for processing of encrypted material without decrypting it first. Since the data is never decrypted, the provider and anyone trying to intercept communication between the user and the cloud would never have the opportunity to view the data in plaintext form.
 ==- Honeynet
 Grouping multiple honeypot systems to form a network that is used in the same manner as the honeypot, but with more scalability and functionality.
 ==- Honeypot
@@ -311,6 +379,8 @@ Enticement vs. entrapment. The real term to be used should be "distract".
 
 ==- Inference
 An attack technique that derives sensitive material from an aggregation of innocuous data.
+==- Infrastructure as Code (IaC)
+A type of IT setup wherein developers or operations teams automatically manage and provision the technology stack for an application through software, rather than using a manual process to configure discrete hardware devices and operating systems.
 ==- Integrity
 The process of ensuring that data is real, accurate, and protected from unauthorized modification.
 ==- Information Technology Service Management (ITSM)
@@ -320,6 +390,24 @@ ITSM makes it possible to:
 
 - Ensure portfolio management, demand management, and financial management are all working together for efficient service delivery to customers and effective charging for services if appropriate
 - Involve all the people and systems necessary to create alignment and ultimately success
+==- IPsec
+IPsec is a framework for providing secure transmission of sensitive information over unsecured networks such as the Internet. IPSec works at the network layer, protecting and authenticating IP packets between participating IPsec endpoints.
+
+IPsec can provide the following network security services:
+
+- Confidentiality by encrypting packets before sending them across a network.
+- Integrity by authenticating packets sent to ensure that the data has not been altered during transmission.
+- Authentication of the source of the IPsec packets sent.
+- Antireplay by detected and rejected replayed packets.
+
+Downsides to IPsec:
+
+- IPsec adds overhead to network traffic
+- Not NAT friendly
+
+!!!
+IPsec does not always tunnel traffic. GRE is a technology leveraged by IPsec that performs tunneling. IKE is another aspect of IPsec that provides encryption.
+!!!
 ==-
 
 ## J
@@ -340,10 +428,14 @@ The difference between a jump server and a bastion host is that a jump server is
 A LOI outlines the general plans of an agreement between two or more parties before a legal agreement is finalized.
 ==- Limits
 A limit creates a *maximum* ceiling for a resource allocation.
+==- Loss of Governance
+The risk that the client cedes control to the cloud provider.
 ==-
 
 ## M
 
+==- Mapping
+Enables an organization to know all of the locations where data is present within an application and within other storage. Allows for the ability to implement security controls and policies by understanding what type of data is present in the system.
 ==- Managed Service Provider (MSP)
 The difference between using a CSP and an MSP is that when using an MSP, the cloud customer has full control over governance.
 
@@ -376,6 +468,8 @@ Multitenancy refers to the notion of hosting multiple cloud tenants on a single 
 
 ## N
 
+==- Network Forensics
+Network forensics is defined as the capture, storage, and analysis of network events. The idea is to capture every packet of network traffic and make it available in a single searchable database so that the traffic can be examined and analyzed in detail.
 ==- Networking as a Service (NaaS)
 Includes network services from third-parties to customers that do not want to build their own networking infrastructure.
 ==- Nonrepudiation
@@ -386,12 +480,22 @@ The assurance that a specific author actually did create and send a specific ite
 
 ==- Outage Duration
 Outage duration is the length of time of a documented outage and is expressed as an amount of time (minutes, hours, days).
+==- OWASP Dependency-Check
+Dependency-Check is a Software Composition Analysis (SCA) tool that attempts to detect publicly disclosed vulnerabilities contained within a project’s dependencies. It does this by determining if there is a Common Platform Enumeration (CPE) identifier for a given dependency. If found, it will generate a report linking to the associated CVE entries.
+
+A utility that identifies project dependencies and checks whether there are any known, publicly disclosed, vulnerabilities.
 ==-
 
 ## P
 
+==- Personal Data
+Any information relating to an identified or identifiable natural personal data subject; an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his or her physical, physiological, mental, economic, cultural, or social identity.
 ==- Portfolio Management
 A portfolio consists of all endeavors undertaken by an organization. We are looking to show value for each individual endeavor but also the IT program as a whole. For example, are we receiving the value from cloud services that we're looking for?
+==- Privacy
+The protection of PII.
+==- Processing
+Processing is any *manipulation* of the data, to include security or destroying it, in electronic or hard-copy form. Viewing data is not considered processing.
 ==-
 
 ## Q
@@ -431,6 +535,8 @@ RSL is measured in *percentage*.
 !!!
 ==- Redundancy
 Deploying duplicate devices that can take over active operation if the primary device fails.
+==- Regression Testing
+Re-running functional and non-functional tests to ensure that previously developed and tested software still performs after a change. If not, that would be called a regression.
 ==- Reservations
 A reservation creates a guaranteed *minimum* resource allocation that the host must meet.
 ==- Resiliency
@@ -450,6 +556,8 @@ Generally calculated by dividing net profit by net assets.
 New computing resources can be assigned and allocated without any significant additional capital investment on the part of the cloud provider, and at an incremental cost to the cloud customer.
 ==- Scoping
 Scoping is the process that refers to including only departments or business units impacted by any (cloud) engagement.
+==- Security
+The owner's right to determine to whom information is disclosed. Security protects privacy.
 ==- Separation of Duties
 Dictates that one person/entity cannot complete an entire transaction alone.
 
@@ -476,6 +584,14 @@ Having silos in an enterprise deployment could be a precursor to migrating the e
 Usage and administration of cloud services ought to be transparent to cloud customers and users; from their perspective, a digital data service is paid for and can be used, with very little additional input other than what is necessary to perform their duties.
 ==- Smurf Attack
 The Smurf attack is a distributed denial-of-service attack in which large numbers of Internet Control Message Protocol (ICMP) packets with the intended victim’s spoofed source IP are broadcast to a computer network using an IP broadcast address. Most devices on a network will, by default, respond to this by sending a reply to the source IP address. If the number of machines on the network that receive and respond to these packets is very large, the victim’s computer will be flooded with traffic.
+==- Snarfing
+The action of grabbing data and using it without the owner's consent.
+==- Software Assurance
+Encompasses the development and implementation of methods and processes for ensuring that software functions as intended while mitigating the risks of vulnerabilities, malicious code, or defects that could bring harm to the end user.
+==- Software-Defined Security
+Automates security controls.
+==- Source Code Analysis (SCA)
+Performing an analysis of the source code, byte code, and binaries.
 ==- Sprawl
 A phenomenon that occurs when the number of VMs on a network reaches a point where the administrators can no longer manage them effectively.
 
@@ -490,6 +606,8 @@ Works with a local service to store or archive data to secondary storage using a
 
 ==- Tenancy Separation
 Tenants, while running on the same host, are maintained separately in their virtual environments. This is known as tenancy separation.
+==- TLS Authentication
+When the server proves its identity to the client.
 ==- Trust Zones/Security Zones
 A trust zone is a network segment within which data flows relatively freely, whereas data flowing in and out of the trust zone is subject to stronger restrictions. These could be physical, logical, or virtual boundaries around network resources, such as:
 
@@ -509,6 +627,12 @@ To protect trust zones:
 - Protect, detect, and contain
 
 ![Trust Zones](/static/trust-zones.png)
+==- Trusted Platform Module (TPM)
+A physical chip on a host device which stores RSA encryption keys specific to that host for hardware authentication. The purpose is to provide WDE in the event that a hard drive is removed from its host.
+
+!!!
+The key difference between HSM and TPM is that an HSM manages keys for several devices, whereas a TPM is specific to a single device.
+!!!
 ==-
 
 ## U
@@ -530,6 +654,8 @@ A WAF operates at layer 7 of the OSI model.
 ==- Write Once, Read Many (WORM)
 
 A type of long-term storage, meaning it is written to initially and only used for read purposes thereafter.
+==- White-Box Testing
+Reviewing the source code.
 ==- Work Recovery Time (WRT)
 The time necessary to very restoration of systems once they have been returned to operation.
 ==-

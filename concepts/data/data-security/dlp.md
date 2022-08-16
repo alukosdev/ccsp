@@ -16,9 +16,9 @@ label: Data Loss Prevention
 
 ## Glossary
 
-==- Content Discovery
+=== Content Discovery
 Includes the tools and processes to identify sensitive information in storage.
-==-
+===
 
 ## Overview
 

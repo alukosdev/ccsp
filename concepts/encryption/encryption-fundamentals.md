@@ -20,21 +20,21 @@
 
 ## Glossary
 
-==- Diffie-Hellman
+=== Diffie-Hellman
 The Diffie-Hellman *key exchange process* is used for *asymmetric encryption* and is designed to allow two parties to create a shared secret (symmetric key) over an untrusted medium.
 
 !!!
 Diffie-Hellman is not a symmetric algorithm; it is an asymmetric algorithm used to establish a shared secret for a symmetric key algorithm.
 !!!
-==- Hardware Security Module (HSM)
+=== Hardware Security Module (HSM)
 A device that can safely *store* and *manage* encryption keys used in servers, data transmission, log files, and so forth.
 
 !!!
 The key difference between HSM and TPM is that an HSM manages keys for several devices, whereas a TPM is specific to a single device.
 !!!
-==- Homomorphic Encryption
+=== Homomorphic Encryption
 Intended to allow for processing of encrypted material without decrypting it first. Since the data is never decrypted, the provider and anyone trying to intercept communication between the user and the cloud would never have the opportunity to view the data in plaintext form.
-==- IPsec
+=== IPsec
 IPsec is a framework for providing secure transmission of sensitive information over unsecured networks such as the Internet. IPSec works at the network layer, protecting and authenticating IP packets between participating IPsec endpoints.
 
 IPsec can provide the following network security services:
@@ -52,13 +52,13 @@ Downsides to IPsec:
 !!!
 IPsec does not always tunnel traffic. GRE is a technology leveraged by IPsec that performs tunneling. IKE is another aspect of IPsec that provides encryption.
 !!!
-==- Trusted Platform Module (TPM)
+=== Trusted Platform Module (TPM)
 A physical chip on a host device which stores RSA encryption keys specific to that host for hardware authentication. The purpose is to provide WDE in the event that a hard drive is removed from its host.
 
 !!!
 The key difference between HSM and TPM is that an HSM manages keys for several devices, whereas a TPM is specific to a single device.
 !!!
-==-
+===
 
 ## Overview
 

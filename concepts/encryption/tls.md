@@ -13,9 +13,9 @@
 
 ## Glossary
 
-==- TLS Authentication
+=== TLS Authentication
 When the server proves its identity to the client.
-==-
+===
 
 ## Overview
 

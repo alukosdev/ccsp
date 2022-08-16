@@ -15,25 +15,25 @@ label: Application Security Testing
 
 ## Glossary
 
-==- Black-Box Testing
+=== Black-Box Testing
 Testing the program as it functions, in runtime.
-==- Event-Driven Security
+=== Event-Driven Security
 Automates detection and remediation of security issues.
-==- Functional Testing
+=== Functional Testing
 Functional testing is performed to confirm the functional aspect of a product. It verifies that a product is performing as expected based on the initial requirements laid out.
-==- OWASP Dependency-Check
+=== OWASP Dependency-Check
 Dependency-Check is a Software Composition Analysis (SCA) tool that attempts to detect publicly disclosed vulnerabilities contained within a project’s dependencies. It does this by determining if there is a Common Platform Enumeration (CPE) identifier for a given dependency. If found, it will generate a report linking to the associated CVE entries.
 
 A utility that identifies project dependencies and checks whether there are any known, publicly disclosed, vulnerabilities.
-==- Regression Testing
+=== Regression Testing
 Re-running functional and non-functional tests to ensure that previously developed and tested software still performs after a change. If not, that would be called a regression.
-==- Source Code Analysis
-Performing an analysis of the source code, byte code, and binaries.
-==- Software Assurance
+=== Software Assurance
 Encompasses the development and implementation of methods and processes for ensuring that software functions as intended while mitigating the risks of vulnerabilities, malicious code, or defects that could bring harm to the end user.
-==- Software-Defined Security
+=== Software-Defined Security
 Automates security controls.
-==- White-Box Testing
+=== Source Code Analysis (SCA)
+Performing an analysis of the source code, byte code, and binaries.
+=== White-Box Testing
 Reviewing the source code.
 ===
 

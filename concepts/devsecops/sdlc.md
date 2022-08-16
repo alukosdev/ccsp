@@ -13,11 +13,11 @@ label: Software Development Lifecycle
 
 ## Glossary
 
-==- Application Accreditation
+=== Application Accreditation
 The application has been approved by management.
-==- Application Certification
+=== Application Certification
 The application meets technical requirements.
-==- Infrastructure as Code (IaC)
+=== Infrastructure as Code (IaC)
 A type of IT setup wherein developers or operations teams automatically manage and provision the technology stack for an application through software, rather than using a manual process to configure discrete hardware devices and operating systems.
 ===
 

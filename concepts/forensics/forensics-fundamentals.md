@@ -2,9 +2,9 @@
 
 ## Glossary
 
-==- Cloud Computing Forensic Science
+=== Cloud Computing Forensic Science
 The application of scientific principles, technological practices, and derived and proven methods to reconstruct past cloud computing events through identification, collection, preservation, examination, interpretation, and reporting of digital evidence.
-==- Digital Forensics
+=== Digital Forensics
 Digital forensics is generally considered the application of science to the identification, collection, examination, and analysis of data while preserving the integrity of the information and maintaining a strict chain of custody for the data.
 ==- Forensic Science
 Forensic science is generally defined as the application of science to the law.

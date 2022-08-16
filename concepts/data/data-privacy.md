@@ -2,9 +2,9 @@
 
 ## Glossary
 
-==- Personal Data
+=== Personal Data
 Any information relating to an identified or identifiable natural personal data subject; an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his or her physical, physiological, mental, economic, cultural, or social identity.
-==- Privacy
+=== Privacy
 The protection of PII.
 ==- Processing
 Processing is any *manipulation* of the data, to include security or destroying it, in electronic or hard-copy form. Viewing data is not considered processing.

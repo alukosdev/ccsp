@@ -13,6 +13,10 @@
 - Data Custodian
 +++
 
+!!!danger
+The below items have been included in the overarching glossary despite not being in their own glossary here.
+!!!
+
 ## Data Owner
 
 The entity that holds the legal rights and control over a set of data. Data owners define distribution and associated policies.
