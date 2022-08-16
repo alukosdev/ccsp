@@ -31,4 +31,4 @@ Please do not hesitate to contact me on LinkedIn or Discord if you discover any 
 
 ## [Donate](https://patreon.com/alukos){ target="_blank" }
 
-I do my best to ensure these notes are updated and actively maintained. This is a community project and I intend on keeping it that way. I would not ask nor expect anyone to contribute monetarily; however, I certainly appreciate 
+I do my best to ensure these notes are actively updated and actively. This is a community project and I intend on keeping it that way. I would not ask nor expect anyone to contribute monetarily; however, if you are interested in helping out, please do not hesitate to subscribe to one of our Patreon tiers.
