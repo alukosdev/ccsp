@@ -15,17 +15,17 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | Acronym, Abbreviation, or Initialism | Glossary Term | { class="compact" }
 | - | - |
 | ABAC | Attribute-Based Access Control [!button size="xs" target="blank" text="Glossary"](https://retype.com/) |
-| AICPA | American Institute of Certified Public Accountants [!badge size="s" target="blank" text="Glossary"](https://retype.com/) |
+| AICPA | American Institute of Certified Public Accountants |
 | ALE | [Annualized Loss Expectancy](/reference/glossary/#annualized-loss-expectancy-ale) |
 | ANF | Application Normative Framework |
-| ANSI | American National Standards Institute [!badge size="s" target="blank" text="Glossary"](https://retype.com/) |
+| ANSI | American National Standards Institute |
 | AoC | Attestation of Compliance |
 | AONT-RS | All-or-Nothing-Transform with Reed-Solomon |
 | APEC | Asia-Pacific Economic Cooperation |
 | API | Application Programming Interface |
 | APP | Australian Privacy Principles |
 | ARO | Annual Rate of Occurrence |
-| ASMP | Application Security Management Process [!button size="s" target="blank" text="Glossary"](https://retype.com/) |
+| ASMP | Application Security Management Process |
 | AST | Application Security Testing |
 | ASV | Approved Scanning Vendor |
 | AUP | [Agreed-Upon Procedures](/reference/glossary/#agreed-upon-procedures-aup) |
@@ -35,7 +35,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | BCP | [Business Continuity Plan](/reference/glossary/#business-continuity-plan-bcp) |
 | BIA | Business Impact Analysis |
 | BICSI | Building Industry Consulting Services International |
-| BOSS | Business Operation Support Services [!badge target="blank" text="Glossary"](https://retype.com/) |
+| BOSS | Business Operation Support Services |
 | BPA | Best Practices Analyzer |
 | CaaS | [Compliance as a Service](/reference/glossary/#compliance-as-a-service-compaas-caas) |
 | CAI | Consensus Assessments Initiative |
