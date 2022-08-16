@@ -1,5 +1,5 @@
 ---
-categories: [Auditing and Assurance]
+categories: [Auditing and Assurance Standards]
 ---
 
 # AICPA SOC

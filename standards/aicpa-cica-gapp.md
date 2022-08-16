@@ -1,6 +1,6 @@
 ---
-categories: [Privacy]
-tags: [aicpa, cica]
+categories: [Privacy Standards]
+tags: [aicpa, cica, privacy]
 ---
 
 # AICPA/CICA GAPP

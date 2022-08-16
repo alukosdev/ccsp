@@ -1,5 +1,5 @@
 ---
-categories: [Security Management and Controls]
+categories: [Security Management and Controls Standards]
 tags: [csa]
 ---
 

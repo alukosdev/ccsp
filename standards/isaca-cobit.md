@@ -1,5 +1,5 @@
 ---
-categories: [Risk Management]
+categories: [Risk Management Standards]
 tags: [isaca]
 ---
 

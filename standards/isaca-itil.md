@@ -1,5 +1,5 @@
 ---
-categories: [Secure Architecture and Design]
+categories: [Secure Architecture and Design Standards]
 tags: [isaca]
 ---
 

@@ -1,5 +1,5 @@
 ---
-categories: [Data Center Design]
+categories: [Data Center Design Standards]
 tags: [ansi, bicsi]
 ---
 
