@@ -2,17 +2,13 @@
 
 ## Glossary
 
-### Business Requirements
-
+=== Business Requirements
 A business requirement is an operational driver for decision making and input for risk management.
-
-### Business Rules
-
+=== Business Rules
 Business rules are lists of statements that tell you whether you may or may not do anything or that give you the criteria and conditions for making a decision.
-
-### Scoping
-
+=== Scoping
 Scoping is the process that refers to including only departments or business units impacted by any (cloud) engagement.
+===
 
 ## Overview
 

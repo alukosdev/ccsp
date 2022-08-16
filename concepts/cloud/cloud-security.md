@@ -11,31 +11,31 @@
 
 ## Glossary
 
-==- API Gateway
+=== API Gateway
 An API gateway translates requests from clients into multiple requests to many microservices and delivers the content as a whole via an API it assigns to that client/session.
 
 API gateways can provide access control, rate limiting, logging, metrics, and security filtering services.
-==- Database Activity Monitoring (DAM)
+=== Database Activity Monitoring (DAM)
 Captures and records, at a minimum, all SQL activity in real time or near real time, including database administrator activity, across multiple database platforms; and can generate alerts on policy violations.
 
 A DAM operates at layer 7 of the OSI model.
-==- File Activity Monitoring (FAM)
+=== File Activity Monitoring (FAM)
 FAM monitors and records all activity within designated file repositories at the user level, and generate alerts on policy violations.
-==- Honeynet
+=== Honeynet
 Grouping multiple honeypot systems to form a network that is used in the same manner as the honeypot, but with more scalability and functionality.
-==- Honeypot
+=== Honeypot
 Honeypots are computer systems setup to look like production systems using the modern concept of deception. They contain an operating system and can mimic many common systems such as Apache or IIS web servers, Windows file shares, or Cisco routers. A honeypot could be deployed with a known vulnerability that an attacker would be enticed to exploit. While it appears vulnerable to attack, it is in fact protection the real systems from attack while gathering defensive information such as the attacker's identity, access, and compromise methods.
 
 Used to detect, deflect, or in some manner counteract attempts at unauthorized use of information systems.
 
 Enticement vs. entrapment. The real term to be used should be "distract".
-==- Web Application Firewall (WAF)
+=== Web Application Firewall (WAF)
 A WAF is a type of firewall that filters HTTP traffic and can help prevent DoS attacks.
 
 A WAF operates at layer 7 of the OSI model.
-==- XML Gateway
+=== XML Gateway
 XML gateways transform how services and sensitive data are exposed as APIs to developers, mobile users, and the cloud. They can be either hardware or software based and they can implement security controls such as DLP, antivirus, and antimalware. XML gateways can also act as a reverse proxy and perform content inspection on many traffic protocols, including SFTP.
-==-
+===
 
 ### Associated Standards
 

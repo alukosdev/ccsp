@@ -23,17 +23,17 @@ label: Business Continuity and Disaster Recovery
 
 ## Glossary
 
-=== Business Continuity
+=== Business Continuity (BC)
 Business continuity efforts are concerned with maintaining (or "continuing") critical operations during any interruption in service.
 
 Business continuity is defined as the capability of the organization to "continue" delivery of products or services at acceptable predefined levels following a disruptive incident. It focuses primarily on the continuity of business processes (as opposed to technical processes).
-=== Business Continuity Management
+=== Business Continuity Management (BCM)
 Business continuity management is the process by which risks and threats are actively reviewed and managed at set intervals as part of the overall risk management process.
 
 BCM is defined as a holistic management process that identifies potential threats to an organization and the impacts to business operations those threats, if realized, might cause.
 
 It provides a framework for building organizational resilience with the capability of an effective response that safeguards the interests of its key stakeholders, reputation, brand, and value-creating activities.
-=== Business Continuity Plan
+=== Business Continuity Plan (BCP)
 The business continuity plan allows a business to plan what it needs to do to ensure that its key products and services *continue to be delivered* in case of a disaster.
 
 Business continuity plans typically outline how to maintain or "continue" business operations back to the point of permanent operations. It allows an enterprise to plan what is necessary to ensure that its key products and services will "continue" to be available in the event of a disaster, and that disruption to the business is minimized as much as possible.
@@ -43,13 +43,13 @@ The BCP is *not* critical to the continuation of services in the event of a busi
 !!!
 === Data Replication
 The process of copying data from one location to another. The system works to keep up-to-date copies of its data in the event of a disaster.
-=== Disaster Recovery
+=== Disaster Recovery (DR)
 Disaster recovery efforts are focused on the resumption of operations after an interruption due to disaster.
 
 Disaster recovery is a subset of business continuity. It is the process of saving data with the sole purpose of being able to recover it in the event of a disaster. Disaster recovery includes backing up systems and IT contingency plans for critical functions and applications.
 
 Disaster recovery focuses on *technology and data policies* (as opposed to business processes).
-=== Disaster Recovery Plan
+=== Disaster Recovery Plan (DRP)
 The disaster recovery plan allows a business to plan what needs to be done immediately after a disaster to *recover from the event*.
 
 Disaster recovery planning is the process by which suitable plans and measures are taken to ensure that, in the event of a disaster, the business can respond appropriately with the view to recovering critical and essential operations to a state of partial or full level of service in as little time as possible.
@@ -59,21 +59,15 @@ DRP is usually part of the BCP and typically tends to be more technical in natur
 Adds essential features such as archiving and disaster recovery to cloud backup solutions.
 === Functionality Replication
 Used to duplicate processing capability at a secondary location. The secondary location could be with the same CSP or it could be a different CSP. It occurs anytime a needed *function*, including DNS, database, or other functionality is replicated to a CSP's other facilities.
-=== MAD/MTD
+=== Maximum Allowable Downtime (MAD)
 A measure of how long it would take for an interruption in service to kill an organization. For example, if a company would fail because it had to halt operations for a week, then it's MAD is one week.
 
 !!!
 MAD is measured in *time*.
 !!!
-=== RTO
-The RTO indicates the amount of system downtime defining the total time of the disaster until the business can resume operations.
-
-This is the goal for recovery of operational capability after an interruption in service (i.e., the amount of time it takes to recover). For example, a company might have an MAD of one week, while the company's BCDR plan includes and supports an RTO of six days.
-
-!!!
-RTO is measured in *time*. The RTO must be lower than the MAD.
-!!!
-=== RPO
+=== Maximum Tolerable Downtime (MTD)
+*See [Maximum Allowable Downtime (MAD)](/concepts/business/bcdr/#maximum-allowable-downtime-mad)
+=== Recovery Point Objective (RPO)
 The RPO indicates the amount of acceptable data loss measured in terms of how much data can be lost before the business is too adversely affected.
 
 The point in time at which you would like to restore to. For instance, if an organization performs daily full backups and the BCDR plan includes a goal of resuming critical operations using the last full backup, the RPO would be 24 hours.
@@ -83,7 +77,7 @@ The point in time at which you would like to restore to. For instance, if an org
 !!!
 RPO is measured in *time*.
 !!!
-=== RSL
+=== Recovery Service Level (RSL)
 The recovery service level is a *percentage measurement (0-100%)* of how much computing power is necessary based on the percentage of the production system needed during a disaster.
 
 For example, an RSL of 50% would specify that the DR system would need to operate at a minimum of 50% the performance level of the normal production system.
@@ -91,11 +85,19 @@ For example, an RSL of 50% would specify that the DR system would need to operat
 !!!
 RSL is measured in *percentage*.
 !!!
+=== Recovery Time Objective (RTO)
+The RTO indicates the amount of system downtime defining the total time of the disaster until the business can resume operations.
+
+This is the goal for recovery of operational capability after an interruption in service (i.e., the amount of time it takes to recover). For example, a company might have an MAD of one week, while the company's BCDR plan includes and supports an RTO of six days.
+
+!!!
+RTO is measured in *time*. The RTO must be lower than the MAD.
+!!!
 === Server Replication
 Concerned more about the processing system rather than the data being replicated.
 === Storage Replication
 Works with a local service to store or archive data to secondary storage using a SAN. This would typically be in the same location.
-=== WRT
+=== Work Recovery Time (WRT)
 The time necessary to very restoration of systems once they have been returned to operation.
 ===
 

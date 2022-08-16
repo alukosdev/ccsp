@@ -12,10 +12,12 @@ order: 2000
 
 ## Glossary
 
-=== AUP
+=== Agreed-Upon Procedures (AUP)
 An agreed-upon procedure is a standard a company or client outlines when it hires an external party to perform an audit on a specific test or business process. The procedures, which are called audit standards, are designed and agreed upon by the entity conducting the audit, as well as any appropriate third parties.
 
+!!!
 The auditor does not provide an opinion; rather, the entities or third parties form their own conclusions based on the report.
+!!!
 === Auditability
 Auditability is collecting and making available necessary evidence related to the operation and use of the cloud.
 === Gap Analysis

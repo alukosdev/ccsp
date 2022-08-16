@@ -2,13 +2,13 @@
 
 ## Glossary
 
-==- Chicken Coop
+=== Chicken Coop
 A design methodology in which a datacenter arranges racks within long rectangles with a long side facing the wind to provide natural cooling.
-==- Redundancy
+=== Redundancy
 Deploying duplicate devices that can take over active operation if the primary device fails.
-==- Resiliency
+=== Resiliency
 The ability to restore normal operations after a disruptive event. Redundancy is the foundation of resiliency.
-==-
+===
 
 ## Overview
 

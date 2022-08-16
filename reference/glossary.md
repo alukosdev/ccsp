@@ -10,16 +10,22 @@ Terms on this page are collapsed by default to allow for flashcard-style studyin
 
 ## A
 
+==- Affinity
+Grouping of resources.
 ==- Agreed-Upon Procedures (AUP)
-
 An agreed-upon procedure is a standard a company or client outlines when it hires an external party to perform an audit on a specific test or business process. The procedures, which are called audit standards, are designed and agreed upon by the entity conducting the audit, as well as any appropriate third parties.
 
+!!!
 The auditor does not provide an opinion; rather, the entities or third parties form their own conclusions based on the report.
+!!!
+==- Anti-affinity
+Separation of resources.
+==- API Gateway
+An API gateway translates requests from clients into multiple requests to many microservices and delivers the content as a whole via an API it assigns to that client/session.
 
+API gateways can provide access control, rate limiting, logging, metrics, and security filtering services.
 ==- Auditability
-
 Auditability is collecting and making available necessary evidence related to the operation and use of the cloud.
-
 ==-
 
 ## B
@@ -48,14 +54,96 @@ Business continuity plans typically outline how to maintain or "continue" busine
 !!!
 The BCP is *not* critical to the continuation of services in the event of a business interruption. BC, however, *is*. The BCP is drafted to support BC.
 !!!
+==- Business Requirements
+Business Requirements
+A business requirement is an operational driver for decision making and input for risk management.
+==- Business Rules
+Business rules are lists of statements that tell you whether you may or may not do anything or that give you the criteria and conditions for making a decision.
 ==-
 
 ## C
 
 ==- Capability Maturity Model (CMM)
 A way of determining a target's maturity in terms of **process** documentation and repeatability. Contains five levels. Is typically not associated with security, however.
+==- Chicken Coop
+A design methodology in which a datacenter arranges racks within long rectangles with a long side facing the wind to provide natural cooling.
 ==- CIP
 The CIP (Critical Infrastructure Plan), developed by NERC (North American Electric Reliability Corporation), is a set of requirements designed to secure the assets required for operating North America's bulk electric system.
+==- Cloud Access Security Broker (CASB)
+Typically a third-party entity or company that looks to extend or enhance value to multiple customers of cloud-based services through relationships with multiple cloud service providers. It acts as a liaison between cloud services customers and cloud service providers, selecting the best provider for each customer and monitoring the services.
+
+A third-party entity offering independent identity and access management (IAM) and key management services to CSPs and cloud customers, often as an intermediary. This can take the form of a variety of services, including SSO, certificate management, and cryptographic key escrow.
+==- Cloud Administrator
+?
+==- Cloud Application Architect
+Responsible for adapting, porting, or deploying an application to a target cloud environment.
+
+The cloud application architect is responsible for prepping and deploying an application to the cloud environment. This person will work alongside development and implementation resources to ensure that the performance, reliability, and security of an application are sustained over the lifecycle of the application. Knowledge and application of the phases of the SLDC, including assessment, verification, and testing are required.
+==- Cloud Architect
+Responsible for an organization's cloud computing strategy.
+
+- Responsibilities include determining when and how a private cloud meets the policies and needs of an organization's strategic goals.
+- Architecting the private cloud, designing/deploying hybrid cloud solutions.
+- Understand and evaluate technologies, vendors, services, to support private and hybrid clouds.
+
+The cloud architect is responsible for an organization's cloud computing strategy. Part of the responsibilities include determining when and how a private cloud meets the policies and needs of an organization's strategic goals. Further, responsibilities include:
+
+- Architecting the private cloud
+- Designing/deploying hybrid cloud solutions
+
+The architect has a key role in understanding and evaluating technologies, vendors, services, to support private and hybrid cloud. The architect will be required to build relationships between customers and team members.
+==- Cloud Carrier
+The cloud carrier is the intermediary that provides connectivity and transport of cloud services between the CSPs and the cloud service consumers.
+
+The intermediary that provides connectivity and transport of cloud services between the CSPs and the cloud service consumers.
+==- Cloud Data Architect
+Ensures the various storage types and mechanisms utilized within the cloud environment meet and conform to the relevant SLAs and that the storage components are functioning according to their specified requirements.
+
+A cloud architect that focuses on storage. A focal point is to make sure storage types and mechanisms used in the cloud environment meet requirements and the relevant SLAs and that the storage components function according to their specifications.
+==- Cloud Developer
+Full stack engineering, automation and development of the infrastructure are key aspects of the role. Interactions with cloud administrators and security practitioners will be required for debugging, code reviews, and security assessment requirements.
+==- Cloud Service Auditor
+A cloud service auditor can provide value by determining the effectiveness of the CSP, identify control deficiencies within the consumer organization, and provide an assessment of the quality of service. This would include determining if the SLA is being met.
+
+Third-party organization that verifies attainment of SLAs.
+==- Cloud Service Broker (CSB)
+A third party that looks to add value to customers of cloud-based services working with multiple CSPs. Value can come from activities such as customizing the services or monitoring the services.
+
+A third-party entity which acts as a liaison between customers and CSPs ideally selecting the best provider for each customer. The CSB acts as a middleman to broker the best deal and customize services.
+==- Cloud Service Customer
+Anyone who is purchasing a cloud service. This could be an individual or an organization.
+==- Cloud Service Consumer
+Individual or entity that utilizes or subscribes to cloud-based services or resources.
+==- Cloud Service Integrator
+Someone who connects (or integrates) existing systems and services to the cloud for a cloud customer.
+==- Cloud Service Manager
+Responsible for policy design, business agreement, pricing models, and SLAs. This role interacts with cloud management and customers. In addition, the role will work with the cloud administrator to implement SLAs and policies.
+==- Cloud Service Operations Manager
+A role within a CSP that provides audit data when requested or required, manages inventory and assets, prepares systems for the cloud, and manages and maintains services.
+==- Cloud Service Provider (CSP)
+The service provider sets the governance.
+
+A service provider that offers customer storage or software solution available via a public network, usually the Internet. The cloud provider dictates both the technology and operational procedures involved.
+
+The CSP will own the datacenter, employ the staff, own and manage the resources (hardware and software), monitor service provision and security, and provide administrative assistance for the customer and the customer's data and processing needs.
+
+!!!
+Examples include Amazon Web Services, Rackspace, and Microsoft Azure.
+!!!
+==- Cloud Service User
+The cloud service user has the legal responsibility for data processing that is carried out by the CSP.
+
+The cloud service user is also known as the *data controller*.
+==- Cloud Storage Administrator
+Focuses on user groups and the mapping, segregations, bandwidth, and reliability of storage volumes assigned. Additionally, this role may work with network and cloud administrators to ensure SLAs are met.
+==- Cloud User
+Someone using cloud services. It could be an employee of a company who is a cloud customer or just a private individual.
+
+!!!
+Not all cloud users are staff of cloud customers. Many cloud users are simply individuals who are using publicly available cloud services for their personal purposes, such as a person who has a OneDrive account to sync their data.
+!!!
+==- Compute Parameters
+A cloud server’s compute parameters depend on the number of *CPUs* and the amount of *RAM* used. The ability to allocate these resources is a vital compute concern.
 ==- Confidentiality
 Protecting information from unauthorized access/dissemination.
 ==- Controls
@@ -76,6 +164,10 @@ An example of a cross-cutting aspect is security.
 Any data left over after sanitization and disposal methods have been attempted.
 ==- Data Replication
 The process of copying data from one location to another. The system works to keep up-to-date copies of its data in the event of a disaster.
+==- Database Activity Monitoring (DAM)
+Captures and records, at a minimum, all SQL activity in real time or near real time, including database administrator activity, across multiple database platforms; and can generate alerts on policy violations.
+
+A DAM operates at layer 7 of the OSI model.
 ==- Demand Management
 Can we meet our demand requirements (can we scale up and down)? Elasticity in the cloud solves this.
 ==- Digital Signatures
@@ -85,7 +177,7 @@ Disaster recovery efforts are focused on the resumption of operations after an i
 
 Disaster recovery is a subset of business continuity. It is the process of saving data with the sole purpose of being able to recover it in the event of a disaster. Disaster recovery includes backing up systems and IT contingency plans for critical functions and applications.
 
-Disaster recovery focuses on technology and data policies (as opposed to business processes).
+Disaster recovery focuses on *technology and data policies* (as opposed to business processes).
 ==- Disaster Recovery Plan (DRP)
 The disaster recovery plan allows a business to plan what needs to be done immediately after a disaster to *recover from the event*.
 
@@ -113,8 +205,12 @@ Fault tolerance involves the use of specialized hardware that can detect faults 
 !!!
 Should be used when the goal is to **eliminate** system downtime as a threat to system availability altogether.
 !!!
+==- File Activity Monitoring (FAM)
+FAM monitors and records all activity within designated file repositories at the user level, and generate alerts on policy violations.
 ==- Financial Management
 Do we have the funds and can we allocate them appropriately? Are we receiving a good return on investment (ROI)? Are we good stewards of the money entrusted to us? Are we making a profit?
+==- Forklifting
+The idea of moving an existing legacy enterprise application to the cloud with little or no code changes.
 ==- Fraggle Attack
 A variation to the Smurf attack is the Fraggle attack. The attack is essentially the same as the Smurf attack but instead of sending an ICMP echo request to the direct broadcast address, it sends UDP packets.
 ==- Functionality Replication
@@ -155,6 +251,14 @@ High availability makes use of shared and pooled resources to maintain a high le
 !!!
 Should be used when the goal is to **minimize** the impact of system downtime.
 !!!
+==- Honeynet
+Grouping multiple honeypot systems to form a network that is used in the same manner as the honeypot, but with more scalability and functionality.
+==- Honeypot
+Honeypots are computer systems setup to look like production systems using the modern concept of deception. They contain an operating system and can mimic many common systems such as Apache or IIS web servers, Windows file shares, or Cisco routers. A honeypot could be deployed with a known vulnerability that an attacker would be enticed to exploit. While it appears vulnerable to attack, it is in fact protection the real systems from attack while gathering defensive information such as the attacker's identity, access, and compromise methods.
+
+Used to detect, deflect, or in some manner counteract attempts at unauthorized use of information systems.
+
+Enticement vs. entrapment. The real term to be used should be "distract".
 ==-
 
 ## I
@@ -186,8 +290,22 @@ The difference between a jump server and a bastion host is that a jump server is
 
 ## L
 
+==- Limits
+A limit creates a *maximum* ceiling for a resource allocation.
+==-
+
 ## M
 
+==- Managed Service Provider (MSP)
+The difference between using a CSP and an MSP is that when using an MSP, the cloud customer has full control over governance.
+
+Distinguishing characteristics of MSPs include:
+
+- Network Operations Center (NOC)
+- Help Desk
+- Remote Monitoring
+- Proactive Maintenance
+- Predictive Billing
 ==- Maximum Allowable Downtime (MAD)
 A measure of how long it would take for an interruption in service to kill an organization. For example, if a company would fail because it had to halt operations for a week, then it's MAD is one week.
 
@@ -255,6 +373,12 @@ For example, an RSL of 50% would specify that the DR system would need to operat
 !!!
 RSL is measured in *percentage*.
 !!!
+==- Redundancy
+Deploying duplicate devices that can take over active operation if the primary device fails.
+==- Reservations
+A reservation creates a guaranteed *minimum* resource allocation that the host must meet.
+==- Resiliency
+The ability to restore normal operations after a disruptive event. Redundancy is the foundation of resiliency.
 ==- Return on Investment (ROI)
 A term used to describe a profitability ratio.
 
@@ -266,6 +390,8 @@ Generally calculated by dividing net profit by net assets.
 ==- Sandboxing
 - Testing untested or untrusted code
 - To better understand if an application is working the way it was intended to work
+==- Scoping
+Scoping is the process that refers to including only departments or business units impacted by any (cloud) engagement.
 ==- Separation of Duties
 Dictates that one person/entity cannot complete an entire transaction alone.
 
@@ -280,6 +406,8 @@ Performed by the customer organization to determine the importance of a particul
 Money spent on technology to acquire services without the IT department's dollars or knowledge.
 
 For example, on-demand self service promotes and allows the ability to provision computing resources without human interaction, The consumer can provision resources regardless of location and time. This can be a challenge to purchasing departments as the typical purchasing processes can be avoided.
+==- Shares
+The concept of shares is used to arbitrate the issues associated with compute resource *contention* situations. Share values are used to prioritize compute resource access for all guests assigned a certain number of shares. Shares allow the cluster's *reservations* to be allocated and then addresses any remaining resources that may be available for use by members of the cluster through a prioritized percentage-based allocation mechanism.
 ==- Silos
 The configuration when an enterprise deploys applications in dedicated infrastructure.
 
@@ -320,15 +448,23 @@ To protect trust zones:
 ## W
 
 ==- Wassenaar Arrangement
- The **Wassenaar** Arrangement, formally established in July 1996, is a voluntary export control regime whose 42 members exchange information on transfers of conventional weapons and dual-use goods and technologies. This includes import restrictions and data sharing.
+The **Wassenaar** Arrangement, formally established in July 1996, is a voluntary export control regime whose 42 members exchange information on transfers of conventional weapons and dual-use goods and technologies. This includes import restrictions and data sharing.
+==- Web Application Firewall (WAF)
+A WAF is a type of firewall that filters HTTP traffic and can help prevent DoS attacks.
+
+A WAF operates at layer 7 of the OSI model.
 ==- Write Once, Read Many (WORM)
 
 A type of long-term storage, meaning it is written to initially and only used for read purposes thereafter.
-==- WRT
+==- Work Recovery Time (WRT)
 The time necessary to very restoration of systems once they have been returned to operation.
 ==-
 
 ## X
+
+==- XML Gateway
+XML gateways transform how services and sensitive data are exposed as APIs to developers, mobile users, and the cloud. They can be either hardware or software based and they can implement security controls such as DLP, antivirus, and antimalware. XML gateways can also act as a reverse proxy and perform content inspection on many traffic protocols, including SFTP.
+==-
 
 ## Y
 
