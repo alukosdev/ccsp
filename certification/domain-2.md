@@ -2,10 +2,6 @@
 label: Domain 2
 ---
 
-:::banner
-The following domain objectives are derived from the official [(ISC)² Certification Exam Outline](https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CCSP-Exam-Outline-2022.ashx){ target="_blank" } with an effective date of **August 1, 2022**.
-:::
-
 # Domain 2: Cloud Data Security
 
 ## 2.1 Describe cloud data concepts
