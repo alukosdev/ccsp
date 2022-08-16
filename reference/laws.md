@@ -4,10 +4,10 @@ This is a new page. We need to determine whether it's relevant to keep around or
 
 # Laws
 
-| Name | Origin | { class="compact" }
+| Name | Alternative Name | Category | Origin | { class="compact" }
 | - | - |
-| PDPA 25.326 | Argentina |
-| Privacy Act 1988 | Australia |
+| PDPA 25.326 | Personal Data Protection Act | Privacy Laws | Argentina |
+| Privacy Act 1988 | Australian Privacy Act | Privacy Laws | Australia |
 | PIPEDA | Canada |
 | Directive 2002/58/EC | EU/EEA |
 | Directive 95/46/EC | EU/EEA |
@@ -30,5 +30,5 @@ This is a new page. We need to determine whether it's relevant to keep around or
 | ITAR | United States |
 | Privacy Shield | United States |
 | Safe Harbor | United States |
-| SCA | United States |
-| SOX | United States |
+| SCA | Stored Communications Act | United States |
+| SOX | Sarbanes-Oxley | United States |
