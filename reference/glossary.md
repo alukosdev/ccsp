@@ -73,8 +73,6 @@ A way of determining a target's maturity in terms of **process** documentation a
 Capacity is the measurement of the degree to which the cloud can support or provide service.
 ==- Chicken Coop
 A design methodology in which a datacenter arranges racks within long rectangles with a long side facing the wind to provide natural cooling.
-==- CIP
-The CIP (Critical Infrastructure Plan), developed by NERC (North American Electric Reliability Corporation), is a set of requirements designed to secure the assets required for operating North America's bulk electric system.
 ==- Cloud Access Security Broker (CASB)
 Typically a third-party entity or company that looks to extend or enhance value to multiple customers of cloud-based services through relationships with multiple cloud service providers. It acts as a liaison between cloud services customers and cloud service providers, selecting the best provider for each customer and monitoring the services.
 
@@ -190,6 +188,8 @@ Act as mechanisms designed to restrict a list of possible actions to allowed or 
 A cost-benefit analysis (CBA) is the process used to measure the benefits of a decision or taking action minus the costs associated with taking that action. It determines whether certain activities (such as BC/DR) are worth implementing. The CBA will compare the costs of a disaster and the impact of downtime against the cost of implementing the BCDR solution. Another example would be whether the movement to a cloud model would be lower than the cost of not moving to the cloud.
 ==- Countermeasure
 Countermeasures are what is deployed once a control has been breached. Reactive.
+==- Critical Infrastructure Plan (CIP)
+The CIP (Critical Infrastructure Plan), developed by NERC (North American Electric Reliability Corporation), is a set of requirements designed to secure the assets required for operating North America's bulk electric system.
 ==- Cross-Cutting Aspects
 Cross-cutting aspects are behaviors or capabilities which need to be coordinated across roles and implemented consistently in a cloud computing system.
 
@@ -336,6 +336,8 @@ The difference between a jump server and a bastion host is that a jump server is
 
 ## L
 
+==- Letter of Intent (LOI)
+A LOI outlines the general plans of an agreement between two or more parties before a legal agreement is finalized.
 ==- Limits
 A limit creates a *maximum* ceiling for a resource allocation.
 ==-
@@ -360,6 +362,10 @@ MAD is measured in *time*.
 !!!
 ==- Maximum Tolerable Downtime (MTD)
 *See [Maximum Allowable Downtime (MAD)](/reference/glossary/#maximum-allowable-downtime-mad)*.
+==- Memorandum of Agreement (MOA)
+*See [Memorandum of Agreement (MOU)](/reference/glossary/#memorandum-of-understanding-mou)*.
+==- Memorandum of Understanding (MOU)
+A *nonbinding* agreement between two or more parties outlining the terms and details of an understanding, including each parties' requirements and responsibilities.
 ==- Microsoft Deployment Toolkit (MDT)
 Microsoft Deployment Toolkit is a computer program that permits network deployment of Microsoft Windows and Microsoft Office.
 ==- Middleware
@@ -452,6 +458,8 @@ In the case of encryption, a single entity should not be able to administer the 
 Concerned more about the processing system rather than the data being replicated.
 ==- Service-Oriented Architecture (SOA)
 Views software as a combination of interoperable services, the components of which can be substituted at will.
+==- Service Levels
+Service levels indicate the minimum expected performance.
 ==- Severity Assessment
 Performed by the customer organization to determine the importance of a particular patch or update.
 ==- Shadow IT

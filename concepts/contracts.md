@@ -17,7 +17,9 @@ order: 1700
 
 ## Glossary
 
-=== Memorandum of Agreement/Understanding (MOA/MOU)
+=== Memorandum of Agreement (MOA)
+*See [Memorandum of Understanding (MOU)](/concepts/contracts/#memorandum-of-understanding-mou)
+=== Memorandum of Understanding (MOU)
 A *nonbinding* agreement between two or more parties outlining the terms and details of an understanding, including each parties' requirements and responsibilities.
 === Letter of Intent (LOI)
 A LOI outlines the general plans of an agreement between two or more parties before a legal agreement is finalized.
