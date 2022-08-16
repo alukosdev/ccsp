@@ -32,6 +32,8 @@ It is deployed as a highly scalable IaaS computing platform.
 An API gateway translates requests from clients into multiple requests to many microservices and delivers the content as a whole via an API it assigns to that client/session.
 
 API gateways can provide access control, rate limiting, logging, metrics, and security filtering services.
+==- Applicable Law
+Determines the legal standing of a case or issue.
 ==- Application Accreditation
 The application has been approved by management.
 ==- Application Certification
@@ -204,6 +206,8 @@ Not all cloud users are staff of cloud customers. Many cloud users are simply in
 !!!
 ==- Cloud Washing
 The act of adding the name "cloud" to a non-cloud service and selling it as a cloud solution.
+==- Common Law
+The existing set of rulings and decisions made by courts, informed by cultural mores and legislation. These create precedents, which each party will cite in court as a means to sway the court to their own side of a case.
 ==- Compliance as a Service (CompaaS/CaaS)
 Includes a variety of compliance services such as data encryption, disaster recovery, reporting, and vulnerability scanning.
 ==- Compute Parameters
@@ -224,6 +228,8 @@ The CIP (Critical Infrastructure Plan), developed by NERC (North American Electr
 Cross-cutting aspects are behaviors or capabilities which need to be coordinated across roles and implemented consistently in a cloud computing system.
 
 An example of a cross-cutting aspect is security.
+==- Culpable Negligence
+Often used to prove liability.
 ==-
 
 ## D
@@ -298,6 +304,28 @@ The disaster recovery plan allows a business to plan what needs to be done immed
 Disaster recovery planning is the process by which suitable plans and measures are taken to ensure that, in the event of a disaster, the business can respond appropriately with the view to recovering critical and essential operations to a state of partial or full level of service in as little time as possible.
 
 DRP is usually part of the BCP and typically tends to be more technical in nature. Addresses what needs to be accomplished during a disaster to restore business processes in order to recover from the event.
+==- Due Care
+A company practices due care by *developing (taking action)* security policies, procedures, and standards. Due care shows that a company has taken responsibility for the activities that take place within the corporation and has taken the necessary steps to help protect the company, its resources, and employees from possible risks.
+
+Due care is the duty owed by one entity to another, in terms of a reasonable expectation.
+
+Due care is the minimal level of effort necessary to perform your duty to others; in cloud security, that is often the care that the cloud customer is required to demonstrate in order to protect the data it owns.
+
+The lack of due care is often considered negligence.
+!!!
+Due diligence is *understanding (researching)* the current threats and due care is *implementing countermeasures (taking action)* to provide protection from those threats.
+!!!
+==- Due Diligence
+Due diligence is the act of *investigating* and understanding the risks the company faces.
+
+Due diligence is the legal concept that describes the actions and processes a cloud customer uses to ensure that a reasonable level of protection is applied to the data in their control.
+
+Due diligence requires that an organization continually scrutinize their own practices to ensure they are always meeting or exceeding requirements for protection of assets and stakeholders.
+
+Due diligence is any activity taken in support or furtherance of due care.
+!!!
+Due diligence is *understanding (researching)* the current threats and due care is *implementing countermeasures (taking action)* to provide protection from those threats.
+!!!
 ==- Dynamic Optimization
 The process in which cloud environments are constantly monitored and maintained to ensure that the resources are available when needed and that nodes share the load equally so that one node doesn't become overloaded.
 ==-
@@ -450,6 +478,8 @@ A jump server, jump host or jump box is a system on a network used to access and
 !!!
 The difference between a jump server and a bastion host is that a jump server is intended to breach the gap between two security zones and have a gateway to obtain access to something inside of the other security zone. A bastion host is outside of your security zone and will require additional security considerations.
 !!!
+==- Jurisdiction
+This usually determines the ability of a national court to decide a case or enforce a judgment or order.
 ==-
 
 ## K
@@ -458,6 +488,8 @@ The difference between a jump server and a bastion host is that a jump server is
 
 ==- Letter of Intent (LOI)
 A LOI outlines the general plans of an agreement between two or more parties before a legal agreement is finalized.
+==- Liability
+The measure of responsibility an entity has for providing due care. An organization can share risk, but it cannot share liability.
 ==- Limits
 A limit creates a *maximum* ceiling for a resource allocation.
 ==- Loss of Governance
@@ -536,6 +568,8 @@ A portfolio consists of all endeavors undertaken by an organization. We are look
 The protection of PII.
 ==- Processing
 Processing is any *manipulation* of the data, to include security or destroying it, in electronic or hard-copy form. Viewing data is not considered processing.
+==- Prudent Person Rule
+Based on a judge's discretion, can we demonstrate we've acted responsibly as a prudent person would? What type of action would a prudent person exercise in a particular situation?
 ==-
 
 ## Q
@@ -646,6 +680,8 @@ Encompasses the development and implementation of methods and processes for ensu
 Automates security controls.
 ==- Source Code Analysis (SCA)
 Performing an analysis of the source code, byte code, and binaries.
+==- Spoliation
+The term used to describe the destruction of potential evidence (intentionally or otherwise); in various jurisdictions, it can be a crime, or the grounds for another lawsuit.
 ==- Sprawl
 A phenomenon that occurs when the number of VMs on a network reaches a point where the administrators can no longer manage them effectively.
 
