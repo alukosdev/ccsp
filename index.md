@@ -31,4 +31,8 @@ Please do not hesitate to contact me on LinkedIn or Discord if you discover any 
 
 ## Donate
 
-I do my best to ensure these notes are actively updated and actively. This is a community project and I intend on keeping it that way. I would not ask nor expect anyone to contribute monetarily; however, if you are interested in helping out, please do not hesitate to subscribe to one of our [Patreon tiers](https://patreon.com/alukos){ target="_blank" }.
+I do my best to ensure these notes are actively updated and actively. This is a community project and I intend on keeping it that way. I would not ask nor expect anyone to contribute monetarily; however, if you are interested in helping out, please subscribe to one of our [Patreon tiers](https://patreon.com/alukos){ target="_blank" }.
+
+## Additional Resources
+
+- The [Certification Station](https://discord.gg/certstation){ target="_blank" } Discord server is an invaluable source of information for many certifications.
