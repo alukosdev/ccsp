@@ -10,6 +10,10 @@ Terms on this page are collapsed by default to allow for flashcard-style studyin
 
 ## A
 
+==- Access Control
+Access control is restricting access to resources.
+==- Access Management
+Access management is the process of managing access to resources.
 ==- Affinity
 Grouping of resources.
 ==- Agreed-Upon Procedures (AUP)
@@ -32,8 +36,24 @@ API gateways can provide access control, rate limiting, logging, metrics, and se
 The application has been approved by management.
 ==- Application Certification
 The application meets technical requirements.
+==- Attributes
+Attributes are facets of an identity. Attributes can be relatively static (like an organizational unit) or highly dynamic (IP address, device being used, if the user authenticated with MFA, location, etc.).
 ==- Auditability
 Auditability is collecting and making available necessary evidence related to the operation and use of the cloud.
+==- Authentication
+Authentication is the process of confirming an identity. When you log in to a system you present a username (the identifier) and password (an attribute we refer to as an authentication factor).
+
+!!!
+Authentication is often referred to as AuthN.
+!!!
+==- Authoritative Source
+An authoritative source is the root source of an identity, such as the directory server that manages employee identities.
+==- Authorization
+Authorization is the process of granting an identity access to something (.e.g. data or a function).
+
+!!!
+Authorization is often referred to as AuthZ.
+!!!
 ==-
 
 ## B
@@ -290,6 +310,10 @@ The flexibility of allocating resources as needed for immediate usage, instead o
 Applications or software that a business would use to assist the organization in solving enterprise problems.
 ==- Enterprise Cloud Backup
 Adds essential features such as archiving and disaster recovery to cloud backup solutions.
+==- Entitlement
+An entitlement maps an identity (including roles, personas, and attributes) to an authorization. The entitlement is what they are allowed to do, and for documentation purposes we keep these in an entitlement matrix.
+==- Entity
+The person or “thing” that will have an identity. It could be an individual, a system, a device, or application code.
 ==- Eucalyptus
 Eucalyptus is a paid and open-source computer software building AWS-compatible private and hybrid cloud computing environments.
 ==- European Economic Area (EEA)
@@ -307,6 +331,10 @@ Fault tolerance involves the use of specialized hardware that can detect faults 
 !!!
 Should be used when the goal is to **eliminate** system downtime as a threat to system availability altogether.
 !!!
+==- Federated SSO
+Federated SSO is typically used for facilitating interorganizational and intersecurity domain access to resources leveraging federated identity management.
+==- Federation
+An association of organizations that come together to exchange information as appropriate about their users and resources to enable collaborations and transactions.
 ==- File Activity Monitoring (FAM)
 FAM monitors and records all activity within designated file repositories at the user level, and generate alerts on policy violations.
 ==- Financial Management
@@ -377,6 +405,10 @@ Enticement vs. entrapment. The real term to be used should be "distract".
 
 ## I
 
+==- Identifier
+The means by which an identity can be asserted. For digital identities this is often a cryptological token. In the real world it might be your passport.
+==- Identity
+The unique expression of an entity within a given namespace. An entity can have multiple digital identities, such as a single individual having a work identity (or even multiple identities, depending on the systems), a social media identity, and a personal identity. For example, if you are a single entry in a single directory server then that is your identity.
 ==- Inference
 An attack technique that derives sensitive material from an aggregation of innocuous data.
 ==- Infrastructure as Code (IaC)
@@ -488,8 +520,16 @@ A utility that identifies project dependencies and checks whether there are any 
 
 ## P
 
+==- Persona
+The expression of an identity with attributes that indicates context. For example, a developer who logs into work and then connects to a cloud environment as a developer on a particular project. The identity is still the individual, and the persona is the individual in the context of that project.
 ==- Personal Data
 Any information relating to an identified or identifiable natural personal data subject; an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his or her physical, physiological, mental, economic, cultural, or social identity.
+==- Policy Decision Point
+?
+==- Policy Enforcement Point
+Access decisions can be enforced at various points with various technologies.
+==- Policy Management
+Establishes the security and access policies based on business needs and the degree of acceptable risk.
 ==- Portfolio Management
 A portfolio consists of all endeavors undertaken by an organization. We are looking to show value for each individual endeavor but also the IT program as a whole. For example, are we receiving the value from cloud services that we're looking for?
 ==- Privacy
@@ -533,6 +573,12 @@ For example, an RSL of 50% would specify that the DR system would need to operat
 !!!
 RSL is measured in *percentage*.
 !!!
+==- Reduced Sign-On (RSO)
+Not to be confused with SSO or federated SSO, RSO refers to not having to sign into each piece of data or store once authorization has been granted. It generally operates through some form of credential synchronization. RSO introduces security issues not experienced by SSO because the nature of SSO eliminates usernames and other sensitive data from traversing the network.
+
+!!!
+The foundation of federation relies on the existence of an identity provider; therefore, RSO has no place in a federated identity system.
+!!!
 ==- Redundancy
 Deploying duplicate devices that can take over active operation if the primary device fails.
 ==- Regression Testing
@@ -545,6 +591,8 @@ The ability to restore normal operations after a disruptive event. Redundancy is
 A term used to describe a profitability ratio.
 
 Generally calculated by dividing net profit by net assets.
+==- Role
+Identities can have multiple roles which indicate context. “Role” is a confusing and abused term used in many different ways. For our purposes we will think of it as similar to a persona, or as a subset of a persona. For example, a given developer on a given project may have different roles, such as “super-admin” and “dev”, which are then used to make access decisions.
 ==-
 
 ## S
@@ -568,6 +616,12 @@ Concerned more about the processing system rather than the data being replicated
 Views software as a combination of interoperable services, the components of which can be substituted at will.
 ==- Service Levels
 Service levels indicate the minimum expected performance.
+==- Service Provisioning Markup Language (SPML)
+A method for automating account creation.
+
+- Standardized
+- Seldom implemented due to inflexibility and lack of vendor support
+- Older and uses XML, which is slow
 ==- Severity Assessment
 Performed by the customer organization to determine the importance of a particular patch or update.
 ==- Shadow IT
@@ -598,8 +652,21 @@ A phenomenon that occurs when the number of VMs on a network reaches a point whe
 Sprawl is a virtualization risk that occurs when the amount of content grows to such a degree that management is near impossible.
 
 To prevent sprawl, the administrator should define and enforce a process for the deployment of VMs and create a library of standardized VM image files.
+==- Step-Up Authentication
+Step-up authentication is an additional factor or procedure that validates a user's identity by using the following means:
+
+- Challenge questions
+- Out-of-band authentication (phone call or SMS)
+- Dynamic knowledge-based authentication (questions unique to the end user)
+==-
 ==- Storage Replication
 Works with a local service to store or archive data to secondary storage using a SAN. This would typically be in the same location.
+==- System for Cross-domain Identity Management (SCIM)
+SCIM is a standard for exchanging identity information between domains. It can be used for provisioning and deprovisioning accounts in external systems and for exchanging attribute information.
+
+- Standardized
+- Open standard for automating the exchange of user identity information between identity domains or IT systems
+- Newer than SPML
 ==-
 
 ## T

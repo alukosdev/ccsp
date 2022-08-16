@@ -13,14 +13,13 @@ label: Multifactor Authentication
 
 ## Glossary
 
-==- Step-Up Authentication
-
+=== Step-Up Authentication
 Step-up authentication is an additional factor or procedure that validates a user's identity by using the following means:
 
 - Challenge questions
 - Out-of-band authentication (phone call or SMS)
 - Dynamic knowledge-based authentication (questions unique to the end user)
-==-
+===
 
 ## Overview
 

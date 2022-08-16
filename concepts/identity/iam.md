@@ -16,44 +16,45 @@ label: Identity and Access Management
 
 ## Glossary
 
-==- Access Control
+=== Access Control
 Access control is restricting access to resources.
-==- Access Management
+=== Access Management
 Access management is the process of managing access to resources.
-==- Attributes
+=== Attributes
 Attributes are facets of an identity. Attributes can be relatively static (like an organizational unit) or highly dynamic (IP address, device being used, if the user authenticated with MFA, location, etc.).
-==- Authentication
+=== Authentication
 Authentication is the process of confirming an identity. When you log in to a system you present a username (the identifier) and password (an attribute we refer to as an authentication factor).
 
 !!!
 Authentication is often referred to as AuthN.
 !!!
-==- Authoritative Source
+=== Authoritative Source
 An authoritative source is the root source of an identity, such as the directory server that manages employee identities.
-==- Authorization
+=== Authorization
 Authorization is the process of granting an identity access to something (.e.g. data or a function).
 
 !!!
 Authorization is often referred to as AuthZ.
 !!!
-==- Entitlement
+=== Entitlement
 An entitlement maps an identity (including roles, personas, and attributes) to an authorization. The entitlement is what they are allowed to do, and for documentation purposes we keep these in an entitlement matrix.
-==- Entity
+=== Entity
 The person or “thing” that will have an identity. It could be an individual, a system, a device, or application code.
-==- Federation
+=== Federation
 An association of organizations that come together to exchange information as appropriate about their users and resources to enable collaborations and transactions.
-==- Identifier
+=== Identifier
 The means by which an identity can be asserted. For digital identities this is often a cryptological token. In the real world it might be your passport.
-==- Identity
+=== Identity
 The unique expression of an entity within a given namespace. An entity can have multiple digital identities, such as a single individual having a work identity (or even multiple identities, depending on the systems), a social media identity, and a personal identity. For example, if you are a single entry in a single directory server then that is your identity.
-==- Persona
+=== Persona
 The expression of an identity with attributes that indicates context. For example, a developer who logs into work and then connects to a cloud environment as a developer on a particular project. The identity is still the individual, and the persona is the individual in the context of that project.
-==- Policy Decision Point
-==- Policy Enforcement Point
+=== Policy Decision Point
+?
+=== Policy Enforcement Point
 Access decisions can be enforced at various points with various technologies.
-==- Policy Management
+=== Policy Management
 Establishes the security and access policies based on business needs and the degree of acceptable risk.
-==- Role
+=== Role
 Identities can have multiple roles which indicate context. “Role” is a confusing and abused term used in many different ways. For our purposes we will think of it as similar to a persona, or as a subset of a persona. For example, a given developer on a given project may have different roles, such as “super-admin” and “dev”, which are then used to make access decisions.
 ==- System for Cross-domain Identity Management (SCIM)
 SCIM is a standard for exchanging identity information between domains. It can be used for provisioning and deprovisioning accounts in external systems and for exchanging attribute information.
@@ -61,13 +62,13 @@ SCIM is a standard for exchanging identity information between domains. It can b
 - Standardized
 - Open standard for automating the exchange of user identity information between identity domains or IT systems
 - Newer than SPML
-==- Service Provisioning Markup Language (SPML)
+=== Service Provisioning Markup Language (SPML)
 A method for automating account creation.
 
 - Standardized
 - Seldom implemented due to inflexibility and lack of vendor support
 - Older and uses XML, which is slow
-==-
+===
 
 ## Overview
 

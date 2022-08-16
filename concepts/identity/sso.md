@@ -16,15 +16,15 @@ label: Single Sign-On
 
 ## Glossary
 
-==- Federated SSO
+=== Federated SSO
 Federated SSO is typically used for facilitating interorganizational and intersecurity domain access to resources leveraging federated identity management.
-==- Reduced Sign-On (RSO)
+=== Reduced Sign-On (RSO)
 Not to be confused with SSO or federated SSO, RSO refers to not having to sign into each piece of data or store once authorization has been granted. It generally operates through some form of credential synchronization. RSO introduces security issues not experienced by SSO because the nature of SSO eliminates usernames and other sensitive data from traversing the network.
 
 !!!
 The foundation of federation relies on the existence of an identity provider; therefore, RSO has no place in a federated identity system.
 !!!
-==-
+===
 
 ## Overview
 
