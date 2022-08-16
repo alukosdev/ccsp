@@ -29,6 +29,6 @@ These notes continue to be actively maintained by the Alukos team and members of
 
 Please do not hesitate to contact me on LinkedIn or Discord if you discover any pages containing inaccurate or outdated information, grammatical or spelling errors, and/or formatting issues.
 
-## [Donate](https://patreon.com/alukos){ target="_blank" }
+## Donate
 
-I do my best to ensure these notes are actively updated and actively. This is a community project and I intend on keeping it that way. I would not ask nor expect anyone to contribute monetarily; however, if you are interested in helping out, please do not hesitate to subscribe to one of our Patreon tiers.
+I do my best to ensure these notes are actively updated and actively. This is a community project and I intend on keeping it that way. I would not ask nor expect anyone to contribute monetarily; however, if you are interested in helping out, please do not hesitate to subscribe to one of our [Patreon tiers](https://patreon.com/alukos){ target="_blank" }.
