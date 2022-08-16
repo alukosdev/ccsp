@@ -300,7 +300,7 @@ Involves an outside company providing advanced analytics applications (gathered 
 The person responsible for data content, context, and associated business rules.
 
 While the data owner maintains sole responsibility for the data and the controls surrounding that data, there is sometimes the additional role of data steward, who will oversee data access requests and the utilization of the data.
-=== Data Subject
+==- Data Subject
 The individual who is the focus of personal data.
 ==- Database Activity Monitoring (DAM)
 Captures and records, at a minimum, all SQL activity in real time or near real time, including database administrator activity, across multiple database platforms; and can generate alerts on policy violations.
