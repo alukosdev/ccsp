@@ -22,6 +22,8 @@ An agreed-upon procedure is a standard a company or client outlines when it hire
 !!!
 The auditor does not provide an opinion; rather, the entities or third parties form their own conclusions based on the report.
 !!!
+==- Analytical Artificial Intelligence
+Solely cognitive-based, focusing on a system-s ability to analyze past data and make future decisions.
 ==- Annualized Loss Expectancy (ALE)
 The annualized loss expectancy is a product of the yearly estimate for the exploit (ARO) and the loss in value of an asset after an SLE.
 `ALE = SLE * ARO`
@@ -41,6 +43,10 @@ Determines the legal standing of a case or issue.
 The application has been approved by management.
 ==- Application Certification
 The application meets technical requirements.
+== Artificial Intelligence
+Artificial intelligence is the ability of devices to perform human-like analysis. Artificial intelligence operates by consuming a large amount of data and recognizing patterns and trends in the data.
+
+Contains humanized and analytical types.
 ==- Asset
 Anything of value to a company.
 ==- Attributes
@@ -465,6 +471,8 @@ Honeypots are computer systems setup to look like production systems using the m
 Used to detect, deflect, or in some manner counteract attempts at unauthorized use of information systems.
 
 Enticement vs. entrapment. The real term to be used should be "distract".
+==- Humanized Artificial Intelligence
+Incorporates emotional intelligence, cognitive learning and responses, and also expands to include social intelligence.
 ==-
 
 ## I
