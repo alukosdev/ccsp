@@ -15,7 +15,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | Acronym, Abbreviation, or Initialism | Glossary Term | { class="compact" }
 | - | - |
 | ABAC | Attribute-Based Access Control [!button size="xs" target="blank" text="Glossary"](https://retype.com/) |
-| AICPA | American Institute of Certified Public Accountants |
+| AICPA | American Institute of Certified Public Accountants [!badge size="s" target="blank" text="Glossary"](https://retype.com/) |
 | ALE | [Annualized Loss Expectancy](/reference/glossary/#annualized-loss-expectancy-ale) |
 | ANF | Application Normative Framework |
 | ANSI | American National Standards Institute |
