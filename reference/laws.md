@@ -4,15 +4,14 @@ This is a new page. We need to determine whether it's relevant to keep around or
 
 # Laws
 
-| Name | Alternative Name | Category | Origin | { class="compact" }
+| Name | Alternative Name | Category | Area of Impact | { class="compact" }
 | - | - |
-| PDPA 25.326 | Personal Data Protection Act | Privacy Laws | Argentina |
-| Privacy Act 1988 | Australian Privacy Act | Privacy Laws | Australia |
-| PIPEDA | Canada |
-| Directive 2002/58/EC | EU/EEA |
-| Directive 95/46/EC | EU/EEA |
-| ENISA NIS | EU/EEA |
-| GDPR | EU/EEA |
+| PDPA 25.326 | Personal Data Protection Act | [Privacy Laws](/categories/privacy-laws/) | Argentina |
+| Privacy Act 1988 | Australian Privacy Act | [Privacy Laws](/categories/privacy-laws/) | Australia |
+| PIPEDA | Personal Information Protection and Electronics Document Act | [Privacy Laws](/categories/privacy-laws/) | Canada |
+| Directive 2002/58/EC | ePrivacy Directive | [Privacy Laws](/categories/privacy-laws/) EU/EEA |
+| Directive 95/46/EC | EU Data Protection Directive of 1995 | [Privacy Laws](/categories/privacy-laws) | EU/EEA |
+| GDPR | Global Data Protection Regulation | [Privacy Laws](/categories/privacy-laws/) | EU/EEA |
 | APEC | APAC |
 | EFTA | EFTA |
 | OECD | International |
@@ -28,6 +27,7 @@ This is a new page. We need to determine whether it's relevant to keep around or
 | HIPAA | United States |
 | HITECH | United States |
 | ITAR | United States |
+| NIS Directive | EU/EEA |
 | Privacy Shield | United States |
 | Safe Harbor | United States |
 | SCA | Stored Communications Act | United States |
