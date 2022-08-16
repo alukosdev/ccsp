@@ -19,22 +19,22 @@ tags: [pci]
 | PCI | Payment Card Industry |
 | PFI | PCI Forensic Investigator |
 | QSA |	Qualified Security Assessor |
-| RoC |	Report of Compliance |
+| ROC |	Report of Compliance |
 | SAD |	Sensitive Authentication Data |
 | SAQ |	Self-Assessment Questionnaire |
 
 ## Glossary
 
-=== ISA
+=== Internal Security Assessor (ISA)
 An ISA is an individual who has earned a certificate from the PCI Security Standards Company for their sponsoring organization. This certified person has the ability to perform PCI self-assessments for their organization.
-=== QSA
+=== Qualified Security Assessor (QSA)
 QSAs are the independent groups/entities which have been certified by PCI SSC for compliance confirmation in organization procedures.
-=== RoC
-A RoC is a form that has to be filled by *all level 1 merchants* undergoing a PCI DSS audit. The ROC form is used to verify that the merchant being audited is compliant with the PCI DSS standard.
-=== SAD
-Examples include CVV or PIN numbers.
-=== SAQ
+=== Report of Compliance (ROC)
+A ROC is a form that has to be filled by *all level 1 merchants* undergoing a PCI DSS audit. The ROC form is used to verify that the merchant being audited is compliant with the PCI DSS standard.
+=== Self-Assessment Questionnaire (SAQ)
 The PCI DSS SAQs are validation tools intended to assist merchants and service providers report the results of their PCI DSS self-assessment.
+=== Sensitive Authentication Data (SAD)
+Examples include CVV or PIN numbers.
 ===
 
 ## Overview

@@ -151,6 +151,8 @@ The cloud carrier is the intermediary that provides connectivity and transport o
 The intermediary that provides connectivity and transport of cloud services between the CSPs and the cloud service consumers.
 ==- Cloud Computing Forensic Science
 The application of scientific principles, technological practices, and derived and proven methods to reconstruct past cloud computing events through identification, collection, preservation, examination, interpretation, and reporting of digital evidence.
+==- Cloud Controls Matrix (CCM)
+[!ref](/standards/csa-ccm/)
 ==- Cloud Data Architect
 Ensures the various storage types and mechanisms utilized within the cloud environment meet and conform to the relevant SLAs and that the storage components are functioning according to their specified requirements.
 
@@ -236,6 +238,8 @@ Configuration items can be applied to anything designated for the application of
 - Service
 - Documentation
 - People (Staff and Contractors)
+==- Consensus Assessments Initiative Questionnaire (CAIQ)
+A self-assessment performed by cloud providers, detailing their evaluation of the practice areas and control groups they use in providing their services.
 ==- Content Discovery
 Includes the tools and processes to identify sensitive information in storage.
 ==- Controls
@@ -502,6 +506,8 @@ ITSM makes it possible to:
 
 - Ensure portfolio management, demand management, and financial management are all working together for efficient service delivery to customers and effective charging for services if appropriate
 - Involve all the people and systems necessary to create alignment and ultimately success
+==- Internal Security Assessor (ISA)
+An ISA is an individual who has earned a certificate from the PCI Security Standards Company for their sponsoring organization. This certified person has the ability to perform PCI self-assessments for their organization.
 ==- IPsec
 IPsec is a framework for providing secure transmission of sensitive information over unsecured networks such as the Internet. IPSec works at the network layer, protecting and authenticating IP packets between participating IPsec endpoints.
 
@@ -634,6 +640,8 @@ Based on a judge's discretion, can we demonstrate we've acted responsibly as a p
 
 ## Q
 
+==- Qualified Security Assessor (QSA)
+QSAs are the independent groups/entities which have been certified by PCI SSC for compliance confirmation in organization procedures.
 ==- Quantum Computing
 A theoretical technology which allows superposition of physical states to increase both computing capacity and encryption keyspace.
 ==-
@@ -677,6 +685,8 @@ The foundation of federation relies on the existence of an identity provider; th
 Deploying duplicate devices that can take over active operation if the primary device fails.
 ==- Regression Testing
 Re-running functional and non-functional tests to ensure that previously developed and tested software still performs after a change. If not, that would be called a regression.
+==- Report of Compliance (ROC)
+A ROC is a form that has to be filled by *all level 1 merchants* undergoing a PCI DSS audit. The ROC form is used to verify that the merchant being audited is compliant with the PCI DSS standard.
 ==- Reputational Risk
 Reputational risk is the loss of value of a brand or the ability of an organization to persuade.
 ==- Reservations
@@ -725,6 +735,10 @@ Scoping is the process that refers to including only departments or business uni
 When one risk response triggers another risk event. For example, a fire suppression system that displaces oxygen is a means to mitigate the original risk (fire) but adds a new risk (suffocating people).
 ==- Security
 The owner's right to determine to whom information is disclosed. Security protects privacy.
+==- Self-Assessment Questionnaire (SAQ)
+The PCI DSS SAQs are validation tools intended to assist merchants and service providers report the results of their PCI DSS self-assessment.
+==- Sensitive Authentication Data (SAD)
+Examples include CVV or PIN numbers.
 ==- Separation of Duties
 Dictates that one person/entity cannot complete an entire transaction alone.
 

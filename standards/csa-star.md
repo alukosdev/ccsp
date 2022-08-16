@@ -22,9 +22,9 @@ This page requires formatting updates to make it easier to flow. Additionally, i
 
 ## Glossary
 
-=== CAIQ
+=== Consensus Assessments Initiative Questionnaire (CAIQ)
 A self-assessment performed by cloud providers, detailing their evaluation of the practice areas and control groups they use in providing their services.
-=== CCM
+=== Cloud Controls Matrix (CCM)
 [!ref](/standards/csa-ccm/)
 ===
 
