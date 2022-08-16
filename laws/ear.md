@@ -1,6 +1,6 @@
 ---
-categories: [Laws]
-tags: [united states]
+categories: [Laws, Export Control Laws, United States Laws]
+tags: [export control, united states]
 ---
 
 # EAR

@@ -1,5 +1,5 @@
 ---
-categories: [Laws]
+categories: [Laws, Privacy Laws, Australian Laws]
 tags: [australia, privacy]
 ---
 

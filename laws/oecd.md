@@ -1,5 +1,5 @@
 ---
-categories: [Laws]
+categories: [Laws, Privacy Laws, International Laws]
 tags: [international, privacy]
 ---
 

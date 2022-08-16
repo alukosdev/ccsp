@@ -1,6 +1,6 @@
 ---
-categories: [Laws]
-tags: [united states]
+categories: [Laws, Information Security Laws, United States Laws]
+tags: [information security, united states]
 ---
 
 # FISMA

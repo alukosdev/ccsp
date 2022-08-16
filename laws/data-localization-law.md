@@ -1,5 +1,5 @@
 ---
-categories: [Laws]
+categories: [Laws, Privacy Laws, Russian Laws]
 tags: [privacy, russia]
 ---
 

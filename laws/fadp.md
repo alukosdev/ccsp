@@ -1,5 +1,5 @@
 ---
-categories: [Laws]
+categories: [Laws, Privacy Laws, Swiss Laws]
 tags: [privacy, switzerland]
 ---
 

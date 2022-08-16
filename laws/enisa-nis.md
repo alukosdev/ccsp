@@ -1,5 +1,5 @@
 ---
-categories: [Laws]
+categories: [Laws, Privacy Laws, EU/EEA Laws]
 tags: [eea, enisa, eu, privacy]
 ---
 

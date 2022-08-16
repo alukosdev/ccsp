@@ -1,5 +1,5 @@
 ---
-categories: [Laws]
+categories: [Laws, Export Control Laws, United States Laws]
 tags: [united states]
 ---
 

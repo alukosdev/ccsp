@@ -1,5 +1,5 @@
 ---
-categories: [Laws]
+categories: [Laws, Privacy Laws, Argentinian Laws]
 tags: [argentina, privacy]
 ---
 

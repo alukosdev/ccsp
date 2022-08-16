@@ -1,5 +1,5 @@
 ---
-categories: [Laws]
+categories: [Laws, Privacy Laws, Canadian Laws]
 tags: [canada, privacy]
 ---
 

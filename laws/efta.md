@@ -1,5 +1,5 @@
 ---
-categories: [Laws]
+categories: [Laws, Privacy Laws, EFTA Laws]
 tags: [privacy, efta]
 ---
 
