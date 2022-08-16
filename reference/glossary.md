@@ -43,6 +43,7 @@ Determines the legal standing of a case or issue.
 The application has been approved by management.
 ==- Application Certification
 The application meets technical requirements.
+==- Application Programming Interface (API)
 == Artificial Intelligence
 Artificial intelligence is the ability of devices to perform human-like analysis. Artificial intelligence operates by consuming a large amount of data and recognizing patterns and trends in the data.
 
@@ -53,6 +54,7 @@ Anything of value to a company.
 Attributes are facets of an identity. Attributes can be relatively static (like an organizational unit) or highly dynamic (IP address, device being used, if the user authenticated with MFA, location, etc.).
 ==- Auditability
 Auditability is collecting and making available necessary evidence related to the operation and use of the cloud.
+==- Audit Planning
 ==- Authentication
 Authentication is the process of confirming an identity. When you log in to a system you present a username (the identifier) and password (an attribute we refer to as an authentication factor).
 
@@ -106,10 +108,12 @@ Business rules are lists of statements that tell you whether you may or may not 
 
 ## C
 
+==- Cable Mining
 ==- Capability Maturity Model (CMM)
 A way of determining a target's maturity in terms of **process** documentation and repeatability. Contains five levels. Is typically not associated with security, however.
 ==- Capacity
 Capacity is the measurement of the degree to which the cloud can support or provide service.
+==- Capital Expenditure (CapEx)
 ==- Chicken Coop
 A design methodology in which a datacenter arranges racks within long rectangles with a long side facing the wind to provide natural cooling.
 ==- Cloud Access Security Broker (CASB)
@@ -244,7 +248,7 @@ A self-assessment performed by cloud providers, detailing their evaluation of th
 Includes the tools and processes to identify sensitive information in storage.
 ==- Controls
 Act as mechanisms designed to restrict a list of possible actions to allowed or permitted actions. If a control is breached, the next step of mitigating is a countermeasure. Proactive.
-==- Cost Benefit Analysis (CBA)
+==- Cost-Benefit Analysis (CBA)
 A cost-benefit analysis (CBA) is the process used to measure the benefits of a decision or taking action minus the costs associated with taking that action. It determines whether certain activities (such as BC/DR) are worth implementing. The CBA will compare the costs of a disaster and the impact of downtime against the cost of implementing the BCDR solution. Another example would be whether the movement to a cloud model would be lower than the cost of not moving to the cloud.
 ==- Countermeasure
 Countermeasures are what is deployed once a control has been breached. Reactive.
@@ -330,6 +334,7 @@ The disaster recovery plan allows a business to plan what needs to be done immed
 Disaster recovery planning is the process by which suitable plans and measures are taken to ensure that, in the event of a disaster, the business can respond appropriately with the view to recovering critical and essential operations to a state of partial or full level of service in as little time as possible.
 
 DRP is usually part of the BCP and typically tends to be more technical in nature. Addresses what needs to be accomplished during a disaster to restore business processes in order to recover from the event.
+==- Distributed Resource Scheduling (DRS)
 ==- Due Care
 A company practices due care by *developing (taking action)* security policies, procedures, and standards. Due care shows that a company has taken responsibility for the activities that take place within the corporation and has taken the necessary steps to help protect the company, its resources, and employees from possible risks.
 
@@ -395,7 +400,8 @@ An event is distinguished form a disaster by the duration of impact. We consider
 Automates detection and remediation of security issues.
 ==- Exploit
 An instance of compromise.
-==-
+==- External Audit
+==- 
 
 ## F
 
@@ -413,6 +419,7 @@ An association of organizations that come together to exchange information as ap
 FAM monitors and records all activity within designated file repositories at the user level, and generate alerts on policy violations.
 ==- Financial Management
 Do we have the funds and can we allocate them appropriately? Are we receiving a good return on investment (ROI)? Are we good stewards of the money entrusted to us? Are we making a profit?
+==- FM-200
 ==- Forensic Science
 Forensic science is generally defined as the application of science to the law.
 ==- Forklifting
@@ -448,6 +455,7 @@ A geofence is a virtual perimeter for a real-world geographic area.
 
 ## H
 
+==- Halon
 ==- Hardware Security Module (HSM)
 A device that can safely *store* and *manage* encryption keys used in servers, data transmission, log files, and so forth.
 
@@ -499,6 +507,7 @@ An attack technique that derives sensitive material from an aggregation of innoc
 A type of IT setup wherein developers or operations teams automatically manage and provision the technology stack for an application through software, rather than using a manual process to configure discrete hardware devices and operating systems.
 ==- Integrity
 The process of ensuring that data is real, accurate, and protected from unauthorized modification.
+==- Internal Audit
 ==- Information Technology Service Management (ITSM)
 The activities that are performed by an organization to design, plan, deliver, operate and control IT services offered to customers.
 
@@ -542,6 +551,7 @@ This usually determines the ability of a national court to decide a case or enfo
 
 ## K
 
+==- Key Risk Indicator (KRI)
 ==- Known Error
 A known error is an *identified* root cause of a problem.
 ==-
@@ -580,6 +590,9 @@ MAD is measured in *time*.
 !!!
 ==- Maximum Tolerable Downtime (MTD)
 *See [Maximum Allowable Downtime (MAD)](/reference/glossary/#maximum-allowable-downtime-mad)*.
+==- Mean Time Before Failure (MTBF)
+==- Mean Time to Repair (MTTR)
+==- Mean Time to Switchover (MTTS)
 ==- Memorandum of Agreement (MOA)
 *See [Memorandum of Agreement (MOU)](/reference/glossary/#memorandum-of-understanding-mou)*.
 ==- Memorandum of Understanding (MOU)
@@ -602,10 +615,12 @@ Network forensics is defined as the capture, storage, and analysis of network ev
 Includes network services from third-parties to customers that do not want to build their own networking infrastructure.
 ==- Nonrepudiation
 The assurance that a specific author actually did create and send a specific item to a specific recipient and that it was successfully received. The sender of the message cannot later credibly deny having sent the message, nor can the recipient credibly claim not to have received it.
+==- Northbound Interface (NBI)
 ==-
 
 ## O
 
+==- Operational Expenditure (OpEx)
 ==- Outage Duration
 Outage duration is the length of time of a documented outage and is expressed as an amount of time (minutes, hours, days).
 ==- OWASP Dependency-Check
@@ -620,6 +635,7 @@ A utility that identifies project dependencies and checks whether there are any 
 The expression of an identity with attributes that indicates context. For example, a developer who logs into work and then connects to a cloud environment as a developer on a particular project. The identity is still the individual, and the persona is the individual in the context of that project.
 ==- Personal Data
 Any information relating to an identified or identifiable natural personal data subject; an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his or her physical, physiological, mental, economic, cultural, or social identity.
+==- Plenum
 ==- Policy Decision Point
 ?
 ==- Policy Enforcement Point
@@ -735,6 +751,8 @@ Scoping is the process that refers to including only departments or business uni
 When one risk response triggers another risk event. For example, a fire suppression system that displaces oxygen is a means to mitigate the original risk (fire) but adds a new risk (suffocating people).
 ==- Security
 The owner's right to determine to whom information is disclosed. Security protects privacy.
+==- Security Zones
+*See [Trust Zones](/reference/glossary/#trust-zones)*.
 ==- Self-Assessment Questionnaire (SAQ)
 The PCI DSS SAQs are validation tools intended to assist merchants and service providers report the results of their PCI DSS self-assessment.
 ==- Sensitive Authentication Data (SAD)
@@ -775,10 +793,12 @@ The Smurf attack is a distributed denial-of-service attack in which large number
 The action of grabbing data and using it without the owner's consent.
 ==- Software Assurance
 Encompasses the development and implementation of methods and processes for ensuring that software functions as intended while mitigating the risks of vulnerabilities, malicious code, or defects that could bring harm to the end user.
+==- Software-Defined Networking
 ==- Software-Defined Security
 Automates security controls.
 ==- Source Code Analysis (SCA)
 Performing an analysis of the source code, byte code, and binaries.
+==- Southbound Interface (SBI)
 ==- Spoliation
 The term used to describe the destruction of potential evidence (intentionally or otherwise); in various jurisdictions, it can be a crime, or the grounds for another lawsuit.
 ==- Sprawl
@@ -818,7 +838,7 @@ Something or someone that carries out the attack. Also known as a threat actor.
 When the server proves its identity to the client.
 ==- Total Risk
 The risk that exists &before& any controls are implemented.
-==- Trust Zones/Security Zones
+==- Trust Zones
 A trust zone is a network segment within which data flows relatively freely, whereas data flowing in and out of the trust zone is subject to stronger restrictions. These could be physical, logical, or virtual boundaries around network resources, such as:
 
 - DMZ (semi-trusted)
@@ -849,12 +869,15 @@ The key difference between HSM and TPM is that an HSM manages keys for several d
 
 ==- Underpinning Contract (UC)
 Underpinning contracts are external contracts negotiated between the organization and their vendors or suppliers.
+==- Unified Threat Management (UTM)
 ==-
 
 ## V
 
 ==- Vertical Cloud Computing
 Refers to the optimization of cloud computing and cloud services for a particular vertical (e.g., a specific industry) or specific-use application.
+==- Virtual Local Area Network (VLAN)
+==- Virtual Machine Introspection (VMI)
 ==-
 
 ## W
