@@ -1,5 +1,5 @@
 ---
-categories: [Privacy Standards]
+categories: [Standards, Privacy Standards]
 tags: [aicpa, cica, privacy]
 ---
 

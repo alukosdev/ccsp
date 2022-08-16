@@ -1,5 +1,5 @@
 ---
-categories: [Secure Architecture and Design Standards]
+categories: [Standards, Secure Architecture and Design Standards]
 ---
 
 # Jericho

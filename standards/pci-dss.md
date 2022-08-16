@@ -1,5 +1,5 @@
 ---
-categories: [Security Management and Controls Standards]
+categories: [Standards, Security Management and Controls Standards]
 tags: [pci]
 ---
 

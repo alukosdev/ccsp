@@ -1,5 +1,5 @@
 ---
-categories: [Risk Management Standards]
+categories: [Standards, Risk Management Standards]
 tags: [enisa]
 ---
 

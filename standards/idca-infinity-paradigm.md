@@ -1,5 +1,5 @@
 ---
-categories: [Data Center Design Standards]
+categories: [Standards, Data Center Design Standards]
 tags: [idca]
 ---
 

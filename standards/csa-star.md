@@ -1,5 +1,5 @@
 ---
-categories: [Auditing and Assurance]
+categories: [Standards, Auditing and Assurance]
 tags: [csa]
 ---
 
