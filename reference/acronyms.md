@@ -38,7 +38,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | BPA | Best Practices Analyzer |
 | CaaS | [Compliance as a Service](/reference/glossary/#compliance-as-a-service-compaas-caas) |
 | CAI | Consensus Assessments Initiative |
-| CAIQ | [Consensus Assessments Initiative Questionnaire](/reference/glossary/# consensus-assessments-initiative-questionnaire-caiq) |
+| CAIQ | [Consensus Assessments Initiative Questionnaire](/reference/glossary/#consensus-assessments-initiative-questionnaire-caiq) |
 | CAMP | [Cloud Application Management for Platforms](/reference/glossary/#cloud-application-management-for-platforms-camp) |
 | CapEx | Capital Expenditure |
 | CASB | [Cloud Access Security Broker](/reference/glossary/#cloud-access-security-broker-casb) |
