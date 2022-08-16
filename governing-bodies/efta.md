@@ -1,7 +1,11 @@
 ---
-categories: [Laws, Privacy Laws, EFTA Laws]
+categories: []
 tags: [privacy, efta]
 ---
+
+!!!danger
+Technically, EFTA is not a law. It is a group of countries. This probably shouldn't be under laws, but it has nowhere else to go. Sad panda is sad.
+!!!
 
 # EFTA
 
