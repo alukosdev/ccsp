@@ -13,7 +13,7 @@ This page is currently being updated for the 2022 version of the CCSP.
 
 # CIS Controls
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 | Acronym | Backronym | { class="compact" }
 | - | - |

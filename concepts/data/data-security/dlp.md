@@ -4,7 +4,7 @@ label: Data Loss Prevention
 
 # Data Loss Prevention (DLP)
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 | Acronym | Backronym |
 | - | - |

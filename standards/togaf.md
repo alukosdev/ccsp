@@ -6,7 +6,7 @@ categories: [Standards, Secure Architecture and Design Standards]
 
 > The Open Group Architecture Framework
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 | Acronym | Backronym |
 | - | - |

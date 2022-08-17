@@ -7,7 +7,7 @@ tags: [isaca]
 
 > Control Objectives for Information and Related Technologies
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 | Acronym | Backroynm |
 | - | - |

@@ -5,7 +5,7 @@ tags: [nist]
 
 # NIST FIPS 140-3
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 | Acronym | Backronym |
 | - | - |

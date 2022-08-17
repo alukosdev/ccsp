@@ -4,7 +4,7 @@ label: Single Sign-On
 
 # Single Sign-On (SSO)
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 | Acronym | Backronym |
 | - | - |

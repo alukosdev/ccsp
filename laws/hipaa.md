@@ -5,7 +5,7 @@ tags: [privacy, united states]
 
 # HIPAA
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 | Acronym | Backronym |
 | - | - |

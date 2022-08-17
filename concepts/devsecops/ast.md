@@ -4,7 +4,7 @@ label: Application Security Testing
 
 # Application Security Testing (AST)
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 | Acronym | Backronym |
 | - | - |

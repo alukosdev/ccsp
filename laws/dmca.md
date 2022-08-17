@@ -5,7 +5,7 @@ tags: [copyright, united states]
 
 # DMCA
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 | Acronym | Backroynm |
 | - | - |

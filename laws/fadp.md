@@ -5,7 +5,7 @@ tags: [privacy, switzerland]
 
 # FADP
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 | Acronym | Backronym |
 | - | - |

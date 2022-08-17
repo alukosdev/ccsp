@@ -5,7 +5,7 @@ tags: [eea, eu, privacy]
 
 # Directive 95/46/EC
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 | Acronym | Backronym |
 | - | - |

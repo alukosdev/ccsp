@@ -1,6 +1,6 @@
 # TLS
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 ==- Acronyms found on this page
 | Acronym | Backronym |

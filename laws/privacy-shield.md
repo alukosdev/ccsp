@@ -5,7 +5,7 @@ tags: [privacy, united states]
 
 # Privacy Shield
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 | Acronym | Backronym |
 | - | - |

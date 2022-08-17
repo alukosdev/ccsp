@@ -7,7 +7,7 @@ tags: [pci]
 
 > Payment Card Industry Data Security Standards
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 | Acronym | Backronym |
 | - | - |

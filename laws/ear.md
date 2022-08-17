@@ -5,7 +5,7 @@ tags: [export control, united states]
 
 # EAR
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 | Acronym | Backronym |
 | - | - |

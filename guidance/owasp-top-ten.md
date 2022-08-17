@@ -5,7 +5,7 @@ tags: [owasp]
 
 # OWASP Top Ten
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 | Acronym | Backronym |
 | - | - |

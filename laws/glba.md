@@ -5,7 +5,7 @@ tags: [privacy, united states]
 
 # GLBA
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 | Acronym | Backronym |
 | - | - |

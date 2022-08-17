@@ -5,7 +5,7 @@ tags: [ansi, bicsi]
 
 # ANSI/BICSI 002-2014
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 | Acronym | Backronym |
 | - | - |

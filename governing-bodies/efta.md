@@ -5,7 +5,7 @@ tags: [privacy, efta]
 
 # EFTA
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 | Acronym | Backronym |
 | - | - |

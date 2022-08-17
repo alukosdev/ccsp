@@ -1,6 +1,6 @@
 # Encryption Fundamentals
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 | Acronym | Backronym |
 | - | - |

@@ -5,7 +5,7 @@ tags: [privacy, united states]
 
 # ECPA
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 | Acronym | Backronym |
 | - | - |

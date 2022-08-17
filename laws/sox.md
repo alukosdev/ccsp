@@ -5,7 +5,7 @@ tags: [united states]
 
 # SOX
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 | Acronym | Backronym |
 | - | - |

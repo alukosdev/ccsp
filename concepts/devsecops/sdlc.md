@@ -4,7 +4,7 @@ label: Software Development Lifecycle
 
 # Software Development Lifecycle (SDLC)
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 | Acronym | Backronym |
 | - | - |

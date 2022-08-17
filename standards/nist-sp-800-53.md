@@ -7,7 +7,7 @@ tags: [nist]
 
 > Security and Privacy Controls for Federal Information Systems and Organizations
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 | Acronym | Backronym |
 | - | - |

@@ -5,7 +5,7 @@ tags: [argentina, privacy]
 
 # PDPA 25.326
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 | Acronym | Backronym |
 | - | - |

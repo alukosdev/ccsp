@@ -4,7 +4,7 @@ label: Continual Service Improvement Management
 
 # Continual Service Improvement Management (CSIM)
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 | Acronym | Backronym |
 | - | - |

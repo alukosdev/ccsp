@@ -7,7 +7,7 @@ tags: [csa]
 
 > Trusted Cloud Initiative
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 | Acronym | Backronym |
 | - | - |

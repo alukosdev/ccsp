@@ -4,7 +4,7 @@ label: Identity and Access Management
 
 # Identity and Access Management (IAM)
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 | Acronym | Backronym |
 | - | - |

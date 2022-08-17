@@ -5,7 +5,7 @@ tags: [eea, enisa, eu, privacy]
 
 # NIS Directive
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 | Acronym | Backronym |
 | - | - |

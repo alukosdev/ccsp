@@ -5,7 +5,7 @@ tags: [canada, privacy]
 
 # PIPEDA
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 | Acronym | Backronym |
 | - | - |

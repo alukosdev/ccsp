@@ -4,7 +4,7 @@ label: Multifactor Authentication
 
 # Multifactor Authentication (MFA)
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 | Acronym | Backronym |
 | - | - |

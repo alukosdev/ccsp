@@ -4,7 +4,7 @@ label: Federated Identity Management
 
 # Federated Identity Management (FIM)
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 | Acronym | Backronym |
 | - | - |

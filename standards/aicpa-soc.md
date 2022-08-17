@@ -4,7 +4,7 @@ categories: [Standards, Auditing and Assurance Standards]
 
 # AICPA SOC
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 | Acronym | Backronym |
 | - | - |

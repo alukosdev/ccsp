@@ -5,7 +5,7 @@ tags: [enisa]
 
 # ENISA Cloud Computing: Benefits, Risks, and Recommendations for Information Security
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 | Acronym | Backronym |
 | - | - |

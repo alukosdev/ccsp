@@ -4,7 +4,7 @@ label: Information Security Management
 
 # Information Security Management (ISM)
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 | Acronym | Backronym |
 | - | - |

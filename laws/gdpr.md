@@ -5,7 +5,7 @@ tags: [eea, eu, privacy]
 
 # GDPR
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
 | Acronym | Backronym |
 | - | - |
