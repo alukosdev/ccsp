@@ -26,6 +26,6 @@ This is a new page. We need to determine whether it's relevant to keep around or
 | [PIPEDA](/laws/pipeda.md) | Personal Information Protection and Electronics Document Act | [Privacy Laws](/categories/privacy-laws/) | Canada |
 | [Privacy Act 1988](/laws/privacy-act-1988.md) | Australian Privacy Act | [Privacy Laws](/categories/privacy-laws/) | Australia |
 | [Privacy Shield](/laws/privacy-shield.md) | EU-U.S. Privacy Shield | [Privacy Laws](/categories/privacy-laws/) | United States |
-| ~~[Safe Harbor](/laws/safe-harbor.md~~ | | ~~[Privacy Laws](/categories/privacy-laws/)~~ | ~~United States~~ |
+| ~~[Safe Harbor](/laws/safe-harbor.md)~~ | | ~~[Privacy Laws](/categories/privacy-laws/)~~ | ~~United States~~ |
 | [SCA](/laws/sca.md) | Stored Communications Act | [Privacy Laws](/categories/privacy-laws/) | United States |
 | [SOX](/laws/sox.md) | Sarbanes-Oxley Act | | United States |
