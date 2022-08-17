@@ -4,9 +4,9 @@ label: Business Continuity and Disaster Recovery
 
 # Business Continuity and Disaster Recovery (BCDR)
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Acronym | Definition |
 | - | - |
 | BC | Business Continuity |
 | BCM | Business Continuity Management |
