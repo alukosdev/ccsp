@@ -7,7 +7,7 @@ tags: [cis]
 The following CIS Controls are derived from the official [CIS Critical Security Controls Version 8](https://www.cisecurity.org/controls/v8) released on **May 18, 2021**.
 :::
 
-!!!danger
+!!!warning Under Construction
 This page is currently being updated for the 2022 version of the CCSP.
 !!!
 
@@ -22,7 +22,23 @@ This page is currently being updated for the 2022 version of the CCSP.
 
 ## Overview
 
+### Introduction
+
 The CIS Controls (formerly known as Critical Security Controls) are a recommended set of actions for cyber defense that provide specific and actionable ways to stop today's most pervasive and dangerous attacks.[[¹]](#1-httpswwwsansorgblogcis-controls-v8)
+
+#### Implementation Groups
+
+##### IG1
+
+An IG1 enterprise is small to medium-sized with limited IT and cybersecurity expertise to dedicate towards protecting IT assets and personnel.
+
+##### IG2 (Includes IG1)
+
+An IG2 enterprise employs individuals responsible for managing and protecting IT infrastructure.
+
+##### IG3 (Includes IG1 and IG2)
+
+An IG3 enterprise employs security experts that specialize in the different facets of cybersecurity (e.g., risk management, penetration testing, application security).
 
 ## Controls
 
@@ -47,36 +63,9 @@ The CIS Controls (formerly known as Critical Security Controls) are a recommende
 | Control 17 | Incident Response Management |
 | Control 18 | Penetration Testing |
 
-[[²]](#2-httpswwwcisecurityorgcontrolsv8)
-
-!!!
-An underlying theme for these controls is support for large-scale, standards-based security automation for the management of cyber defenses.
-!!!
-
-### CIS CSC 2
-
-#### Effectiveness Metrics
-
-When testing the effectiveness of the automated implementation of this control, organizations should determine the following:
-
-- The amount of time it takes to detect new software installed on the organization's systems
-- The amount of time it takes the scanning functions to alert the organization's administrators when an unauthorized application has been discovered on a system
-- The amount of time it takes for an alert to be generated when a new application has been discovered on a system
-- Whether the scanning function identifies the department, location, and other critical details about the unauthorized software that has been detected
-
-#### Automation Metrics
-
-Organizations should gather the following information to automate the collection of relevant data from these systems:
-
-- The total number of unauthorized applications located on the organization's business systems
-- The average amount of time it takes to remove unauthorized applications from the organization's business systems
-- The total number of the organization's business systems that are not running whitelisting software
-- The total number of applications that have been recently blocked
-
 ## References
 
 ###### 1. https://www.sans.org/blog/cis-controls-v8/
-###### 2. https://www.cisecurity.org/controls/v8
 
 ## Sources
 
