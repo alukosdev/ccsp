@@ -3,6 +3,14 @@ categories: [Cloud Computing Risk Management Guidance]
 tags: [csa]
 ---
 
+!!!warning
+This page is currently being updated for the 2022 version of the CCSP.
+!!!
+
+:::banner
+The following INSERTHERE are derived from the official [INSERTHERE](https://linkme) released on **Month Day, Year**.
+:::
+
 # CSA Treacherous Twelve
 
 ## Acronyms, Abbreviations, and Initialisms

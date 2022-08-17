@@ -578,6 +578,7 @@ The means by which an identity can be asserted. For digital identities this is o
 The unique expression of an entity within a given namespace. An entity can have multiple digital identities, such as a single individual having a work identity (or even multiple identities, depending on the systems), a social media identity, and a personal identity. For example, if you are a single entry in a single directory server then that is your identity.
 ==- Identity and Access Management (IAM)
 ==- Identity Provider (IdP)
+==- Implementation Group (IG)
 ==- Incident
 According to the ITIL framework, an incident is defined as an unplanned interruption to an IT service or a reduction in the quality of an IT service.
 

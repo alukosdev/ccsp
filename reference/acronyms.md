@@ -116,9 +116,10 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | IaC | [Infrastructure as Code](/reference/glossary/#infrastructure-as-code-iac) |
 | IAM | Identity and Access Management |
 | IDCA | International Data Center Authority |
+| IdP | Identity Provider |
 | IDS | Intrusion Detection System |
 | IEC | International Electrotechnical Commission |
-| IdP | Identity Provider |
+| IG | Implementation Group |
 | IMT | Incident Management Team |
 | IPS | Intrusion Prevention System |
 | IRM | Information Rights Management |

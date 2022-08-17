@@ -19,6 +19,7 @@ The following CIS Controls are derived from the official [CIS Critical Security 
 | - | - |
 | CIS | Center for Internet Security |
 | CSC | Critical Security Controls (formerly) |
+| IG | Implementation Group |
 
 ## Overview
 
