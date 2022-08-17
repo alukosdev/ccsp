@@ -25,7 +25,7 @@ The following CIS Controls are derived from the official [CIS Critical Security 
 
 ### Introduction
 
-The CIS Controls (formerly referred to as the Critical Security Controls) are a recommended set of actions for cyber defense that provide specific and actionable ways to stop today's most pervasive and dangerous attacks.[[¹]](#1-httpswwwsansorgblogcis-controls-v8)
+The CIS Controls (formerly referred to as the Critical Security Controls) are a recommended set of actions for cyber defense that provide specific and actionable ways to stop today's most pervasive and dangerous attacks.[[¹]](#ref1)
 
 #### Implementation Groups
 
@@ -66,7 +66,7 @@ An IG3 enterprise employs security experts that specialize in the different face
 
 ## References
 
-###### 1. https://www.sans.org/blog/cis-controls-v8
+1. https://www.sans.org/blog/cis-controls-v8<span id="ref1"></span>
 
 ## Sources
 
