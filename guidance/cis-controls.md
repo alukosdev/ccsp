@@ -67,7 +67,7 @@ An IG3 enterprise employs security experts that specialize in the different face
 
 ## References
 
-1. https://www.sans.org/blog/cis-controls-v8<span id="ref1"></span>
+1. https://www.sans.org/blog/cis-controls-v8
 
 ## Sources
 
