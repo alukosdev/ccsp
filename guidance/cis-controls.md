@@ -1,7 +1,5 @@
 ---
-author: Mfer
 categories: [Security Management and Controls Guidance]
-date: 2022-08-10 # August 10, 2022
 tags: [cis]
 ---
 
