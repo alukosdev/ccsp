@@ -4,8 +4,6 @@ This page needs a formatting update. Additionally, all standards should be linke
 
 # Standards
 
-## ISO/IEC
-
 | Name | Description | Category | { class="compact" }
 | - | - | - |
 | [ISO/IEC 15408:2009](/standards/iso-iec-15408-2009.md) | Information technology - Security techniques - Evaluation criteria for IT security | Common Criteria |
