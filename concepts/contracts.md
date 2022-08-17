@@ -4,9 +4,9 @@ order: 1700
 
 # Contracts
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | LOI | Letter of Intent |
 | MOA | Memorandum of Agreement |

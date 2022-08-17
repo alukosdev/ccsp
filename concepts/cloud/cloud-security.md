@@ -1,8 +1,8 @@
 # Cloud Security
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | API | Application Programming Interface |
 | DAM | Database Activity Monitoring |
