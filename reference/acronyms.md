@@ -224,16 +224,3 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | WORM | [Write Once, Read Many](/reference/glossary/#write-once-read-many-worm) |
 | WRT | [Work Recovery Time](/reference/glossary/#work-recovery-time-wrt) |
 | WSTG | Web Security Testing Guide |
-
-## Sources
-
-- Gordon, A. (2016). The Official (ISC)² Guide to the CCSP CBK. Sybex.
-- Malisow, B. (2017). CCSP (ISC)² Certified Cloud Security Professional Official Study Guide. Sybex.
-- Carter, D. (2017). CCSP Certified Cloud Security Professional All-in-One Exam Guide. McGraw-Hill Education.
-- Handerhan, K. (2019). Certified Cloud Security Professional (CCSP) [Video series]. Cybrary. https://www.cybrary.it/
-- [VMware End-User Computing] (2019, June 7). Identity and Access Management: Technical Overview [Video]. YouTube. https://www.youtube.com/watch?v=Tcvsefz5DmA
-- [VMware End-User Computing] (2019, December 12). SAML 2.0: Technical Overview [Video]. YouTube. https://www.youtube.com/watch?v=SvppXbpv-5k
-- [OktaDev] (2019, November 5). An Illustrated Guide to OAuth and OpenID Connect  [Video]. YouTube. https://www.youtube.com/watch?v=t18YB3xDfXI
-- [Programming with Mosh] (2018, January 19). What is a REST API? [Video]. YouTube. https://www.youtube.com/watch?v=SLwpqD8n3d0
-- Cloud Security Alliance. (2017). Security Guidance v4.0 [PDF file]. https://cloudsecurityalliance.org/research/guidance/
-- Center for Internet Security. (2021, May 18). CIS Critical Security Controls Version 8 [PDF file]. https://www.cisecurity.org/controls/v8
