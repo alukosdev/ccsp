@@ -7,8 +7,8 @@ tags: [cis]
 The following CIS Controls are derived from the official [CIS Critical Security Controls Version 8](https://www.cisecurity.org/controls/v8) released on **May 18, 2021**.
 :::
 
-!!!warning Under Construction
-This page is currently being updated for the 2022 version of the CCSP.
+!!!success
+This page has been updated for the 2022 version of the CCSP.
 !!!
 
 # CIS Controls
