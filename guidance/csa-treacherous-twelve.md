@@ -1,5 +1,5 @@
 ---
-categories: [Cloud Computing Risk Management]
+categories: [Cloud Computing Risk Management Guidance]
 tags: [csa]
 ---
 

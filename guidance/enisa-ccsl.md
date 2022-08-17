@@ -1,5 +1,5 @@
 ---
-categories: [Cloud Computing Certification]
+categories: [Cloud Computing Certification Guidance]
 tags: [enisa]
 ---
 

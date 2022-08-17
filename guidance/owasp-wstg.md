@@ -1,5 +1,5 @@
 ---
-categories: [Application Risk Management]
+categories: [Application Risk Management Guidance]
 tags: [owasp]
 ---
 
