@@ -9,13 +9,20 @@ We need to add links to the Glossary page. For example, API should link to eithe
 # Acronyms, Abbreviations, and Initialisms
 
 !!!
-Please note that not all acronyms, abbreviations, and initialisms referenced below exist in the glossary with a simple definition. Some acronyms, abbreviations, and initialisms describe concepts, laws, standards, or guidance that require more thoughtful explanation and may exist in their own respective page or pages. Please use the search feature to research these terms.
+Please note that not all acronyms, abbreviations, and initialisms referenced below exist in the glossary with a simple definition. Some acronyms, abbreviations, and initialisms describe concepts, organizations, laws, standards, guidance, or models that require more thoughtful explanation and may exist in their own respective page or pages. Please use the search feature to research these terms.
 !!!
 
-| Acronym, Abbreviation, or Initialism | Glossary Term | { class="compact" }
+| Acronym, Abbreviation, or Initialism | Definition | { class="compact" }
 | - | - |
 | ABAC | Attribute-Based Access Control [!button size="xs" target="blank" text="Glossary"](https://retype.com/) |
-| AICPA | American Institute of Certified Public Accountants |
+| AICPA | American Institute of Certified Public Accountants [!button icon="<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+   <path d="M14 3v4a1 1 0 0 0 1 1h4"></path>
+   <path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"></path>
+   <line x1="9" y1="9" x2="10" y2="9"></line>
+   <line x1="9" y1="13" x2="15" y2="13"></line>
+   <line x1="9" y1="17" x2="15" y2="17"></line>
+</svg>" |
 | ALE | [Annualized Loss Expectancy](/reference/glossary/#annualized-loss-expectancy-ale) |
 | ANF | Application Normative Framework |
 | ANSI | American National Standards Institute |
