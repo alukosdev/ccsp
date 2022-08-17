@@ -1,3 +1,7 @@
+!!!danger
+This is a new page! Enjoy it while you can. It's likely to undergo significant cosmetic surgery.
+!!!
+
 # Guidance
 
 | Name | Category | { class="compact" }

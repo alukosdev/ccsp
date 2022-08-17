@@ -1,4 +1,4 @@
-!!!danger Incomplete Page
+!!!danger
 We need to decide whether to remove links entirely from this page, leave them as-is, or create separate buttons for linking to other resources. The latter will get unruly very quickly. It is not scalable.
 !!!
 
