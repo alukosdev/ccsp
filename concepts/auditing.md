@@ -4,9 +4,9 @@ order: 2000
 
 # Auditing
 
-## Acronyms
+## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | AUP | Agreed-Upon Procedures |
 

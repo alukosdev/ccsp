@@ -6,7 +6,7 @@ label: Business Continuity and Disaster Recovery
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Definition |
+| Short Form | Full Form |
 | - | - |
 | BC | Business Continuity |
 | BCM | Business Continuity Management |
