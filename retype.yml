@@ -1,8 +1,6 @@
 input: .
 output: .retype
 url: retypetest.pages.dev
-generator:
-  trailingSlash: false
 branding:
   logo: /static/isc2_ccsp.png
 links:
