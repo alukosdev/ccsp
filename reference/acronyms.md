@@ -12,7 +12,7 @@ We need to decide whether to remove links entirely from this page, leave them as
 Please note that not all acronyms, abbreviations, and initialisms referenced below exist in the glossary with a simple definition. Some acronyms, abbreviations, and initialisms describe concepts, organizations, laws, standards, guidance, or models that require more thoughtful explanation and may exist in their own respective page or pages. For this reason, we chose not to directly link any content below to individual pages or anchors. Please use the search feature to locate and research these terms.
 !!!
 
-| Acronym | Definition | { class="compact" }
+| Short Form | Full Form | { class="compact" }
 | - | - |
 | ABAC | Attribute-Based Access Control |
 | AICPA | American Institute of Certified Public Accountants |
