@@ -2,7 +2,7 @@
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | SIEM | Security Information and Event Management |
 

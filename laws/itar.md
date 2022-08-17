@@ -7,7 +7,7 @@ tags: [united states]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | CCL | Commerce Control List |
 | ITAR | International Traffic in Arms Regulations |

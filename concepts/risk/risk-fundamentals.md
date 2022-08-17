@@ -2,7 +2,7 @@
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | ERM | Enterprise Risk Management |
 | KRI | Key Risk Indicator |

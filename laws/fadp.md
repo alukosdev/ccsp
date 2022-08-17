@@ -7,7 +7,7 @@ tags: [privacy, switzerland]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | DPA | Data Protection Act |
 | FADP | Federal Act on Data Protection |

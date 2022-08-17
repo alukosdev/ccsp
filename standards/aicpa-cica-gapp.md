@@ -9,7 +9,7 @@ tags: [aicpa, cica, privacy]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | AICPA | American Institute of Certified Public Accountants |
 | CICA | Canadian Institute of Chartered Accountants |

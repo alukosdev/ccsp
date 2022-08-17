@@ -6,7 +6,7 @@ categories: [Standards, Auditing and Assurance Standards]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | AICPA |	American Institute of Certified Public Accountants |
 | IAASB	| International Auditing and Assurance Standards Board |

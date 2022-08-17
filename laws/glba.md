@@ -7,7 +7,7 @@ tags: [privacy, united states]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | GLBA | Gramm-Leach-Bliley Act |
 | ISO | Information Security Officer |

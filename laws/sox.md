@@ -7,7 +7,7 @@ tags: [united states]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | SEC | Securities and Exchange Commission |
 | SOX | Sarbanes-Oxley Act |

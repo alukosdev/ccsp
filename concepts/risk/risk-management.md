@@ -3,7 +3,7 @@
 ## Acronyms, Abbreviations, and Initialisms
 
 ==- Acronyms
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | ALE | Annualized Loss Expectancy |
 | ARO | Annual Rate of Occurrence |

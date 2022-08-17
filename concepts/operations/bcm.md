@@ -6,7 +6,7 @@ label: Business Continuity Management
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | BCM | Business Continuity Management |
 

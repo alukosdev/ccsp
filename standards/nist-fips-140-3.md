@@ -7,7 +7,7 @@ tags: [nist]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | CST | Cryptographic and Security Testing |
 | CMVP | Cryptographic Module Validation Program |

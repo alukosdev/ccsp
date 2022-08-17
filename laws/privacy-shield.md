@@ -7,7 +7,7 @@ tags: [privacy, united states]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | DoC | Department of Commerce |
 | DoT | Department of Transportation |

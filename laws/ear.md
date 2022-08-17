@@ -7,7 +7,7 @@ tags: [export control, united states]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | CCL | Commerce Control List |
 | EAR | Export Administration Regulations |

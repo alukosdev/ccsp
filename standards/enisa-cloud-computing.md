@@ -7,7 +7,7 @@ tags: [enisa]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | ENISA | European Union Agency for Network and Information Security |
 

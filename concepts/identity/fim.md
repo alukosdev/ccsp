@@ -6,7 +6,7 @@ label: Federated Identity Management
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | FIM | Federated Identity Management |
 | IAM | Identity and Access Management |

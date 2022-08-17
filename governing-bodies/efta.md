@@ -7,7 +7,7 @@ tags: [privacy, efta]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | EFTA | European Free Trade Association |
 | EU | European Union |

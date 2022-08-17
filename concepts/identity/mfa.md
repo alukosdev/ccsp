@@ -6,7 +6,7 @@ label: Multifactor Authentication
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | MFA | Multifactor Authentication |
 | TOTP | Time-Based One-Time Password |

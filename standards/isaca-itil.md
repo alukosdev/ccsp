@@ -9,7 +9,7 @@ tags: [isaca]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | ISACA | Information Systems Audit and Control Association |
 | ITIL | Information Technology Infrastructure Library (formerly) |

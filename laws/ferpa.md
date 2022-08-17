@@ -7,7 +7,7 @@ tags: [privacy, united states]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | FERPA | Family Educational Rights and Privacy Act |
 

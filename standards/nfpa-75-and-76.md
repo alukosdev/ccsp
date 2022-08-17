@@ -7,7 +7,7 @@ tags: [nfpa]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | NFPA | National Fire Protection Association |
 

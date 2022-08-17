@@ -2,7 +2,7 @@
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | DAR | Data at Rest |
 | DIM | Data in Motion |

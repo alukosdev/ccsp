@@ -7,7 +7,7 @@ tags: [enisa]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | CCSL | Cloud Certification Schemes List |
 | CCSM | Cloud Certification Schemes Metaframework |

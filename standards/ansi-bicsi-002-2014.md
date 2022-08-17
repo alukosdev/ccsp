@@ -7,7 +7,7 @@ tags: [ansi, bicsi]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | ANSI | American National Standards Institute |
 | BICSI | Building Industry Consulting Services International |

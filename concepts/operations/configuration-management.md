@@ -2,7 +2,7 @@
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | CI | Configuration Item |
 

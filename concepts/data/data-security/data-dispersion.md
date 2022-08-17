@@ -2,7 +2,7 @@
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | AONT-RS | All-or-Nothing-Transform with Reed-Solomon |
 | SMSS | Secret Sharing Made Short |

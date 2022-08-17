@@ -15,7 +15,7 @@ This page is currently being updated for the 2022 version of the CCSP.
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym | { class="compact" }
+| Short Form | Full Form |
 | - | - |
 | CIS | Center for Internet Security |
 | CSC | Critical Security Controls (formerly) |

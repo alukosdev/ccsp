@@ -7,7 +7,7 @@ tags: [privacy, united states]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | DHHS | Department of Health and Human Services |
 | HIPAA | Health Insurance Portability and Accountability Act |

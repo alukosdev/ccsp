@@ -11,7 +11,7 @@ In May 2018, an update to the Data Directive took effect known as the "Privacy R
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | DoC | Department of Commerce |
 | DoT | Department of Transportation |

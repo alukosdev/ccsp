@@ -7,7 +7,7 @@ tags: [owasp]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | WSTG | Web Security Testing Guide |
 

@@ -7,7 +7,7 @@ tags: [canada, privacy]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | PIPEDA | Personal Information Protection and Electronics Document Act |
 

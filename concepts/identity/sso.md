@@ -6,7 +6,7 @@ label: Single Sign-On
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | FIM | Federated Identity Management |
 | RSO | Reduced Sign-On |

@@ -6,7 +6,7 @@ label: Identity and Access Management
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | ABAC | Attribute-Based Access Control |
 | IAM | Identity and Access Management |

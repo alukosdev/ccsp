@@ -7,7 +7,7 @@ tags: [eea, eu, privacy]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | EU | European Union |
 | OECD | Organization for Economic Cooperation and Development |

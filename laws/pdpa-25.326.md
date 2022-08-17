@@ -7,7 +7,7 @@ tags: [argentina, privacy]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | PDPA | Personal Data Protection Act |
 

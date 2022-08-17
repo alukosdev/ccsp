@@ -8,7 +8,7 @@ categories: [Standards, Secure Architecture and Design Standards]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | SABSA | Sherwood Applied Business Security Architecture |
 | BOSS | Business Operation Support Services |

@@ -9,7 +9,7 @@ tags: [pci]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | AoC | Attestation of Compliance |
 | ASV | Approved Scanning Vendor |

@@ -11,7 +11,7 @@ This page requires formatting updates to make it easier to flow. Additionally, i
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | CAI | Consensus Assessments Initiative |
 | CAIQ | Consensus Assessments Initiative Questionnaire |

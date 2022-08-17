@@ -7,7 +7,7 @@ tags: [international, privacy]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backronym |
+| Short Form | Full Form |
 | - | - |
 | GDPR | General Data Protection Regulation |
 | OECD | Organization for Economic Cooperation and Development |
