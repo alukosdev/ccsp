@@ -69,9 +69,4 @@ An IG3 enterprise employs security experts that specialize in the different face
 
 ## Sources
 
-- Gordon, A. (2016). The Official (ISC)² Guide to the CCSP CBK. Sybex.
-- Malisow, B. (2017). CCSP (ISC)² Certified Cloud Security Professional Official Study Guide. Sybex.
-- Carter, D. (2017). CCSP Certified Cloud Security Professional All-in-One Exam Guide. McGraw-Hill Education.
-- Handerhan, K. (2019). Certified Cloud Security Professional (CCSP) [Video series]. Cybrary. https://www.cybrary.it/
-- Cloud Security Alliance. (2017). Security Guidance v4.0 [PDF file]. https://cloudsecurityalliance.org/research/guidance/
 - Center for Internet Security. (2021, May 18). CIS Critical Security Controls Version 8 [PDF file]. https://www.cisecurity.org/controls/v8
