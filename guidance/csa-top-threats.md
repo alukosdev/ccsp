@@ -4,7 +4,7 @@ tags: [csa]
 ---
 
 !!!warning
-This page is currently being revised for the 2022 version of the CCSP.
+This page is currently being revised.
 !!!
 
 # CSA Top Threats
@@ -54,9 +54,9 @@ The latest report highlights the Pandemic Eleven (ranked in order of significanc
 
 ## Security Issues
 
-==- Insufficient Identity, Credentials, Access, and Key Management<span id="si1"></span>
+==- Insufficient Identity, Credentials, Access, and Key Management
 1
-==- Insecure Interfaces and APIs<span id="si2"></span>
+==- Insecure Interfaces and APIs
 2
 ==- Misconfiguration and Inadequate Change Control
 3
