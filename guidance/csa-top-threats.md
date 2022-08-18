@@ -52,27 +52,29 @@ The latest report highlights the Pandemic Eleven (ranked in order of significanc
 10. Organized Crime/Hackers/APT (11)
 11. Cloud Storage Data Exfiltration
 
-==- 1. Insufficient Identity, Credentials, Access, and Key Management
+## Security Issues
+
+==- Insufficient Identity, Credentials, Access, and Key Management
 1
-==- 2. Insecure Interfaces and APIs
+==- Insecure Interfaces and APIs
 2
-==- 3. Misconfiguration and Inadequate Change Control
+==- Misconfiguration and Inadequate Change Control
 3
-==- 4. Lack of Cloud Security Architecture and Strategy
+==- Lack of Cloud Security Architecture and Strategy
 4
-==- 5. Insecure Software Development
+==- Insecure Software Development
 5
-==- 6. Unsecured Third-Party Resources
+==- Unsecured Third-Party Resources
 6
-==- 7. System Vulnerabilities
+==- System Vulnerabilities
 7
-==- 8. Accidental Cloud Data Disclosure
+==- Accidental Cloud Data Disclosure
 8
-==- 9. Misconfiguration and Exploitation of Serverless and Container Workloads
+==- Misconfiguration and Exploitation of Serverless and Container Workloads
 9
-==- 10. Organized Crime/Hackers/APT
+==- Organized Crime/Hackers/APT
 10
-==- 11. Cloud Storage Data Exfiltration
+==- Cloud Storage Data Exfiltration
 11
 ==-
 
