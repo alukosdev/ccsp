@@ -36,9 +36,7 @@ The threats contained within these reports are specifically related to *cloud co
 | Treacherous Twelve | 2016/02/29 |
 | Notorious Nine | 2013/02/24 |
 
-==- Pandemic Eleven
-Test panel
-==-
+### Pandemic Eleven
 
 The latest report highlights the Pandemic Eleven (ranked in order of significance per a survey of over 700 industry experts on security issues in the cloud industry). Also shown are the 2019 survey rankings in parentheses:
 
