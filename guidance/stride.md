@@ -16,6 +16,10 @@ categories: [Threat Models]
 
 STRIDE is an acronym that describes six categories of threats to software.
 
+!!!
+STRIDE was developed by Microsoft.
+!!!
+
 ## Categories
 
 The STRIDE acronym stands for:
