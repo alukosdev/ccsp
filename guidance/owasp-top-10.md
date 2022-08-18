@@ -31,16 +31,16 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 ## Web Application Security Risks
 
 +++ 2021
-- A01:2021 - Broken Access Control
-- A02:2021 - Cryptographic Failures
-- A03:2021 - Injection
-- A04:2021 - Insecure Design
-- A05:2021 - Security Misconfiguration
-- A06:2021 - Vulnerable and Outdated Components
-- A07:2021 - Identification and Authentication Failures
-- A08:2021 - Software and Data Integrity Failures
-- A09:2021 - Security Logging and Monitoring Failures
-- A10:2021 - Server Side Request Forgery (SSRF)
+- A01:2021 - [Broken Access Control](#broken-access-control)
+- A02:2021 - [Cryptographic Failures](#cryptographic-failures)
+- A03:2021 - [Injection](#injection)
+- A04:2021 - [Insecure Design](#insecure-design)
+- A05:2021 - [Security Misconfiguration](#security-misconfiguration)
+- A06:2021 - [Vulnerable and Outdated Components](#vulnerable-and-outdated-components)
+- A07:2021 - [Identification and Authentication Failures](#identification-and-authentication-failures)
+- A08:2021 - [Software and Data Integrity Failures](#software-and-data-integrity-failures)
+- A09:2021 - [Security Logging and Monitoring Failures](#security-logging-and-monitoring-failures)
+- A10:2021 - [Server Side Request Forgery (SSRF)](#server-side-request-forgery-ssrf)
 +++ 2017
 1. A1:2017 - Injection
 2. A2:2017 - Broken Authentication
