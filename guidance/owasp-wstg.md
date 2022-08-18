@@ -41,7 +41,7 @@ The following contents reflect the official [OWASP Web Security Testing Guide Ve
 
 ## References
 
-1. <span id="ref1"></span>[⌃](#rev1) OWASP. (n.d.). *OWASP Web Security Testing Guide*. https://owasp.org/www-project-web-security-testing-guide/
+1. <span id="ref1"></span>[⌃](#rev1) OWASP. (n.d.). *OWASP Web Security Testing Guide*. https://owasp.org/www-project-web-security-testing-guide
 
 ## Sources
 
