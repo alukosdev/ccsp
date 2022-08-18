@@ -68,4 +68,4 @@ label: Domain 2
 
 ## Sources
 
-- (ISC)². (2022, August 1). Certification Exam Outline. [PDF file]. https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CCSP-Exam-Outline-2022.ashx
+- (ISC)². (2022, August 1). *CCSP Certification Exam Outline*. https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CCSP-Exam-Outline-2022.ashx

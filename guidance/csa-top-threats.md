@@ -23,7 +23,7 @@ The following contents reflect the official [Top Threats to Cloud Computing](htt
 
 ## Overview
 
-Top Threats is a working group established by the CSA that aims to provide organizations with an up-to-date, expert-informed understanding of cloud security risks, threats and vulnerabilities in order to make educated risk-management decisions regarding cloud adoption strategies.[[¹]](#ref1)
+<span id="rev1"></span>Top Threats is a working group established by the CSA that aims to provide organizations with an up-to-date, expert-informed understanding of cloud security risks, threats and vulnerabilities in order to make educated risk-management decisions regarding cloud adoption strategies.[[¹]](#ref1)
 
 ## Publications
 
@@ -140,7 +140,7 @@ Any accidental deletion by the CSP, or worse, a physical catastrophe such as a f
 
 ## References
 
-1. CSA. (n.d.). *Top Threats Working Group*. https://cloudsecurityalliance.org/research/working-groups/top-threats<span id="ref1"></span>
+1. <span id="ref1"></span>[⌃](#rev1) CSA. (n.d.). *Top Threats Working Group*. https://cloudsecurityalliance.org/research/working-groups/top-threats
 
 ## Sources
 
