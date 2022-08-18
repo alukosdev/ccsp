@@ -311,7 +311,7 @@ Redirection to unauthorized pages, often in conjunction with a social engineerin
 This occurs in A10:2013.
 !!!
 ==- Missing Functional Level Access Control
-*See [Broken Access Control](#broken-access-control)
+*See [Broken Access Control](#broken-access-control)*.
 ==-
 
 !!!
