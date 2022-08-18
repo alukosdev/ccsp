@@ -41,7 +41,7 @@ Tampering is changing data to mount an attack.
 ==- [R]epudiation
 Repudiation occurs when a user denies performing an action, but the target of the action has no way to prove otherwise.
 ==- [I]nformation disclosure
-Information disclosure threats are exactly as the name implies: the disclosure of information to a user who does not have permission to see it.
+Information disclosure threats are the disclosure of information to a user who does not have permission to see it.
 ==- [D]enial-of-service
 Denial-of-service attacks threaten the ability of valid users to access resources. The resources could be disk space, network connections, or a physical device. Attacks that slow performance to unacceptable levels are also considered denial-of-service attacks.
 ==- [E]levation of privilege
