@@ -8,7 +8,7 @@ This page is currently being revised.
 !!!
 
 :::banner
-The following Top Threats are derived from the official [INSERTHERE](https://linkme) released on **Month Day, Year**.
+The following Top Threats are derived from the official [Top Threats to Cloud Computing](https://cloudsecurityalliance.org/download/artifacts/top-threats-to-cloud-computing-pandemic-eleven) released on **June 6, 2022**.
 :::
 
 # CSA Top Threats
