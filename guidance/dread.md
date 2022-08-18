@@ -64,4 +64,4 @@ Discoverability is the likelihood that a threat will be exploited. Discoverabili
 I need to add formatting for referencing websites here.
 !!!
 
-- https://cloudsecurityalliance.org/download/artifacts/top-threats-to-cloud-computing-pandemic-eleven
+- [Threat modeling for drivers](https://docs.microsoft.com/en-us/windows-hardware/drivers/driversecurity/threat-modeling-for-drivers). *docs.microsoft.com*.
