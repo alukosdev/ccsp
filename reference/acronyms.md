@@ -62,6 +62,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | CSCC | [Cloud Standards Customer Council](/reference/glossary/#cloud-standards-customer-council-cscc) |
 | CSIM | Continual Service Improvement Management |
 | CSP | [Cloud Service Provider](/reference/glossary/#cloud-service-provider-csp) |
+| CSRF | Cross-Site Request Forgery |
 | CST | Cryptographic and Security Testing |
 | CTP | CloudTrust Protocol |
 | DAM | [Database Activity Monitoring](/reference/glossary/#database-activity-monitoring-dam) |
@@ -209,6 +210,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | SPML | [Service Provisioning Markup Language](/reference/glossary/#service-provisioning-markup-language-spml) |
 | SSAE | Statement on Standards for Attestation Engagements |
 | SSO | Single Sign-On |
+| SSRF | Server Side Request Forgery |
 | ST | Security Target |
 | STAR | Security, Trust, and Assurance Registry |
 | TCI | Trusted Cloud Initiative |
@@ -227,3 +229,6 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | WORM | [Write Once, Read Many](/reference/glossary/#write-once-read-many-worm) |
 | WRT | [Work Recovery Time](/reference/glossary/#work-recovery-time-wrt) |
 | WSTG | Web Security Testing Guide |
+| XML | Extensible Markup Language |
+| XSS | Cross-Site Scripting |
+| XXE | XML External Entities |

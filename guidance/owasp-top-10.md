@@ -7,19 +7,69 @@ tags: [owasp]
 This page is currently under active revision.
 !!!
 
-# OWASP Top Ten
+:::banner
+The following contents reflect the official [OWASP Top 10](https://owasp.org/www-project-top-ten) released in **2021**.
+:::
+
+# OWASP Top 10
 
 ## Acronyms, Abbreviations, and Initialisms
 
 | Short Form | Full Form |
 | - | - |
+| CSRF | Cross-Site Request Forgery |
 | OWASP | Open Web Application Security Project |
+| SSRF | Server Side Request Forgery |
+| XML | Extensible Markup Language |
+| XSS | Cross-Site Scripting |
+| XXE | XML External Entities |
 
 ## Overview
 
-To address these vulnerabilities, organizations must have an application risk-management program in place. Implementation of an application risk-management program addresses not only vulnerabilities but also all risks associated with applications.
+The OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications.
 
-## Risks from 2020
+## Web Application Security Risks
+
+### 2021
+
+1. A01:2021 - Broken Access Control
+2. A02:2021 - Cryptographic Failures
+3. A03:2021 - Injection
+4. A04:2021 - Insecure Design
+5. A05:2021 - Security Misconfiguration
+6. A06:2021 - Vulnerable and Outdated Components
+7. A07:2021 - Identification and Authentication Failures
+8. A08:2021 - Software and Data Integrity Failures
+9. A09:2021 - Security Logging and Monitoring Failures
+10. A10:2021 - Server Side Request Forgery (SSRF)
+
+### 2017
+
+1. A1:2017 - Injection
+2. A2:2017 - Broken Authentication
+3. A3:2017 - Sensitive Data Exposure
+4. A4:2017 - XML External Entities (XXE)
+5. A5:2017 - Broken Access Control
+6. A6:2017 - Security Misconfiguration
+7. A7:2017 - Cross-Site Scripting (XSS)
+8. A8:2017 - Insecure Deserialization
+9. A9:2017 - Using Components with Known Vulnerabilities
+10. A10:2017 - Insufficient Logging and Monitoring
+
+### 2013
+
+1. A1:2013 - Injection
+2. A2:2013 - Broken Authentication and Session Management
+3. A3:2013 - Cross-Site Scripting (XSS)
+4. A4:2013 - Insecure Direct Object References
+5. A5:2013 - Security Misconfiguration
+6. A6:2013 - Sensitive Data Exposure
+7. A7:2013 - Missing Functional Level Access Control
+8. A8:2013 - Cross-Site Request Forgery (CSRF)
+9. A9:2013 - Using Components with Known Vulnerabilities
+10. A10:2013 - Unvalidated Redirects and Forwards
+
+### Risks from 2017
 
 1. Injection
 2. Broken Authentication
@@ -198,8 +248,12 @@ Redirection to unauthorized pages, often in conjunction with a social engineerin
 - Don't use redirects/forwards in your applications.
 - Train users to recognize invalidated links.
 
-## References
-
-
+!!!
+To address these vulnerabilities, organizations must have an application risk management program in place. Implementation of an application risk management program addresses not only vulnerabilities but also all risks associated with applications.
+!!!
 
 ## Sources
+
+- OWASP. (2021). *OWASP Top 10*. https://owasp.org/www-project-top-ten
+- OWASP. (2017). *OWASP Top 10*. https://owasp.org/www-pdf-archive/OWASP_Top_10-2017_%28en%29.pdf.pdf
+- OWASP. (2013). *OWASP Top 10*. https://owasp.org/www-pdf-archive/OWASP_Top_10_-_2013.pdf
