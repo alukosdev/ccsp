@@ -292,11 +292,11 @@ Occurs when a logged-on user's browser sends a forged HTTP request along with co
 +++ Prevention
 - Ensure that all HTTP resource requests include a unique, unpredictable token.
 - Include a CAPTCHA code as part of the user resource request process.
++++
 
 !!!
 This occurs in A8:2013.
 !!!
-==-
 ==- Unvalidated Redirects and Forwards
 > Text below this needs to be cited.
 
