@@ -36,6 +36,18 @@ To prioritize the threats, rank each threat from 1 to 10 on all 5 of the DREAD a
 RISK_DREAD = (Damage + Reproducibility + Exploitability + Affected Users + Discoverability) / 5
 ```
 
+==- [D]read
+Test
+==- [R]eproducibility
+Test
+==- [E]xploitability
+Test
+==- [A]ffected Users
+Test
+==- [D]iscoverability
+Test
+==-
+
 ### [D]amage
 
 Assessing the damage that could result from a security attack is obviously a critical part of threat modeling. Damage can include data loss, hardware or media failure, substandard performance, or any similar measure that applies to your device and its operating environment.

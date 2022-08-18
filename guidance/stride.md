@@ -8,7 +8,7 @@ categories: [Threat Models]
 
 | Short Form | Full Form |
 | - | - |
-| STRIDE | Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, Elevation of Privilege |
+| STRIDE | Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, and Elevation of Privilege |
 
 ## Overview
 
@@ -26,8 +26,6 @@ The STRIDE acronym stands for:
 - **I**nformation disclosure
 - **D**enial of service
 - **E**levation of privilege
-
-## Attributes
 
 ### [S]poofing
 
