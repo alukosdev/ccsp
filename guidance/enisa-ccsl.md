@@ -3,6 +3,10 @@ categories: [Cloud Computing Certification Guidance]
 tags: [enisa]
 ---
 
+!!!warning
+This page is currently under active revision.
+!!!
+
 # ENISA CCSL
 
 ## Acronyms, Abbreviations, and Initialisms

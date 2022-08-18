@@ -8,7 +8,7 @@ This page has been revised for the latest version of the exam objectives.
 !!!
 
 :::banner
-The following CIS Controls are derived from the official [CIS Critical Security Controls Version 8](https://www.cisecurity.org/controls/v8) released on **May 18, 2021**.
+The following contents are derived from the official [CIS Critical Security Controls Version 8](https://www.cisecurity.org/controls/v8) released on **May 18, 2021**.
 :::
 
 # CIS Controls

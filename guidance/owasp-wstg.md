@@ -3,6 +3,10 @@ categories: [Application Risk Management Guidance]
 tags: [owasp]
 ---
 
+!!!warning
+This page is currently under active revision.
+!!!
+
 # OWASP WSTG
 
 ## Acronyms, Abbreviations, and Initialisms
