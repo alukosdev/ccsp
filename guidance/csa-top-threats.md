@@ -40,17 +40,17 @@ The threats contained within these reports are specifically related to *cloud co
 
 The latest report highlights the Pandemic Eleven (ranked in order of significance per a survey of over 700 industry experts on security issues in the cloud industry). Also shown are the 2019 survey rankings in parentheses:
 
-1. [Insufficient Identity, Credentials, Access, and Key Management](/guidance/csa-top-threats/insufficient-identity-credentials-access-and-key-management) (4)
-2. Insecure Interfaces and APIs (7)
-3. Misconfiguration and Inadequate Change Control (2)
-4. Lack of Cloud Security Architecture and Strategy (3)
-5. Insecure Software Development
-6. Unsecured Third-Party Resources
-7. System Vulnerabilities (8)
-8. Accidental Cloud Data Disclosure
-9. Misconfiguration and Exploitation of Serverless and Container Workloads
-10. Organized Crime/Hackers/APT (11)
-11. Cloud Storage Data Exfiltration
+1. [Insufficient Identity, Credentials, Access, and Key Management](#insufficient-identity-credentials-access-and-key-management) (4)
+2. [Insecure Interfaces and APIs](#insecure-interfaces-and-apis) (7)
+3. [Misconfiguration and Inadequate Change Control](#misconfiguration-and-inadequate-change-control) (2)
+4. [Lack of Cloud Security Architecture and Strategy](#lack-of-cloud-security-architecture-and-strategy) (3)
+5. [Insecure Software Development](#insecure-software-development)
+6. [Unsecured Third-Party Resources](#unsecured-third-party-resources)
+7. [System Vulnerabilities](#system-vulnerabilities) (8)
+8. [Accidental Cloud Data Disclosure](#accidental-cloud-data-disclosure)
+9. [Misconfiguration and Exploitation of Serverless and Container Workloads](#misconfiguration-and-exploitation-of-serverless-and-container-workloads)
+10. [Organized Crime/Hackers/APT](#organized-crime-hackers-apt) (11)
+11. [Cloud Storage Data Exfiltration](#cloud-storage-data-exfiltration)
 
 ## Security Issues
 
