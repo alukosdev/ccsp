@@ -12,6 +12,7 @@ This page is currently under active revision.
 
 | Short Form | Full Form |
 | - | - |
+| SDLC | Software Development Lifecycle |
 | STRIDE | Spoofing, Tampering, Repudiation, Information Disclosure, Denial-of-Service, and Elevation of Privilege |
 
 ## Overview
@@ -48,7 +49,7 @@ An elevation-of-privilege attack can occur if an unprivileged user gains privile
 ==-
 
 !!!
-STRIDE is particularly useful as part of the software development lifecycle in attempting to identify vulnerabilities throughout the build process. These six concepts help in identifying and classifying threats or vulnerabilities and help form a common language used to describe them.
+STRIDE is particularly useful as part of the software development lifecycle (SDLC) in attempting to identify vulnerabilities throughout the build process. These six concepts help in identifying and classifying threats or vulnerabilities and help form a common language used to describe them.
 !!!
 
 ## Sources
