@@ -27,7 +27,7 @@ Top Threats is a working group established by the CSA that aims to provide organ
 
 ## Publications
 
-The *Top Threats* reports traditionally aim to raise awareness of threats, vulnerabilities, and risks in the cloud.[[²]](#ref2)
+The *Top Threats* reports traditionally aim to raise awareness of threats, vulnerabilities, and risks in the cloud.
 
 !!!
 The security issues contained within these reports are specifically related to *cloud computing*.
@@ -140,9 +140,8 @@ Any accidental deletion by the CSP, or worse, a physical catastrophe such as a f
 
 ## References
 
-1. https://cloudsecurityalliance.org/research/working-groups/top-threats<span id="ref1"></span>
-2. https://cloudsecurityalliance.org/download/artifacts/top-threats-to-cloud-computing-pandemic-eleven<span id="ref2"></span>
+1. CSA. (n.d.). *Top Threats Working Group*. https://cloudsecurityalliance.org/research/working-groups/top-threats<span id="ref1"></span>
 
 ## Sources
 
-- Cloud Security Alliance. (2022, June 6). Top Threats to Cloud Computing [PDF file]. https://cloudsecurityalliance.org/download/artifacts/top-threats-to-cloud-computing-pandemic-eleven
+- CSA. (2022, June 6). *Top Threats to Cloud Computing*. https://cloudsecurityalliance.org/download/artifacts/top-threats-to-cloud-computing-pandemic-eleven

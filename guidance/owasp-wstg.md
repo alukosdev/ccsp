@@ -41,8 +41,8 @@ The WSTG is a comprehensive guide to testing the security of web applications an
 
 ## References
 
-1. https://owasp.org/www-project-web-security-testing-guide<span id="ref1"></span>
+1. OWASP. (n.d.). *OWASP Web Security Testing Guide*. https://owasp.org/www-project-web-security-testing-guide/<span id="ref1"></span>
 
 ## Sources
 
-- Open Web Application Security Project. (2021, May 18). OWASP Web Security Testing Guide Version 4.2 [PDF file]. https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf
+- OWASP. (2021, May 18). *OWASP Web Security Testing Guide Version 4.2*. https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf

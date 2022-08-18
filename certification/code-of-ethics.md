@@ -28,4 +28,4 @@ There are only four mandatory canons in the Code. By necessity, such high-level 
 
 ## Sources
 
-- (ISC)². (2022). (ISC)² Code of Ethics. https://www.isc2.org/Ethics
+- (ISC)². (n.d.). *(ISC)² Code of Ethics*. https://www.isc2.org/Ethics
