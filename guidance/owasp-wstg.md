@@ -7,12 +7,17 @@ tags: [owasp]
 This page is currently under active revision.
 !!!
 
+:::banner
+The following contents reflect the official [OWASP Web Security Testing Guide Version 4,2](https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf) released on **December 3, 2020**.
+:::
+
 # OWASP WSTG
 
 ## Acronyms, Abbreviations, and Initialisms
 
 | Short Form | Full Form |
 | - | - |
+| OWASP | Open Web Application Security Project |
 | WSTG | Web Security Testing Guide |
 
 ## Testing Methods
