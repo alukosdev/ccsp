@@ -36,9 +36,9 @@ The security issues contained within these reports are specifically related to *
 
 | Name | Release Date |
 | - | - |
-| Pandemic Eleven | 2022/06/06 |
-| Egregious Eleven | 2019/08/06 |
-| Treacherous Twelve | 2016/02/29 |
+| [Pandemic Eleven](#pandemic-eleven) | 2022/06/06 |
+| [Egregious Eleven](#egregious-eleven) | 2019/08/06 |
+| [Treacherous Twelve](#treacherous-twelve) | 2016/02/29 |
 | Notorious Nine | 2013/02/24 |
 
 +++ Pandemic Eleven
