@@ -60,7 +60,7 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 - A4:2013 - [Insecure Direct Object References](#insecure-direct-object-references)
 - A5:2013 - [Security Misconfiguration](#security-misconfiguration)
 - A6:2013 - [Sensitive Data Exposure](#sensitive-data-exposure)
-- A7:2013 - Missing Functional Level Access Control
+- A7:2013 - [Missing Functional Level Access Control](#missing-functional-level-access-control)
 - A8:2013 - [Cross-Site Request Forgery (CSRF)](#cross-site-request-forgery-csrf)
 - A9:2013 - [Using Components with Known Vulnerabilities](#using-components-with-known-vulnerabilities)
 - A10:2013 - [Unvalidated Redirects and Forwards](#unvalidated-redirects-and-forwards)
@@ -172,7 +172,7 @@ Occurs when authentication and session management application functions are not 
 
 +++ Impact
 - Allows attackers to compromise passwords, keys, or session tokens
-- Exploitation of other implementation flaws to assume other identities\
+- Exploitation of other implementation flaws to assume other identities
 +++ Prevention
 - Do not use custom authentication schemes.
 - Rotate session IDs after a successful login.
@@ -309,6 +309,8 @@ Redirection to unauthorized pages, often in conjunction with a social engineerin
 !!!
 This occurs in A10:2013.
 !!!
+==- Missing Functional Level Access Control
+*See [Broken Access Control](#broken-access-control)
 ==-
 
 !!!
