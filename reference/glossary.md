@@ -4,10 +4,6 @@ This page is currently under reconstruction.
 
 # Glossary
 
-!!!
-Terms on this page are collapsed by default to allow for flashcard-style studying.
-!!!
-
 ## A
 
 ==- Access Control
