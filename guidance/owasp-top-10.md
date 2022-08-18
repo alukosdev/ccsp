@@ -280,7 +280,6 @@ The URL reveals location of specific data as well as the format for potential ot
 !!!
 This occurs in A4:2013.
 !!!
-==-
 ==- Cross-Site Request Forgery (CSRF)
 > Text below this needs to be cited.
 
