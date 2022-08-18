@@ -44,8 +44,6 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | CC | Common Criteria |
 | CCL | Commerce Control List |
 | CCM | [Cloud Controls Matrix](/reference/glossary/#cloud-controls-matrix-ccm) |
-| CCSL | Cloud Certification Schemes List |
-| CCSM | Cloud Certification Schemes Metaframework |
 | CDN | Content Delivery Network |
 | CI | [Configuration Item](/reference/glossary/#configuration-item-ci) |
 | CICA | Canadian Institute of Chartered Accountants |

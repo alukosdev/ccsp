@@ -174,8 +174,6 @@ The organization might have datacenter assets it owns, but it can't handle the i
 The cloud carrier is the intermediary that provides connectivity and transport of cloud services between the CSPs and the cloud service consumers.
 
 The intermediary that provides connectivity and transport of cloud services between the CSPs and the cloud service consumers.
-==- Cloud Certification Schemes List (CCSL)
-==- Cloud Certification Schemes Metaframework (CCSM)
 ==- Cloud Computing Forensic Science
 The application of scientific principles, technological practices, and derived and proven methods to reconstruct past cloud computing events through identification, collection, preservation, examination, interpretation, and reporting of digital evidence.
 ==- Cloud Controls Matrix (CCM)
