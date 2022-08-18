@@ -20,6 +20,10 @@ The following contents reflect the official [OWASP Web Security Testing Guide Ve
 | OWASP | Open Web Application Security Project |
 | WSTG | Web Security Testing Guide |
 
+## Overview
+
+The WSTG is a comprehensive guide to testing the security of web applications and web services. Created by the collaborative efforts of cybersecurity professionals and dedicated volunteers, the WSTG provides a framework of best practices used by penetration testers and organizations all over the world.[[¹]](#ref1)
+
 ## Testing Methods
 
 1. Information Gathering
@@ -32,4 +36,13 @@ The following contents reflect the official [OWASP Web Security Testing Guide Ve
 8. Testing for Error Handling
 9. Testing for Weak Cryptography
 10. Business Logic Testing
-11. Client Side Testing
+11. Client-side Testing
+12. API Testing
+
+## References
+
+1. https://owasp.org/www-project-web-security-testing-guide<span id="ref1"></span>
+
+## Sources
+
+- Open Web Application Security Project. (2021, May 18). OWASP Web Security Testing Guide Version 4.2 [PDF file]. https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf
