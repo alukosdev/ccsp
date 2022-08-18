@@ -12,8 +12,6 @@ categories: [Threat Models]
 
 ## Overview
 
-### Introduction
-
 DREAD is an acronym that describes five criteria for assessing threats to software.
 
 !!!

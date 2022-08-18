@@ -23,8 +23,6 @@ The following Top Threats are derived from the official [Top Threats to Cloud Co
 
 ## Overview
 
-### Introduction
-
 Top Threats is a working group established by the CSA that aims to provide organizations with an up-to-date, expert-informed understanding of cloud security risks, threats and vulnerabilities in order to make educated risk-management decisions regarding cloud adoption strategies.[[¹]](#ref1)
 
 ## Publications
@@ -58,14 +56,8 @@ The latest report highlights the Pandemic Eleven (ranked in order of significanc
 10. [Organized Crime/Hackers/APT](#organized-crime-hackers-apt) (11)
 11. [Cloud Storage Data Exfiltration](#cloud-storage-data-exfiltration)
 
-## Security Issues
-
 ==- Insufficient Identity, Credentials, Access, and Key Management
-#### Overview
-
 Identity, credential, access management systems include tools and policies that allow organizations to manage, monitor, and secure access to valuable resources. Examples may include electronic files, computer systems, and physical resources, such as server rooms or buildings.
-
-#### Business Impact
 
 - Negative business performance and productivity due to reactive and overly restrictive lockdowns
 - Employee testing fatigue resulting in a lack of compliance and apathy to security

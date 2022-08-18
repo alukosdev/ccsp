@@ -23,8 +23,6 @@ The following CIS Controls are derived from the official [CIS Critical Security 
 
 ## Overview
 
-### Introduction
-
 The CIS Controls (formerly referred to as the Critical Security Controls) are a recommended set of actions for cyber defense that provide specific and actionable ways to stop today's most pervasive and dangerous attacks.[[¹]](#ref1)
 
 #### Implementation Groups
