@@ -22,7 +22,7 @@ DREAD was developed by Microsoft.
 
 ## Categories
 
-The categories are:
+The DREAD acronym stands for:
 
 - **D**amage
 - **R**eproducibility
