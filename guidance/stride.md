@@ -54,4 +54,4 @@ STRIDE is particularly useful as part of the software development lifecycle (SDL
 
 ## Sources
 
-- (2018, June 27). Threat modeling for drivers. microsoft.com. https://docs.microsoft.com/en-us/windows-hardware/drivers/driversecurity/threat-modeling-for-drivers
+- (2022, June 16). Threat modeling for drivers. microsoft.com. https://docs.microsoft.com/en-us/windows-hardware/drivers/driversecurity/threat-modeling-for-drivers
