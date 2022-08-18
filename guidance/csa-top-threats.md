@@ -38,16 +38,16 @@ The security issues contained within these reports are specifically related to *
 | - | - |
 | [Pandemic Eleven](#pandemic-eleven) | 2022/06/06 |
 | [Egregious Eleven](#egregious-eleven) | 2019/08/06 |
-| [Treacherous Twelve](#treacherous-twelve) | 2016/02/29 |
+| Treacherous Twelve | 2016/02/29 |
 | Notorious Nine | 2013/02/24 |
 
 +++ Pandemic Eleven
-The latest report highlights the Pandemic Eleven (ranked in order of significance per a survey of over 700 industry experts on security issues in the cloud industry). Also shown are the 2019 survey rankings in parentheses:
+The latest report highlights the Pandemic Eleven (ranked in order of significance per a survey of over 700 industry experts on security issues in the cloud industry):
 
-1. [Insufficient Identity, Credentials, Access, and Key Management](#insufficient-identity-credentials-access-and-key-management) (4)
-2. [Insecure Interfaces and APIs](#insecure-interfaces-and-apis) (7)
-3. [Misconfiguration and Inadequate Change Control](#misconfiguration-and-inadequate-change-control) (2)
-4. [Lack of Cloud Security Architecture and Strategy](#lack-of-cloud-security-architecture-and-strategy) (3)
+1. [Insufficient Identity, Credentials, Access, and Key Management](#insufficient-identity-credentials-access-and-key-management)
+2. [Insecure Interfaces and APIs](#insecure-interfaces-and-apis)
+3. [Misconfiguration and Inadequate Change Control](#misconfiguration-and-inadequate-change-control)
+4. [Lack of Cloud Security Architecture and Strategy](#lack-of-cloud-security-architecture-and-strategy)
 5. [Insecure Software Development](#insecure-software-development)
 6. [Unsecured Third-Party Resources](#unsecured-third-party-resources)
 7. [System Vulnerabilities](#system-vulnerabilities) (8)
@@ -56,7 +56,17 @@ The latest report highlights the Pandemic Eleven (ranked in order of significanc
 10. [Organized Crime/Hackers/APT](#organized-crime-hackers-apt) (11)
 11. [Cloud Storage Data Exfiltration](#cloud-storage-data-exfiltration)
 +++ Egregious Eleven
-+++ Treacherous Twelve
+1. Data Breaches
+2. [Misconfiguration and Inadequate Change Control](#misconfiguration-and-inadequate-change-control)
+3. [Lack of Cloud Security Architecture and Strategy](#lack-of-cloud-security-architecture-and-strategy)
+4. [Insufficient Identity, Credentials, Access, and Key Management](#insufficient-identity-credentials-access-and-key-management)
+5. Account Hijacking
+6. Insider Thread
+7. [Insecure Interfaces and APIs](#insecure-interfaces-and-apis)
+8. Weak Control Plane
+9. Metastructure and Applistructure Failures
+10. Limited Cloud Usage Visibility
+11. Abuse and Nefarious Use of Cloud Services
 +++
 
 ==- Insufficient Identity, Credentials, Access, and Key Management
