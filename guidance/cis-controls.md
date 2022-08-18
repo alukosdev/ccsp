@@ -4,7 +4,7 @@ tags: [cis]
 ---
 
 !!!success
-This page has been revised for the 2022 version of the CCSP.
+This page has been revised for the latest version of the exam objectives.
 !!!
 
 :::banner
