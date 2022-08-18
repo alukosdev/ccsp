@@ -55,3 +55,9 @@ The schemes that make up the CCSL include:
 The Cloud Certification Schemes Metaframework (CCSM) is an extension of the CCSL designed to provide a high-level mapping of security requirements of the customer to security objectives in existing cloud security schemes. There are 27 CCSM security objectives that the customer can select to cross-reference against.
 
 The CCSM is basically a comparison matrix/table of the CCSL schemes and the CCSM security objectives which displays whether certain framework contains a certain objective (such as risk management). The matrix allows for easy visibility into whether a particular framework contains what a cloud customer may require.
+
+## References
+
+
+
+## Sources

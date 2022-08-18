@@ -197,3 +197,9 @@ Redirection to unauthorized pages, often in conjunction with a social engineerin
 
 - Don't use redirects/forwards in your applications.
 - Train users to recognize invalidated links.
+
+## References
+
+
+
+## Sources
