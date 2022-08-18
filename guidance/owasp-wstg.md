@@ -8,7 +8,7 @@ This page has been revised for the latest version of the exam objectives.
 !!!
 
 :::banner
-The following contents reflect the official [OWASP Web Security Testing Guide Version 4.2](https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf) released on **December 3, 2020**.
+The following contents reflect information collected from the official [OWASP Web Security Testing Guide Version 4.2](https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf){ target="_blank" } released on **December 3, 2020**.
 :::
 
 # OWASP WSTG

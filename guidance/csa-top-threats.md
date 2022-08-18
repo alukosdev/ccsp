@@ -8,7 +8,7 @@ This page is currently under active revision.
 !!!
 
 :::banner
-The following contents reflect the official [Top Threats to Cloud Computing](https://cloudsecurityalliance.org/download/artifacts/top-threats-to-cloud-computing-pandemic-eleven) released on **June 6, 2022**.
+The following contents reflect information collected from the official [Top Threats to Cloud Computing](https://cloudsecurityalliance.org/download/artifacts/top-threats-to-cloud-computing-pandemic-eleven){ target="_blank" } released on **June 6, 2022**.
 :::
 
 # CSA Top Threats
