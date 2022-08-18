@@ -65,57 +65,57 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 10. A10:2013 - Unvalidated Redirects and Forwards
 +++
 
-### 2021
+==- Broken Access Control
+!!!
+This appears in A01:2021, A5:2017, and A2:2013.
+!!!
+==- Cryptographic Failures
+!!!
+This appears in A02:2021.
+!!!
+==- Injection
+!!!
+This appears in A03:2021, A1:2017, and A1:2013.
+!!!
+==- Insecure Design
+!!!
+This appears in A04:2021.
 
-1. A01:2021 - Broken Access Control
-2. A02:2021 - Cryptographic Failures
-3. A03:2021 - Injection
-4. A04:2021 - Insecure Design
-5. A05:2021 - Security Misconfiguration
-6. A06:2021 - Vulnerable and Outdated Components
-7. A07:2021 - Identification and Authentication Failures
-8. A08:2021 - Software and Data Integrity Failures
-9. A09:2021 - Security Logging and Monitoring Failures
-10. A10:2021 - Server Side Request Forgery (SSRF)
+Are A8:2017 and A4:2013 included in this, too?
+!!!
+==- Security Misconfiguration
+!!!
+This appears in A05:2021, A6:2017, and A5:2013.
+!!!
+==- Vulnerable and Outdated Components
+!!!
+This appears in A06:2021.
 
-### 2017
+Are A9:2017 and A9:2013 included in this, too?
+!!!
+==- Identification and Authentication Failures
+!!!
+This is included in A07:2021.
 
-1. A1:2017 - Injection
-2. A2:2017 - Broken Authentication
-3. A3:2017 - Sensitive Data Exposure
-4. A4:2017 - XML External Entities (XXE)
-5. A5:2017 - Broken Access Control
-6. A6:2017 - Security Misconfiguration
-7. A7:2017 - Cross-Site Scripting (XSS)
-8. A8:2017 - Insecure Deserialization
-9. A9:2017 - Using Components with Known Vulnerabilities
-10. A10:2017 - Insufficient Logging and Monitoring
+Are A2:2017 and A2:2013 included in this, too?
+!!!
+==- Software and Data Integrity Failures
+!!!
+This is included in A08:2021.
 
-### 2013
+There must be components from 2017 and 2013 included in this. I should figure out which.
+!!!
+==- Security Logging and Monitoring Failures
+!!!
+This is included in A09:2021 and partially in A10:2017.
+!!!
+==- Server Side Request Forgery (SSRF)
+!!!
+This is included in A10:2021.
 
-1. A1:2013 - Injection
-2. A2:2013 - Broken Authentication and Session Management
-3. A3:2013 - Cross-Site Scripting (XSS)
-4. A4:2013 - Insecure Direct Object References
-5. A5:2013 - Security Misconfiguration
-6. A6:2013 - Sensitive Data Exposure
-7. A7:2013 - Missing Functional Level Access Control
-8. A8:2013 - Cross-Site Request Forgery (CSRF)
-9. A9:2013 - Using Components with Known Vulnerabilities
-10. A10:2013 - Unvalidated Redirects and Forwards
-
-### Risks from 2017
-
-1. Injection
-2. Broken Authentication
-3. Sensitive Data Exposure
-4. XML External Entities (XXE)
-5. Broken Access Control
-6. Security Misconfiguration
-7. Cross-Site Scripting (XSS)
-8. Insecure Deserialization
-9. Using Components with Known Vulnerabilities
-10. Insufficient Logging and Monitoring
+Are other vulnerabilities part of SSRF, such as CSRF, XSS, and XXE?
+!!!
+==-
 
 ### 1. Injection
 
@@ -227,19 +227,6 @@ Components, such as libraries, frameworks, and other software modules, almost al
 It's important to remember that these are known vulnerabilities, not unknown. Developers are willingly using these components knowing that they have vulnerabilities. This could be for a variety of reasons, including the fact that they may not actually be leveraging a "vulnerable" aspect of a particular component in their application.
 
 ### 10. Insufficient Logging and Monitoring
-
-## Risks from 2013
-
-1. Injection
-2. Broken Authentication and Session Management
-3. Cross-Site Scripting (XSS)
-4. **Insecure Direct Object References**
-5. Security Misconfiguration
-6. Sensitive Data Exposure
-7. Missing Function-Level Access Control
-8. **Cross-Site Request Forgery (CSRF)**
-9. Using Components with Known Vulnerabilities
-10. **Invalidated Redirects and Forwards**
 
 ### 4. Insecure Direct Object References
 
