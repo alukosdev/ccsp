@@ -1,5 +1,6 @@
 ---
 categories: [Cloud Computing Certification Guidance]
+icon: zap
 tags: [enisa]
 ---
 

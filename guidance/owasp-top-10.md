@@ -1,5 +1,6 @@
 ---
 categories: [Application Risk Management Guidance]
+icon: zap
 tags: [owasp]
 ---
 
