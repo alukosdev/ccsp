@@ -80,12 +80,8 @@ This was taken from account hijacking.
 
 If attackers gain access to your credentials, they can eavesdrop on your activities and transactions, manipulate data, return falsified information, and redirect your clients to illegitimate sites. Your account or service instances may become a new base for the attacker.
 ==- Insecure Interfaces and APIs
-#### Overview
-
 API usage continues to grow in popularity; securing these interfaces has become paramount. APIs and microservices must be checked for vulnerabilities due to misconfiguration, poor coding practices, a lack of authentication and inappropriate authorization. These oversights can potentially leave the interfaces vulnerable to malicious activity. Common examples include 1. Unauthenticated endpoints; 2. Weak authentication; 3. Excessive permissions; 4. Standard security controls disabled; 5. Unpatched systems; 6. Logical design issues; and 7. 
 Disabled logging or monitoring. Misconfiguration of APIs and other interfaces is a leading cause of incidents and data breaches. These could allow exfiltration, deletion or modification of resources, data adjustments, or service interruptions.
-
-#### Business Impact
 
 The risk of an insecure interface or API varies depending on the usage and data associated with the API, as well as how quickly the vulnerability is detected and mitigated.
 
