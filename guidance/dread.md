@@ -60,8 +60,4 @@ Discoverability is the likelihood that a threat will be exploited. Discoverabili
 
 ## Sources
 
-!!!danger
-I need to add formatting for referencing websites here.
-!!!
-
-- [Threat modeling for drivers](https://docs.microsoft.com/en-us/windows-hardware/drivers/driversecurity/threat-modeling-for-drivers). *docs.microsoft.com*.
+- (2018, June 27). Threat modeling for drivers. microsoft.com. https://docs.microsoft.com/en-us/windows-hardware/drivers/driversecurity/threat-modeling-for-drivers
