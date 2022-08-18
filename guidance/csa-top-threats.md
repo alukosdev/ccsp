@@ -7,12 +7,18 @@ tags: [csa]
 This page is currently being revised.
 !!!
 
+:::banner
+The following Top Threats are derived from the official [INSERTHERE](https://linkme) released on **Month Day, Year**.
+:::
+
 # CSA Top Threats
 
 ## Acronyms, Abbreviations, and Initialisms
 
 | Short Form | Full Form |
 | - | - |
+| API | Application Programming Interface |
+| APT | Advanced Persistent Threat |
 | CSA | Cloud Security Alliance |
 
 ## Overview
@@ -26,7 +32,7 @@ Top Threats is a working group established by the CSA that aims to provide organ
 The *Top Threats* reports traditionally aim to raise awareness of threats, vulnerabilities, and risks in the cloud.[[²]](#ref2)
 
 !!!
-The threats contained within these reports are specifically related to *cloud computing*.
+The security issues contained within these reports are specifically related to *cloud computing*.
 !!!
 
 | Name | Release Date |
@@ -55,34 +61,76 @@ The latest report highlights the Pandemic Eleven (ranked in order of significanc
 ## Security Issues
 
 ==- Insufficient Identity, Credentials, Access, and Key Management
-1
+!!!danger
+This was taken from account hijacking.
+!!!
+
+If attackers gain access to your credentials, they can eavesdrop on your activities and transactions, manipulate data, return falsified information, and redirect your clients to illegitimate sites. Your account or service instances may become a new base for the attacker.
 ==- Insecure Interfaces and APIs
-2
+!!!danger
+The following definition was copied from previous notes. References need to be identified.
+!!!
+
+Cloud computing providers expose a set of software interfaces or APIs that customers use to manage and interact with cloud services. Provisioning, management, orchestration, and monitoring are all performed using these interfaces. The security and availability of general cloud services is dependent on the security of these basic APIs. From authentication and access control to encryption and activity monitoring, these interfaces must be designed to protect against both accidental and malicious attempts to circumvent policy.
 ==- Misconfiguration and Inadequate Change Control
 3
 ==- Lack of Cloud Security Architecture and Strategy
-4
+!!!danger
+Was this formerly shared technology issues? That's what I added below.
+!!!
+
+Whether it's the underlying components that make up this infrastructure that were not designed to offer strong isolation properties for a multitenant architecture (IaaS), redeployable platforms (PaaS), or multicustomer applications (SaaS), the threat of shared vulnerabilities exists in all delivery models. A defense-in-depth strategy is recommended and should include compute, storage, network, application and user security enforcement, and monitoring, whether the service model is IaaS, PaaS, or SaaS. The key is that a single vulnerability or misconfiguration can lead to compromise across an entire provider's cloud.
 ==- Insecure Software Development
 5
 ==- Unsecured Third-Party Resources
-6
+!!!danger
+This was taken from insufficient due diligence.
+!!!
+
+Too many enterprise jump into the cloud without understanding the full scope of the undertaking. Without a complete understanding of the CSP environment, applications, or services being pushed to the cloud, and operational responsibilities such as incident response, encryption, and security monitoring, organizations are taking on unknown levels of risk in ways they may not even comprehend but that are a far departure from their current risks.
 ==- System Vulnerabilities
-7
+!!!danger
+This was taken from denial of service.
+!!!
+
+By forcing the victim cloud service to consume inordinate amounts of finite system resources such as process power, memory, disk space, and network bandwidth, the attacker causes an intolerable system slowdown.
 ==- Accidental Cloud Data Disclosure
-8
+!!!danger
+This was just a piece of data breaches from the T12.
+!!!
+
+If a multitenant cloud service database is not properly designed, a flaw in one client's application can allow an attacker access not only to that client's data but to every other client's data as well.
 ==- Misconfiguration and Exploitation of Serverless and Container Workloads
 9
 ==- Organized Crime/Hackers/APT
-10
+!!!danger
+I believe this was formerly abuse and nefarious use of cloud services.
+!!!
+
+It might take an attacker years to crack an encryption key using his own limited hardware, but using an array of cloud servers, he might be able to crack it in minutes. Alternatively, he might use that array of cloud servers to stage a DDoS attack, serve malware, or distribute pirated software.
 ==- Cloud Storage Data Exfiltration
 11
+==-
+
+==- Malicious Insiders
+!!!danger
+This was #6 on T12.
+!!!
+
+European Organization for Nuclear Research (CERN) defines an insider threat as "A current or former employee, contractor, or other business partner who has or had authorized access to an organization's network, system, or data and intentionally exceeded or misused that access in a manner that negatively affected the confidentiality, integrity, or availability of the organization's information or information systems."
+==- Data Loss
+!!!danger
+This was #8 on T12.
+!!!
+
+Any accidental deletion by the CSP, or worse, a physical catastrophe such as a fire or earthquake, can lead to the permanent loss of customers' data unless the provider takes adequate measures to back it up. Furthermore, the burden of avoiding data loss does not fall solely on the provider's shoulders. If a customer encrypts their data before uploading it to the cloud but loses the encryption key, the data is still lost.
 ==-
 
 ## References
 
 1. https://cloudsecurityalliance.org/research/working-groups/top-threats<span id="ref1"></span>
-2. https://cloudsecurityalliance.org/download/artifacts/top-threats-to-cloud-computing-pandemic-eleven/<span id="ref2"></span>
+2. https://cloudsecurityalliance.org/download/artifacts/top-threats-to-cloud-computing-pandemic-eleven<span id="ref2"></span>
 
 ## Sources
 
-- Cloud Security Alliance. (2022, June 6). Top Threats to Cloud Computing [PDF file]. https://cloudsecurityalliance.org/download/artifacts/top-threats-to-cloud-computing-pandemic-eleven/
+- Cloud Security Alliance. (2022, June 6). Top Threats to Cloud Computing [PDF file]. https://cloudsecurityalliance.org/download/artifacts/top-threats-to-cloud-computing-pandemic-eleven

@@ -14,6 +14,7 @@ Terms on this page are collapsed by default to allow for flashcard-style studyin
 Access control is restricting access to resources.
 ==- Access Management
 Access management is the process of managing access to resources.
+==- Advanced Persistent Threat (APT)
 ==- Affinity
 Grouping of resources.
 ==- Aggregation

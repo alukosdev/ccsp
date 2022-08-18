@@ -20,6 +20,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | APEC | Asia-Pacific Economic Cooperation |
 | API | Application Programming Interface |
 | APP | Australian Privacy Principles |
+| APT | Advanced Persistent Threat |
 | ARO | Annual Rate of Occurrence |
 | ASMP | Application Security Management Process |
 | AST | Application Security Testing |
