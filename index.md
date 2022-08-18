@@ -15,7 +15,7 @@ Information contained within these notes is copyrighted. Sources of copyrighted 
 
 ## Purpose
 
-These notes have been created and shared for the sole purpose of aggregating accurate information from reliable sources in an effort to facilitate studying for the (ISC)² CCSP examination.
+These notes have been created for the sole purpose of aggregating accurate information from reliable sources to facilitate studying for the (ISC)² CCSP examination. These notes are publicly available and open source.
 
 ## Credit
 
