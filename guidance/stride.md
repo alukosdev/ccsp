@@ -12,7 +12,7 @@ This page is currently under active revision.
 
 | Short Form | Full Form |
 | - | - |
-| STRIDE | Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, and Elevation of Privilege |
+| STRIDE | Spoofing, Tampering, Repudiation, Information Disclosure, Denial-of-Service, and Elevation of Privilege |
 
 ## Overview
 
@@ -30,7 +30,7 @@ The STRIDE acronym stands for:
 - **T**ampering
 - **R**epudiation
 - **I**nformation disclosure
-- **D**enial of service
+- **D**enial-of-service
 - **E**levation of privilege
 
 ==- [S]poofing
@@ -39,11 +39,11 @@ Spoofing is using someone else’s credentials to gain access to otherwise inacc
 Tampering is changing data to mount an attack.
 ==- [R]epudiation
 Repudiation occurs when a user denies performing an action, but the target of the action has no way to prove otherwise.
-==- [I]nformation Disclosure
+==- [I]nformation disclosure
 Information disclosure threats are exactly as the name implies: the disclosure of information to a user who does not have permission to see it.
-==- [D]enial of Service
+==- [D]enial-of-service
 Denial-of-service attacks threaten the ability of valid users to access resources. The resources could be disk space, network connections, or a physical device. Attacks that slow performance to unacceptable levels are also considered denial-of-service attacks.
-==- [E]levation of Privilege
+==- [E]levation of privilege
 An elevation-of-privilege attack can occur if an unprivileged user gains privileged status.
 ==-
 
