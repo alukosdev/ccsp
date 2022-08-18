@@ -4,7 +4,7 @@ tags: [enisa]
 ---
 
 !!!danger
-This page is currently under active revision.
+This page is currently under revision.
 !!!
 
 # ENISA CCSL

@@ -3,8 +3,8 @@ categories: [Cloud Computing Risk Management Guidance]
 tags: [csa]
 ---
 
-!!!warning
-This page is currently under active revision.
+!!!danger
+This page is currently under revision.
 !!!
 
 :::banner

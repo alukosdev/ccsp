@@ -3,7 +3,7 @@ icon: home
 label: Welcome
 ---
 
-!!!warning Disclaimer
+!!!warning
 We are actively updating these notes to reflect the latest exam revision released on August 1st, 2022. The content on these pages will change dynamically as these updates occur. Additionally, we are working to migrate references and sources to their individual pages rather than a centralized page. For this reason, some sources may not be properly cited. We appreciate your patience and understanding as we work hard to update everything.
 !!!
 
