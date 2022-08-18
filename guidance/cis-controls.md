@@ -64,8 +64,8 @@ An IG3 enterprise employs security experts that specialize in the different face
 
 ## References
 
-1. <span id="ref1"></span>[⌃](#rev1) SANS. (2021, April 21). *CIS Controls v8*. https://www.sans.org/blog/cis-controls-v8
+1. <span id="ref1"></span>[⌃](#rev1) SANS. (2021, April 21). *CIS Controls v8*. https://www.sans.org/blog/cis-controls-v8{ target="_blank" }
 
 ## Sources
 
-- CIS. (2021, May 18). *CIS Critical Security Controls Version 8*. https://www.cisecurity.org/controls/v8
+- CIS. (2021, May 18). *CIS Critical Security Controls Version 8*. https://www.cisecurity.org/controls/v8{ target="_blank" }
