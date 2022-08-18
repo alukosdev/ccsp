@@ -42,27 +42,27 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 - A09:2021 - [Security Logging and Monitoring Failures](#security-logging-and-monitoring-failures)
 - A10:2021 - [Server Side Request Forgery (SSRF)](#server-side-request-forgery-ssrf)
 +++ 2017
-1. A1:2017 - [Injection](#injection)
-2. A2:2017 - Broken Authentication
-3. A3:2017 - Sensitive Data Exposure
-4. A4:2017 - XML External Entities (XXE)
-5. A5:2017 - Broken Access Control
-6. A6:2017 - [Security Misconfiguration](#security-misconfiguration)
-7. A7:2017 - Cross-Site Scripting (XSS)
-8. A8:2017 - Insecure Deserialization
-9. A9:2017 - Using Components with Known Vulnerabilities
-10. A10:2017 - Insufficient Logging and Monitoring
+- A1:2017 - [Injection](#injection)
+- A2:2017 - Broken Authentication
+- A3:2017 - Sensitive Data Exposure
+- A4:2017 - XML External Entities (XXE)
+- A5:2017 - Broken Access Control
+- A6:2017 - [Security Misconfiguration](#security-misconfiguration)
+- A7:2017 - Cross-Site Scripting (XSS)
+- A8:2017 - Insecure Deserialization
+- A9:2017 - Using Components with Known Vulnerabilities
+- A10:2017 - Insufficient Logging and Monitoring
 +++ 2013
-1. A1:2013 - [Injection](#injection)
-2. A2:2013 - Broken Authentication and Session Management
-3. A3:2013 - Cross-Site Scripting (XSS)
-4. A4:2013 - Insecure Direct Object References
-5. A5:2013 - [Security Misconfiguration](#security-misconfiguration)
-6. A6:2013 - Sensitive Data Exposure
-7. A7:2013 - Missing Functional Level Access Control
-8. A8:2013 - Cross-Site Request Forgery (CSRF)
-9. A9:2013 - Using Components with Known Vulnerabilities
-10. A10:2013 - Unvalidated Redirects and Forwards
+- A1:2013 - [Injection](#injection)
+- A2:2013 - Broken Authentication and Session Management
+- A3:2013 - Cross-Site Scripting (XSS)
+- A4:2013 - Insecure Direct Object References
+- A5:2013 - [Security Misconfiguration](#security-misconfiguration)
+- A6:2013 - Sensitive Data Exposure
+- A7:2013 - Missing Functional Level Access Control
+- A8:2013 - Cross-Site Request Forgery (CSRF)
+- A9:2013 - Using Components with Known Vulnerabilities
+- A10:2013 - Unvalidated Redirects and Forwards
 +++
 
 ==- Broken Access Control
