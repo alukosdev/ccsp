@@ -9,7 +9,7 @@ This page is currently under revision.
 !!!
 
 :::banner
-The following contents reflect information collected from the official [Top Threats to Cloud Computing](https://cloudsecurityalliance.org/download/artifacts/top-threats-to-cloud-computing-pandemic-eleven){ target="_blank" } released on **June 6, 2022**.
+The following contents reflect information collected from the official [](){ target="_blank" } released on **Month, Day Year**.
 :::
 
 # ENISA CCSM
@@ -23,10 +23,6 @@ The following contents reflect information collected from the official [Top Thre
 | ENISA | European Union Agency for Cybersecurity |
 
 ## Overview
-
-!!!
-Together, the CCSL and CCSM aid in selecting a certification scheme for cloud computing customers.
-!!!
 
 The Cloud Certification Schemes Metaframework (CCSM) is an extension of the CCSL designed to provide a high-level mapping of security requirements of the customer to security objectives in existing cloud security schemes. There are 27 CCSM security objectives that the customer can select to cross-reference against.
 
@@ -43,8 +39,10 @@ generate a matrix mapping to different cloud certification schemes, and/or
 generate procurement checklists or questionaires as printouts or spreadsheets.
 Next steps for CCSM might be to include NIS requirements from other countries and to extend the scope of CCSM to include also NIS requirements specific for personal data protection.
 
-## References
-
-
+!!!
+Together, the CCSL and CCSM aid in selecting a certification scheme for cloud computing customers.
+!!!
 
 ## Sources
+
+- ENISA. (2015, January 29). *ENISA Cloud Certification Schemes Metaframework*. https://www.enisa.europa.eu/news/enisa-news/enisa-cloud-certification-schemes-metaframework
