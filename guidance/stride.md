@@ -14,9 +14,7 @@ categories: [Threat Models]
 
 ### Introduction
 
-The acronym STRIDE describes six categories of threats to software.
-
-Using STRIDE as a guide, you can pose detailed questions about the kinds of attacks that could be targeted at a driver. The goal is to determine the types of attacks that could be possible at each vulnerable point in the driver and then to create a scenario for each possible attack.
+STRIDE is an acronym that describes six categories of threats to software.
 
 ## Categories
 

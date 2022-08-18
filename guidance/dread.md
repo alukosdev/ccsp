@@ -30,7 +30,7 @@ The DREAD acronym stands for:
 - **A**ffected users
 - **D**iscoverability
 
-To prioritize the threats to your driver, rank each threat from 1 to 10 on all 5 of the DREAD assessment criteria, and then add the scores and divide by 5 (the number of criteria). The result is a numeric score between 1 and 10 for each threat. High scores indicate serious threats.
+To prioritize the threats, rank each threat from 1 to 10 on all 5 of the DREAD assessment criteria, and then add the scores and divide by 5 (the number of criteria). The result is a numeric score between 1 and 10 for each threat. High scores indicate serious threats.
 
 ```
 RISK_DREAD = (Damage + Reproducibility + Exploitability + Affected Users + Discoverability) / 5
