@@ -40,7 +40,7 @@ The threats contained within these reports are specifically related to *cloud co
 
 The latest report highlights the Pandemic Eleven (ranked in order of significance per a survey of over 700 industry experts on security issues in the cloud industry). Also shown are the 2019 survey rankings in parentheses:
 
-1. Insufficient Identity, Credentials, Access, and Key Management (4)
+1. [Insufficient Identity, Credentials, Access, and Key Management](#si1) (4)
 2. Insecure Interfaces and APIs (7)
 3. Misconfiguration and Inadequate Change Control (2)
 4. Lack of Cloud Security Architecture and Strategy (3)
@@ -54,9 +54,9 @@ The latest report highlights the Pandemic Eleven (ranked in order of significanc
 
 ## Security Issues
 
-==- Insufficient Identity, Credentials, Access, and Key Management
+==- Insufficient Identity, Credentials, Access, and Key Management<span id="si1"></span>
 1
-==- Insecure Interfaces and APIs
+==- Insecure Interfaces and APIs<span id="si2"></span>
 2
 ==- Misconfiguration and Inadequate Change Control
 3
