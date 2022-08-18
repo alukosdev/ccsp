@@ -3,8 +3,8 @@ categories: [Application Risk Management Guidance]
 tags: [owasp]
 ---
 
-!!!warning
-This page is currently under active revision.
+!!!success
+This page has been revised for the latest version of the exam objectives.
 !!!
 
 :::banner
