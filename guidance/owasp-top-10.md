@@ -79,15 +79,38 @@ To address these risks, organizations must have an application risk management p
 | Top 10:2021 | :white_check_mark: | 1 |
 | Top 10:2017 | :white_check_mark: | 5 |
 ==- Broken Authentication
++++ Notable CWEs
+- CWE-256: Plaintext Storage of a Password
+- CWE-308: Use of Single-factor Authentication
+- CWE-523: Unprotected Transport of Credentials
++++ Attack Scenarios
++++ Prevention
++++
+
+| Publication | Appearance | Ranking |
+| - | - | - |
+| Top 10:2021 | :x: | |
+| Top 10:2017 | :white_check_mark: | 2 |
+
 !!!
 This risk was renamed to [Identification and Authentication Failures](#identification-and-authentication-failures) in 2021.
 !!!
 ==- Cross-Site Scripting (XSS)
++++ Notable CWEs
+- CWE-79: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')
++++ Attack Scenarios
++++ Prevention
++++
+
+| Publication | Appearance | Ranking |
+| - | - | - |
+| Top 10:2021 | :x: | |
+| Top 10:2017 | :white_check_mark: | 7 |
+
 !!!
-This risk was merged with [Injection](#injection) in 2021.
+This risk was merged with and renamed to [Injection](#injection) in 2021.
 !!!
 ==- Cryptographic Failures
-
 +++ Notable CWEs
 - CWE-259: Use of Hard-coded Password
 - CWE-327: Broken or Risky Crypto Algorithm
@@ -99,13 +122,12 @@ This risk was merged with [Injection](#injection) in 2021.
 | Publication | Appearance | Ranking |
 | - | - | - |
 | Top 10:2021 | :white_check_mark: | 2 |
-| Top 10:2017 | :white_check_mark: | 3* |
+| Top 10:2017 | :x: | |
 
 !!!
-This risk was renamed from *Sensitive Data Exposure* in 2021.
+This risk was renamed from [Sensitive Data Exposure](#sensitive-data-exposure) in 2021.
 !!!
 ==- Identification and Authentication Failures
-
 +++ Notable CWEs
 - CWE-297: Improper Validation of Certificate with Host Mismatch
 - CWE-287: Improper Authentication
@@ -117,13 +139,12 @@ This risk was renamed from *Sensitive Data Exposure* in 2021.
 | Publication | Appearance | Ranking |
 | - | - | - |
 | Top 10:2021 | :white_check_mark: | 7 |
-| Top 10:2017 | :white_check_mark: | 2* |
+| Top 10:2017 | :x: | |
 
 !!!
-This risk was renamed from *Broken Authentication* in 2021.
+This risk was renamed from [Broken Authentication](#broken-authentication) in 2021.
 !!!
 ==- Injection
-
 +++ Notable CWEs
 - CWE-79: Cross-site Scripting
 - CWE-89: SQL Injection
@@ -148,14 +169,24 @@ To prevent injection attacks:
 - Escaping all user supplied input
 
 !!!
-This risk was merged with *Cross-Site Scripting (XSS)* in 2021.
+This risk was merged with and renamed from [Cross-Site Scripting (XSS)](#cross-site-scripting-xss) in 2021.
 !!!
 ==- Insecure Deserialization
++++ Notable CWEs
+- CWE-502: Deserialization of Untrusted Data
++++ Attack Scenarios
++++ Prevention
++++
+
+| Publication | Appearance | Ranking |
+| - | - | - |
+| Top 10:2021 | :x: | |
+| Top 10:2017 | :white_check_mark: | 8 |
+
 !!!
-This risk was merged with [Software and Data Integrity Failures](#software-and-data-integrity-failures) in 2021.
+This risk was merged with and renamed to [Software and Data Integrity Failures](#software-and-data-integrity-failures) in 2021.
 !!!
 ==- Insecure Design
-
 +++ Notable CWEs
 - CWE-209: Generation of Error Message Containing Sensitive Information
 - CWE-256: Unprotected Storage of Credentials
@@ -168,14 +199,23 @@ This risk was merged with [Software and Data Integrity Failures](#software-and-d
 | Publication | Appearance | Ranking |
 | - | - | - |
 | Top 10:2021 | :white_check_mark: | 4 |
-| Top 10:2017 | :white_check_mark: | 8? |
+| Top 10:2017 | :x: | |
 
 ==- Insufficient Logging and Monitoring
++++ Notable CWEs
++++ Attack Scenarios
++++ Prevention
++++
+
+| Publication | Appearance | Ranking |
+| - | - | - |
+| Top 10:2021 | :x: | |
+| Top 10:2017 | :white_check_mark: | 10 |
+
 !!!
 This risk was renamed to [Security Logging and Monitoring Failures](#security-logging-and-monitoring-failures) in 2021.
 !!!
 ==- Security Logging and Monitoring Failures
-
 +++ Notable CWEs
 - CWE-117: Improper Output Neutralization for Logs
 - CWE-223: Omission of Security-relevant Information
@@ -187,13 +227,12 @@ This risk was renamed to [Security Logging and Monitoring Failures](#security-lo
 | Publication | Appearance | Ranking |
 | - | - | - |
 | Top 10:2021 | :white_check_mark: | 9 |
-| Top 10:2017 | :white_check_mark: | 10* |
+| Top 10:2017 | :x: | |
 
 !!!
-This risk was renamed from *Insufficient Logging and Monitoring* in 2021.
+This risk was renamed from [Insufficient Logging and Monitoring](#insufficient-logging-and-monitoring) in 2021.
 !!!
 ==- Security Misconfiguration
-
 +++ Notable CWEs
 - CWE-16: Configuration
 - CWE-611: Improper Restriction of XML External Entity Reference
@@ -214,11 +253,21 @@ This risk was renamed from *Insufficient Logging and Monitoring* in 2021.
 - Software settings should be kept up to date.
 +++
 ==- Sensitive Data Exposure
++++ Notable CWEs
++++ Attack Scenarios
++++ Prevention
++++
+
+| Publication | Appearance | Ranking |
+| - | - | - |
+| Top 10:2021 | :x: | |
+| Top 10:2017 | :white_check_mark: | 3 |
+| Top 10:2013 | :white_check_mark: | 6 |
+
 !!!
 This risk was renamed to [Cryptographic Failures](#vulnerable-and-outdated-components) in 2021.
 !!!
 ==- Server-Side Request Forgery (SSRF)
-
 <span id="rev1"></span>SSRF flaws occur whenever a web application is fetching a remote resource without validating the user-supplied URL. It allows an attacker to coerce the application to send a crafted request to an unexpected destination, even when protected by a firewall, VPN, or another type of network access control list (ACL).
 
 As modern web applications provide end-users with convenient features, fetching a URL becomes a common scenario. As a result, the incidence of SSRF is increasing. Also, the severity of SSRF is becoming higher due to cloud services and the complexity of architectures.[[¹⁰]](#ref10)
@@ -246,15 +295,28 @@ The data shows a relatively low incidence rate with above average testing covera
 
 | Publication | Appearance | Ranking |
 | - | - | - |
-| Top 10:2021 | :white_check_mark: | 8 |
-| Top 10:2017 | :x: | |
+| Top 10:2021 | :x: | |
+| Top 10:2017 | :white-check-mark: | 8 |
 
+!!!
+This risk was merged with and renamed from [Insecure Deserialization](#insecure-deserialization) in 2021.
+!!!
 ==- Using Components with Known Vulnerabilities
++++ Notable CWEs
+CWE does not cover the limitations of human processes and procedures that cannot be described in terms of a specific technical weakness as resident in the code, architecture, or configuration of the software. Since "known vulnerabilities" can arise from any kind of weakness, it is not possible to map this OWASP category to other CWE entries, since it would effectively require mapping this category to ALL weaknesses.[https://cwe.mitre.org/data/definitions/1035.html]
++++ Attack Scenarios
++++ Prevention
++++
+
+| Publication | Appearance | Ranking |
+| - | - | - |
+| Top 10:2021 | :x: | |
+| Top 10:2017 | :white_check_mark: | 9 |
+
 !!!
 This risk was renamed to [Vulnerable and Outdated Components](#vulnerable-and-outdated-components) in 2021.
 !!!
 ==- Vulnerable and Outdated Components
-
 +++ Notable CWEs
 - CWE-1104: Use of Unmaintained Third-Party Components
 +++ Attack Scenarios
@@ -264,12 +326,23 @@ This risk was renamed to [Vulnerable and Outdated Components](#vulnerable-and-ou
 | Publication | Appearance | Ranking |
 | - | - | - |
 | Top 10:2021 | :white_check_mark: | 6 |
-| Top 10:2017 | :white_check_mark: | 9* |
+| Top 10:2017 | :x: | |
 
 !!!
-This risk was renamed from *Using Components with Known Vulnerabilities* in 2021.
+This risk was renamed from [Using Components with Known Vulnerabilities](#using-components-with-known-vulnerabilities) in 2021.
 !!!
 ==- XML External Entities (XXE)
++++ Notable CWEs
+- CWE-611: Improper Restriction of XML External Entity Reference
++++ Attack Scenarios
++++ Prevention
++++
+
+| Publication | Appearance | Ranking |
+| - | - | - |
+| Top 10:2021 | :x: | |
+| Top 10:2017 | :white_check_mark: | 4 |
+
 !!!
 This risk was merged with [Security Misconfiguration](#security-misconfiguration) in 2021.
 !!!
@@ -278,7 +351,7 @@ This risk was merged with [Security Misconfiguration](#security-misconfiguration
 ## References
 
 1. <span id="ref1"></span>[⌃](#rev1) OWASP. (2021). *A01:2021 - Broken Access Control*. https://owasp.org/Top10/A01_2021-Broken_Access_Control
-10. <span id="ref10"></span>[⌃](#rev10) OWASP. (2021). *A10:2021 - Server-Side Request Forgery (SSRF)*. https://owasp.org/Top10/A10_2021-Server-Side_Request_Forgery_%28SSRF%29/
+10. <span id="ref10"></span>[⌃](#rev10) OWASP. (2021). *A10:2021 - Server-Side Request Forgery (SSRF)*. https://owasp.org/Top10/A10_2021-Server-Side_Request_Forgery_%28SSRF%29
 
 ## Sources
 
