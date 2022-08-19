@@ -69,19 +69,17 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 ## Web Application Security Risks
 
 ==- <span id="rev1"></span>Broken Access Control
-Access control enforces policy such that users cannot act outside of their intended permissions. Failures typically lead to unauthorized information disclosure, modification, or destruction of all data or performing a business function outside the user's limits.
+Access control enforces policy such that users cannot act outside of their intended permissions. Failures typically lead to unauthorized information disclosure, modification, or destruction of all data or performing a business function outside the user's limits.[[¹]](#ref1)
 
 +++ Attack Scenarios
 +++ Prevention
 +++
 
-| Publication | Appearance | Signifiance |
+| Publication | Appearance | Ranking | { class="compact" }
 | - | - |
 | Top 10:2021 | :white_check_mark: | A01 |
 | Top 10:2017 | :x: |  |
-| Top 10:2013 | :no_entry_sign: |  |
-
-[[¹]](#ref1)
+| Top 10:2013 | :x: |  |
 
 > Text below this needs to be cited.
 
