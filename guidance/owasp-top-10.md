@@ -68,18 +68,18 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 
 ## Web Application Security Risks
 
-==- <span id="rev1"></span>Broken Access Control
-Access control enforces policy such that users cannot act outside of their intended permissions. Failures typically lead to unauthorized information disclosure, modification, or destruction of all data or performing a business function outside the user's limits.[[¹]](#ref1)
+==- Broken Access Control
+<span id="rev1"></span>Access control enforces policy such that users cannot act outside of their intended permissions. Failures typically lead to unauthorized information disclosure, modification, or destruction of all data or performing a business function outside the user's limits.[[¹]](#ref1)
 
 +++ Attack Scenarios
 +++ Prevention
 +++
 
-| Publication | Appearance | Ranking | { class="compact" }
+| Publication | Appearance | Ranking |
 | - | - |
-| Top 10:2021 | :white_check_mark: | A01 |
-| Top 10:2017 | :x: |  |
-| Top 10:2013 | :x: |  |
+| Top 10:2021 | :white_check_mark: | 1 |
+| Top 10:2017 | :x: | |
+| Top 10:2013 | :x: | |
 
 > Text below this needs to be cited.
 
@@ -98,18 +98,21 @@ This risk was formerly known as *missing function-level access control*.
 This appears in A01:2021, A5:2017, and A2:2013.
 !!!
 ==- Cryptographic Failures
-
+| Publication | Appearance | Ranking | { class="compact" }
+| - | - |
+| Top 10:2021 | :white_check_mark: | 2 |
+| Top 10:2017 | :x: | |
+| Top 10:2013 | :x: | |
 
 !!!
 This risk was formerly known as *sensitive data exposure*.
 !!!
-
-> Text below this needs to be cited.
-
-!!!
-This appears in A02:2021.
-!!!
 ==- Injection
+| Publication | Appearance | Ranking | { class="compact" }
+| - | - |
+| Top 10:2021 | :white_check_mark: | 3 |
+| Top 10:2017 | :white_check_mark: | 1 |
+| Top 10:2013 | :white_check_mark: | 1 |
 > Text below this needs to be cited.
 
 An injection attack occurs when an attacker sends malicious statements to an application via data input fields. Another way to say this is that untrusted data is sent to an interpreter as part of a command or query. These could be SQL queries, LDAP queries, or other forms of injection.
@@ -119,19 +122,19 @@ To prevent injection attacks:
 - Whitelisting input validation/bounds checking (preventing what types of data can be input)
 - Using prepared statements
 - Escaping all user supplied input
-
-!!!
-This appears in A03:2021, A1:2017, and A1:2013.
-!!!
 ==- Insecure Design
-> Text below this needs to be cited.
 
-!!!
-This appears in A04:2021.
-
-Are A8:2017 and A4:2013 included in this, too?
-!!!
+| Publication | Appearance | Ranking | { class="compact" }
+| - | - |
+| Top 10:2021 | :white_check_mark: | 4 |
+| Top 10:2017 | :white_check_mark: | 8? |
+| Top 10:2013 | :white_check_mark: | 4? |
 ==- Security Misconfiguration
+| Publication | Appearance | Ranking | { class="compact" }
+| - | - |
+| Top 10:2021 | :white_check_mark: | 5 |
+| Top 10:2017 | :white_check_mark: | 6 |
+| Top 10:2013 | :white_check_mark: | 5 |
 > Text below this needs to be cited.
 
 +++ Prevention
@@ -139,27 +142,24 @@ Are A8:2017 and A4:2013 included in this, too?
 - Software should be patched regularly to keep it up to date.
 - Software settings should be kept up to date.
 +++
-
-!!!
-This appears in A05:2021, A6:2017, and A5:2013.
-!!!
 ==- Vulnerable and Outdated Components
-> Text below this needs to be cited.
-
-!!!
-This appears in A06:2021.
-
-Are A9:2017 and A9:2013 included in this, too?
-!!!
+| Publication | Appearance | Ranking | { class="compact" }
+| - | - |
+| Top 10:2021 | :white_check_mark: | 6 |
+| Top 10:2017 | :white_check_mark: | 9? |
+| Top 10:2013 | :white_check_mark: | 9? |
 ==- Identification and Authentication Failures
-> Text below this needs to be cited.
-
-!!!
-This is included in A07:2021.
-
-Are A2:2017 and A2:2013 included in this, too?
-!!!
+| Publication | Appearance | Ranking | { class="compact" }
+| - | - |
+| Top 10:2021 | :white_check_mark: | 7 |
+| Top 10:2017 | :white_check_mark: | 2? |
+| Top 10:2013 | :white_check_mark: | 2? |
 ==- Software and Data Integrity Failures
+| Publication | Appearance | Ranking | { class="compact" }
+| - | - |
+| Top 10:2021 | :white_check_mark: | 8 |
+| Top 10:2017 | :x: | |
+| Top 10:2013 | :x: | |
 > Text below this needs to be cited.
 
 !!!
@@ -168,24 +168,28 @@ This is included in A08:2021.
 There must be components from 2017 and 2013 included in this. I should figure out which.
 !!!
 ==- Security Logging and Monitoring Failures
-> Text below this needs to be cited.
-
-!!!
-This is included in A09:2021 and partially in A10:2017.
-!!!
+| Publication | Appearance | Ranking | { class="compact" }
+| - | - |
+| Top 10:2021 | :white_check_mark: | 9 |
+| Top 10:2017 | :x: | |
+| Top 10:2013 | :x: | |
 ==- Server Side Request Forgery (SSRF)
-> Text below this needs to be cited.
+| Publication | Appearance | Ranking | { class="compact" }
+| - | - |
+| Top 10:2021 | :white_check_mark: | 10 |
+| Top 10:2017 | :x: | |
+| Top 10:2013 | :x: | |
 
 !!!
-This is included in A10:2021.
-
 Are other vulnerabilities part of SSRF, such as CSRF, XSS, and XXE?
 !!!
-==-
-
----
-
 ==- Broken Authentication
+| Publication | Appearance | Ranking | { class="compact" }
+| - | - |
+| Top 10:2021 | :x: | |
+| Top 10:2017 | :white_check_mark: | 2 |
+| Top 10:2013 | :white_check_mark: | 2? |
+
 > Text below this needs to be cited.
 
 Occurs when authentication and session management application functions are not implemented correctly.
@@ -199,11 +203,13 @@ Occurs when authentication and session management application functions are not 
 - Do not allow simple passwords to be used.
 - Ensure the connection is encrypted so credentials aren't exposed.
 +++
-
-!!!
-This occurs in A2:2017 and partially in A2:2013.
-!!!
 ==- Sensitive Data Exposure
+| Publication | Appearance | Ranking | { class="compact" }
+| - | - |
+| Top 10:2021 | :x: | |
+| Top 10:2017 | :white_check_mark: | 3 |
+| Top 10:2013 | :white_check_mark: | 6 |
+
 > Text below this needs to be cited.
 
 Commonly allowed when web applications do not properly protect sensitive data, such as credit cards, tax IDs, and authentication credentials. Attackers may steal or modify poorly protected data to initiate credit card fraud, identity theft, or other felonies. Even with proper encryption methods put in place, sensitive data is still at risk if the client's browser is insecure.
@@ -214,21 +220,23 @@ Commonly allowed when web applications do not properly protect sensitive data, s
 - Encryption (at rest or in transit)
 - Perform checks against client browsers to ensure they meet security standards. If the browser doesn't meet the security standards, it can be prevented access to the web application.
 +++
-
-!!!
-This occurs in A3:2017 and A6:2013.
-!!!
 ==- XML External Entities (XXE)
+| Publication | Appearance | Ranking | { class="compact" }
+| - | - |
+| Top 10:2021 | :x: | |
+| Top 10:2017 | :white_check_mark: | 4 |
+| Top 10:2013 | :x: | |
 > Text below this needs to be cited.
 
 XML external entities refer to references, such as the application directory structure or the configuration of the hosting system, that should be removed from the code, but are left in by accident. These items can provide information to an attacker that may allow them to circumvent authentication measures to gain access.
 
 Attackers can exploit vulnerable XML processors if they can upload XML or include hostile content in an XML document, exploiting vulnerable code, dependencies, or integrations.
-
-!!!
-This occurs in A4:2017.
-!!!
 ==- Cross-Site Scripting (XSS)
+| Publication | Appearance | Ranking | { class="compact" }
+| - | - |
+| Top 10:2021 | :x: | |
+| Top 10:2017 | :white_check_mark: | 7 |
+| Top 10:2013 | :white_check_mark: | 3 |
 > Text below this needs to be cited.
 
 Occurs when an application receives untrusted data and then sends it to a web browser without proper validation.
@@ -244,22 +252,27 @@ Occurs when an application receives untrusted data and then sends it to a web br
 +++
 
 This is not a threat to the back-end database, but a threat to the client.
-
-!!!
-This occurs in A7:2017 and A3:2013.
-!!!
 ==- Insecure Deserialization
+| Publication | Appearance | Ranking | { class="compact" }
+| - | - |
+| Top 10:2021 | :x: | |
+| Top 10:2017 | :white_check_mark: | 8 |
+| Top 10:2013 | :x: | |
 > Text below this needs to be cited.
 
 Serialization is the process of turning some object into a data format that can be restored later. People often serialize objects in order to save them to storage, or to send as part of communications.
 
 Deserialization is the reverse of serialization; taking data structured from some format and rebuilding it into an object. The features of these native deserialization mechanisms can be repurposed for malicious effect when operating on untrusted data. Attacks against deserializers have been found to allow DoS, access control, and remote code execution attacks.
 
+!!!
 Today the most popular data format for serializing data is JSON. Before that, it was XML.
 !!!
-This occurs in A8:2017.
-!!!
 ==- Using Components with Known Vulnerabilities
+| Publication | Appearance | Ranking | { class="compact" }
+| - | - |
+| Top 10:2021 | :x: | |
+| Top 10:2017 | :white_check_mark: | 9 |
+| Top 10:2013 | :white_check_mark: | 9 |
 Components, such as libraries, frameworks, and other software modules, almost always run with full privileges.
 
 +++ Impact
@@ -270,17 +283,18 @@ Components, such as libraries, frameworks, and other software modules, almost al
 +++
 
 It's important to remember that these are known vulnerabilities, not unknown. Developers are willingly using these components knowing that they have vulnerabilities. This could be for a variety of reasons, including the fact that they may not actually be leveraging a "vulnerable" aspect of a particular component in their application.
-
-!!!
-This occurs in A9:2017 and A9:2013.
-!!!
 ==- Insufficient Logging and Monitoring
-> Text below this needs to be cited.
-
-!!!
-This occurs in A10:2017.
-!!!
+| Publication | Appearance | Ranking | { class="compact" }
+| - | - |
+| Top 10:2021 | :x: | |
+| Top 10:2017 | :white_check_mark: | 10 |
+| Top 10:2013 | :x: | |
 ==- Insecure Direct Object References
+| Publication | Appearance | Ranking | { class="compact" }
+| - | - |
+| Top 10:2021 | :x: | |
+| Top 10:2017 | :x: | |
+| Top 10:2013 | :white_check_mark: | 4 |
 > Text below this needs to be cited.
 
 When a developer allows a reference to an internal implementation object to be exposed. The exposure could be a file, directory, or database key. An example could be the following URL:
@@ -296,11 +310,12 @@ The URL reveals location of specific data as well as the format for potential ot
 - Check access each time a direct object reference is called by an untrusted source.
 - Run a process as both user and privileged user, compare results, and determine similarity; this will help you determine if there are functions that regular users should not have access to and thereby demonstrate that you are missing necessary controls.
 +++
-
-!!!
-This occurs in A4:2013.
-!!!
 ==- Cross-Site Request Forgery (CSRF)
+| Publication | Appearance | Ranking | { class="compact" }
+| - | - |
+| Top 10:2021 | :x: | |
+| Top 10:2017 | :x: | |
+| Top 10:2013 | :white_check_mark: | 8 |
 > Text below this needs to be cited.
 
 Occurs when a logged-on user's browser sends a forged HTTP request along with cookies and other authentication information, forcing the victim's browser to generate a request that the application thinks is a legitimate request from the user.
@@ -313,11 +328,12 @@ Occurs when a logged-on user's browser sends a forged HTTP request along with co
 - Ensure that all HTTP resource requests include a unique, unpredictable token.
 - Include a CAPTCHA code as part of the user resource request process.
 +++
-
-!!!
-This occurs in A8:2013.
-!!!
 ==- Unvalidated Redirects and Forwards
+| Publication | Appearance | Ranking | { class="compact" }
+| - | - |
+| Top 10:2021 | :x: | |
+| Top 10:2017 | :x: | |
+| Top 10:2013 | :white_check_mark: | 10 |
 > Text below this needs to be cited.
 
 Redirection to unauthorized pages, often in conjunction with a social engineering/phishing aspect.
@@ -326,10 +342,6 @@ Redirection to unauthorized pages, often in conjunction with a social engineerin
 - Don't use redirects/forwards in your applications.
 - Train users to recognize invalidated links.
 +++
-
-!!!
-This occurs in A10:2013.
-!!!
 ==- Missing Functional Level Access Control
 *See [Broken Access Control](#broken-access-control)*.
 ==-
