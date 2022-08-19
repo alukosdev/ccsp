@@ -80,11 +80,11 @@ To address these risks, organizations must have an application risk management p
 | Top 10:2017 | :white_check_mark: | 5 |
 ==- Broken Authentication
 !!!
-In 2021, this risk was renamed to [Identification and Authentication Failures](#identification-and-authentication-failures).
+This risk was *renamed* to [Identification and Authentication Failures](#identification-and-authentication-failures) in 2021.
 !!!
 ==- Cross-Site Scripting (XSS)
 !!!
-In 2021, this risk was merged with [Injection](#injection).
+This risk was *merged* with [Injection](#injection) in 2021.
 !!!
 ==- Cryptographic Failures
 
@@ -148,28 +148,7 @@ To prevent injection attacks:
 - Escaping all user supplied input
 ==- Insecure Deserialization
 !!!
-In 2021, this risk was merged with and renamed to [Software and Data Integrity Failures](#software-and-data-integrity-failures).
-!!!
-
-+++ Notable CWEs
-- CWE-502: Deserialization of Untrusted Data
-+++ Attack Scenarios
-+++ Prevention
-+++
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :x: | |
-| Top 10:2017 | :white_check_mark: | 8 |
-
-> Text below this needs to be cited.
-
-Serialization is the process of turning some object into a data format that can be restored later. People often serialize objects in order to save them to storage, or to send as part of communications.
-
-Deserialization is the reverse of serialization; taking data structured from some format and rebuilding it into an object. The features of these native deserialization mechanisms can be repurposed for malicious effect when operating on untrusted data. Attacks against deserializers have been found to allow DoS, access control, and remote code execution attacks.
-
-!!!
-Today the most popular data format for serializing data is JSON. Before that, it was XML.
+This risk was *merged* with [Software and Data Integrity Failures](#software-and-data-integrity-failures) in 2021.
 !!!
 ==- Insecure Design
 
@@ -189,7 +168,7 @@ Today the most popular data format for serializing data is JSON. Before that, it
 
 ==- Insufficient Logging and Monitoring
 !!!
-In 2021, this risk was renamed to [Security Logging and Monitoring Failures](#security-logging-and-monitoring-failures).
+This risk was *renamed* to [Security Logging and Monitoring Failures](#security-logging-and-monitoring-failures) in 2021.
 !!!
 ==- Security Logging and Monitoring Failures
 
@@ -232,7 +211,7 @@ This risk was formerly known as *Insufficient Logging and Monitoring*.
 +++
 ==- Sensitive Data Exposure
 !!!
-In 2021, this was renamed to [Cryptographic Failures](#vulnerable-and-outdated-components).
+This risk was *renamed* to [Cryptographic Failures](#vulnerable-and-outdated-components) in 2021.
 !!!
 ==- Server-Side Request Forgery (SSRF)
 
@@ -268,30 +247,8 @@ The data shows a relatively low incidence rate with above average testing covera
 
 ==- Using Components with Known Vulnerabilities
 !!!
-In 2021, this was renamed to [Vulnerable and Outdated Components](#vulnerable-and-outdated-components).
+This risk was *renamed* to [Vulnerable and Outdated Components](#vulnerable-and-outdated-components) in 2021.
 !!!
-
-+++ Notable CWEs
-CWE does not cover the limitations of human processes and procedures that cannot be described in terms of a specific technical weakness as resident in the code, architecture, or configuration of the software. Since "known vulnerabilities" can arise from any kind of weakness, it is not possible to map this OWASP category to other CWE entries, since it would effectively require mapping this category to ALL weaknesses.[https://cwe.mitre.org/data/definitions/1035.html]
-+++ Attack Scenarios
-+++ Prevention
-+++
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :x: | |
-| Top 10:2017 | :white_check_mark: | 9 |
-
-Components, such as libraries, frameworks, and other software modules, almost always run with full privileges.
-
-+++ Impact
-- This could allow an attack to undermine application defenses and launch unpredictable attacks.
-- Data loss or server takeover.
-+++ Prevention
-- Applications using components with known vulnerabilities should be quarantined or, at an absolute minimum, have special monitoring to prevent application attacks.
-+++
-
-It's important to remember that these are known vulnerabilities, not unknown. Developers are willingly using these components knowing that they have vulnerabilities. This could be for a variety of reasons, including the fact that they may not actually be leveraging a "vulnerable" aspect of a particular component in their application.
 ==- Vulnerable and Outdated Components
 
 +++ Notable CWEs
@@ -306,11 +263,11 @@ It's important to remember that these are known vulnerabilities, not unknown. De
 | Top 10:2017 | :white_check_mark: | 9* |
 
 !!!
-This was forml was known as *Using Components with Known Vulnerabilities*.
+This was formlerly known as *Using Components with Known Vulnerabilities*.
 !!!
 ==- XML External Entities (XXE)
 !!!
-In 2021, this risk was merged with [Security Minconfiguration](#security-misconfiguration).
+This risk was *merged* with [Security Miconfiguration](#security-misconfiguration) in 2021.
 !!!
 
 +++ Notable CWEs
