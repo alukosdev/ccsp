@@ -276,7 +276,7 @@ There may be authentication weaknesses if the application:
 !!!
 This risk was renamed from [Broken Authentication](#broken-authentication) in 2021.
 !!!
-==- :zap: Injection
+==- :white_check_mark: Injection
 Notable Common Weakness Enumerations (CWEs) include:
 
 - CWE-79: Cross-site Scripting
@@ -356,7 +356,7 @@ Notable Common Weakness Enumerations (CWEs) include:
 !!!
 This risk was merged with and renamed to [Software and Data Integrity Failures](#software-and-data-integrity-failures) in 2021.
 !!!
-==- Insecure Design
+==- :zap: Insecure Design
 Notable Common Weakness Enumerations (CWEs) include:
 
 - CWE-209: Generation of Error Message Containing Sensitive Information
@@ -374,7 +374,7 @@ Notable Common Weakness Enumerations (CWEs) include:
 | Top 10:2021 | :white_check_mark: | 4 |
 | Top 10:2017 | :x: | |
 
-==- Insufficient Logging and Monitoring
+==- :x: Insufficient Logging and Monitoring
 
 Notable Common Weakness Enumerations (CWEs) include:
 
@@ -391,7 +391,7 @@ Notable Common Weakness Enumerations (CWEs) include:
 !!!
 This risk was renamed to [Security Logging and Monitoring Failures](#security-logging-and-monitoring-failures) in 2021.
 !!!
-==- Security Logging and Monitoring Failures
+==- :zap: Security Logging and Monitoring Failures
 Notable Common Weakness Enumerations (CWEs) include:
 
 - CWE-117: Improper Output Neutralization for Logs
@@ -411,7 +411,7 @@ Notable Common Weakness Enumerations (CWEs) include:
 !!!
 This risk was renamed from [Insufficient Logging and Monitoring](#insufficient-logging-and-monitoring) in 2021.
 !!!
-==- Security Misconfiguration
+==- :zap: Security Misconfiguration
 Notable Common Weakness Enumerations (CWEs) include:
 
 - CWE-16: Configuration
@@ -427,7 +427,7 @@ Notable Common Weakness Enumerations (CWEs) include:
 | Top 10:2021 | :white_check_mark: | 5 |
 | Top 10:2017 | :white_check_mark: | 6 |
 
-==- Sensitive Data Exposure
+==- :x: Sensitive Data Exposure
 Notable Common Weakness Enumerations (CWEs) include:
 
 +++ Attack Scenarios
@@ -443,7 +443,7 @@ Notable Common Weakness Enumerations (CWEs) include:
 !!!
 This risk was renamed to [Cryptographic Failures](#vulnerable-and-outdated-components) in 2021.
 !!!
-==- Server-Side Request Forgery (SSRF)
+==- :zap: Server-Side Request Forgery (SSRF)
 SSRF flaws occur whenever a web application is fetching a remote resource without validating the user-supplied URL. It allows an attacker to coerce the application to send a crafted request to an unexpected destination, even when protected by a firewall, VPN, or another type of network access control list (ACL).
 
 As modern web applications provide end-users with convenient features, fetching a URL becomes a common scenario. As a result, the incidence of SSRF is increasing. Also, the severity of SSRF is becoming higher due to cloud services and the complexity of architectures.
@@ -462,7 +462,7 @@ Notable Common Weakness Enumerations (CWEs) include:
 | Top 10:2021 | :white_check_mark: | 10 |
 | Top 10:2017 | :x: | |
 
-==- Software and Data Integrity Failures
+==- :zap: Software and Data Integrity Failures
 Notable Common Weakness Enumerations (CWEs) include:
 
 - CWE-829: Inclusion of Functionality from Untrusted Control Sphere
@@ -482,7 +482,7 @@ Notable Common Weakness Enumerations (CWEs) include:
 !!!
 This risk was merged with and renamed from [Insecure Deserialization](#insecure-deserialization) in 2021.
 !!!
-==- Using Components with Known Vulnerabilities
+==- :x: Using Components with Known Vulnerabilities
 Notable Common Weakness Enumerations (CWEs) include:
 
 - CWE does not cover the limitations of human processes and procedures that cannot be described in terms of a specific technical weakness as resident in the code, architecture, or configuration of the software. Since "known vulnerabilities" can arise from any kind of weakness, it is not possible to map this OWASP category to other CWE entries, since it would effectively require mapping this category to ALL weaknesses.[https://cwe.mitre.org/data/definitions/1035.html]
@@ -500,7 +500,7 @@ Notable Common Weakness Enumerations (CWEs) include:
 !!!
 This risk was renamed to [Vulnerable and Outdated Components](#vulnerable-and-outdated-components) in 2021.
 !!!
-==- Vulnerable and Outdated Components
+==- :zap: Vulnerable and Outdated Components
 Notable Common Weakness Enumerations (CWEs) include:
 
 - CWE-1104: Use of Unmaintained Third-Party Components
@@ -518,7 +518,7 @@ Notable Common Weakness Enumerations (CWEs) include:
 !!!
 This risk was renamed from [Using Components with Known Vulnerabilities](#using-components-with-known-vulnerabilities) in 2021.
 !!!
-==- XML External Entities (XXE)
+==- :x: XML External Entities (XXE)
 Notable Common Weakness Enumerations (CWEs) include:
 
 - CWE-611: Improper Restriction of XML External Entity Reference
