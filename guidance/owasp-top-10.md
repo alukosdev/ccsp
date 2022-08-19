@@ -20,8 +20,9 @@ The following contents reflect information collected from the official [OWASP To
 | - | - |
 | ACL | Access Control List |
 | CSRF | Cross-Site Request Forgery |
+| CWE | Common Weakness Enumeration |
 | OWASP | Open Web Application Security Project |
-| SSRF | Server Side Request Forgery |
+| SSRF | Server-Side Request Forgery |
 | XML | Extensible Markup Language |
 | XSS | Cross-Site Scripting |
 | XXE | XML External Entities |
@@ -496,7 +497,7 @@ Attackers can exploit vulnerable XML processors if they can upload XML or includ
 ## References
 
 1. <span id="ref1"></span>[⌃](#rev1) OWASP. (2021). *A01:2021 - Broken Access Control*. https://owasp.org/Top10/A01_2021-Broken_Access_Control
-10. <span id="ref1"></span>[⌃](#rev10) OWASP. (2021). *A10:2021 - Server-Side Request Forgery (SSRF)*. https://owasp.org/Top10/A10_2021-Server-Side_Request_Forgery_%28SSRF%29/
+10. <span id="ref10"></span>[⌃](#rev10) OWASP. (2021). *A10:2021 - Server-Side Request Forgery (SSRF)*. https://owasp.org/Top10/A10_2021-Server-Side_Request_Forgery_%28SSRF%29/
 
 ## Sources
 
