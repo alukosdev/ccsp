@@ -68,6 +68,10 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 
 ## Web Application Security Risks
 
+!!!
+To address these risks, organizations must have an application risk management program in place. Implementation of an application risk management program addresses not only vulnerabilities but also all risks associated with applications.
+!!!
+
 ==- Broken Access Control
 <span id="rev1"></span>Access control enforces policy such that users cannot act outside of their intended permissions. Failures typically lead to unauthorized information disclosure, modification, or destruction of all data or performing a business function outside the user's limits.[[¹]](#ref1)
 
@@ -368,10 +372,6 @@ Redirection to unauthorized pages, often in conjunction with a social engineerin
 ==- Missing Functional Level Access Control
 *See [Broken Access Control](#broken-access-control)*.
 ==-
-
-!!!
-To address these vulnerabilities, organizations must have an application risk management program in place. Implementation of an application risk management program addresses not only vulnerabilities but also all risks associated with applications.
-!!!
 
 ## References
 
