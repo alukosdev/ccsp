@@ -373,7 +373,7 @@ Attackers can exploit vulnerable XML processors if they can upload XML or includ
 
 ## References
 
-1. <span id="ref1"></span>[⌃](#rev1) OWASP. (2021). *A01:2021 - Broken Access Control*. https://owasp.org/Top10/A01_2021-Broken_Access_Control/
+1. <span id="ref1"></span>[⌃](#rev1) OWASP. (2021). *A01:2021 - Broken Access Control*. https://owasp.org/Top10/A01_2021-Broken_Access_Control
 
 ## Sources
 
