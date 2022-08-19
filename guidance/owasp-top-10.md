@@ -158,16 +158,6 @@ This risk was renamed from [Broken Authentication](#broken-authentication) in 20
 | Top 10:2021 | :white_check_mark: | 3 |
 | Top 10:2017 | :white_check_mark: | 1 |
 
-> Text below this needs to be cited.
-
-An injection attack occurs when an attacker sends malicious statements to an application via data input fields. Another way to say this is that untrusted data is sent to an interpreter as part of a command or query. These could be SQL queries, LDAP queries, or other forms of injection.
-
-To prevent injection attacks:
-
-- Whitelisting input validation/bounds checking (preventing what types of data can be input)
-- Using prepared statements
-- Escaping all user supplied input
-
 !!!
 This risk was merged with and renamed from [Cross-Site Scripting (XSS)](#cross-site-scripting-xss) in 2021.
 !!!
@@ -245,13 +235,6 @@ This risk was renamed from [Insufficient Logging and Monitoring](#insufficient-l
 | Top 10:2021 | :white_check_mark: | 5 |
 | Top 10:2017 | :white_check_mark: | 6 |
 
-> Text below this needs to be cited.
-
-+++ Prevention
-- Secure settings should be defined, implemented, and maintained, as defaults are well known to attackers.
-- Software should be patched regularly to keep it up to date.
-- Software settings should be kept up to date.
-+++
 ==- Sensitive Data Exposure
 +++ Notable CWEs
 +++ Attack Scenarios
