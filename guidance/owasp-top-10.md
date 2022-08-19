@@ -262,7 +262,6 @@ This risk was renamed from [Insufficient Logging and Monitoring](#insufficient-l
 | - | - | - |
 | Top 10:2021 | :x: | |
 | Top 10:2017 | :white_check_mark: | 3 |
-| Top 10:2013 | :white_check_mark: | 6 |
 
 !!!
 This risk was renamed to [Cryptographic Failures](#vulnerable-and-outdated-components) in 2021.
@@ -296,7 +295,7 @@ The data shows a relatively low incidence rate with above average testing covera
 | Publication | Appearance | Ranking |
 | - | - | - |
 | Top 10:2021 | :x: | |
-| Top 10:2017 | :white-check-mark: | 8 |
+| Top 10:2017 | :white_check_mark: | 8 |
 
 !!!
 This risk was merged with and renamed from [Insecure Deserialization](#insecure-deserialization) in 2021.
