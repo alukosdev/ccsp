@@ -4,7 +4,7 @@ label: Welcome
 ---
 
 :::banner
-This is a community project and we intend on keeping it that way. If you are interested in contributing, please consider [donating](https://patreon.com/alukos){ target="_blank" } or becoming an editor. ❤️
+This is a community project and we intend on keeping it that way. If you are interested in contributing to the project, please consider [donating](https://patreon.com/alukos){ target="_blank" } or becoming an editor. ❤️
 :::
 
 !!!warning
