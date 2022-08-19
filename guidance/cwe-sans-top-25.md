@@ -1,4 +1,5 @@
 ---
+categories: [Cloud Computing Risk Management Guidance]
 icon: zap
 label: CWE/SANS Top 25
 ---
