@@ -5,7 +5,7 @@ tags: [csa]
 ---
 
 !!!danger
-This page is currently under revision...
+This page is currently under revision.
 !!!
 
 :::banner
@@ -67,6 +67,8 @@ The security issues contained within these reports are specifically related to *
 10. [Limited Cloud Usage Visibility](#limited-cloud-usage-visibility)
 11. [Abuse and Nefarious Use of Cloud Services](#abuse-and-nefarious-use-of-cloud-services)
 +++
+
+## Cloud Security Issues
 
 ==- Insufficient Identity, Credentials, Access, and Key Management
 > Text below this needs to be cited.

@@ -29,7 +29,7 @@ The following contents reflect information collected from the official [OWASP To
 
 The OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications.
 
-## Web Application Security Risks
+## Publications
 
 +++ Top 10:2021
 - A01:2021 - [Broken Access Control](#broken-access-control)
@@ -66,12 +66,16 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 - A10:2013 - [Unvalidated Redirects and Forwards](#unvalidated-redirects-and-forwards)
 +++
 
+## Web Application Security Risks
+
 ==- <span id="rev1"></span>Broken Access Control[[¹]](#ref1)
 Access control enforces policy such that users cannot act outside of their intended permissions. Failures typically lead to unauthorized information disclosure, modification, or destruction of all data or performing a business function outside the user's limits.
 
 +++ Attack Scenarios
 +++ Prevention
 +++
+
+| 
 
 > Text below this needs to be cited.
 
