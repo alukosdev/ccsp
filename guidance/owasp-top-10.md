@@ -66,6 +66,12 @@ To address these risks, organizations must have an application risk management p
 ==- Broken Access Control
 Access control enforces policy such that users cannot act outside of their intended permissions. Failures typically lead to unauthorized information disclosure, modification, or destruction of all data or performing a business function outside the user's limits.
 
+Notable Common Weakness Enumerations (CWEs) include:
+
+- CWE-200: Exposure of Sensitive Information to an Unauthorized Actor
+- CWE-201: Insertion of Sensitive Information Into Sent Data
+- CWE-352: Cross-Site Request Forgery
+
 +++ Vulnerabilities
 Common access control vulnerabilities include:
 
@@ -115,12 +121,6 @@ Access control is only effective in trusted server-side code or server-less API,
 
 Developers and QA staff should include functional access control unit and integration tests.
 +++
-
-Notable Common Weakness Enumerations (CWEs) include:
-
-- CWE-200: Exposure of Sensitive Information to an Unauthorized Actor
-- CWE-201: Insertion of Sensitive Information Into Sent Data
-- CWE-352: Cross-Site Request Forgery
 
 | Publication | Appearance | Ranking |
 | - | - | - |
