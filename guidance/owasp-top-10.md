@@ -68,14 +68,20 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 
 ## Web Application Security Risks
 
-==- <span id="rev1"></span>Broken Access Control[[¹]](#ref1)
+==- <span id="rev1"></span>Broken Access Control
 Access control enforces policy such that users cannot act outside of their intended permissions. Failures typically lead to unauthorized information disclosure, modification, or destruction of all data or performing a business function outside the user's limits.
 
 +++ Attack Scenarios
 +++ Prevention
 +++
 
-| 
+| Publication | Appearance | Signifiance |
+| - | - |
+| Top 10:2021 | :white_check_mark: | A01 |
+| Top 10:2017 | :x: |  |
+| Top 10:2013 | :no_entry_sign: |  |
+
+[[¹]](#ref1)
 
 > Text below this needs to be cited.
 
@@ -87,13 +93,19 @@ Access control enforces policy such that users cannot act outside of their inten
 +++
 
 !!!
-This risk is also known as *missing function-level access control*.
+This risk was formerly known as *missing function-level access control*.
 !!!
 
 !!!
 This appears in A01:2021, A5:2017, and A2:2013.
 !!!
 ==- Cryptographic Failures
+
+
+!!!
+This risk was formerly known as *sensitive data exposure*.
+!!!
+
 > Text below this needs to be cited.
 
 !!!
