@@ -76,6 +76,10 @@ To address these risks, organizations must have an application risk management p
 ==- Broken Access Control
 <span id="rev1"></span>Access control enforces policy such that users cannot act outside of their intended permissions. Failures typically lead to unauthorized information disclosure, modification, or destruction of all data or performing a business function outside the user's limits.[[¹]](#ref1)
 
++++ CWEs
+- CWE-200: Exposure of Sensitive Information to an Unauthorized Actor
+- CWE-201: Insertion of Sensitive Information Into Sent Data
+- CWE-352: Cross-Site Request Forgery
 +++ Attack Scenarios
 +++ Prevention
 +++
@@ -85,15 +89,6 @@ To address these risks, organizations must have an application risk management p
 | Top 10:2021 | :white_check_mark: | 1 |
 | Top 10:2017 | :white_check_mark: | 5 |
 | Top 10:2013 | :white_check_mark: | 7* |
-
-> Text below this needs to be cited.
-
-+++ Impact
-- Attackers can forge requests allowing access to functionality without proper authorization.
-+++ Prevention
-- Set the default to deny all access to functions, and require authentication/authorization for each access request. This ensures that no particular function may be run without explicitly ensuring that it was called by an authorized user.
-- Run a process as both a user and privileged user, compare results, and determine similarity.
-+++
 
 !!!
 This risk was formerly known as *missing function-level access control*.
@@ -164,6 +159,14 @@ Occurs when an application receives untrusted data and then sends it to a web br
 This is not a threat to the back-end database, but a threat to the client.
 ==- Cryptographic Failures
 
++++ CWEs
+- CWE-259: Use of Hard-coded Password
+- CWE-327: Broken or Risky Crypto Algorithm
+- CWE-331 Insufficient Entropy
++++ Attack Scenarios
++++ Prevention
++++
+
 | Publication | Appearance | Ranking |
 | - | - | - |
 | Top 10:2021 | :white_check_mark: | 2 |
@@ -175,6 +178,14 @@ This risk was formerly known as *sensitive data exposure*.
 !!!
 ==- Identification and Authentication Failures
 
++++ CWEs
+- CWE-297: Improper Validation of Certificate with Host Mismatch
+- CWE-287: Improper Authentication
+- CWE-384: Session Fixation
++++ Attack Scenarios
++++ Prevention
++++
+
 | Publication | Appearance | Ranking |
 | - | - | - |
 | Top 10:2021 | :white_check_mark: | 7 |
@@ -182,6 +193,14 @@ This risk was formerly known as *sensitive data exposure*.
 | Top 10:2013 | :white_check_mark: | 2? |
 
 ==- Injection
+
++++ CWEs
+- CWE-79: Cross-site Scripting
+- CWE-89: SQL Injection
+- CWE-73: External Control of File Name or Path
++++ Attack Scenarios
++++ Prevention
++++
 
 | Publication | Appearance | Ranking |
 | - | - | - |
@@ -216,6 +235,15 @@ Deserialization is the reverse of serialization; taking data structured from som
 Today the most popular data format for serializing data is JSON. Before that, it was XML.
 !!!
 ==- Insecure Design
+
++++ CWEs
+- CWE-209: Generation of Error Message Containing Sensitive Information
+- CWE-256: Unprotected Storage of Credentials
+- CWE-501: Trust Boundary Violation
+- CWE-522: Insufficiently Protected Credentials
++++ Attack Scenarios
++++ Prevention
++++
 
 | Publication | Appearance | Ranking |
 | - | - | - |
@@ -256,6 +284,14 @@ The URL reveals location of specific data as well as the format for potential ot
 
 ==- Security Logging and Monitoring Failures
 
++++ CWEs
+- CWE-117 Improper Output Neutralization for Logs
+- CWE-223 Omission of Security-relevant Information
+- CWE-532 Insertion of Sensitive Information into Log File
++++ Attack Scenarios
++++ Prevention
++++
+
 | Publication | Appearance | Ranking |
 | - | - | - |
 | Top 10:2021 | :white_check_mark: | 9 |
@@ -264,6 +300,13 @@ The URL reveals location of specific data as well as the format for potential ot
 ==- Missing Functional Level Access Control
 *See [Broken Access Control](#broken-access-control)*.
 ==- Security Misconfiguration
+
++++ CWEs
+- CWE-16 Configuration
+- CWE-611 Improper Restriction of XML External Entity Reference
++++ Attack Scenarios
++++ Prevention
++++
 
 | Publication | Appearance | Ranking |
 | - | - | - |
@@ -304,6 +347,12 @@ Commonly allowed when web applications do not properly protect sensitive data, s
 
 As modern web applications provide end-users with convenient features, fetching a URL becomes a common scenario. As a result, the incidence of SSRF is increasing. Also, the severity of SSRF is becoming higher due to cloud services and the complexity of architectures.[[¹⁰]](#ref10)
 
++++ CWEs
+The data shows a relatively low incidence rate with above average testing coverage and above-average Exploit and Impact potential ratings.
++++ Attack Scenarios
++++ Prevention
++++
+
 | Publication | Appearance | Ranking |
 | - | - | - |
 | Top 10:2021 | :white_check_mark: | 10 |
@@ -311,6 +360,14 @@ As modern web applications provide end-users with convenient features, fetching 
 | Top 10:2013 | :x: | |
 
 ==- Software and Data Integrity Failures
+
++++ CWEs
+- CWE-829: Inclusion of Functionality from Untrusted Control Sphere
+- CWE-494: Download of Code Without Integrity Check
+- CWE-502: Deserialization of Untrusted Data
++++ Attack Scenarios
++++ Prevention
++++
 
 | Publication | Appearance | Ranking |
 | - | - | - |
@@ -353,6 +410,12 @@ Components, such as libraries, frameworks, and other software modules, almost al
 
 It's important to remember that these are known vulnerabilities, not unknown. Developers are willingly using these components knowing that they have vulnerabilities. This could be for a variety of reasons, including the fact that they may not actually be leveraging a "vulnerable" aspect of a particular component in their application.
 ==- Vulnerable and Outdated Components
+
++++ CWEs
+- CWE-1104: Use of Unmaintained Third-Party Components
++++ Attack Scenarios
++++ Prevention
++++
 
 | Publication | Appearance | Ranking |
 | - | - | - |
