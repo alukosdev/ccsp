@@ -55,18 +55,6 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 8. [Insecure Deserialization](#insecure-deserialization)
 9. [Using Components with Known Vulnerabilities](#using-components-with-known-vulnerabilities)
 10. [Insufficient Logging and Monitoring](#insufficient-logging-and-monitoring)
-+++ Top 10:2013
-1. [Injection](#injection)
-2. [Broken Authentication and Session Management](#broken-authentication-and-session-management)
-3. [Cross-Site Scripting (XSS)](#cross-site-scripting-xss)
-4. [Insecure Direct Object References](#insecure-direct-object-references)
-5. [Security Misconfiguration](#security-misconfiguration)
-6. [Sensitive Data Exposure](#sensitive-data-exposure)
-7. [Missing Functional Level Access Control](#missing-functional-level-access-control)
-8. [Cross-Site Request Forgery (CSRF)](#cross-site-request-forgery-csrf)
-9. [Using Components with Known Vulnerabilities](#using-components-with-known-vulnerabilities)
-10. [Unvalidated Redirects and Forwards](#unvalidated-redirects-and-forwards)
-+++
 
 ## Web Application Security Risks
 
@@ -89,10 +77,9 @@ To address these risks, organizations must have an application risk management p
 | - | - | - |
 | Top 10:2021 | :white_check_mark: | 1 |
 | Top 10:2017 | :white_check_mark: | 5 |
-| Top 10:2013 | :white_check_mark: | 7* |
 
 !!!
-This risk was formerly known as *Missing Function Level Access Control*.
+This risk was merged in 2017 from *Insecure Direct Object References* and *Missing Function Level Access Control*.
 !!!
 ==- Broken Authentication
 
@@ -108,7 +95,6 @@ This risk was formerly known as *Missing Function Level Access Control*.
 | - | - | - |
 | Top 10:2021 | :x: | |
 | Top 10:2017 | :white_check_mark: | 2 |
-| Top 10:2013 | :white_check_mark: | 2* |
 
 > Text below this needs to be cited.
 
@@ -141,7 +127,6 @@ This may also be known as *broken authentication and session management* but I s
 | - | - | - |
 | Top 10:2021 | :x: | |
 | Top 10:2017 | :x: | |
-| Top 10:2013 | :white_check_mark: | 8 |
 
 > Text below this needs to be cited.
 
@@ -167,7 +152,6 @@ Occurs when a logged-on user's browser sends a forged HTTP request along with co
 | - | - | - |
 | Top 10:2021 | :x: | |
 | Top 10:2017 | :white_check_mark: | 7 |
-| Top 10:2013 | :white_check_mark: | 3 |
 
 > Text below this needs to be cited.
 
@@ -198,7 +182,6 @@ This is not a threat to the back-end database, but a threat to the client.
 | - | - | - |
 | Top 10:2021 | :white_check_mark: | 2 |
 | Top 10:2017 | :white_check_mark: | 3* |
-| Top 10:2013 | :white_check_mark: | 6* |
 
 !!!
 This risk was formerly known as *Sensitive Data Exposure*.
@@ -217,7 +200,6 @@ This risk was formerly known as *Sensitive Data Exposure*.
 | - | - | - |
 | Top 10:2021 | :white_check_mark: | 7 |
 | Top 10:2017 | :white_check_mark: | 2? |
-| Top 10:2013 | :white_check_mark: | 2? |
 
 ==- Injection
 
@@ -233,7 +215,6 @@ This risk was formerly known as *Sensitive Data Exposure*.
 | - | - | - |
 | Top 10:2021 | :white_check_mark: | 3 |
 | Top 10:2017 | :white_check_mark: | 1 |
-| Top 10:2013 | :white_check_mark: | 1 |
 
 > Text below this needs to be cited.
 
@@ -256,7 +237,6 @@ To prevent injection attacks:
 | - | - | - |
 | Top 10:2021 | :x: | |
 | Top 10:2017 | :white_check_mark: | 8 |
-| Top 10:2013 | :x: | |
 
 > Text below this needs to be cited.
 
@@ -282,39 +262,11 @@ Today the most popular data format for serializing data is JSON. Before that, it
 | - | - | - |
 | Top 10:2021 | :white_check_mark: | 4 |
 | Top 10:2017 | :white_check_mark: | 8? |
-| Top 10:2013 | :white_check_mark: | 4? |
 
 ==- Insecure Direct Object References
-
-+++ Notable CWEs
-- CWE-22: Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')
-- CWE-99: Improper Control of Resource Identifiers ('Resource Injection')
-- CWE-706: Use of Incorrectly-Resolved Name or Reference
-+++ Attack Scenarios
-+++ Prevention
-+++
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :x: | |
-| Top 10:2017 | :x: | |
-| Top 10:2013 | :white_check_mark: | 4 |
-
-> Text below this needs to be cited.
-
-When a developer allows a reference to an internal implementation object to be exposed. The exposure could be a file, directory, or database key. An example could be the following URL:
-
-`www.sybex.com/authoraccounts/benmalisow`
-
-The URL reveals location of specific data as well as the format for potential other data (such as other authors' pages/accounts).
-
-+++ Impact
-- Attackers may be able to manipulate these references to access unauthorized data.
-+++ Prevention
-- Refrain from including direct access information in URLs.
-- Check access each time a direct object reference is called by an untrusted source.
-- Run a process as both user and privileged user, compare results, and determine similarity; this will help you determine if there are functions that regular users should not have access to and thereby demonstrate that you are missing necessary controls.
-+++
+!!!
+This risk was merged into [Broken Access Control](#broken-access-control) in 2017.
+!!!
 ==- Insufficient Logging and Monitoring
 *See [Security Logging and Monitoring Failures](#security-logging-and-monitoring-failures)*.
 ==- Security Logging and Monitoring Failures
@@ -331,13 +283,12 @@ The URL reveals location of specific data as well as the format for potential ot
 | - | - | - |
 | Top 10:2021 | :white_check_mark: | 9 |
 | Top 10:2017 | :white_check_mark: | 10* |
-| Top 10:2013 | :x: | |
 
 !!!
 This risk was formerly known as *Insufficient Logging and Monitoring*.
 !!!
 ==- Missing Function Level Access Control
-*See [Broken Access Control](#broken-access-control)*.
+This was merged into [Broken Access Control](#broken-access-control) in 2017.
 ==- Security Misconfiguration
 
 +++ Notable CWEs
@@ -351,7 +302,6 @@ This risk was formerly known as *Insufficient Logging and Monitoring*.
 | - | - | - |
 | Top 10:2021 | :white_check_mark: | 5 |
 | Top 10:2017 | :white_check_mark: | 6 |
-| Top 10:2013 | :white_check_mark: | 5 |
 
 > Text below this needs to be cited.
 
@@ -368,7 +318,6 @@ This risk was formerly known as *Insufficient Logging and Monitoring*.
 | - | - | - |
 | Top 10:2021 | :x: | |
 | Top 10:2017 | :white_check_mark: | 3 |
-| Top 10:2013 | :white_check_mark: | 6 |
 
 > Text below this needs to be cited.
 
@@ -396,7 +345,6 @@ The data shows a relatively low incidence rate with above average testing covera
 | - | - | - |
 | Top 10:2021 | :white_check_mark: | 10 |
 | Top 10:2017 | :x: | |
-| Top 10:2013 | :x: | |
 
 ==- Software and Data Integrity Failures
 
@@ -412,7 +360,6 @@ The data shows a relatively low incidence rate with above average testing covera
 | - | - | - |
 | Top 10:2021 | :white_check_mark: | 8 |
 | Top 10:2017 | :x: | |
-| Top 10:2013 | :x: | |
 
 ==- Unvalidated Redirects and Forwards
 
@@ -426,7 +373,6 @@ The data shows a relatively low incidence rate with above average testing covera
 | - | - | - |
 | Top 10:2021 | :x: | |
 | Top 10:2017 | :x: | |
-| Top 10:2013 | :white_check_mark: | 10 |
 
 > Text below this needs to be cited.
 
@@ -448,7 +394,6 @@ CWE does not cover the limitations of human processes and procedures that cannot
 | - | - | - |
 | Top 10:2021 | :x: | |
 | Top 10:2017 | :white_check_mark: | 9 |
-| Top 10:2013 | :white_check_mark: | 9 |
 
 Components, such as libraries, frameworks, and other software modules, almost always run with full privileges.
 
@@ -472,7 +417,6 @@ It's important to remember that these are known vulnerabilities, not unknown. De
 | - | - | - |
 | Top 10:2021 | :white_check_mark: | 6 |
 | Top 10:2017 | :white_check_mark: | 9? |
-| Top 10:2013 | :white_check_mark: | 9? |
 ==- XML External Entities (XXE)
 
 +++ Notable CWEs
@@ -485,7 +429,6 @@ It's important to remember that these are known vulnerabilities, not unknown. De
 | - | - | - |
 | Top 10:2021 | :x: | |
 | Top 10:2017 | :white_check_mark: | 4 |
-| Top 10:2013 | :x: | |
 
 > Text below this needs to be cited.
 
@@ -504,4 +447,3 @@ Attackers can exploit vulnerable XML processors if they can upload XML or includ
 - MITRE. (n.d.). *CWE*. https://cwe.mitre.org/
 - OWASP. (2021). *OWASP Top 10*. https://owasp.org/www-project-top-ten
 - OWASP. (2017). *OWASP Top 10*. https://owasp.org/www-pdf-archive/OWASP_Top_10-2017_%28en%29.pdf.pdf
-- OWASP. (2013). *OWASP Top 10*. https://owasp.org/www-pdf-archive/OWASP_Top_10_-_2013.pdf
