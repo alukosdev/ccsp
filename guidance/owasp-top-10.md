@@ -55,7 +55,7 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 - A10:2017 - [Insufficient Logging and Monitoring](#insufficient-logging-and-monitoring)
 +++ 2013
 - A1:2013 - [Injection](#injection)
-- A2:2013 - Broken Authentication and Session Management
+- A2:2013 - [Broken Authentication and Session Management](#broken-authentication)
 - A3:2013 - [Cross-Site Scripting (XSS)](#cross-site-scripting-xss)
 - A4:2013 - [Insecure Direct Object References](#insecure-direct-object-references)
 - A5:2013 - [Security Misconfiguration](#security-misconfiguration)
