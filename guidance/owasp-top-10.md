@@ -76,10 +76,10 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 +++
 
 | Publication | Appearance | Ranking |
-| - | - |
+| - | - | - |
 | Top 10:2021 | :white_check_mark: | 1 |
-| Top 10:2017 | :white_check_mark: | 7 |
-| Top 10:2013 | :white_check_mark: | 5* |
+| Top 10:2017 | :white_check_mark: | 5 |
+| Top 10:2013 | :white_check_mark: | 7* |
 
 > Text below this needs to be cited.
 
@@ -93,17 +93,13 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 !!!
 This risk was formerly known as *missing function-level access control*.
 !!!
-
-!!!
-This appears in A01:2021, A5:2017, and A2:2013.
-!!!
 ==- Cryptographic Failures
 
 | Publication | Appearance | Ranking |
-| - | - |
+| - | - | - |
 | Top 10:2021 | :white_check_mark: | 2 |
-| Top 10:2017 | :x: | |
-| Top 10:2013 | :x: | |
+| Top 10:2017 | :white_check_mark: | 3* |
+| Top 10:2013 | :white_check_mark: | 6* |
 
 !!!
 This risk was formerly known as *sensitive data exposure*.
@@ -111,7 +107,7 @@ This risk was formerly known as *sensitive data exposure*.
 ==- Injection
 
 | Publication | Appearance | Ranking |
-| - | - |
+| - | - | - |
 | Top 10:2021 | :white_check_mark: | 3 |
 | Top 10:2017 | :white_check_mark: | 1 |
 | Top 10:2013 | :white_check_mark: | 1 |
@@ -128,7 +124,7 @@ To prevent injection attacks:
 ==- Insecure Design
 
 | Publication | Appearance | Ranking |
-| - | - |
+| - | - | - |
 | Top 10:2021 | :white_check_mark: | 4 |
 | Top 10:2017 | :white_check_mark: | 8? |
 | Top 10:2013 | :white_check_mark: | 4? |
@@ -136,7 +132,7 @@ To prevent injection attacks:
 ==- Security Misconfiguration
 
 | Publication | Appearance | Ranking |
-| - | - |
+| - | - | - |
 | Top 10:2021 | :white_check_mark: | 5 |
 | Top 10:2017 | :white_check_mark: | 6 |
 | Top 10:2013 | :white_check_mark: | 5 |
@@ -151,7 +147,7 @@ To prevent injection attacks:
 ==- Vulnerable and Outdated Components
 
 | Publication | Appearance | Ranking |
-| - | - |
+| - | - | - |
 | Top 10:2021 | :white_check_mark: | 6 |
 | Top 10:2017 | :white_check_mark: | 9? |
 | Top 10:2013 | :white_check_mark: | 9? |
@@ -159,7 +155,7 @@ To prevent injection attacks:
 ==- Identification and Authentication Failures
 
 | Publication | Appearance | Ranking |
-| - | - |
+| - | - | - |
 | Top 10:2021 | :white_check_mark: | 7 |
 | Top 10:2017 | :white_check_mark: | 2? |
 | Top 10:2013 | :white_check_mark: | 2? |
@@ -167,41 +163,33 @@ To prevent injection attacks:
 ==- Software and Data Integrity Failures
 
 | Publication | Appearance | Ranking |
-| - | - |
+| - | - | - |
 | Top 10:2021 | :white_check_mark: | 8 |
 | Top 10:2017 | :x: | |
 | Top 10:2013 | :x: | |
 
-> Text below this needs to be cited.
-
-!!!
-This is included in A08:2021.
-
-There must be components from 2017 and 2013 included in this. I should figure out which.
-!!!
 ==- Security Logging and Monitoring Failures
 
 | Publication | Appearance | Ranking |
-| - | - |
+| - | - | - |
 | Top 10:2021 | :white_check_mark: | 9 |
 | Top 10:2017 | :x: | |
 | Top 10:2013 | :x: | |
 
 ==- Server Side Request Forgery (SSRF)
 
+> Are other vulnerabilities part of SSRF, such as CSRF, XSS, and XXE?
+
 | Publication | Appearance | Ranking |
-| - | - |
+| - | - | - |
 | Top 10:2021 | :white_check_mark: | 10 |
 | Top 10:2017 | :x: | |
 | Top 10:2013 | :x: | |
 
-!!!
-Are other vulnerabilities part of SSRF, such as CSRF, XSS, and XXE?
-!!!
 ==- Broken Authentication
 
 | Publication | Appearance | Ranking |
-| - | - |
+| - | - | - |
 | Top 10:2021 | :x: | |
 | Top 10:2017 | :white_check_mark: | 2 |
 | Top 10:2013 | :white_check_mark: | 2? |
@@ -221,8 +209,10 @@ Occurs when authentication and session management application functions are not 
 +++
 ==- Sensitive Data Exposure
 
+*See [Cryptographic Failures](#cryptographic-failures)
+
 | Publication | Appearance | Ranking |
-| - | - |
+| - | - | - |
 | Top 10:2021 | :x: | |
 | Top 10:2017 | :white_check_mark: | 3 |
 | Top 10:2013 | :white_check_mark: | 6 |
@@ -240,7 +230,7 @@ Commonly allowed when web applications do not properly protect sensitive data, s
 ==- XML External Entities (XXE)
 
 | Publication | Appearance | Ranking |
-| - | - |
+| - | - | - |
 | Top 10:2021 | :x: | |
 | Top 10:2017 | :white_check_mark: | 4 |
 | Top 10:2013 | :x: | |
@@ -253,7 +243,7 @@ Attackers can exploit vulnerable XML processors if they can upload XML or includ
 ==- Cross-Site Scripting (XSS)
 
 | Publication | Appearance | Ranking |
-| - | - |
+| - | - | - |
 | Top 10:2021 | :x: | |
 | Top 10:2017 | :white_check_mark: | 7 |
 | Top 10:2013 | :white_check_mark: | 3 |
@@ -276,7 +266,7 @@ This is not a threat to the back-end database, but a threat to the client.
 ==- Insecure Deserialization
 
 | Publication | Appearance | Ranking |
-| - | - |
+| - | - | - |
 | Top 10:2021 | :x: | |
 | Top 10:2017 | :white_check_mark: | 8 |
 | Top 10:2013 | :x: | |
@@ -293,7 +283,7 @@ Today the most popular data format for serializing data is JSON. Before that, it
 ==- Using Components with Known Vulnerabilities
 
 | Publication | Appearance | Ranking |
-| - | - |
+| - | - | - |
 | Top 10:2021 | :x: | |
 | Top 10:2017 | :white_check_mark: | 9 |
 | Top 10:2013 | :white_check_mark: | 9 |
@@ -311,7 +301,7 @@ It's important to remember that these are known vulnerabilities, not unknown. De
 ==- Insufficient Logging and Monitoring
 
 | Publication | Appearance | Ranking |
-| - | - |
+| - | - | - |
 | Top 10:2021 | :x: | |
 | Top 10:2017 | :white_check_mark: | 10 |
 | Top 10:2013 | :x: | |
@@ -319,7 +309,7 @@ It's important to remember that these are known vulnerabilities, not unknown. De
 ==- Insecure Direct Object References
 
 | Publication | Appearance | Ranking |
-| - | - |
+| - | - | - |
 | Top 10:2021 | :x: | |
 | Top 10:2017 | :x: | |
 | Top 10:2013 | :white_check_mark: | 4 |
@@ -342,7 +332,7 @@ The URL reveals location of specific data as well as the format for potential ot
 ==- Cross-Site Request Forgery (CSRF)
 
 | Publication | Appearance | Ranking |
-| - | - |
+| - | - | - |
 | Top 10:2021 | :x: | |
 | Top 10:2017 | :x: | |
 | Top 10:2013 | :white_check_mark: | 8 |
@@ -362,7 +352,7 @@ Occurs when a logged-on user's browser sends a forged HTTP request along with co
 ==- Unvalidated Redirects and Forwards
 
 | Publication | Appearance | Ranking |
-| - | - |
+| - | - | - |
 | Top 10:2021 | :x: | |
 | Top 10:2017 | :x: | |
 | Top 10:2013 | :white_check_mark: | 10 |
