@@ -31,7 +31,7 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 
 ## Web Application Security Risks
 
-+++ 2021
++++ Top 10:2021
 - A01:2021 - [Broken Access Control](#broken-access-control)
 - A02:2021 - [Cryptographic Failures](#cryptographic-failures)
 - A03:2021 - [Injection](#injection)
@@ -42,7 +42,7 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 - A08:2021 - [Software and Data Integrity Failures](#software-and-data-integrity-failures)
 - A09:2021 - [Security Logging and Monitoring Failures](#security-logging-and-monitoring-failures)
 - A10:2021 - [Server Side Request Forgery (SSRF)](#server-side-request-forgery-ssrf)
-+++ 2017
++++ Top 10:2017
 - A1:2017 - [Injection](#injection)
 - A2:2017 - [Broken Authentication](#broken-authentication)
 - A3:2017 - [Sensitive Data Exposure](#sensitive-data-exposure)
@@ -53,7 +53,7 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 - A8:2017 - [Insecure Deserialization](#insecure-deserialization)
 - A9:2017 - [Using Components with Known Vulnerabilities](#using-components-with-known-vulnerabilities)
 - A10:2017 - [Insufficient Logging and Monitoring](#insufficient-logging-and-monitoring)
-+++ 2013
++++ Top 10:2013
 - A1:2013 - [Injection](#injection)
 - A2:2013 - [Broken Authentication and Session Management](#broken-authentication)
 - A3:2013 - [Cross-Site Scripting (XSS)](#cross-site-scripting-xss)
@@ -66,12 +66,14 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 - A10:2013 - [Unvalidated Redirects and Forwards](#unvalidated-redirects-and-forwards)
 +++
 
-==- Broken Access Control
+==- <span id="rev1"></span>Broken Access Control[[¹]](#ref1)
+Access control enforces policy such that users cannot act outside of their intended permissions. Failures typically lead to unauthorized information disclosure, modification, or destruction of all data or performing a business function outside the user's limits.
+
++++ Attack Scenarios
++++ Prevention
++++
+
 > Text below this needs to be cited.
-
-This risk is also known as *missing function-level access control*.
-
-Web applications typically verify function level access rights before allowing that functionality from the UI. Best practice requires applications to perform access control checks on the server when each function is accessed. Broken access control occurs when requests are not verified.
 
 +++ Impact
 - Attackers can forge requests allowing access to functionality without proper authorization.
@@ -79,6 +81,10 @@ Web applications typically verify function level access rights before allowing t
 - Set the default to deny all access to functions, and require authentication/authorization for each access request. This ensures that no particular function may be run without explicitly ensuring that it was called by an authorized user.
 - Run a process as both a user and privileged user, compare results, and determine similarity.
 +++
+
+!!!
+This risk is also known as *missing function-level access control*.
+!!!
 
 !!!
 This appears in A01:2021, A5:2017, and A2:2013.
@@ -317,6 +323,10 @@ This occurs in A10:2013.
 !!!
 To address these vulnerabilities, organizations must have an application risk management program in place. Implementation of an application risk management program addresses not only vulnerabilities but also all risks associated with applications.
 !!!
+
+## References
+
+1. <span id="ref1"></span>[⌃](#rev1) OWASP. (2021). *A01:2021 - Broken Access Control*. https://owasp.org/Top10/A01_2021-Broken_Access_Control/
 
 ## Sources
 

@@ -25,6 +25,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | ASMP | Application Security Management Process |
 | AST | Application Security Testing |
 | ASV | Approved Scanning Vendor |
+| ATASM | Architecture, Threats, Attack Surfaces, and Mitigations |
 | AUP | [Agreed-Upon Procedures](/reference/glossary/#agreed-upon-procedures-aup) |
 | AV | Asset Value |
 | BC | [Business Continuity](/reference/glossary/#business-continuity-bc) |
@@ -63,6 +64,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | CSRF | Cross-Site Request Forgery |
 | CST | Cryptographic and Security Testing |
 | CTP | CloudTrust Protocol |
+| CWE | Common Weakness Enumeration |
 | DAM | [Database Activity Monitoring](/reference/glossary/#database-activity-monitoring-dam) |
 | DAR | Data at Rest |
 | DAST | Dynamic Application Security Testing |
@@ -163,6 +165,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | OWASP | Open Web Application Security Project |
 | PaaS | Platform-as-a-Service |
 | PAN | Primary Account Number |
+| PASTA | Process for Attack Simulation and Threat Analysis |
 | PCI | Payment Card Industry |
 | PDCA | Plan-Do-Check-Act |
 | PDPA | Personal Data Protection Act |

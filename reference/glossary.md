@@ -51,6 +51,7 @@ The application meets technical requirements.
 ==- Application Security Testing (AST)
 ==- Application Virtualization
 ==- Approved Scanning Vendor (ASV)
+==- Architecture, Threats, Attack Surfaces, and Mitigations (ATASM)
 ==- Artificial Intelligence
 Artificial intelligence is the ability of devices to perform human-like analysis. Artificial intelligence operates by consuming a large amount of data and recognizing patterns and trends in the data.
 
@@ -250,6 +251,7 @@ The act of adding the name "cloud" to a non-cloud service and selling it as a cl
 ==- Common Criteria (CC)
 ==- Common Law
 The existing set of rulings and decisions made by courts, informed by cultural mores and legislation. These create precedents, which each party will cite in court as a means to sway the court to their own side of a case.
+==- Common Weakness Enumeration (CWE)
 ==- Compliance as a Service (CompaaS/CaaS)
 Includes a variety of compliance services such as data encryption, disaster recovery, reporting, and vulnerability scanning.
 ==- Compute Parameters
@@ -772,6 +774,7 @@ The protection of PII.
 ==- Privacy-Level Agreement (PLA)
 ==- Problem
 A problem is the *unknown* root cause of one or more incidents, often identified as a result of multiple similar incidents.
+==- Process for Attack Simulation and Threat Analysis (PASTA)
 ==- Processing
 Processing is any *manipulation* of the data, to include security or destroying it, in electronic or hard-copy form. Viewing data is not considered processing.
 ==- Prudent Person Rule

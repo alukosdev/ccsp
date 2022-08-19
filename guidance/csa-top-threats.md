@@ -80,6 +80,10 @@ Identity, credential, access management systems include tools and policies that 
 - Financial expenses incurred due to incident response and forensics
 - Ransomware and supply chain disruption
 
+!!!
+This threat aligns with the Disclosure category of the STRIDE threat model.
+!!!
+
 !!!danger
 This was taken from account hijacking.
 !!!
