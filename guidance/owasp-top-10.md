@@ -64,67 +64,21 @@ To address these risks, organizations must have an application risk management p
 !!!
 
 ==- Broken Access Control
-<span id="rev1"></span>Access control enforces policy such that users cannot act outside of their intended permissions. Failures typically lead to unauthorized information disclosure, modification, or destruction of all data or performing a business function outside the user's limits.[[¹]](#ref1)
+Access control enforces policy such that users cannot act outside of their intended permissions. Failures typically lead to unauthorized information disclosure, modification, or destruction of all data or performing a business function outside the user's limits.
 
-+++ Notable CWEs
+Notable Common Weakness Enumerations (CWEs) include:
+
 - CWE-200: Exposure of Sensitive Information to an Unauthorized Actor
 - CWE-201: Insertion of Sensitive Information Into Sent Data
 - CWE-352: Cross-Site Request Forgery
-+++ Vulnerabilities
-Common access control vulnerabilities include:
-
-- Violation of the principle of least privilege or deny by default, where access should only be granted for particular capabilities, roles, or users, but is available to anyone.
-- Bypassing access control checks by modifying the URL (parameter tampering or force browsing), internal application state, or the HTML page, or by using an attack tool modifying API requests.
-- Permitting viewing or editing someone else's account, by providing its unique identifier (insecure direct object references)
-- Accessing API with missing access controls for POST, PUT and DELETE.
-- Elevation of privilege. Acting as a user without being logged in or acting as an admin when logged in as a user.
-- Metadata manipulation, such as replaying or tampering with a JSON Web Token (JWT) access control token, or a cookie or hidden field manipulated to elevate privileges or abusing JWT invalidation.
-- CORS misconfiguration allows API access from unauthorized/untrusted origins.
-- Force browsing to authenticated pages as an unauthenticated user or to privileged pages as a standard user.
-+++ Prevention
-Access control is only effective in trusted server-side code or server-less API, where the attacker cannot modify the access control check or metadata.
-
-- Except for public resources, deny by default.
-- Implement access control mechanisms once and re-use them throughout the application, including minimizing Cross-Origin Resource Sharing (CORS) usage.
-- Model access controls should enforce record ownership rather than accepting that the user can create, read, update, or delete any record.
-- Unique application business limit requirements should be enforced by domain models.
-- Disable web server directory listing and ensure file metadata (e.g., .git) and backup files are not present within web roots.
-- Log access control failures, alert admins when appropriate (e.g., repeated failures).
-- Rate limit API and controller access to minimize the harm from automated attack tooling.
-- Stateful session identifiers should be invalidated on the server after logout. Stateless JWT tokens should rather be short-lived so that the window of opportunity for an attacker is minimized. For longer lived JWTs it's highly recommended to follow the OAuth standards to revoke access.
-
-Developers and QA staff should include functional access control unit and integration tests.
-+++ Attack Scenarios
-**Scenario #1**: The application uses unverified data in a SQL call that is accessing account information:
-
-```
-pstmt.setString(1, request.getParameter("acct"));
-ResultSet results = pstmt.executeQuery( );
-```
-
-An attacker simply modifies the browser's 'acct' parameter to send whatever account number they want. If not correctly verified, the attacker can access any user's account.
-
-```
-https://example.com/app/accountInfo?acct=notmyacct
-```
-
----
-
-**Scenario #2**: An attacker simply forces browsers to target URLs. Admin rights are required for access to the admin page.
-
-```
-https://example.com/app/getappInfo
-https://example.com/app/admin_getappInfo
-```
-
-If an unauthenticated user can access either page, it's a flaw. If a non-admin can access the admin page, this is a flaw.
-+++
 
 | Publication | Appearance | Ranking |
 | - | - | - |
 | Top 10:2021 | :white_check_mark: | 1 |
 | Top 10:2017 | :white_check_mark: | 5 |
 ==- Broken Authentication
+Application functions related to authentication and session management are often implemented incorrectly, allowing attackers to compromise passwords, keys, or session tokens, or to exploit other implementation flaws to assume other users’ identities temporarily or permanently.
+
 +++ Notable CWEs
 - CWE-256: Plaintext Storage of a Password
 - CWE-308: Use of Single-factor Authentication
@@ -303,9 +257,9 @@ This risk was renamed from [Insufficient Logging and Monitoring](#insufficient-l
 This risk was renamed to [Cryptographic Failures](#vulnerable-and-outdated-components) in 2021.
 !!!
 ==- Server-Side Request Forgery (SSRF)
-<span id="rev1"></span>SSRF flaws occur whenever a web application is fetching a remote resource without validating the user-supplied URL. It allows an attacker to coerce the application to send a crafted request to an unexpected destination, even when protected by a firewall, VPN, or another type of network access control list (ACL).
+SSRF flaws occur whenever a web application is fetching a remote resource without validating the user-supplied URL. It allows an attacker to coerce the application to send a crafted request to an unexpected destination, even when protected by a firewall, VPN, or another type of network access control list (ACL).
 
-As modern web applications provide end-users with convenient features, fetching a URL becomes a common scenario. As a result, the incidence of SSRF is increasing. Also, the severity of SSRF is becoming higher due to cloud services and the complexity of architectures.[[¹⁰]](#ref10)
+As modern web applications provide end-users with convenient features, fetching a URL becomes a common scenario. As a result, the incidence of SSRF is increasing. Also, the severity of SSRF is becoming higher due to cloud services and the complexity of architectures.
 
 +++ Notable CWEs
 The data shows a relatively low incidence rate with above average testing coverage and above-average Exploit and Impact potential ratings.
@@ -383,13 +337,13 @@ This risk was merged with [Security Misconfiguration](#security-misconfiguration
 !!!
 ==-
 
-## References
-
-1. <span id="ref1"></span>[⌃](#rev1) OWASP. (2021). *A01:2021 - Broken Access Control*. https://owasp.org/Top10/A01_2021-Broken_Access_Control
-10. <span id="ref10"></span>[⌃](#rev10) OWASP. (2021). *A10:2021 - Server-Side Request Forgery (SSRF)*. https://owasp.org/Top10/A10_2021-Server-Side_Request_Forgery_%28SSRF%29
-
 ## Sources
 
+- https://owasp.org/www-project-top-ten/2017/Top_10.html
+- https://owasp.org/www-project-top-ten/2017/A2_2017-Broken_Authentication
+
 - MITRE. (n.d.). *CWE*. https://cwe.mitre.org/
+- OWASP. (2021). *A01:2021 - Broken Access Control*. https://owasp.org/Top10/A01_2021-Broken_Access_Control
 - OWASP. (2021). *OWASP Top 10*. https://owasp.org/www-project-top-ten
+- OWASP. (2021). *A10:2021 - Server-Side Request Forgery (SSRF)*. https://owasp.org/Top10/A10_2021-Server-Side_Request_Forgery_%28SSRF%29
 - OWASP. (2017). *OWASP Top 10*. https://owasp.org/www-pdf-archive/OWASP_Top_10-2017_%28en%29.pdf.pdf
