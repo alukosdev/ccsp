@@ -166,7 +166,7 @@ Notable Common Weakness Enumerations (CWEs) include:
 !!!
 This risk was merged with and renamed to [Injection](#injection) in 2021.
 !!!
-==- :zap: Cryptographic Failures
+==- Cryptographic Failures
 !!!danger
 We need to add a summary here. I dislike the summary provided by OWASP.
 !!!
@@ -227,12 +227,15 @@ The first thing is to determine the protection needs of data in transit and at r
 !!!
 This risk was renamed from [Sensitive Data Exposure](#sensitive-data-exposure) in 2021.
 !!!
-==- Identification and Authentication Failures
-+++ Notable CWEs
+==- :zap: Identification and Authentication Failures
+Notable Common Weakness Enumerations (CWEs) include:
+
 - CWE-297: Improper Validation of Certificate with Host Mismatch
 - CWE-287: Improper Authentication
 - CWE-384: Session Fixation
+
 +++ Attack Scenarios
++++ Vulnerabilities
 +++ Prevention
 +++
 
@@ -244,14 +247,15 @@ This risk was renamed from [Sensitive Data Exposure](#sensitive-data-exposure) i
 !!!
 This risk was renamed from [Broken Authentication](#broken-authentication) in 2021.
 !!!
-==- Injection
+==- :zap: Injection
+Notable Common Weakness Enumerations (CWEs) include:
 
-
-+++ Notable CWEs
 - CWE-79: Cross-site Scripting
 - CWE-89: SQL Injection
 - CWE-73: External Control of File Name or Path
+
 +++ Attack Scenarios
++++ Vulnerabilities
 +++ Prevention
 +++
 
@@ -263,10 +267,13 @@ This risk was renamed from [Broken Authentication](#broken-authentication) in 20
 !!!
 This risk was merged with and renamed from [Cross-Site Scripting (XSS)](#cross-site-scripting-xss) in 2021.
 !!!
-==- Insecure Deserialization
-+++ Notable CWEs
+==- :x: Insecure Deserialization
+Notable Common Weakness Enumerations (CWEs) include:
+
 - CWE-502: Deserialization of Untrusted Data
+
 +++ Attack Scenarios
++++ Vulnerabilities
 +++ Prevention
 +++
 
@@ -279,12 +286,15 @@ This risk was merged with and renamed from [Cross-Site Scripting (XSS)](#cross-s
 This risk was merged with and renamed to [Software and Data Integrity Failures](#software-and-data-integrity-failures) in 2021.
 !!!
 ==- Insecure Design
-+++ Notable CWEs
+Notable Common Weakness Enumerations (CWEs) include:
+
 - CWE-209: Generation of Error Message Containing Sensitive Information
 - CWE-256: Unprotected Storage of Credentials
 - CWE-501: Trust Boundary Violation
 - CWE-522: Insufficiently Protected Credentials
+
 +++ Attack Scenarios
++++ Vulnerabilities
 +++ Prevention
 +++
 
@@ -294,8 +304,11 @@ This risk was merged with and renamed to [Software and Data Integrity Failures](
 | Top 10:2017 | :x: | |
 
 ==- Insufficient Logging and Monitoring
-+++ Notable CWEs
+
+Notable Common Weakness Enumerations (CWEs) include:
+
 +++ Attack Scenarios
++++ Vulnerabilities
 +++ Prevention
 +++
 
@@ -308,11 +321,14 @@ This risk was merged with and renamed to [Software and Data Integrity Failures](
 This risk was renamed to [Security Logging and Monitoring Failures](#security-logging-and-monitoring-failures) in 2021.
 !!!
 ==- Security Logging and Monitoring Failures
-+++ Notable CWEs
+Notable Common Weakness Enumerations (CWEs) include:
+
 - CWE-117: Improper Output Neutralization for Logs
 - CWE-223: Omission of Security-relevant Information
 - CWE-532: Insertion of Sensitive Information into Log File
+
 +++ Attack Scenarios
++++ Vulnerabilities
 +++ Prevention
 +++
 
@@ -325,10 +341,13 @@ This risk was renamed to [Security Logging and Monitoring Failures](#security-lo
 This risk was renamed from [Insufficient Logging and Monitoring](#insufficient-logging-and-monitoring) in 2021.
 !!!
 ==- Security Misconfiguration
-+++ Notable CWEs
+Notable Common Weakness Enumerations (CWEs) include:
+
 - CWE-16: Configuration
 - CWE-611: Improper Restriction of XML External Entity Reference
+
 +++ Attack Scenarios
++++ Vulnerabilities
 +++ Prevention
 +++
 
@@ -338,8 +357,10 @@ This risk was renamed from [Insufficient Logging and Monitoring](#insufficient-l
 | Top 10:2017 | :white_check_mark: | 6 |
 
 ==- Sensitive Data Exposure
-+++ Notable CWEs
+Notable Common Weakness Enumerations (CWEs) include:
+
 +++ Attack Scenarios
++++ Vulnerabilities
 +++ Prevention
 +++
 
@@ -356,9 +377,12 @@ SSRF flaws occur whenever a web application is fetching a remote resource withou
 
 As modern web applications provide end-users with convenient features, fetching a URL becomes a common scenario. As a result, the incidence of SSRF is increasing. Also, the severity of SSRF is becoming higher due to cloud services and the complexity of architectures.
 
-+++ Notable CWEs
-The data shows a relatively low incidence rate with above average testing coverage and above-average Exploit and Impact potential ratings.
+Notable Common Weakness Enumerations (CWEs) include:
+
+- The data shows a relatively low incidence rate with above average testing coverage and above-average Exploit and Impact potential ratings.
+
 +++ Attack Scenarios
++++ Vulnerabilities
 +++ Prevention
 +++
 
@@ -368,12 +392,14 @@ The data shows a relatively low incidence rate with above average testing covera
 | Top 10:2017 | :x: | |
 
 ==- Software and Data Integrity Failures
+Notable Common Weakness Enumerations (CWEs) include:
 
-+++ Notable CWEs
 - CWE-829: Inclusion of Functionality from Untrusted Control Sphere
 - CWE-494: Download of Code Without Integrity Check
 - CWE-502: Deserialization of Untrusted Data
+
 +++ Attack Scenarios
++++ Vulnerabilities
 +++ Prevention
 +++
 
@@ -386,9 +412,12 @@ The data shows a relatively low incidence rate with above average testing covera
 This risk was merged with and renamed from [Insecure Deserialization](#insecure-deserialization) in 2021.
 !!!
 ==- Using Components with Known Vulnerabilities
-+++ Notable CWEs
-CWE does not cover the limitations of human processes and procedures that cannot be described in terms of a specific technical weakness as resident in the code, architecture, or configuration of the software. Since "known vulnerabilities" can arise from any kind of weakness, it is not possible to map this OWASP category to other CWE entries, since it would effectively require mapping this category to ALL weaknesses.[https://cwe.mitre.org/data/definitions/1035.html]
+Notable Common Weakness Enumerations (CWEs) include:
+
+- CWE does not cover the limitations of human processes and procedures that cannot be described in terms of a specific technical weakness as resident in the code, architecture, or configuration of the software. Since "known vulnerabilities" can arise from any kind of weakness, it is not possible to map this OWASP category to other CWE entries, since it would effectively require mapping this category to ALL weaknesses.[https://cwe.mitre.org/data/definitions/1035.html]
+
 +++ Attack Scenarios
++++ Vulnerabilities
 +++ Prevention
 +++
 
@@ -401,9 +430,12 @@ CWE does not cover the limitations of human processes and procedures that cannot
 This risk was renamed to [Vulnerable and Outdated Components](#vulnerable-and-outdated-components) in 2021.
 !!!
 ==- Vulnerable and Outdated Components
-+++ Notable CWEs
+Notable Common Weakness Enumerations (CWEs) include:
+
 - CWE-1104: Use of Unmaintained Third-Party Components
+
 +++ Attack Scenarios
++++ Vulnerabilities
 +++ Prevention
 +++
 
@@ -416,9 +448,12 @@ This risk was renamed to [Vulnerable and Outdated Components](#vulnerable-and-ou
 This risk was renamed from [Using Components with Known Vulnerabilities](#using-components-with-known-vulnerabilities) in 2021.
 !!!
 ==- XML External Entities (XXE)
-+++ Notable CWEs
+Notable Common Weakness Enumerations (CWEs) include:
+
 - CWE-611: Improper Restriction of XML External Entity Reference
+
 +++ Attack Scenarios
++++ Vulnerabilities
 +++ Prevention
 +++
 
