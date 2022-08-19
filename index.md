@@ -3,6 +3,10 @@ icon: home
 label: Welcome
 ---
 
+:::banner
+We work very hard to ensure these notes are actively updated and maintained. This is a community project and we intend on keeping it that way. If you are interested in contributing, please consider [donating](https://patreon.com/alukos){ target="_blank" } or becoming an editor. ❤️
+:::
+
 !!!warning
 We are actively updating these notes to reflect the latest exam revision released on August 1st, 2022. The content on these pages will change dynamically as these updates occur. Additionally, we are working to migrate references and sources to their individual pages rather than a centralized page. For this reason, some sources may not be properly cited. We appreciate your patience and understanding as we work hard to update everything.
 !!!
@@ -32,10 +36,6 @@ Please do not hesitate to contact me on LinkedIn or Discord if you discover any 
 ## Contribute
 
 If you are interested in contributing to the project, please contact us.
-
-## Donate
-
-I do my best to ensure these notes are actively updated and actively. This is a community project and I intend on keeping it that way. I would not ask nor expect anyone to contribute monetarily. If you are interested in helping out, please subscribe to one of our [Patreon tiers](https://patreon.com/alukos){ target="_blank" }. :heart:
 
 ## Additional Resources
 
