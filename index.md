@@ -33,10 +33,6 @@ These notes continue to be actively maintained by the Alukos team and members of
 
 Please do not hesitate to contact me on LinkedIn or Discord if you discover any pages containing inaccurate or outdated information, grammatical or spelling errors, and/or formatting issues.
 
-## Contribute
+## Resources
 
-If you are interested in contributing to the project, please contact us.
-
-## Additional Resources
-
-- The [Certification Station](https://discord.gg/certstation){ target="_blank" } Discord server is an invaluable source of information for many certifications.
+- The [Certification Station](https://discord.gg/certstation){ target="_blank" } Discord server is an invaluable source of study information.
