@@ -209,7 +209,7 @@ Occurs when authentication and session management application functions are not 
 +++
 ==- Sensitive Data Exposure
 
-*See [Cryptographic Failures](#cryptographic-failures)
+*See [Cryptographic Failures](#cryptographic-failures)*.
 
 | Publication | Appearance | Ranking |
 | - | - | - |
