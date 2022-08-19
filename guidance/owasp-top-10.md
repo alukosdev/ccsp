@@ -97,6 +97,70 @@ To address these risks, organizations must have an application risk management p
 !!!
 This risk was formerly known as *missing function-level access control*.
 !!!
+==- Broken Authentication
+
+| Publication | Appearance | Ranking |
+| - | - | - |
+| Top 10:2021 | :x: | |
+| Top 10:2017 | :white_check_mark: | 2 |
+| Top 10:2013 | :white_check_mark: | 2? |
+
+> Text below this needs to be cited.
+
+Occurs when authentication and session management application functions are not implemented correctly.
+
++++ Impact
+- Allows attackers to compromise passwords, keys, or session tokens
+- Exploitation of other implementation flaws to assume other identities
++++ Prevention
+- Do not use custom authentication schemes.
+- Rotate session IDs after a successful login.
+- Do not allow simple passwords to be used.
+- Ensure the connection is encrypted so credentials aren't exposed.
++++
+==- Cross-Site Request Forgery (CSRF)
+
+| Publication | Appearance | Ranking |
+| - | - | - |
+| Top 10:2021 | :x: | |
+| Top 10:2017 | :x: | |
+| Top 10:2013 | :white_check_mark: | 8 |
+
+> Text below this needs to be cited.
+
+Occurs when a logged-on user's browser sends a forged HTTP request along with cookies and other authentication information, forcing the victim's browser to generate a request that the application thinks is a legitimate request from the user.
+
++++ Impact
+- The attacker could have the user log into one of the user's online accounts.
+- The attacker could collect the user's online account login credentials to be used by the attacker later.
+- The attacker could have the user perform an action in one of the user's online accounts.
++++ Prevention
+- Ensure that all HTTP resource requests include a unique, unpredictable token.
+- Include a CAPTCHA code as part of the user resource request process.
++++
+==- Cross-Site Scripting (XSS)
+
+| Publication | Appearance | Ranking |
+| - | - | - |
+| Top 10:2021 | :x: | |
+| Top 10:2017 | :white_check_mark: | 7 |
+| Top 10:2013 | :white_check_mark: | 3 |
+
+> Text below this needs to be cited.
+
+Occurs when an application receives untrusted data and then sends it to a web browser without proper validation.
+
++++ Impact
+- Allows attackers to execute scripts in a victim's browser which can hijack user sessions, deface websites, or redirect the user to malicious websites.
++++ Prevention
+- Use an auto-escaping template system
+- Put untrusted data in only allowed slots of HTML documents
+- HTML escape when including untrusted data in any HTML elements
+- Use the attribute escape when including untrusted data in attribute elements
+- Sanitize HTML markup with a library designed for the purpose
++++
+
+This is not a threat to the back-end database, but a threat to the client.
 ==- Cryptographic Failures
 
 | Publication | Appearance | Ranking |
@@ -190,27 +254,6 @@ To prevent injection attacks:
 | Top 10:2017 | :x: | |
 | Top 10:2013 | :x: | |
 
-==- Broken Authentication
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :x: | |
-| Top 10:2017 | :white_check_mark: | 2 |
-| Top 10:2013 | :white_check_mark: | 2? |
-
-> Text below this needs to be cited.
-
-Occurs when authentication and session management application functions are not implemented correctly.
-
-+++ Impact
-- Allows attackers to compromise passwords, keys, or session tokens
-- Exploitation of other implementation flaws to assume other identities
-+++ Prevention
-- Do not use custom authentication schemes.
-- Rotate session IDs after a successful login.
-- Do not allow simple passwords to be used.
-- Ensure the connection is encrypted so credentials aren't exposed.
-+++
 ==- Sensitive Data Exposure
 
 *See [Cryptographic Failures](#cryptographic-failures)*.
@@ -244,29 +287,6 @@ Commonly allowed when web applications do not properly protect sensitive data, s
 XML external entities refer to references, such as the application directory structure or the configuration of the hosting system, that should be removed from the code, but are left in by accident. These items can provide information to an attacker that may allow them to circumvent authentication measures to gain access.
 
 Attackers can exploit vulnerable XML processors if they can upload XML or include hostile content in an XML document, exploiting vulnerable code, dependencies, or integrations.
-==- Cross-Site Scripting (XSS)
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :x: | |
-| Top 10:2017 | :white_check_mark: | 7 |
-| Top 10:2013 | :white_check_mark: | 3 |
-
-> Text below this needs to be cited.
-
-Occurs when an application receives untrusted data and then sends it to a web browser without proper validation.
-
-+++ Impact
-- Allows attackers to execute scripts in a victim's browser which can hijack user sessions, deface websites, or redirect the user to malicious websites.
-+++ Prevention
-- Use an auto-escaping template system
-- Put untrusted data in only allowed slots of HTML documents
-- HTML escape when including untrusted data in any HTML elements
-- Use the attribute escape when including untrusted data in attribute elements
-- Sanitize HTML markup with a library designed for the purpose
-+++
-
-This is not a threat to the back-end database, but a threat to the client.
 ==- Insecure Deserialization
 
 | Publication | Appearance | Ranking |
@@ -332,26 +352,6 @@ The URL reveals location of specific data as well as the format for potential ot
 - Refrain from including direct access information in URLs.
 - Check access each time a direct object reference is called by an untrusted source.
 - Run a process as both user and privileged user, compare results, and determine similarity; this will help you determine if there are functions that regular users should not have access to and thereby demonstrate that you are missing necessary controls.
-+++
-==- Cross-Site Request Forgery (CSRF)
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :x: | |
-| Top 10:2017 | :x: | |
-| Top 10:2013 | :white_check_mark: | 8 |
-
-> Text below this needs to be cited.
-
-Occurs when a logged-on user's browser sends a forged HTTP request along with cookies and other authentication information, forcing the victim's browser to generate a request that the application thinks is a legitimate request from the user.
-
-+++ Impact
-- The attacker could have the user log into one of the user's online accounts.
-- The attacker could collect the user's online account login credentials to be used by the attacker later.
-- The attacker could have the user perform an action in one of the user's online accounts.
-+++ Prevention
-- Ensure that all HTTP resource requests include a unique, unpredictable token.
-- Include a CAPTCHA code as part of the user resource request process.
 +++
 ==- Unvalidated Redirects and Forwards
 
