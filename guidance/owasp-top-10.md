@@ -76,7 +76,7 @@ To address these risks, organizations must have an application risk management p
 ==- Broken Access Control
 <span id="rev1"></span>Access control enforces policy such that users cannot act outside of their intended permissions. Failures typically lead to unauthorized information disclosure, modification, or destruction of all data or performing a business function outside the user's limits.[[¹]](#ref1)
 
-+++ CWEs
++++ Notable CWEs
 - CWE-200: Exposure of Sensitive Information to an Unauthorized Actor
 - CWE-201: Insertion of Sensitive Information Into Sent Data
 - CWE-352: Cross-Site Request Forgery
