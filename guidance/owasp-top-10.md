@@ -82,6 +82,9 @@ To address these risks, organizations must have an application risk management p
 This risk was merged in 2017 from *Insecure Direct Object References* and *Missing Function Level Access Control*.
 !!!
 ==- Broken Authentication
+!!!
+In 2021, this risk was renamed to [Identification and Authentication Failures](#identification-and-authentication-failures).
+!!!
 
 +++ Notable CWEs
 - CWE-256: Plaintext Storage of a Password
@@ -109,38 +112,10 @@ Occurs when authentication and session management application functions are not 
 - Do not allow simple passwords to be used.
 - Ensure the connection is encrypted so credentials aren't exposed.
 +++
-
-!!!
-This may also be known as *broken authentication and session management* but I should verify this.
-!!!
-==- Broken Authentication and Session Management
-*See [Broken Authentication](#broken-authentication)*.
-==- Cross-Site Request Forgery (CSRF)
-
-+++ Notable CWEs
-- CWE-352: Cross-Site Request Forgery (CSRF)
-+++ Attack Scenarios
-+++ Prevention
-+++
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :x: | |
-| Top 10:2017 | :x: | |
-
-> Text below this needs to be cited.
-
-Occurs when a logged-on user's browser sends a forged HTTP request along with cookies and other authentication information, forcing the victim's browser to generate a request that the application thinks is a legitimate request from the user.
-
-+++ Impact
-- The attacker could have the user log into one of the user's online accounts.
-- The attacker could collect the user's online account login credentials to be used by the attacker later.
-- The attacker could have the user perform an action in one of the user's online accounts.
-+++ Prevention
-- Ensure that all HTTP resource requests include a unique, unpredictable token.
-- Include a CAPTCHA code as part of the user resource request process.
-+++
 ==- Cross-Site Scripting (XSS)
+!!!
+In 2021, this risk was merged with and renamed to [Injection](#injection).
+!!!
 
 +++ Notable CWEs
 - CWE-79: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')
@@ -184,7 +159,7 @@ This is not a threat to the back-end database, but a threat to the client.
 | Top 10:2017 | :white_check_mark: | 3* |
 
 !!!
-This risk was formerly known as *Sensitive Data Exposure*.
+In 2021, *Sensitive Data Exposure*.
 !!!
 ==- Identification and Authentication Failures
 
@@ -226,6 +201,9 @@ To prevent injection attacks:
 - Using prepared statements
 - Escaping all user supplied input
 ==- Insecure Deserialization
+!!!
+In 2021, this risk was merged with and renamed to [Software and Data Integrity Failures](#software-and-data-integrity-failures).
+!!!
 
 +++ Notable CWEs
 - CWE-502: Deserialization of Untrusted Data
@@ -268,7 +246,9 @@ Today the most popular data format for serializing data is JSON. Before that, it
 This risk was merged into [Broken Access Control](#broken-access-control) in 2017.
 !!!
 ==- Insufficient Logging and Monitoring
-*See [Security Logging and Monitoring Failures](#security-logging-and-monitoring-failures)*.
+!!!
+In 2021, this risk was renamed to [Security Logging and Monitoring Failures](#security-logging-and-monitoring-failures).
+!!!
 ==- Security Logging and Monitoring Failures
 
 +++ Notable CWEs
@@ -311,24 +291,9 @@ This was merged into [Broken Access Control](#broken-access-control) in 2017.
 - Software settings should be kept up to date.
 +++
 ==- Sensitive Data Exposure
-
-*See [Cryptographic Failures](#cryptographic-failures)*.
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :x: | |
-| Top 10:2017 | :white_check_mark: | 3 |
-
-> Text below this needs to be cited.
-
-Commonly allowed when web applications do not properly protect sensitive data, such as credit cards, tax IDs, and authentication credentials. Attackers may steal or modify poorly protected data to initiate credit card fraud, identity theft, or other felonies. Even with proper encryption methods put in place, sensitive data is still at risk if the client's browser is insecure.
-
-+++ Impact
-- Attackers may steal or modify weakly protected data to conduct fraud, theft, or other crimes.
-+++ Prevention
-- Encryption (at rest or in transit)
-- Perform checks against client browsers to ensure they meet security standards. If the browser doesn't meet the security standards, it can be prevented access to the web application.
-+++
+!!!
+In 2021, this was renamed to [Cryptographic Failures](#vulnerable-and-outdated-components).
+!!!
 ==- Server-Side Request Forgery (SSRF)
 
 <span id="rev1"></span>SSRF flaws occur whenever a web application is fetching a remote resource without validating the user-supplied URL. It allows an attacker to coerce the application to send a crafted request to an unexpected destination, even when protected by a firewall, VPN, or another type of network access control list (ACL).
@@ -361,28 +326,10 @@ The data shows a relatively low incidence rate with above average testing covera
 | Top 10:2021 | :white_check_mark: | 8 |
 | Top 10:2017 | :x: | |
 
-==- Unvalidated Redirects and Forwards
-
-+++ Notable CWEs
-- CWE-601: URL Redirection to Untrusted Site ('Open Redirect')
-+++ Attack Scenarios
-+++ Prevention
-+++
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :x: | |
-| Top 10:2017 | :x: | |
-
-> Text below this needs to be cited.
-
-Redirection to unauthorized pages, often in conjunction with a social engineering/phishing aspect.
-
-+++ Prevention
-- Don't use redirects/forwards in your applications.
-- Train users to recognize invalidated links.
-+++
 ==- Using Components with Known Vulnerabilities
+!!!
+In 2021, this was renamed to [Vulnerable and Outdated Components](#vulnerable-and-outdated-components).
+!!!
 
 +++ Notable CWEs
 CWE does not cover the limitations of human processes and procedures that cannot be described in terms of a specific technical weakness as resident in the code, architecture, or configuration of the software. Since "known vulnerabilities" can arise from any kind of weakness, it is not possible to map this OWASP category to other CWE entries, since it would effectively require mapping this category to ALL weaknesses.[https://cwe.mitre.org/data/definitions/1035.html]
@@ -416,8 +363,15 @@ It's important to remember that these are known vulnerabilities, not unknown. De
 | Publication | Appearance | Ranking |
 | - | - | - |
 | Top 10:2021 | :white_check_mark: | 6 |
-| Top 10:2017 | :white_check_mark: | 9? |
+| Top 10:2017 | :white_check_mark: | 9* |
+
+!!!
+In 2017, this was known as *Using Components with Known Vulnerabilities*.
+!!!
 ==- XML External Entities (XXE)
+!!!
+In 2021, this risk was merged with and renamed to [Security Minconfiguration](#security-misconfiguration).
+!!!
 
 +++ Notable CWEs
 - CWE-611: Improper Restriction of XML External Entity Reference
