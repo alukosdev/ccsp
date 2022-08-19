@@ -10,7 +10,7 @@ label: Domain 4
 - Common pitfalls
 - Common cloud vulnerabilities
   - [Open Web Application Security Project (OWASP) Top-10](/guidance/owasp-top-10.md)
-  - SANS Top-25
+  - [SANS Top-25](/guidance/cwe-sans-top-25.md)
 
 ## 4.2 Describe the Secure Software Development Life Cycle (SDLC) process
 
@@ -25,12 +25,13 @@ label: Domain 4
 - Threat modeling
   - [Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, and Elevation of Privilege (STRIDE)](/guidance/stride.md)
   - [Disaster, Reproducibility, Exploitability, Affected Users, and Discoverability (DREAD)](/guidance/dread.md)
-  - Architecture, Threats, Attack Surfaces, and Mitigations (ATASM)
-  - Process for Attack Simulation and Threat Analysis (PASTA)
+  - [Architecture, Threats, Attack Surfaces, and Mitigations (ATASM)](/guidance/atasm.md)
+  - [Process for Attack Simulation and Threat Analysis (PASTA)](/guidance/pasta.md)
 - Avoid common vulnerabilities during development
 - Secure coding
   - Open Web Application Security Project (OWASP) Application Security
-- Verification Standard (ASVS), Software Assurance Forum for Excellence in Code (SAFECode)
+  - Verification Standard (ASVS)
+  - Software Assurance Forum for Excellence in Code (SAFECode)
 - Software configuration management and versioning
 
 ## 4.4 Apply cloud software assurance and validation
