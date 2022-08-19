@@ -172,6 +172,14 @@ This is not a threat to the back-end database, but a threat to the client.
 !!!
 This risk was formerly known as *sensitive data exposure*.
 !!!
+==- Identification and Authentication Failures
+
+| Publication | Appearance | Ranking |
+| - | - | - |
+| Top 10:2021 | :white_check_mark: | 7 |
+| Top 10:2017 | :white_check_mark: | 2? |
+| Top 10:2013 | :white_check_mark: | 2? |
+
 ==- Injection
 
 | Publication | Appearance | Ranking |
@@ -189,83 +197,6 @@ To prevent injection attacks:
 - Whitelisting input validation/bounds checking (preventing what types of data can be input)
 - Using prepared statements
 - Escaping all user supplied input
-==- Insecure Design
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :white_check_mark: | 4 |
-| Top 10:2017 | :white_check_mark: | 8? |
-| Top 10:2013 | :white_check_mark: | 4? |
-
-==- Security Misconfiguration
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :white_check_mark: | 5 |
-| Top 10:2017 | :white_check_mark: | 6 |
-| Top 10:2013 | :white_check_mark: | 5 |
-
-> Text below this needs to be cited.
-
-+++ Prevention
-- Secure settings should be defined, implemented, and maintained, as defaults are well known to attackers.
-- Software should be patched regularly to keep it up to date.
-- Software settings should be kept up to date.
-+++
-==- Identification and Authentication Failures
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :white_check_mark: | 7 |
-| Top 10:2017 | :white_check_mark: | 2? |
-| Top 10:2013 | :white_check_mark: | 2? |
-
-==- Software and Data Integrity Failures
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :white_check_mark: | 8 |
-| Top 10:2017 | :x: | |
-| Top 10:2013 | :x: | |
-
-==- Security Logging and Monitoring Failures
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :white_check_mark: | 9 |
-| Top 10:2017 | :x: | |
-| Top 10:2013 | :x: | |
-
-==- Server Side Request Forgery (SSRF)
-
-> Are other vulnerabilities part of SSRF, such as CSRF, XSS, and XXE?
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :white_check_mark: | 10 |
-| Top 10:2017 | :x: | |
-| Top 10:2013 | :x: | |
-
-==- Sensitive Data Exposure
-
-*See [Cryptographic Failures](#cryptographic-failures)*.
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :x: | |
-| Top 10:2017 | :white_check_mark: | 3 |
-| Top 10:2013 | :white_check_mark: | 6 |
-
-> Text below this needs to be cited.
-
-Commonly allowed when web applications do not properly protect sensitive data, such as credit cards, tax IDs, and authentication credentials. Attackers may steal or modify poorly protected data to initiate credit card fraud, identity theft, or other felonies. Even with proper encryption methods put in place, sensitive data is still at risk if the client's browser is insecure.
-
-+++ Impact
-- Attackers may steal or modify weakly protected data to conduct fraud, theft, or other crimes.
-+++ Prevention
-- Encryption (at rest or in transit)
-- Perform checks against client browsers to ensure they meet security standards. If the browser doesn't meet the security standards, it can be prevented access to the web application.
-+++
 ==- Insecure Deserialization
 
 | Publication | Appearance | Ranking |
@@ -283,31 +214,13 @@ Deserialization is the reverse of serialization; taking data structured from som
 !!!
 Today the most popular data format for serializing data is JSON. Before that, it was XML.
 !!!
-==- Using Components with Known Vulnerabilities
+==- Insecure Design
 
 | Publication | Appearance | Ranking |
 | - | - | - |
-| Top 10:2021 | :x: | |
-| Top 10:2017 | :white_check_mark: | 9 |
-| Top 10:2013 | :white_check_mark: | 9 |
-
-Components, such as libraries, frameworks, and other software modules, almost always run with full privileges.
-
-+++ Impact
-- This could allow an attack to undermine application defenses and launch unpredictable attacks.
-- Data loss or server takeover.
-+++ Prevention
-- Applications using components with known vulnerabilities should be quarantined or, at an absolute minimum, have special monitoring to prevent application attacks.
-+++
-
-It's important to remember that these are known vulnerabilities, not unknown. Developers are willingly using these components knowing that they have vulnerabilities. This could be for a variety of reasons, including the fact that they may not actually be leveraging a "vulnerable" aspect of a particular component in their application.
-==- Insufficient Logging and Monitoring
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :x: | |
-| Top 10:2017 | :white_check_mark: | 10 |
-| Top 10:2013 | :x: | |
+| Top 10:2021 | :white_check_mark: | 4 |
+| Top 10:2017 | :white_check_mark: | 8? |
+| Top 10:2013 | :white_check_mark: | 4? |
 
 ==- Insecure Direct Object References
 
@@ -332,6 +245,75 @@ The URL reveals location of specific data as well as the format for potential ot
 - Check access each time a direct object reference is called by an untrusted source.
 - Run a process as both user and privileged user, compare results, and determine similarity; this will help you determine if there are functions that regular users should not have access to and thereby demonstrate that you are missing necessary controls.
 +++
+==- Insufficient Logging and Monitoring
+
+| Publication | Appearance | Ranking |
+| - | - | - |
+| Top 10:2021 | :x: | |
+| Top 10:2017 | :white_check_mark: | 10 |
+| Top 10:2013 | :x: | |
+
+==- Security Misconfiguration
+
+| Publication | Appearance | Ranking |
+| - | - | - |
+| Top 10:2021 | :white_check_mark: | 5 |
+| Top 10:2017 | :white_check_mark: | 6 |
+| Top 10:2013 | :white_check_mark: | 5 |
+
+> Text below this needs to be cited.
+
++++ Prevention
+- Secure settings should be defined, implemented, and maintained, as defaults are well known to attackers.
+- Software should be patched regularly to keep it up to date.
+- Software settings should be kept up to date.
++++
+==- Security Logging and Monitoring Failures
+
+| Publication | Appearance | Ranking |
+| - | - | - |
+| Top 10:2021 | :white_check_mark: | 9 |
+| Top 10:2017 | :x: | |
+| Top 10:2013 | :x: | |
+
+==- Sensitive Data Exposure
+
+*See [Cryptographic Failures](#cryptographic-failures)*.
+
+| Publication | Appearance | Ranking |
+| - | - | - |
+| Top 10:2021 | :x: | |
+| Top 10:2017 | :white_check_mark: | 3 |
+| Top 10:2013 | :white_check_mark: | 6 |
+
+> Text below this needs to be cited.
+
+Commonly allowed when web applications do not properly protect sensitive data, such as credit cards, tax IDs, and authentication credentials. Attackers may steal or modify poorly protected data to initiate credit card fraud, identity theft, or other felonies. Even with proper encryption methods put in place, sensitive data is still at risk if the client's browser is insecure.
+
++++ Impact
+- Attackers may steal or modify weakly protected data to conduct fraud, theft, or other crimes.
++++ Prevention
+- Encryption (at rest or in transit)
+- Perform checks against client browsers to ensure they meet security standards. If the browser doesn't meet the security standards, it can be prevented access to the web application.
++++
+==- Server Side Request Forgery (SSRF)
+
+> Are other vulnerabilities part of SSRF, such as CSRF, XSS, and XXE?
+
+| Publication | Appearance | Ranking |
+| - | - | - |
+| Top 10:2021 | :white_check_mark: | 10 |
+| Top 10:2017 | :x: | |
+| Top 10:2013 | :x: | |
+
+==- Software and Data Integrity Failures
+
+| Publication | Appearance | Ranking |
+| - | - | - |
+| Top 10:2021 | :white_check_mark: | 8 |
+| Top 10:2017 | :x: | |
+| Top 10:2013 | :x: | |
+
 ==- Unvalidated Redirects and Forwards
 
 | Publication | Appearance | Ranking |
@@ -348,6 +330,24 @@ Redirection to unauthorized pages, often in conjunction with a social engineerin
 - Don't use redirects/forwards in your applications.
 - Train users to recognize invalidated links.
 +++
+==- Using Components with Known Vulnerabilities
+
+| Publication | Appearance | Ranking |
+| - | - | - |
+| Top 10:2021 | :x: | |
+| Top 10:2017 | :white_check_mark: | 9 |
+| Top 10:2013 | :white_check_mark: | 9 |
+
+Components, such as libraries, frameworks, and other software modules, almost always run with full privileges.
+
++++ Impact
+- This could allow an attack to undermine application defenses and launch unpredictable attacks.
+- Data loss or server takeover.
++++ Prevention
+- Applications using components with known vulnerabilities should be quarantined or, at an absolute minimum, have special monitoring to prevent application attacks.
++++
+
+It's important to remember that these are known vulnerabilities, not unknown. Developers are willingly using these components knowing that they have vulnerabilities. This could be for a variety of reasons, including the fact that they may not actually be leveraging a "vulnerable" aspect of a particular component in their application.
 ==- Missing Functional Level Access Control
 *See [Broken Access Control](#broken-access-control)*.
 ==- Vulnerable and Outdated Components
