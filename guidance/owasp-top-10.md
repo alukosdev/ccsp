@@ -80,11 +80,11 @@ To address these risks, organizations must have an application risk management p
 | Top 10:2017 | :white_check_mark: | 5 |
 ==- Broken Authentication
 !!!
-This risk was *renamed* to [Identification and Authentication Failures](#identification-and-authentication-failures) in 2021.
+This risk was renamed to [Identification and Authentication Failures](#identification-and-authentication-failures) in 2021.
 !!!
 ==- Cross-Site Scripting (XSS)
 !!!
-This risk was *merged* with [Injection](#injection) in 2021.
+This risk was merged with [Injection](#injection) in 2021.
 !!!
 ==- Cryptographic Failures
 
@@ -102,7 +102,7 @@ This risk was *merged* with [Injection](#injection) in 2021.
 | Top 10:2017 | :white_check_mark: | 3* |
 
 !!!
-This risk was formerly known as *Sensitive Data Exposure*.
+This risk was renamed from *Sensitive Data Exposure* in 2021.
 !!!
 ==- Identification and Authentication Failures
 
@@ -120,7 +120,7 @@ This risk was formerly known as *Sensitive Data Exposure*.
 | Top 10:2017 | :white_check_mark: | 2* |
 
 !!!
-This risk was merged with *Broken Authentication*.
+This risk was renamed from *Broken Authentication* in 2021.
 !!!
 ==- Injection
 
@@ -146,9 +146,13 @@ To prevent injection attacks:
 - Whitelisting input validation/bounds checking (preventing what types of data can be input)
 - Using prepared statements
 - Escaping all user supplied input
+
+!!!
+This risk was merged with *Cross-Site Scripting (XSS)* in 2021.
+!!!
 ==- Insecure Deserialization
 !!!
-This risk was *merged* with [Software and Data Integrity Failures](#software-and-data-integrity-failures) in 2021.
+This risk was merged with [Software and Data Integrity Failures](#software-and-data-integrity-failures) in 2021.
 !!!
 ==- Insecure Design
 
@@ -168,7 +172,7 @@ This risk was *merged* with [Software and Data Integrity Failures](#software-and
 
 ==- Insufficient Logging and Monitoring
 !!!
-This risk was *renamed* to [Security Logging and Monitoring Failures](#security-logging-and-monitoring-failures) in 2021.
+This risk was renamed to [Security Logging and Monitoring Failures](#security-logging-and-monitoring-failures) in 2021.
 !!!
 ==- Security Logging and Monitoring Failures
 
@@ -186,7 +190,7 @@ This risk was *renamed* to [Security Logging and Monitoring Failures](#security-
 | Top 10:2017 | :white_check_mark: | 10* |
 
 !!!
-This risk was formerly known as *Insufficient Logging and Monitoring*.
+This risk was renamed from *Insufficient Logging and Monitoring* in 2021.
 !!!
 ==- Security Misconfiguration
 
@@ -211,7 +215,7 @@ This risk was formerly known as *Insufficient Logging and Monitoring*.
 +++
 ==- Sensitive Data Exposure
 !!!
-This risk was *renamed* to [Cryptographic Failures](#vulnerable-and-outdated-components) in 2021.
+This risk was renamed to [Cryptographic Failures](#vulnerable-and-outdated-components) in 2021.
 !!!
 ==- Server-Side Request Forgery (SSRF)
 
@@ -247,7 +251,7 @@ The data shows a relatively low incidence rate with above average testing covera
 
 ==- Using Components with Known Vulnerabilities
 !!!
-This risk was *renamed* to [Vulnerable and Outdated Components](#vulnerable-and-outdated-components) in 2021.
+This risk was renamed to [Vulnerable and Outdated Components](#vulnerable-and-outdated-components) in 2021.
 !!!
 ==- Vulnerable and Outdated Components
 
@@ -263,29 +267,12 @@ This risk was *renamed* to [Vulnerable and Outdated Components](#vulnerable-and-
 | Top 10:2017 | :white_check_mark: | 9* |
 
 !!!
-This was formlerly known as *Using Components with Known Vulnerabilities*.
+This risk was renamed from *Using Components with Known Vulnerabilities* in 2021.
 !!!
 ==- XML External Entities (XXE)
 !!!
-This risk was *merged* with [Security Miconfiguration](#security-misconfiguration) in 2021.
+This risk was merged with [Security Misconfiguration](#security-misconfiguration) in 2021.
 !!!
-
-+++ Notable CWEs
-- CWE-611: Improper Restriction of XML External Entity Reference
-+++ Attack Scenarios
-+++ Prevention
-+++
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :x: | |
-| Top 10:2017 | :white_check_mark: | 4 |
-
-> Text below this needs to be cited.
-
-XML external entities refer to references, such as the application directory structure or the configuration of the hosting system, that should be removed from the code, but are left in by accident. These items can provide information to an attacker that may allow them to circumvent authentication measures to gain access.
-
-Attackers can exploit vulnerable XML processors if they can upload XML or include hostile content in an XML document, exploiting vulnerable code, dependencies, or integrations.
 ==-
 
 ## References
