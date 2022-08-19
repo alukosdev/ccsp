@@ -189,6 +189,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | SABSA | Sherwood Applied Business Security Architecture |
 | SAD | [Sensitive Authentication Data](/reference/glossary/#sensitive-authentication-data-sad) |
 | SAML | Security Assertion Markup Language |
+| SANS | SysAdmin, Audit, Network, and Security |
 | SAQ | [Self-Assessment Questionnaire](/reference/glossary/#self-assessment-questionnaire-saq) |
 | SAS | Statement on Auditing Standards |
 | SAST | Static Application Security Testing |

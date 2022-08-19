@@ -15,3 +15,4 @@ This page is currently under revision.
 | Short Form | Full Form |
 | - | - |
 | CWE | Common Weakness Enumeration |
+| SANS | SysAdmin, Audit, Network, and Security |
