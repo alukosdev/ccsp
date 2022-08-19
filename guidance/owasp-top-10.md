@@ -268,13 +268,11 @@ Deserialization is the reverse of serialization; taking data structured from som
 Today the most popular data format for serializing data is JSON. Before that, it was XML.
 !!!
 ==- Using Components with Known Vulnerabilities
-
 | Publication | Appearance | Ranking |
 | - | - |
 | Top 10:2021 | :x: | |
 | Top 10:2017 | :white_check_mark: | 9 |
 | Top 10:2013 | :white_check_mark: | 9 |
-
 Components, such as libraries, frameworks, and other software modules, almost always run with full privileges.
 
 +++ Impact
