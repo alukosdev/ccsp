@@ -56,7 +56,7 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 10. [Insufficient Logging and Monitoring](#insufficient-logging-and-monitoring)
 +++ Top 10:2013
 1. [Injection](#injection)
-2. [Broken Authentication and Session Management](#broken-authentication)
+2. [Broken Authentication and Session Management](#broken-authentication-and-session-management)
 3. [Cross-Site Scripting (XSS)](#cross-site-scripting-xss)
 4. [Insecure Direct Object References](#insecure-direct-object-references)
 5. [Security Misconfiguration](#security-misconfiguration)
@@ -95,11 +95,19 @@ This risk was formerly known as *missing function-level access control*.
 !!!
 ==- Broken Authentication
 
++++ Notable CWEs
+- CWE-256: Plaintext Storage of a Password
+- CWE-308: Use of Single-factor Authentication
+- CWE-523: Unprotected Transport of Credentials
++++ Attack Scenarios
++++ Prevention
++++
+
 | Publication | Appearance | Ranking |
 | - | - | - |
 | Top 10:2021 | :x: | |
 | Top 10:2017 | :white_check_mark: | 2 |
-| Top 10:2013 | :white_check_mark: | 2? |
+| Top 10:2013 | :white_check_mark: | 2* |
 
 > Text below this needs to be cited.
 
@@ -114,7 +122,19 @@ Occurs when authentication and session management application functions are not 
 - Do not allow simple passwords to be used.
 - Ensure the connection is encrypted so credentials aren't exposed.
 +++
+
+!!!
+This may also be known as *broken authentication and session management* but I should verify this.
+!!!
+==- Broken Authentication and Session Management
+*See [Broken Authentication](#broken-authentication)*.
 ==- Cross-Site Request Forgery (CSRF)
+
++++ Notable CWEs
+- CWE-352: Cross-Site Request Forgery (CSRF)
++++ Attack Scenarios
++++ Prevention
++++
 
 | Publication | Appearance | Ranking |
 | - | - | - |
@@ -135,6 +155,12 @@ Occurs when a logged-on user's browser sends a forged HTTP request along with co
 - Include a CAPTCHA code as part of the user resource request process.
 +++
 ==- Cross-Site Scripting (XSS)
+
++++ Notable CWEs
+- CWE-79: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')
++++ Attack Scenarios
++++ Prevention
++++
 
 | Publication | Appearance | Ranking |
 | - | - | - |
@@ -159,10 +185,10 @@ Occurs when an application receives untrusted data and then sends it to a web br
 This is not a threat to the back-end database, but a threat to the client.
 ==- Cryptographic Failures
 
-+++ CWEs
++++ Notable CWEs
 - CWE-259: Use of Hard-coded Password
 - CWE-327: Broken or Risky Crypto Algorithm
-- CWE-331 Insufficient Entropy
+- CWE-331: Insufficient Entropy
 +++ Attack Scenarios
 +++ Prevention
 +++
@@ -178,7 +204,7 @@ This risk was formerly known as *sensitive data exposure*.
 !!!
 ==- Identification and Authentication Failures
 
-+++ CWEs
++++ Notable CWEs
 - CWE-297: Improper Validation of Certificate with Host Mismatch
 - CWE-287: Improper Authentication
 - CWE-384: Session Fixation
@@ -194,7 +220,7 @@ This risk was formerly known as *sensitive data exposure*.
 
 ==- Injection
 
-+++ CWEs
++++ Notable CWEs
 - CWE-79: Cross-site Scripting
 - CWE-89: SQL Injection
 - CWE-73: External Control of File Name or Path
@@ -219,6 +245,12 @@ To prevent injection attacks:
 - Escaping all user supplied input
 ==- Insecure Deserialization
 
++++ Notable CWEs
+- CWE-502: Deserialization of Untrusted Data
++++ Attack Scenarios
++++ Prevention
++++
+
 | Publication | Appearance | Ranking |
 | - | - | - |
 | Top 10:2021 | :x: | |
@@ -236,7 +268,7 @@ Today the most popular data format for serializing data is JSON. Before that, it
 !!!
 ==- Insecure Design
 
-+++ CWEs
++++ Notable CWEs
 - CWE-209: Generation of Error Message Containing Sensitive Information
 - CWE-256: Unprotected Storage of Credentials
 - CWE-501: Trust Boundary Violation
@@ -252,6 +284,14 @@ Today the most popular data format for serializing data is JSON. Before that, it
 | Top 10:2013 | :white_check_mark: | 4? |
 
 ==- Insecure Direct Object References
+
++++ Notable CWEs
+- CWE-22: Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')
+- CWE-99: Improper Control of Resource Identifiers ('Resource Injection')
+- CWE-706: Use of Incorrectly-Resolved Name or Reference
++++ Attack Scenarios
++++ Prevention
++++
 
 | Publication | Appearance | Ranking |
 | - | - | - |
@@ -284,10 +324,10 @@ The URL reveals location of specific data as well as the format for potential ot
 
 ==- Security Logging and Monitoring Failures
 
-+++ CWEs
-- CWE-117 Improper Output Neutralization for Logs
-- CWE-223 Omission of Security-relevant Information
-- CWE-532 Insertion of Sensitive Information into Log File
++++ Notable CWEs
+- CWE-117: Improper Output Neutralization for Logs
+- CWE-223: Omission of Security-relevant Information
+- CWE-532: Insertion of Sensitive Information into Log File
 +++ Attack Scenarios
 +++ Prevention
 +++
@@ -301,9 +341,9 @@ The URL reveals location of specific data as well as the format for potential ot
 *See [Broken Access Control](#broken-access-control)*.
 ==- Security Misconfiguration
 
-+++ CWEs
-- CWE-16 Configuration
-- CWE-611 Improper Restriction of XML External Entity Reference
++++ Notable CWEs
+- CWE-16: Configuration
+- CWE-611: Improper Restriction of XML External Entity Reference
 +++ Attack Scenarios
 +++ Prevention
 +++
@@ -347,7 +387,7 @@ Commonly allowed when web applications do not properly protect sensitive data, s
 
 As modern web applications provide end-users with convenient features, fetching a URL becomes a common scenario. As a result, the incidence of SSRF is increasing. Also, the severity of SSRF is becoming higher due to cloud services and the complexity of architectures.[[¹⁰]](#ref10)
 
-+++ CWEs
++++ Notable CWEs
 The data shows a relatively low incidence rate with above average testing coverage and above-average Exploit and Impact potential ratings.
 +++ Attack Scenarios
 +++ Prevention
@@ -361,7 +401,7 @@ The data shows a relatively low incidence rate with above average testing covera
 
 ==- Software and Data Integrity Failures
 
-+++ CWEs
++++ Notable CWEs
 - CWE-829: Inclusion of Functionality from Untrusted Control Sphere
 - CWE-494: Download of Code Without Integrity Check
 - CWE-502: Deserialization of Untrusted Data
@@ -376,6 +416,12 @@ The data shows a relatively low incidence rate with above average testing covera
 | Top 10:2013 | :x: | |
 
 ==- Unvalidated Redirects and Forwards
+
++++ Notable CWEs
+- CWE-601: URL Redirection to Untrusted Site ('Open Redirect')
++++ Attack Scenarios
++++ Prevention
++++
 
 | Publication | Appearance | Ranking |
 | - | - | - |
@@ -392,6 +438,12 @@ Redirection to unauthorized pages, often in conjunction with a social engineerin
 - Train users to recognize invalidated links.
 +++
 ==- Using Components with Known Vulnerabilities
+
++++ Notable CWEs
+CWE does not cover the limitations of human processes and procedures that cannot be described in terms of a specific technical weakness as resident in the code, architecture, or configuration of the software. Since "known vulnerabilities" can arise from any kind of weakness, it is not possible to map this OWASP category to other CWE entries, since it would effectively require mapping this category to ALL weaknesses.[https://cwe.mitre.org/data/definitions/1035.html]
++++ Attack Scenarios
++++ Prevention
++++
 
 | Publication | Appearance | Ranking |
 | - | - | - |
@@ -411,7 +463,7 @@ Components, such as libraries, frameworks, and other software modules, almost al
 It's important to remember that these are known vulnerabilities, not unknown. Developers are willingly using these components knowing that they have vulnerabilities. This could be for a variety of reasons, including the fact that they may not actually be leveraging a "vulnerable" aspect of a particular component in their application.
 ==- Vulnerable and Outdated Components
 
-+++ CWEs
++++ Notable CWEs
 - CWE-1104: Use of Unmaintained Third-Party Components
 +++ Attack Scenarios
 +++ Prevention
@@ -423,6 +475,12 @@ It's important to remember that these are known vulnerabilities, not unknown. De
 | Top 10:2017 | :white_check_mark: | 9? |
 | Top 10:2013 | :white_check_mark: | 9? |
 ==- XML External Entities (XXE)
+
++++ Notable CWEs
+- CWE-611: Improper Restriction of XML External Entity Reference
++++ Attack Scenarios
++++ Prevention
++++
 
 | Publication | Appearance | Ranking |
 | - | - | - |
