@@ -78,72 +78,14 @@ To address these risks, organizations must have an application risk management p
 | - | - | - |
 | Top 10:2021 | :white_check_mark: | 1 |
 | Top 10:2017 | :white_check_mark: | 5 |
-
-!!!
-This risk was merged in 2017 from *Insecure Direct Object References* and *Missing Function Level Access Control*.
-!!!
 ==- Broken Authentication
 !!!
 In 2021, this risk was renamed to [Identification and Authentication Failures](#identification-and-authentication-failures).
 !!!
-
-+++ Notable CWEs
-- CWE-256: Plaintext Storage of a Password
-- CWE-308: Use of Single-factor Authentication
-- CWE-523: Unprotected Transport of Credentials
-+++ Attack Scenarios
-+++ Prevention
-+++
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :x: | |
-| Top 10:2017 | :white_check_mark: | 2 |
-
-> Text below this needs to be cited.
-
-Occurs when authentication and session management application functions are not implemented correctly.
-
-+++ Impact
-- Allows attackers to compromise passwords, keys, or session tokens
-- Exploitation of other implementation flaws to assume other identities
-+++ Prevention
-- Do not use custom authentication schemes.
-- Rotate session IDs after a successful login.
-- Do not allow simple passwords to be used.
-- Ensure the connection is encrypted so credentials aren't exposed.
-+++
 ==- Cross-Site Scripting (XSS)
 !!!
-In 2021, this risk was merged with and renamed to [Injection](#injection).
+In 2021, this risk was merged with [Injection](#injection).
 !!!
-
-+++ Notable CWEs
-- CWE-79: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')
-+++ Attack Scenarios
-+++ Prevention
-+++
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :x: | |
-| Top 10:2017 | :white_check_mark: | 7 |
-
-> Text below this needs to be cited.
-
-Occurs when an application receives untrusted data and then sends it to a web browser without proper validation.
-
-+++ Impact
-- Allows attackers to execute scripts in a victim's browser which can hijack user sessions, deface websites, or redirect the user to malicious websites.
-+++ Prevention
-- Use an auto-escaping template system
-- Put untrusted data in only allowed slots of HTML documents
-- HTML escape when including untrusted data in any HTML elements
-- Use the attribute escape when including untrusted data in attribute elements
-- Sanitize HTML markup with a library designed for the purpose
-+++
-
-This is not a threat to the back-end database, but a threat to the client.
 ==- Cryptographic Failures
 
 +++ Notable CWEs
@@ -160,7 +102,7 @@ This is not a threat to the back-end database, but a threat to the client.
 | Top 10:2017 | :white_check_mark: | 3* |
 
 !!!
-In 2021, *Sensitive Data Exposure*.
+This risk was formerly known as *Sensitive Data Exposure*.
 !!!
 ==- Identification and Authentication Failures
 
@@ -175,8 +117,11 @@ In 2021, *Sensitive Data Exposure*.
 | Publication | Appearance | Ranking |
 | - | - | - |
 | Top 10:2021 | :white_check_mark: | 7 |
-| Top 10:2017 | :white_check_mark: | 2? |
+| Top 10:2017 | :white_check_mark: | 2* |
 
+!!!
+This risk was merged with *Broken Authentication*.
+!!!
 ==- Injection
 
 +++ Notable CWEs
@@ -242,10 +187,6 @@ Today the most popular data format for serializing data is JSON. Before that, it
 | Top 10:2021 | :white_check_mark: | 4 |
 | Top 10:2017 | :white_check_mark: | 8? |
 
-==- Insecure Direct Object References
-!!!
-This risk was merged into [Broken Access Control](#broken-access-control) in 2017.
-!!!
 ==- Insufficient Logging and Monitoring
 !!!
 In 2021, this risk was renamed to [Security Logging and Monitoring Failures](#security-logging-and-monitoring-failures).
@@ -268,8 +209,6 @@ In 2021, this risk was renamed to [Security Logging and Monitoring Failures](#se
 !!!
 This risk was formerly known as *Insufficient Logging and Monitoring*.
 !!!
-==- Missing Function Level Access Control
-This was merged into [Broken Access Control](#broken-access-control) in 2017.
 ==- Security Misconfiguration
 
 +++ Notable CWEs
@@ -367,11 +306,11 @@ It's important to remember that these are known vulnerabilities, not unknown. De
 | Top 10:2017 | :white_check_mark: | 9* |
 
 !!!
-In 2017, this was known as *Using Components with Known Vulnerabilities*.
+This was forml was known as *Using Components with Known Vulnerabilities*.
 !!!
 ==- XML External Entities (XXE)
 !!!
-In 2021, this risk was merged with and renamed to [Security Minconfiguration](#security-misconfiguration).
+In 2021, this risk was merged with [Security Minconfiguration](#security-misconfiguration).
 !!!
 
 +++ Notable CWEs
