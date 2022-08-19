@@ -78,8 +78,8 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 | Publication | Appearance | Ranking |
 | - | - |
 | Top 10:2021 | :white_check_mark: | 1 |
-| Top 10:2017 | :x: | |
-| Top 10:2013 | :x: | |
+| Top 10:2017 | :white_check_mark: | 7 |
+| Top 10:2013 | :white_check_mark: | 5* |
 
 > Text below this needs to be cited.
 
@@ -98,7 +98,7 @@ This risk was formerly known as *missing function-level access control*.
 This appears in A01:2021, A5:2017, and A2:2013.
 !!!
 ==- Cryptographic Failures
-| Publication | Appearance | Ranking | { class="compact" }
+| Publication | Appearance | Ranking |
 | - | - |
 | Top 10:2021 | :white_check_mark: | 2 |
 | Top 10:2017 | :x: | |
@@ -108,7 +108,7 @@ This appears in A01:2021, A5:2017, and A2:2013.
 This risk was formerly known as *sensitive data exposure*.
 !!!
 ==- Injection
-| Publication | Appearance | Ranking | { class="compact" }
+| Publication | Appearance | Ranking |
 | - | - |
 | Top 10:2021 | :white_check_mark: | 3 |
 | Top 10:2017 | :white_check_mark: | 1 |
@@ -124,13 +124,13 @@ To prevent injection attacks:
 - Escaping all user supplied input
 ==- Insecure Design
 
-| Publication | Appearance | Ranking | { class="compact" }
+| Publication | Appearance | Ranking |
 | - | - |
 | Top 10:2021 | :white_check_mark: | 4 |
 | Top 10:2017 | :white_check_mark: | 8? |
 | Top 10:2013 | :white_check_mark: | 4? |
 ==- Security Misconfiguration
-| Publication | Appearance | Ranking | { class="compact" }
+| Publication | Appearance | Ranking |
 | - | - |
 | Top 10:2021 | :white_check_mark: | 5 |
 | Top 10:2017 | :white_check_mark: | 6 |
@@ -143,19 +143,19 @@ To prevent injection attacks:
 - Software settings should be kept up to date.
 +++
 ==- Vulnerable and Outdated Components
-| Publication | Appearance | Ranking | { class="compact" }
+| Publication | Appearance | Ranking |
 | - | - |
 | Top 10:2021 | :white_check_mark: | 6 |
 | Top 10:2017 | :white_check_mark: | 9? |
 | Top 10:2013 | :white_check_mark: | 9? |
 ==- Identification and Authentication Failures
-| Publication | Appearance | Ranking | { class="compact" }
+| Publication | Appearance | Ranking |
 | - | - |
 | Top 10:2021 | :white_check_mark: | 7 |
 | Top 10:2017 | :white_check_mark: | 2? |
 | Top 10:2013 | :white_check_mark: | 2? |
 ==- Software and Data Integrity Failures
-| Publication | Appearance | Ranking | { class="compact" }
+| Publication | Appearance | Ranking |
 | - | - |
 | Top 10:2021 | :white_check_mark: | 8 |
 | Top 10:2017 | :x: | |
@@ -168,13 +168,13 @@ This is included in A08:2021.
 There must be components from 2017 and 2013 included in this. I should figure out which.
 !!!
 ==- Security Logging and Monitoring Failures
-| Publication | Appearance | Ranking | { class="compact" }
+| Publication | Appearance | Ranking |
 | - | - |
 | Top 10:2021 | :white_check_mark: | 9 |
 | Top 10:2017 | :x: | |
 | Top 10:2013 | :x: | |
 ==- Server Side Request Forgery (SSRF)
-| Publication | Appearance | Ranking | { class="compact" }
+| Publication | Appearance | Ranking |
 | - | - |
 | Top 10:2021 | :white_check_mark: | 10 |
 | Top 10:2017 | :x: | |
@@ -184,7 +184,7 @@ There must be components from 2017 and 2013 included in this. I should figure ou
 Are other vulnerabilities part of SSRF, such as CSRF, XSS, and XXE?
 !!!
 ==- Broken Authentication
-| Publication | Appearance | Ranking | { class="compact" }
+| Publication | Appearance | Ranking |
 | - | - |
 | Top 10:2021 | :x: | |
 | Top 10:2017 | :white_check_mark: | 2 |
@@ -204,7 +204,7 @@ Occurs when authentication and session management application functions are not 
 - Ensure the connection is encrypted so credentials aren't exposed.
 +++
 ==- Sensitive Data Exposure
-| Publication | Appearance | Ranking | { class="compact" }
+| Publication | Appearance | Ranking |
 | - | - |
 | Top 10:2021 | :x: | |
 | Top 10:2017 | :white_check_mark: | 3 |
@@ -221,7 +221,7 @@ Commonly allowed when web applications do not properly protect sensitive data, s
 - Perform checks against client browsers to ensure they meet security standards. If the browser doesn't meet the security standards, it can be prevented access to the web application.
 +++
 ==- XML External Entities (XXE)
-| Publication | Appearance | Ranking | { class="compact" }
+| Publication | Appearance | Ranking |
 | - | - |
 | Top 10:2021 | :x: | |
 | Top 10:2017 | :white_check_mark: | 4 |
@@ -232,7 +232,7 @@ XML external entities refer to references, such as the application directory str
 
 Attackers can exploit vulnerable XML processors if they can upload XML or include hostile content in an XML document, exploiting vulnerable code, dependencies, or integrations.
 ==- Cross-Site Scripting (XSS)
-| Publication | Appearance | Ranking | { class="compact" }
+| Publication | Appearance | Ranking |
 | - | - |
 | Top 10:2021 | :x: | |
 | Top 10:2017 | :white_check_mark: | 7 |
@@ -253,7 +253,7 @@ Occurs when an application receives untrusted data and then sends it to a web br
 
 This is not a threat to the back-end database, but a threat to the client.
 ==- Insecure Deserialization
-| Publication | Appearance | Ranking | { class="compact" }
+| Publication | Appearance | Ranking |
 | - | - |
 | Top 10:2021 | :x: | |
 | Top 10:2017 | :white_check_mark: | 8 |
@@ -268,7 +268,7 @@ Deserialization is the reverse of serialization; taking data structured from som
 Today the most popular data format for serializing data is JSON. Before that, it was XML.
 !!!
 ==- Using Components with Known Vulnerabilities
-| Publication | Appearance | Ranking | { class="compact" }
+| Publication | Appearance | Ranking |
 | - | - |
 | Top 10:2021 | :x: | |
 | Top 10:2017 | :white_check_mark: | 9 |
@@ -284,13 +284,13 @@ Components, such as libraries, frameworks, and other software modules, almost al
 
 It's important to remember that these are known vulnerabilities, not unknown. Developers are willingly using these components knowing that they have vulnerabilities. This could be for a variety of reasons, including the fact that they may not actually be leveraging a "vulnerable" aspect of a particular component in their application.
 ==- Insufficient Logging and Monitoring
-| Publication | Appearance | Ranking | { class="compact" }
+| Publication | Appearance | Ranking |
 | - | - |
 | Top 10:2021 | :x: | |
 | Top 10:2017 | :white_check_mark: | 10 |
 | Top 10:2013 | :x: | |
 ==- Insecure Direct Object References
-| Publication | Appearance | Ranking | { class="compact" }
+| Publication | Appearance | Ranking |
 | - | - |
 | Top 10:2021 | :x: | |
 | Top 10:2017 | :x: | |
@@ -311,7 +311,7 @@ The URL reveals location of specific data as well as the format for potential ot
 - Run a process as both user and privileged user, compare results, and determine similarity; this will help you determine if there are functions that regular users should not have access to and thereby demonstrate that you are missing necessary controls.
 +++
 ==- Cross-Site Request Forgery (CSRF)
-| Publication | Appearance | Ranking | { class="compact" }
+| Publication | Appearance | Ranking |
 | - | - |
 | Top 10:2021 | :x: | |
 | Top 10:2017 | :x: | |
@@ -329,7 +329,7 @@ Occurs when a logged-on user's browser sends a forged HTTP request along with co
 - Include a CAPTCHA code as part of the user resource request process.
 +++
 ==- Unvalidated Redirects and Forwards
-| Publication | Appearance | Ranking | { class="compact" }
+| Publication | Appearance | Ranking |
 | - | - |
 | Top 10:2021 | :x: | |
 | Top 10:2017 | :x: | |
