@@ -903,6 +903,7 @@ Dictates that one person/entity cannot complete an entire transaction alone.
 In the case of encryption, a single entity should not be able to administer the issuing of keys, encrypt the data, and store the keys, because this could lead to a situation where that entity has the ability to access or take encrypted data.
 ==- Server Replication
 Concerned more about the processing system rather than the data being replicated.
+==- Server-Side Request Forgery (SSRF)
 ==- Service-Oriented Architecture (SOA)
 Views software as a combination of interoperable services, the components of which can be substituted at will.
 ==- Service-Level Agremeent (SLA)

@@ -18,6 +18,7 @@ The following contents reflect information collected from the official [OWASP To
 
 | Short Form | Full Form |
 | - | - |
+| ACL | Access Control List |
 | CSRF | Cross-Site Request Forgery |
 | OWASP | Open Web Application Security Project |
 | SSRF | Server Side Request Forgery |
@@ -41,7 +42,7 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 7. [Identification and Authentication Failures](#identification-and-authentication-failures)
 8. [Software and Data Integrity Failures](#software-and-data-integrity-failures)
 9. [Security Logging and Monitoring Failures](#security-logging-and-monitoring-failures)
-10. [Server Side Request Forgery (SSRF)](#server-side-request-forgery-ssrf)
+10. [Server-Side Request Forgery (SSRF)](#server-side-request-forgery-ssrf)
 +++ Top 10:2017
 1. [Injection](#injection)
 2. [Broken Authentication](#broken-authentication)
@@ -297,9 +298,11 @@ Commonly allowed when web applications do not properly protect sensitive data, s
 - Encryption (at rest or in transit)
 - Perform checks against client browsers to ensure they meet security standards. If the browser doesn't meet the security standards, it can be prevented access to the web application.
 +++
-==- Server Side Request Forgery (SSRF)
+==- Server-Side Request Forgery (SSRF)
 
-> Are other vulnerabilities part of SSRF, such as CSRF, XSS, and XXE?
+<span id="rev1"></span>SSRF flaws occur whenever a web application is fetching a remote resource without validating the user-supplied URL. It allows an attacker to coerce the application to send a crafted request to an unexpected destination, even when protected by a firewall, VPN, or another type of network access control list (ACL).
+
+As modern web applications provide end-users with convenient features, fetching a URL becomes a common scenario. As a result, the incidence of SSRF is increasing. Also, the severity of SSRF is becoming higher due to cloud services and the complexity of architectures.[[¹⁰]](#ref10)
 
 | Publication | Appearance | Ranking |
 | - | - | - |
@@ -374,6 +377,7 @@ Attackers can exploit vulnerable XML processors if they can upload XML or includ
 ## References
 
 1. <span id="ref1"></span>[⌃](#rev1) OWASP. (2021). *A01:2021 - Broken Access Control*. https://owasp.org/Top10/A01_2021-Broken_Access_Control
+10. <span id="ref1"></span>[⌃](#rev10) OWASP. (2021). *A10:2021 - Server-Side Request Forgery (SSRF)*. https://owasp.org/Top10/A10_2021-Server-Side_Request_Forgery_%28SSRF%29/
 
 ## Sources
 

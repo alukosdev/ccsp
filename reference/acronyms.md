@@ -211,7 +211,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | SPML | [Service Provisioning Markup Language](/reference/glossary/#service-provisioning-markup-language-spml) |
 | SSAE | Statement on Standards for Attestation Engagements |
 | SSO | Single Sign-On |
-| SSRF | Server Side Request Forgery |
+| SSRF | Server-Side Request Forgery |
 | ST | Security Target |
 | STAR | Security, Trust, and Assurance Registry |
 | TCI | Trusted Cloud Initiative |
