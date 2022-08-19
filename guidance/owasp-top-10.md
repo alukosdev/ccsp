@@ -32,16 +32,16 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 ## Publications
 
 +++ Top 10:2021
-- A01:2021 - [Broken Access Control](#broken-access-control)
-- A02:2021 - [Cryptographic Failures](#cryptographic-failures)
-- A03:2021 - [Injection](#injection)
-- A04:2021 - [Insecure Design](#insecure-design)
-- A05:2021 - [Security Misconfiguration](#security-misconfiguration)
-- A06:2021 - [Vulnerable and Outdated Components](#vulnerable-and-outdated-components)
-- A07:2021 - [Identification and Authentication Failures](#identification-and-authentication-failures)
-- A08:2021 - [Software and Data Integrity Failures](#software-and-data-integrity-failures)
-- A09:2021 - [Security Logging and Monitoring Failures](#security-logging-and-monitoring-failures)
-- A10:2021 - [Server Side Request Forgery (SSRF)](#server-side-request-forgery-ssrf)
+1. [Broken Access Control](#broken-access-control)
+2. [Cryptographic Failures](#cryptographic-failures)
+3. [Injection](#injection)
+4. [Insecure Design](#insecure-design)
+5. [Security Misconfiguration](#security-misconfiguration)
+6. [Vulnerable and Outdated Components](#vulnerable-and-outdated-components)
+7. [Identification and Authentication Failures](#identification-and-authentication-failures)
+8. [Software and Data Integrity Failures](#software-and-data-integrity-failures)
+9. [Security Logging and Monitoring Failures](#security-logging-and-monitoring-failures)
+10. [Server Side Request Forgery (SSRF)](#server-side-request-forgery-ssrf)
 +++ Top 10:2017
 - A1:2017 - [Injection](#injection)
 - A2:2017 - [Broken Authentication](#broken-authentication)
