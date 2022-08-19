@@ -28,4 +28,4 @@ PASTA has seven stages, with each stage acting as building blocks to one another
 
 ## Sources
 
-- VerSprite. (2021, November 23). *What is PASTA Threat Modeling?*. https://versprite.com/blog/what-is-pasta-threat-modeling
+- VerSprite. (2021, November 23). *What is PASTA Threat Modeling?* https://versprite.com/blog/what-is-pasta-threat-modeling
