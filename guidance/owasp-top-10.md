@@ -55,6 +55,7 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 8. [Insecure Deserialization](#insecure-deserialization)
 9. [Using Components with Known Vulnerabilities](#using-components-with-known-vulnerabilities)
 10. [Insufficient Logging and Monitoring](#insufficient-logging-and-monitoring)
++++
 
 ## Web Application Security Risks
 
