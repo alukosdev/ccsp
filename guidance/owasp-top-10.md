@@ -84,6 +84,8 @@ An attacker simply modifies the browser's 'acct' parameter to send whatever acco
 https://example.com/app/accountInfo?acct=notmyacct
 ```
 
+---
+
 **Scenario #2**: An attacker simply forces browses to target URLs. Admin rights are required for access to the admin page.
 
 ```
