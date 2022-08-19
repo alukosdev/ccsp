@@ -91,7 +91,7 @@ To address these risks, organizations must have an application risk management p
 | Top 10:2013 | :white_check_mark: | 7* |
 
 !!!
-This risk was formerly known as *missing function-level access control*.
+This risk was formerly known as *Missing Function Level Access Control*.
 !!!
 ==- Broken Authentication
 
@@ -200,7 +200,7 @@ This is not a threat to the back-end database, but a threat to the client.
 | Top 10:2013 | :white_check_mark: | 6* |
 
 !!!
-This risk was formerly known as *sensitive data exposure*.
+This risk was formerly known as *Sensitive Data Exposure*.
 !!!
 ==- Identification and Authentication Failures
 
@@ -315,13 +315,7 @@ The URL reveals location of specific data as well as the format for potential ot
 - Run a process as both user and privileged user, compare results, and determine similarity; this will help you determine if there are functions that regular users should not have access to and thereby demonstrate that you are missing necessary controls.
 +++
 ==- Insufficient Logging and Monitoring
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :x: | |
-| Top 10:2017 | :white_check_mark: | 10 |
-| Top 10:2013 | :x: | |
-
+*See [Security Logging and Monitoring Failures](#security-logging-and-monitoring-failures)*.
 ==- Security Logging and Monitoring Failures
 
 +++ Notable CWEs
@@ -335,9 +329,13 @@ The URL reveals location of specific data as well as the format for potential ot
 | Publication | Appearance | Ranking |
 | - | - | - |
 | Top 10:2021 | :white_check_mark: | 9 |
-| Top 10:2017 | :x: | |
+| Top 10:2017 | :white_check_mark: | 10* |
 | Top 10:2013 | :x: | |
-==- Missing Functional Level Access Control
+
+!!!
+This risk was formerly known as *Insufficient Logging and Monitoring*.
+!!!
+==- Missing Function Level Access Control
 *See [Broken Access Control](#broken-access-control)*.
 ==- Security Misconfiguration
 
