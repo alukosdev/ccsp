@@ -28,7 +28,8 @@ The following contents reflect information collected from the official [Top Thre
 
 ## Publications
 
-The *Top Threats* reports traditionally aim to raise awareness of threats, vulnerabilities, and risks in the cloud.
+The *Top Threats* reports traditionally aim to raise awareness of threats, vulnerabilities, and risks in the cloud. The reports reflect the current consensus among 
+security experts in CSA community about the most significant security issues in the cloud, ranked in order of significance.
 
 !!!
 The security issues contained within these reports are specifically related to *cloud computing*.
@@ -42,8 +43,6 @@ The security issues contained within these reports are specifically related to *
 | Notorious Nine | 2013/02/24 |
 
 +++ Pandemic Eleven
-The latest report highlights the Pandemic Eleven (ranked in order of significance per a survey of over 700 industry experts on security issues in the cloud industry):
-
 1. [Insufficient Identity, Credentials, Access, and Key Management](#insufficient-identity-credentials-access-and-key-management)
 2. [Insecure Interfaces and APIs](#insecure-interfaces-and-apis)
 3. [Misconfiguration and Inadequate Change Control](#misconfiguration-and-inadequate-change-control)
