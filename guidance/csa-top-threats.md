@@ -70,10 +70,6 @@ The security issues contained within these reports are specifically related to *
 
 ## Cloud Security Issues
 
-### Pandemic Eleven
-
-### Egregious Eleven
-
 ==- Insufficient Identity, Credentials, Access, and Key Management
 > Text below this needs to be cited.
 

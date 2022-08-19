@@ -58,11 +58,6 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 +++
 
 ## Web Application Security Risks
-
-### Top 10:2021
-
-### Top 10:2017
-
 !!!
 To address these risks, organizations must have an application risk management program in place. Implementation of an application risk management program addresses not only vulnerabilities but also all risks associated with applications.
 !!!
