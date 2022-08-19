@@ -253,6 +253,15 @@ The URL reveals location of specific data as well as the format for potential ot
 | Top 10:2017 | :white_check_mark: | 10 |
 | Top 10:2013 | :x: | |
 
+==- Security Logging and Monitoring Failures
+
+| Publication | Appearance | Ranking |
+| - | - | - |
+| Top 10:2021 | :white_check_mark: | 9 |
+| Top 10:2017 | :x: | |
+| Top 10:2013 | :x: | |
+==- Missing Functional Level Access Control
+*See [Broken Access Control](#broken-access-control)*.
 ==- Security Misconfiguration
 
 | Publication | Appearance | Ranking |
@@ -268,14 +277,6 @@ The URL reveals location of specific data as well as the format for potential ot
 - Software should be patched regularly to keep it up to date.
 - Software settings should be kept up to date.
 +++
-==- Security Logging and Monitoring Failures
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :white_check_mark: | 9 |
-| Top 10:2017 | :x: | |
-| Top 10:2013 | :x: | |
-
 ==- Sensitive Data Exposure
 
 *See [Cryptographic Failures](#cryptographic-failures)*.
@@ -348,8 +349,6 @@ Components, such as libraries, frameworks, and other software modules, almost al
 +++
 
 It's important to remember that these are known vulnerabilities, not unknown. Developers are willingly using these components knowing that they have vulnerabilities. This could be for a variety of reasons, including the fact that they may not actually be leveraging a "vulnerable" aspect of a particular component in their application.
-==- Missing Functional Level Access Control
-*See [Broken Access Control](#broken-access-control)*.
 ==- Vulnerable and Outdated Components
 
 | Publication | Appearance | Ranking |
