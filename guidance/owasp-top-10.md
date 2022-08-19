@@ -44,6 +44,29 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 8. [Software and Data Integrity Failures](#software-and-data-integrity-failures)
 9. [Security Logging and Monitoring Failures](#security-logging-and-monitoring-failures)
 10. [Server-Side Request Forgery (SSRF)](#server-side-request-forgery-ssrf)
++++ Top 10:2017
+1. [Injection](#injection)
+2. [Broken Authentication](#broken-authentication)
+3. [Sensitive Data Exposure](#sensitive-data-exposure)
+4. [XML External Entities (XXE)](#xml-external-entities-xxe)
+5. [Broken Access Control](#broken-access-control)
+6. [Security Misconfiguration](#security-misconfiguration)
+7. [Cross-Site Scripting (XSS)](#cross-site-scripting-xss)
+8. [Insecure Deserialization](#insecure-deserialization)
+9. [Using Components with Known Vulnerabilities](#using-components-with-known-vulnerabilities)
+10. [Insufficient Logging and Monitoring](#insufficient-logging-and-monitoring)
++++
+
+## Web Application Security Risks
+
+### Top 10:2021
+
+### Top 10:2017
+
+!!!
+To address these risks, organizations must have an application risk management program in place. Implementation of an application risk management program addresses not only vulnerabilities but also all risks associated with applications.
+!!!
+
 ==- :white_check_mark: Broken Access Control
 Access control enforces policy such that users cannot act outside of their intended permissions. Failures typically lead to unauthorized information disclosure, modification, or destruction of all data or performing a business function outside the user's limits.
 
@@ -147,26 +170,6 @@ Notable Common Weakness Enumerations (CWEs) include:
 !!!
 This risk was merged with and renamed to [Injection](#injection) in 2021.
 !!!
-==-
-+++ Top 10:2017
-1. [Injection](#injection)
-2. [Broken Authentication](#broken-authentication)
-3. [Sensitive Data Exposure](#sensitive-data-exposure)
-4. [XML External Entities (XXE)](#xml-external-entities-xxe)
-5. [Broken Access Control](#broken-access-control)
-6. [Security Misconfiguration](#security-misconfiguration)
-7. [Cross-Site Scripting (XSS)](#cross-site-scripting-xss)
-8. [Insecure Deserialization](#insecure-deserialization)
-9. [Using Components with Known Vulnerabilities](#using-components-with-known-vulnerabilities)
-10. [Insufficient Logging and Monitoring](#insufficient-logging-and-monitoring)
-+++
-
-## Web Application Security Risks
-
-!!!
-To address these risks, organizations must have an application risk management program in place. Implementation of an application risk management program addresses not only vulnerabilities but also all risks associated with applications.
-!!!
-
 ==- :white_check_mark: Cryptographic Failures
 !!!danger
 We need to add a summary here. I dislike the summary provided by OWASP.
