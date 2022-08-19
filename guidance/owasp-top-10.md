@@ -212,14 +212,6 @@ To prevent injection attacks:
 - Software should be patched regularly to keep it up to date.
 - Software settings should be kept up to date.
 +++
-==- Vulnerable and Outdated Components
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :white_check_mark: | 6 |
-| Top 10:2017 | :white_check_mark: | 9? |
-| Top 10:2013 | :white_check_mark: | 9? |
-
 ==- Identification and Authentication Failures
 
 | Publication | Appearance | Ranking |
@@ -274,19 +266,6 @@ Commonly allowed when web applications do not properly protect sensitive data, s
 - Encryption (at rest or in transit)
 - Perform checks against client browsers to ensure they meet security standards. If the browser doesn't meet the security standards, it can be prevented access to the web application.
 +++
-==- XML External Entities (XXE)
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :x: | |
-| Top 10:2017 | :white_check_mark: | 4 |
-| Top 10:2013 | :x: | |
-
-> Text below this needs to be cited.
-
-XML external entities refer to references, such as the application directory structure or the configuration of the hosting system, that should be removed from the code, but are left in by accident. These items can provide information to an attacker that may allow them to circumvent authentication measures to gain access.
-
-Attackers can exploit vulnerable XML processors if they can upload XML or include hostile content in an XML document, exploiting vulnerable code, dependencies, or integrations.
 ==- Insecure Deserialization
 
 | Publication | Appearance | Ranking |
@@ -371,6 +350,26 @@ Redirection to unauthorized pages, often in conjunction with a social engineerin
 +++
 ==- Missing Functional Level Access Control
 *See [Broken Access Control](#broken-access-control)*.
+==- Vulnerable and Outdated Components
+
+| Publication | Appearance | Ranking |
+| - | - | - |
+| Top 10:2021 | :white_check_mark: | 6 |
+| Top 10:2017 | :white_check_mark: | 9? |
+| Top 10:2013 | :white_check_mark: | 9? |
+==- XML External Entities (XXE)
+
+| Publication | Appearance | Ranking |
+| - | - | - |
+| Top 10:2021 | :x: | |
+| Top 10:2017 | :white_check_mark: | 4 |
+| Top 10:2013 | :x: | |
+
+> Text below this needs to be cited.
+
+XML external entities refer to references, such as the application directory structure or the configuration of the hosting system, that should be removed from the code, but are left in by accident. These items can provide information to an attacker that may allow them to circumvent authentication measures to gain access.
+
+Attackers can exploit vulnerable XML processors if they can upload XML or include hostile content in an XML document, exploiting vulnerable code, dependencies, or integrations.
 ==-
 
 ## References
