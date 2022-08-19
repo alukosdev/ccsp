@@ -126,15 +126,18 @@ If an unauthenticated user can access either page, it's a flaw. If a non-admin c
 | - | - | - |
 | Top 10:2021 | :white_check_mark: | 1 |
 | Top 10:2017 | :white_check_mark: | 5 |
-==- Broken Authentication
+==- :x: Broken Authentication
 Application functions related to authentication and session management are often implemented incorrectly, allowing attackers to compromise passwords, keys, or session tokens, or to exploit other implementation flaws to assume other users’ identities temporarily or permanently.
 
-+++ Notable CWEs
+Notable Common Weakness Enumerations (CWEs) include:
+
 - CWE-256: Plaintext Storage of a Password
 - CWE-308: Use of Single-factor Authentication
 - CWE-523: Unprotected Transport of Credentials
-+++ Attack Scenarios
+
++++ Vulnerabilities
 +++ Prevention
++++ Attack Scenarios
 +++
 
 | Publication | Appearance | Ranking |
@@ -146,10 +149,13 @@ Application functions related to authentication and session management are often
 This risk was renamed to [Identification and Authentication Failures](#identification-and-authentication-failures) in 2021.
 !!!
 ==- Cross-Site Scripting (XSS)
-+++ Notable CWEs
+Notable Common Weakness Enumerations (CWEs) include:
+
 - CWE-79: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')
-+++ Attack Scenarios
+
++++ Vulnerabilities
 +++ Prevention
++++ Attack Scenarios
 +++
 
 | Publication | Appearance | Ranking |
@@ -166,12 +172,15 @@ This risk was merged with and renamed to [Injection](#injection) in 2021.
 We need to add a summary here. I dislike the summary provided by OWASP.
 !!!
 
-+++ Notable CWEs
+Notable Common Weakness Enumerations (CWEs) include:
+
 - CWE-259: Use of Hard-coded Password
 - CWE-327: Broken or Risky Crypto Algorithm
 - CWE-331: Insufficient Entropy
-+++ Attack Scenarios
+
++++ Vulnerabilities
 +++ Prevention
++++ Attack Scenarios
 +++
 
 | Publication | Appearance | Ranking |
