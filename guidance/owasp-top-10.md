@@ -502,6 +502,7 @@ Attackers can exploit vulnerable XML processors if they can upload XML or includ
 
 ## Sources
 
+- MITRE. (n.d.). *CWE*. https://cwe.mitre.org/
 - OWASP. (2021). *OWASP Top 10*. https://owasp.org/www-project-top-ten
 - OWASP. (2017). *OWASP Top 10*. https://owasp.org/www-pdf-archive/OWASP_Top_10-2017_%28en%29.pdf.pdf
 - OWASP. (2013). *OWASP Top 10*. https://owasp.org/www-pdf-archive/OWASP_Top_10_-_2013.pdf

@@ -1,6 +1,11 @@
 ---
+icon: zap
 label: CWE/SANS Top 25
 ---
+
+!!!danger
+This page is currently under revision.
+!!!
 
 # CWE/SANS Top 25 Most Dangerous Software Errors
 
