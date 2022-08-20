@@ -16,7 +16,6 @@ The following contents reflect information collected from the official [Top Thre
 
 ## Acronyms, Abbreviations, and Initialisms
 
-==- Acronyms, Abbreviations, and Initialisms
 | Short Form | Full Form |
 | - | - |
 | API | Application Programming Interface |
@@ -30,7 +29,6 @@ The following contents reflect information collected from the official [Top Thre
 | PII | Personally Identifiable Information |
 | SaaS | Software-as-a-Service |
 | TTP | Tactics, Techniques, and Procedures |
-==-
 
 ## Overview
 
