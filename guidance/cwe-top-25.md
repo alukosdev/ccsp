@@ -29,7 +29,7 @@ To create the list, the CWE Team leveraged Common Vulnerabilities and Exposures 
 
 ## Publications
 
-### 2022 CWE Top 25
+### Top 25:2022
 
 | Rank | ID | Name | { class="compact" }
 | - | - | - |
