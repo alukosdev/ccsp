@@ -21,7 +21,10 @@ The following contents reflect information collected from the official [OWASP To
 | ACL | Access Control List |
 | CSRF | Cross-Site Request Forgery |
 | CWE | Common Weakness Enumeration |
+| DTD | Document Type Definitions |
 | OWASP | Open Web Application Security Project |
+| SOAP | Simple Object Access Protocol |
+| SSO | Single Sign-On |
 | SSRF | Server-Side Request Forgery |
 | XML | Extensible Markup Language |
 | XSS | Cross-Site Scripting |
@@ -536,7 +539,7 @@ server:
 ---
 
 **Scenario #2**: An attacker probes the server's private network by 
-changing the above ENTITY line to:
+changing the above `ENTITY` line to:
 
 ```
 <!ENTITY xxe SYSTEM "https://192.168.1.1/private" >]>

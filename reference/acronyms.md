@@ -83,6 +83,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | DRS | Distributed Resource Scheduling |
 | DSaaS | [Data Science as a Service](/reference/glossary/#data-science-as-a-service-dsaas) |
 | DSS | Data Security Standards |
+| DTD | Document Type Definitions) |
 | EAL | Evaluation Assurance Level |
 | EAR | Export Administration Regulations |
 | ECPA | Electronic Communication Privacy Act |
