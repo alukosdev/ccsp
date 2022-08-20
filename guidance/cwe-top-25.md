@@ -33,7 +33,7 @@ To create the list, the CWE Team leveraged Common Vulnerabilities and Exposures 
 
 Below is a list of the weaknesses in the 2022 CWE Top 25:
 
-| Rank | ID | Name |
+| Rank | ID | Name | { class="compact" }
 | - | - | - |
 | 1 | CWE-787 | Out-of-bounds Write |
 | 2 | CWE-79 | 	Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') |
