@@ -75,8 +75,8 @@ To create the list, the CWE Team leveraged Common Vulnerabilities and Exposures 
 
 ## Zapworthy
 
-:zap: The CWE Top 25 contains *software weaknesses*.
-:zap: The CWE Top 25 contains *software weaknesses*.
+:zap: The CWE Top 25 contains *software weaknesses*.<br>
+:zap: The CWE Top 25 contains *software weaknesses*.<br>
 :zap: The CWE Top 25 contains *software weaknesses*.
 
 ## Sources
