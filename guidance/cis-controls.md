@@ -41,7 +41,7 @@ An IG3 enterprise employs security experts that specialize in the different face
 
 ## Controls
 
-| Control Number | Control Name | { class="compact" }
+| Number | Name | { class="compact" }
 | - | - |
 | Control 01 | Inventory and Control of Enterprise Assets |
 | Control 02 | Inventory and Control of Software Assets |
