@@ -420,6 +420,7 @@ The process in which cloud environments are constantly monitored and maintained 
 Are we doing the right things properly and are we getting the benefits? Are we going about it in the most efficient manner to achieve the most benefits?
 ==- Elasticity
 The flexibility of allocating resources as needed for immediate usage, instead of purchasing resources according to other variables.
+==- Elasticsearch, Logstash, Kibana (ELK)
 ==- Electronic Communication Privacy Act (ECPA)
 ==- Electronic Health Records (EHR)
 ==- Electronically Stored Information (ESI)

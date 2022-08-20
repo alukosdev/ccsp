@@ -94,6 +94,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | EF | Exposure Factor |
 | EFS | Encrypting File System |
 | EFTA | European Free Trade Association |
+| ELK | Elasticsearch, Logstash, Kibana |
 | EHR | Electronic Health Records |
 | ENISA | European Union Agency for Cybersecurity |
 | ERM | [Enterprise Risk Management](/reference/glossary/#enterprise-risk-management-erm) |
