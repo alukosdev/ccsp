@@ -20,7 +20,6 @@ The following contents reflect information collected from the official [CWE Top 
 | KEV | Known Exploited Vulnerabilities |
 | NIST | National Institute of Standards and Technology |
 | NVD | National Vulnerability Database |
-| SANS | SysAdmin, Audit, Network, and Security |
 
 ## Overview
 
