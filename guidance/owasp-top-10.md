@@ -34,8 +34,6 @@ The following contents reflect information collected from the official [OWASP To
 
 The OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications.
 
-To address these risks, organizations must have an application risk management program in place. Implementation of an application risk management program addresses not only vulnerabilities but also all risks associated with applications.
-
 ## Publications
 
 | Name | Release Date |
@@ -359,6 +357,10 @@ Notable Common Weakness Enumerations (CWEs) include:
 +++
 
 ==-
+
+## Noteworthy
+
+- [x] The security issues contained within the *Top 10* reports are specifically related to *web application security*.
 
 ## Sources
 

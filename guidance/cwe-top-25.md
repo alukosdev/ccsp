@@ -30,7 +30,7 @@ To create the list, the CWE Team leveraged Common Vulnerabilities and Exposures 
 
 | Name | Release Date |
 | - | - |
-| Top 25:2022 | 2022 |
+| [Top 25:2022](#top-252022) | 2022 |
 | Top 25:2021 | 2021 |
 | Top 25:2020 | 2020 |
 | Top 25:2019 | 2019 |
@@ -64,6 +64,10 @@ To create the list, the CWE Team leveraged Common Vulnerabilities and Exposures 
 | 23 | CWE-400 | Uncontrolled Resource Consumption |
 | 24 | CWE-611 | Improper Restriction of XML External Entity Reference |
 | 25 | CWE-94 | Improper Control of Generation of Code ('Code Injection') |
+
+## Noteworthy
+
+- [x] The CWE Top 25 contains *software weaknesses*.
 
 ## Sources
 

@@ -3,10 +3,6 @@ categories: [Security Management and Controls Guidance]
 tags: [cis]
 ---
 
-!!!success
-This page has been revised for the latest version of the exam objectives.
-!!!
-
 :::banner
 The following contents reflect information collected from the official [CIS Critical Security Controls Version 8](https://www.cisecurity.org/controls/v8){ target="_blank" } released on **May 18, 2021**.
 :::
@@ -61,6 +57,10 @@ An IG3 enterprise employs security experts that specialize in the different face
 | Control 16 | Application Software Security |
 | Control 17 | Incident Response Management |
 | Control 18 | Penetration Testing |
+
+## Noteworthy
+
+- [x] The CIS Controls contain *18 controls*.
 
 ## References
 

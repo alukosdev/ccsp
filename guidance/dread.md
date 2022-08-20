@@ -2,10 +2,6 @@
 categories: [Threat Models]
 ---
 
-!!!success
-This page has been revised for the latest version of the exam objectives.
-!!!
-
 # DREAD
 
 ## Acronyms, Abbreviations, and Initialisms

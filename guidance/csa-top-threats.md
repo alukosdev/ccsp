@@ -31,10 +31,6 @@ The following contents reflect information collected from the official [Top Thre
 The *Top Threats* reports traditionally aim to raise awareness of threats, vulnerabilities, and risks in the cloud. The reports reflect the current consensus among 
 security experts in CSA community about the most significant security issues in the cloud, ranked in order of significance.
 
-!!!
-The security issues contained within these reports are specifically related to *cloud computing*.
-!!!
-
 | Name | Release Date |
 | - | - |
 | [Pandemic Eleven](#pandemic-eleven) | 2022/06/06 |
@@ -141,6 +137,11 @@ It might take an attacker years to crack an encryption key using his own limited
 ==- 11. Cloud Storage Data Exfiltration
 > Text below this needs to be cited.
 ==-
+
+## Noteworthy
+
+- [x] The security issues contained within the *Top Threats* reports are specifically related to *cloud computing*.
+- [x] The most current version of the *Top Threats* report is known as the *Pandemic Eleven*.
 
 ## References
 
