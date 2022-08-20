@@ -36,6 +36,16 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 
 ## Publications
 
+| Name | Release Date |
+| - | - |
+| Top 10:2021 | 2021 |
+| Top 10:2017 | 2017 |
+| Top 10:2013 | 2013 |
+| Top 10:2010 | 2010 |
+| Top 10:2007 | 2007 |
+| Top 10:2004 | 2004 |
+| Top 10:2003 | 2003 |
+
 +++ Top 10:2021
 1. [Broken Access Control](#broken-access-control)
 2. [Cryptographic Failures](#cryptographic-failures)
@@ -48,19 +58,74 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 9. [Security Logging and Monitoring Failures](#security-logging-and-monitoring-failures)
 10. [Server-Side Request Forgery (SSRF)](#server-side-request-forgery-ssrf)
 +++ Top 10:2017
-1. [Injection](#injection)
-2. [Broken Authentication](#broken-authentication)
-3. [Sensitive Data Exposure](#sensitive-data-exposure)
-4. [XML External Entities (XXE)](#xml-external-entities-xxe)
-5. [Broken Access Control](#broken-access-control)
-6. [Security Misconfiguration](#security-misconfiguration)
-7. [Cross-Site Scripting (XSS)](#cross-site-scripting-xss)
-8. [Insecure Deserialization](#insecure-deserialization)
-9. [Using Components with Known Vulnerabilities](#using-components-with-known-vulnerabilities)
-10. [Insufficient Logging and Monitoring](#insufficient-logging-and-monitoring)
+1. Injection
+2. Broken Authentication
+3. Sensitive Data Exposure
+4. XML External Entities (XXE)
+5. Broken Access Control
+6. Security Misconfiguration
+7. Cross-Site Scripting (XSS)
+8. Insecure Deserialization
+9. Using Components with Known Vulnerabilities
+10. Insufficient Logging and Monitoring
++++ Top 10:2013
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
++++ Top 10:2010
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
++++ Top 10:2007
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
++++ Top 10:2004
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
++++ Top 10:2003
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
 +++
 
-## Web Application Security Risks
+### Top 10:2021
 
 To address these risks, organizations must have an application risk management program in place. Implementation of an application risk management program addresses not only vulnerabilities but also all risks associated with applications.
 
