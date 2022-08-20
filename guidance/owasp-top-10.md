@@ -613,7 +613,6 @@ This risk was merged with [Security Misconfiguration](#security-misconfiguration
 
 - https://owasp.org/www-project-top-ten/2017/Top_10.html
 - https://owasp.org/www-project-top-ten/2017/A2_2017-Broken_Authentication
-
 - MITRE. (n.d.). *CWE*. https://cwe.mitre.org/
 - OWASP. (2021). *A01:2021 - Broken Access Control*. https://owasp.org/Top10/A01_2021-Broken_Access_Control
 - OWASP. (2021). *OWASP Top 10*. https://owasp.org/www-project-top-ten
