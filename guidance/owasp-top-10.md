@@ -61,7 +61,7 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 
 To address these risks, organizations must have an application risk management program in place. Implementation of an application risk management program addresses not only vulnerabilities but also all risks associated with applications.
 
-==- Broken Access Control
+==- 1. Broken Access Control
 Access control enforces policy such that users cannot act outside of their intended permissions. Failures typically lead to unauthorized information disclosure, modification, or destruction of all data or performing a business function outside the user's limits.
 
 Notable Common Weakness Enumerations (CWEs) include:
@@ -124,47 +124,7 @@ Developers and QA staff should include functional access control unit and integr
 | - | - | - |
 | Top 10:2021 | :white_check_mark: | 1 |
 | Top 10:2017 | :white_check_mark: | 5 |
-==- :x: Broken Authentication
-Application functions related to authentication and session management are often implemented incorrectly, allowing attackers to compromise passwords, keys, or session tokens, or to exploit other implementation flaws to assume other users’ identities temporarily or permanently.
-
-Notable Common Weakness Enumerations (CWEs) include:
-
-- CWE-256: Plaintext Storage of a Password
-- CWE-308: Use of Single-factor Authentication
-- CWE-523: Unprotected Transport of Credentials
-
-+++ Vulnerabilities
-+++ Prevention
-+++ Attack Scenarios
-+++
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :x: | |
-| Top 10:2017 | :white_check_mark: | 2 |
-
-!!!
-This risk was renamed to [Identification and Authentication Failures](#identification-and-authentication-failures) in 2021.
-!!!
-==- :x: Cross-Site Scripting (XSS)
-Notable Common Weakness Enumerations (CWEs) include:
-
-- CWE-79: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')
-
-+++ Vulnerabilities
-+++ Prevention
-+++ Attack Scenarios
-+++
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :x: | |
-| Top 10:2017 | :white_check_mark: | 7 |
-
-!!!
-This risk was merged with and renamed to [Injection](#injection) in 2021.
-!!!
-==- :white_check_mark: :zap: Cryptographic Failures
+==- :white_check_mark: :zap: 2. Cryptographic Failures
 !!!danger
 We need to add a summary here. I dislike the summary provided by OWASP.
 !!!
@@ -225,56 +185,7 @@ The first thing is to determine the protection needs of data in transit and at r
 !!!
 This risk was renamed from [Sensitive Data Exposure](#sensitive-data-exposure) in 2021.
 !!!
-==- Identification and Authentication Failures
-Confirmation of the user's identity, authentication, and session management is critical to protect against authentication-related attacks.
-
-Notable Common Weakness Enumerations (CWEs) include:
-
-- CWE-297: Improper Validation of Certificate with Host Mismatch
-- CWE-287: Improper Authentication
-- CWE-384: Session Fixation
-
-+++ Attack Scenarios
-**Scenario #1**: Credential stuffing, the use of lists of known passwords, is a common attack. Suppose an application does not implement automated threat or credential stuffing protection. In that case, the application can be used as a password oracle to determine if the credentials are valid.
-
----
-
-**Scenario #2**: Most authentication attacks occur due to the continued use of passwords as a sole factor. Once considered best practices, password rotation and complexity requirements encourage users to use and reuse weak passwords. Organizations are recommended to stop these practices per NIST 800-63 and use multi-factor authentication.
-
----
-
-**Scenario #3**: Application session timeouts aren't set correctly. A user uses a public computer to access an application. Instead of selecting "logout," the user simply closes the browser tab and walks away. An attacker uses the same browser an hour later, and the user is still authenticated.
-+++ Vulnerabilities
-There may be authentication weaknesses if the application:
-
-- Permits automated attacks such as credential stuffing, where the attacker has a list of valid usernames and passwords.
-- Permits brute force or other automated attacks.
-- Permits default, weak, or well-known passwords, such as "Password1" or "admin/admin".
-- Uses weak or ineffective credential recovery and forgot-password processes, such as "knowledge-based answers," which cannot be made safe.
-- Uses plain text, encrypted, or weakly hashed passwords data stores (see [A02:2021-Cryptographic Failures](#cryptographic-failures)).
-- Has missing or ineffective multi-factor authentication.
-- Exposes session identifier in the URL.
-- Reuse session identifier after successful login.
-- Does not correctly invalidate Session IDs. User sessions or authentication tokens (mainly single sign-on (SSO) tokens) aren't properly invalidated during logout or a period of inactivity.
-+++ Prevention
-- Where possible, implement multi-factor authentication to prevent automated credential stuffing, brute force, and stolen credential reuse attacks.
-- Do not ship or deploy with any default credentials, particularly for admin users.
-- Implement weak password checks, such as testing new or changed passwords against the top 10,000 worst passwords list.
-- Align password length, complexity, and rotation policies with National Institute of Standards and Technology (NIST) 800-63b's guidelines in section 5.1.1 for Memorized Secrets or other modern, evidence-based password policies.
-- Ensure registration, credential recovery, and API pathways are hardened against account enumeration attacks by using the same messages for all outcomes.
-- Limit or increasingly delay failed login attempts, but be careful not to create a denial of service scenario. Log all failures and alert administrators when credential stuffing, brute force, or other attacks are detected.
-- Use a server-side, secure, built-in session manager that generates a new random session ID with high entropy after login. Session identifier should not be in the URL, be securely stored, and invalidated after logout, idle, and absolute timeouts.
-+++
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :white_check_mark: | 7 |
-| Top 10:2017 | :x: | |
-
-!!!
-This risk was renamed from [Broken Authentication](#broken-authentication) in 2021.
-!!!
-==- :white_check_mark: Injection
+==- :white_check_mark: 3. Injection
 !!!danger
 We need to add a definition here.
 !!!
@@ -340,25 +251,7 @@ SQL structures such as table names, column names, and so on cannot be escaped, a
 !!!
 This risk was merged with and renamed from [Cross-Site Scripting (XSS)](#cross-site-scripting-xss) in 2021.
 !!!
-==- :x: Insecure Deserialization
-Notable Common Weakness Enumerations (CWEs) include:
-
-- CWE-502: Deserialization of Untrusted Data
-
-+++ Attack Scenarios
-+++ Vulnerabilities
-+++ Prevention
-+++
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :x: | |
-| Top 10:2017 | :white_check_mark: | 8 |
-
-!!!
-This risk was merged with and renamed to [Software and Data Integrity Failures](#software-and-data-integrity-failures) in 2021.
-!!!
-==- :zap: Insecure Design
+==- :zap: 4. Insecure Design
 Notable Common Weakness Enumerations (CWEs) include:
 
 - CWE-209: Generation of Error Message Containing Sensitive Information
@@ -375,45 +268,7 @@ Notable Common Weakness Enumerations (CWEs) include:
 | - | - | - |
 | Top 10:2021 | :white_check_mark: | 4 |
 | Top 10:2017 | :x: | |
-
-==- :x: Insufficient Logging and Monitoring
-
-Notable Common Weakness Enumerations (CWEs) include:
-
-+++ Attack Scenarios
-+++ Vulnerabilities
-+++ Prevention
-+++
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :x: | |
-| Top 10:2017 | :white_check_mark: | 10 |
-
-!!!
-This risk was renamed to [Security Logging and Monitoring Failures](#security-logging-and-monitoring-failures) in 2021.
-!!!
-==- :zap: Security Logging and Monitoring Failures
-Notable Common Weakness Enumerations (CWEs) include:
-
-- CWE-117: Improper Output Neutralization for Logs
-- CWE-223: Omission of Security-relevant Information
-- CWE-532: Insertion of Sensitive Information into Log File
-
-+++ Attack Scenarios
-+++ Vulnerabilities
-+++ Prevention
-+++
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :white_check_mark: | 9 |
-| Top 10:2017 | :x: | |
-
-!!!
-This risk was renamed from [Insufficient Logging and Monitoring](#insufficient-logging-and-monitoring) in 2021.
-!!!
-==- :zap: Security Misconfiguration
+==- :zap: 5. Security Misconfiguration
 Notable Common Weakness Enumerations (CWEs) include:
 
 - CWE-16: Configuration
@@ -428,9 +283,10 @@ Notable Common Weakness Enumerations (CWEs) include:
 | - | - | - |
 | Top 10:2021 | :white_check_mark: | 5 |
 | Top 10:2017 | :white_check_mark: | 6 |
-
-==- :x: Sensitive Data Exposure
+==- :zap: 6. Vulnerable and Outdated Components
 Notable Common Weakness Enumerations (CWEs) include:
+
+- CWE-1104: Use of Unmaintained Third-Party Components
 
 +++ Attack Scenarios
 +++ Vulnerabilities
@@ -439,32 +295,62 @@ Notable Common Weakness Enumerations (CWEs) include:
 
 | Publication | Appearance | Ranking |
 | - | - | - |
-| Top 10:2021 | :x: | |
-| Top 10:2017 | :white_check_mark: | 3 |
-
-!!!
-This risk was renamed to [Cryptographic Failures](#vulnerable-and-outdated-components) in 2021.
-!!!
-==- :zap: Server-Side Request Forgery (SSRF)
-SSRF flaws occur whenever a web application is fetching a remote resource without validating the user-supplied URL. It allows an attacker to coerce the application to send a crafted request to an unexpected destination, even when protected by a firewall, VPN, or another type of network access control list (ACL).
-
-As modern web applications provide end-users with convenient features, fetching a URL becomes a common scenario. As a result, the incidence of SSRF is increasing. Also, the severity of SSRF is becoming higher due to cloud services and the complexity of architectures.
-
-Notable Common Weakness Enumerations (CWEs) include:
-
-- The data shows a relatively low incidence rate with above average testing coverage and above-average Exploit and Impact potential ratings.
-
-+++ Attack Scenarios
-+++ Vulnerabilities
-+++ Prevention
-+++
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :white_check_mark: | 10 |
+| Top 10:2021 | :white_check_mark: | 6 |
 | Top 10:2017 | :x: | |
 
-==- :zap: Software and Data Integrity Failures
+!!!
+This risk was renamed from [Using Components with Known Vulnerabilities](#using-components-with-known-vulnerabilities) in 2021.
+!!!
+==- 7. Identification and Authentication Failures
+Confirmation of the user's identity, authentication, and session management is critical to protect against authentication-related attacks.
+
+Notable Common Weakness Enumerations (CWEs) include:
+
+- CWE-297: Improper Validation of Certificate with Host Mismatch
+- CWE-287: Improper Authentication
+- CWE-384: Session Fixation
+
++++ Attack Scenarios
+**Scenario #1**: Credential stuffing, the use of lists of known passwords, is a common attack. Suppose an application does not implement automated threat or credential stuffing protection. In that case, the application can be used as a password oracle to determine if the credentials are valid.
+
+---
+
+**Scenario #2**: Most authentication attacks occur due to the continued use of passwords as a sole factor. Once considered best practices, password rotation and complexity requirements encourage users to use and reuse weak passwords. Organizations are recommended to stop these practices per NIST 800-63 and use multi-factor authentication.
+
+---
+
+**Scenario #3**: Application session timeouts aren't set correctly. A user uses a public computer to access an application. Instead of selecting "logout," the user simply closes the browser tab and walks away. An attacker uses the same browser an hour later, and the user is still authenticated.
++++ Vulnerabilities
+There may be authentication weaknesses if the application:
+
+- Permits automated attacks such as credential stuffing, where the attacker has a list of valid usernames and passwords.
+- Permits brute force or other automated attacks.
+- Permits default, weak, or well-known passwords, such as "Password1" or "admin/admin".
+- Uses weak or ineffective credential recovery and forgot-password processes, such as "knowledge-based answers," which cannot be made safe.
+- Uses plain text, encrypted, or weakly hashed passwords data stores (see [A02:2021-Cryptographic Failures](#cryptographic-failures)).
+- Has missing or ineffective multi-factor authentication.
+- Exposes session identifier in the URL.
+- Reuse session identifier after successful login.
+- Does not correctly invalidate Session IDs. User sessions or authentication tokens (mainly single sign-on (SSO) tokens) aren't properly invalidated during logout or a period of inactivity.
++++ Prevention
+- Where possible, implement multi-factor authentication to prevent automated credential stuffing, brute force, and stolen credential reuse attacks.
+- Do not ship or deploy with any default credentials, particularly for admin users.
+- Implement weak password checks, such as testing new or changed passwords against the top 10,000 worst passwords list.
+- Align password length, complexity, and rotation policies with National Institute of Standards and Technology (NIST) 800-63b's guidelines in section 5.1.1 for Memorized Secrets or other modern, evidence-based password policies.
+- Ensure registration, credential recovery, and API pathways are hardened against account enumeration attacks by using the same messages for all outcomes.
+- Limit or increasingly delay failed login attempts, but be careful not to create a denial of service scenario. Log all failures and alert administrators when credential stuffing, brute force, or other attacks are detected.
+- Use a server-side, secure, built-in session manager that generates a new random session ID with high entropy after login. Session identifier should not be in the URL, be securely stored, and invalidated after logout, idle, and absolute timeouts.
++++
+
+| Publication | Appearance | Ranking |
+| - | - | - |
+| Top 10:2021 | :white_check_mark: | 7 |
+| Top 10:2017 | :x: | |
+
+!!!
+This risk was renamed from [Broken Authentication](#broken-authentication) in 2021.
+!!!
+==- :zap: 8. Software and Data Integrity Failures
 Notable Common Weakness Enumerations (CWEs) include:
 
 - CWE-829: Inclusion of Functionality from Untrusted Control Sphere
@@ -484,10 +370,12 @@ Notable Common Weakness Enumerations (CWEs) include:
 !!!
 This risk was merged with and renamed from [Insecure Deserialization](#insecure-deserialization) in 2021.
 !!!
-==- :x: Using Components with Known Vulnerabilities
+==- :zap: 9. Security Logging and Monitoring Failures
 Notable Common Weakness Enumerations (CWEs) include:
 
-- CWE does not cover the limitations of human processes and procedures that cannot be described in terms of a specific technical weakness as resident in the code, architecture, or configuration of the software. Since "known vulnerabilities" can arise from any kind of weakness, it is not possible to map this OWASP category to other CWE entries, since it would effectively require mapping this category to ALL weaknesses.[https://cwe.mitre.org/data/definitions/1035.html]
+- CWE-117: Improper Output Neutralization for Logs
+- CWE-223: Omission of Security-relevant Information
+- CWE-532: Insertion of Sensitive Information into Log File
 
 +++ Attack Scenarios
 +++ Vulnerabilities
@@ -496,117 +384,31 @@ Notable Common Weakness Enumerations (CWEs) include:
 
 | Publication | Appearance | Ranking |
 | - | - | - |
-| Top 10:2021 | :x: | |
-| Top 10:2017 | :white_check_mark: | 9 |
-
-!!!
-This risk was renamed to [Vulnerable and Outdated Components](#vulnerable-and-outdated-components) in 2021.
-!!!
-==- :zap: Vulnerable and Outdated Components
-Notable Common Weakness Enumerations (CWEs) include:
-
-- CWE-1104: Use of Unmaintained Third-Party Components
-
-+++ Attack Scenarios
-+++ Vulnerabilities
-+++ Prevention
-+++
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :white_check_mark: | 6 |
+| Top 10:2021 | :white_check_mark: | 9 |
 | Top 10:2017 | :x: | |
 
 !!!
-This risk was renamed from [Using Components with Known Vulnerabilities](#using-components-with-known-vulnerabilities) in 2021.
+This risk was renamed from [Insufficient Logging and Monitoring](#insufficient-logging-and-monitoring) in 2021.
 !!!
-==- :white_check_mark: XML External Entities (XXE)
+==- :zap: 10. Server-Side Request Forgery (SSRF)
+SSRF flaws occur whenever a web application is fetching a remote resource without validating the user-supplied URL. It allows an attacker to coerce the application to send a crafted request to an unexpected destination, even when protected by a firewall, VPN, or another type of network access control list (ACL).
+
+As modern web applications provide end-users with convenient features, fetching a URL becomes a common scenario. As a result, the incidence of SSRF is increasing. Also, the severity of SSRF is becoming higher due to cloud services and the complexity of architectures.
+
 Notable Common Weakness Enumerations (CWEs) include:
 
-- CWE-611: Improper Restriction of XML External Entity Reference
+- The data shows a relatively low incidence rate with above average testing coverage and above-average Exploit and Impact potential ratings.
 
 +++ Attack Scenarios
-**Scenario #1**: The attacker attempts to extract data from the 
-server:
-
-```
-<?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE foo [
-<!ELEMENT foo ANY >
-<!ENTITY xxe SYSTEM "file:///etc/passwd" >]>
-<foo>&xxe;</foo>
-```
----
-
-**Scenario #2**: An attacker probes the server's private network by 
-changing the above `ENTITY` line to:
-
-```
-<!ENTITY xxe SYSTEM "https://192.168.1.1/private" >]>
-```
----
-
-**Scenario #3**: An attacker attempts a denial-of-service attack by 
-including a potentially endless file:
-
-```
-<!ENTITY xxe SYSTEM "file:///dev/random" >]>
-```
 +++ Vulnerabilities
-Applications and in particular XML-based web services or 
-downstream integrations might be vulnerable to attack if:
-
-- The application accepts XML directly or XML uploads, 
-especially from untrusted sources, or inserts untrusted data into 
-XML documents, which is then parsed by an XML processor.
-- Any of the XML processors in the application or SOAP based 
-web services has document type definitions (DTDs) enabled. 
-As the exact mechanism for disabling DTD processing varies 
-by processor, it is good practice to consult a reference such as 
-the OWASP Cheat Sheet 'XXE Prevention’. 
-- If your application uses SAML for identity processing within 
-federated security or single sign on (SSO) purposes. SAML 
-uses XML for identity assertions, and may be vulnerable.
-- If the application uses SOAP prior to version 1.2, it is likely 
-susceptible to XXE attacks if XML entities are being passed to 
-the SOAP framework.
-- Being vulnerable to XXE attacks likely means that the 
-application is vulnerable to denial of service attacks including 
-the Billion Laughs attack.
 +++ Prevention
-Developer training is essential to identify and mitigate XXE. 
-Besides that, preventing XXE requires:
-
-- Whenever possible, use less complex data formats such as 
-JSON, and avoiding serialization of sensitive data.
-- Patch or upgrade all XML processors and libraries in use by 
-the application or on the underlying operating system. Use 
-dependency checkers. Update SOAP to SOAP 1.2 or higher.
-- Disable XML external entity and DTD processing in all XML 
-parsers in the application, as per the OWASP Cheat Sheet 
-'XXE Prevention'. 
-- Implement positive ("whitelisting") server-side input validation, 
-filtering, or sanitization to prevent hostile data within XML 
-documents, headers, or nodes.
-- Verify that XML or XSL file upload functionality validates 
-incoming XML using XSD validation or similar.
-- SAST tools can help detect XXE in source code, although 
-manual code review is the best alternative in large, complex 
-applications with many integrations.
-
-If these controls are not possible, consider using virtual 
-patching, API security gateways, or Web Application Firewalls 
-(WAFs) to detect, monitor, and block XXE attacks.
 +++
 
 | Publication | Appearance | Ranking |
 | - | - | - |
-| Top 10:2021 | :x: | |
-| Top 10:2017 | :white_check_mark: | 4 |
+| Top 10:2021 | :white_check_mark: | 10 |
+| Top 10:2017 | :x: | |
 
-!!!
-This risk was merged with [Security Misconfiguration](#security-misconfiguration) in 2021.
-!!!
 ==-
 
 ## Sources
