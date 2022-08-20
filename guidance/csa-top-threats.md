@@ -1,12 +1,7 @@
 ---
 categories: [Cloud Computing Risk Management Guidance]
-icon: zap
 tags: [csa]
 ---
-
-!!!danger
-This page is currently under revision.
-!!!
 
 :::banner
 The following contents reflect information collected from the official [Top Threats to Cloud Computing](https://cloudsecurityalliance.org/download/artifacts/top-threats-to-cloud-computing-pandemic-eleven){ target="_blank" } released on **June 6, 2022**.
