@@ -69,16 +69,6 @@ To create the list, the CWE Team leveraged Common Vulnerabilities and Exposures 
 
 - [x] The CWE Top 25 contains *software weaknesses*.
 
-## Testworthy
-
-- :zap: The CWE Top 25 contains *software weaknesses*.
-
-## Zapworthy
-
-:zap: The CWE Top 25 contains *software weaknesses*.<br>
-:zap: The CWE Top 25 contains *software weaknesses*.<br>
-:zap: The CWE Top 25 contains *software weaknesses*.
-
 ## Sources
 
 - CWE. (2022). *2022 CWE Top 25 Most Dangerous Software Weaknesses*. https://cwe.mitre.org/top25/archive/2022/2022_cwe_top25.html
