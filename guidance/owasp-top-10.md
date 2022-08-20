@@ -22,10 +22,12 @@ The following contents reflect information collected from the official [OWASP To
 | CSRF | Cross-Site Request Forgery |
 | CWE | Common Weakness Enumeration |
 | DAST | Dynamic Application Security Testing |
+| DoS | Denial-of-Service |
 | DTD | Document Type Definitions |
 | ELK | Elasticsearch, Logstash, Kibana |
 | NIST | National Institute of Standards and Technology |
 | OWASP | Open Web Application Security Project |
+| RCE| Remote Code Execution |
 | SOAP | Simple Object Access Protocol |
 | SSO | Single Sign-On |
 | SSRF | Server-Side Request Forgery |
@@ -390,7 +392,7 @@ Notable Common Weakness Enumerations (CWEs) include:
 !!!
 This risk was merged with and renamed from [Insecure Deserialization](#insecure-deserialization) in 2021.
 !!!
-==- :zap: 9. Security Logging and Monitoring Failures
+==- 9. Security Logging and Monitoring Failures
 Without logging and monitoring, breaches cannot be detected.
 
 Notable Common Weakness Enumerations (CWEs) include:
@@ -400,6 +402,15 @@ Notable Common Weakness Enumerations (CWEs) include:
 - CWE-532: Insertion of Sensitive Information into Log File
 
 +++ Attack Scenarios
+***Scenario #1**: A children's health plan provider's website operator couldn't detect a breach due to a lack of monitoring and logging. An external party informed the health plan provider that an attacker had accessed and modified thousands of sensitive health records of more than 3.5 million children. A post-incident review found that the website developers had not addressed significant vulnerabilities. As there was no logging or monitoring of the system, the data breach could have been in progress since 2013, a period of more than seven years.
+
+---
+
+**Scenario #2**: A major Indian airline had a data breach involving more than ten years' worth of personal data of millions of passengers, including passport and credit card data. The data breach occurred at a third-party cloud hosting provider, who notified the airline of the breach after some time.
+
+---
+
+**Scenario #3**: A major European airline suffered a GDPR reportable breach. The breach was reportedly caused by payment application security vulnerabilities exploited by attackers, who harvested more than 400,000 customer payment records. The airline was fined 20 million pounds as a result by the privacy regulator.
 +++ Vulnerabilities
 Insufficient logging, detection, monitoring, and active response occurs any time:
 
@@ -422,11 +433,7 @@ Developers should implement some or all the following controls, depending on the
 
 There are commercial and open-source application protection frameworks such as the OWASP ModSecurity Core Rule Set, and open-source log correlation software, such as the Elasticsearch, Logstash, Kibana (ELK) stack, that feature custom dashboards and alerting.
 +++
-
-!!!
-This risk was renamed from [Insufficient Logging and Monitoring](#insufficient-logging-and-monitoring) in 2021.
-!!!
-==- :zap: :x: 10. Server-Side Request Forgery (SSRF)
+==- 10. :zap: Server-Side Request Forgery (SSRF)
 SSRF flaws occur whenever a web application is fetching a remote resource without validating the user-supplied URL. It allows an attacker to coerce the application to send a crafted request to an unexpected destination, even when protected by a firewall, VPN, or another type of network access control list (ACL).
 
 As modern web applications provide end-users with convenient features, fetching a URL becomes a common scenario. As a result, the incidence of SSRF is increasing. Also, the severity of SSRF is becoming higher due to cloud services and the complexity of architectures.
@@ -451,6 +458,33 @@ Notable Common Weakness Enumerations (CWEs) include:
 **Scenario #4**: Compromise internal services - The attacker can abuse internal services to conduct further attacks such as Remote Code Execution (RCE) or Denial of Service (DoS).
 +++ Vulnerabilities
 +++ Prevention
+Developers can prevent SSRF by implementing some or all the following defense in depth controls:
+
+From Network layer
+Segment remote resource access functionality in separate networks to reduce the impact of SSRF
+
+Enforce “deny by default” firewall policies or network access control rules to block all but essential intranet traffic.
+Hints:
+~ Establish an ownership and a lifecycle for firewall rules based on applications.
+~ Log all accepted and blocked network flows on firewalls (see A09:2021-Security Logging and Monitoring Failures).
+
+From Application layer:
+Sanitize and validate all client-supplied input data
+
+Enforce the URL schema, port, and destination with a positive allow list
+
+Do not send raw responses to clients
+
+Disable HTTP redirections
+
+Be aware of the URL consistency to avoid attacks such as DNS rebinding and “time of check, time of use” (TOCTOU) race conditions
+
+Do not mitigate SSRF via the use of a deny list or regular expression. Attackers have payload lists, tools, and skills to bypass deny lists.
+
+Additional Measures to consider:
+Don't deploy other security relevant services on front systems (e.g. OpenID). Control local traffic on these systems (e.g. localhost)
+
+For frontends with dedicated and manageable user groups use network encryption (e.g. VPNs) on independent systems to consider very high protection needs
 +++
 
 ==-

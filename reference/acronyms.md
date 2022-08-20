@@ -78,6 +78,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | DMCA | Digital Millenium Copyright Act |
 | DLP | Data Leak Prevention <br> Data Loss Prevention |
 | DOC | Department of Commerce |
+| DoS | Denial-of-Service |
 | DOT | Department of Transportation |
 | DPA | Data Protection Act |
 | DR | [Disaster Recovery](/reference/glossary/#disaster-recovery-dr) |
@@ -185,6 +186,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | QSA | [Qualified Security Assessor](/reference/glossary/#qualified-security-assessor-qsa) |
 | RASP | Runtime Application Self-Protection |
 | RBAC | Role-Based Access Control |
+| RCE | Remote Code Execution |
 | RDM | Release and Deployment Management |
 | REST | Representational State Transfer |
 | ROC | [Report of Compliance](/reference/glossary/#report-of-compliance-roc) |
