@@ -1,5 +1,6 @@
 ---
 categories: [Cloud Computing Risk Management Guidance]
+icon: zap
 ---
 
 :::banner
