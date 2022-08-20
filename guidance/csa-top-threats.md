@@ -38,11 +38,12 @@ The security issues contained within these reports are specifically related to *
 | Name | Release Date |
 | - | - |
 | [Pandemic Eleven](#pandemic-eleven) | 2022/06/06 |
-| [Egregious Eleven](#egregious-eleven) | 2019/08/06 |
+| Egregious Eleven#egregious-eleven | 2019/08/06 |
 | Treacherous Twelve | 2016/02/29 |
 | Notorious Nine | 2013/02/24 |
 
-+++ Pandemic Eleven
+### Pandemic Eleven
+
 1. [Insufficient Identity, Credentials, Access, and Key Management](#insufficient-identity-credentials-access-and-key-management)
 2. [Insecure Interfaces and APIs](#insecure-interfaces-and-apis)
 3. [Misconfiguration and Inadequate Change Control](#misconfiguration-and-inadequate-change-control)
@@ -54,21 +55,6 @@ The security issues contained within these reports are specifically related to *
 9. [Misconfiguration and Exploitation of Serverless and Container Workloads](#misconfiguration-and-exploitation-of-serverless-and-container-workloads)
 10. [Organized Crime/Hackers/APT](#organized-crime-hackers-apt)
 11. [Cloud Storage Data Exfiltration](#cloud-storage-data-exfiltration)
-+++ Egregious Eleven
-1. [Data Breaches](#data-breaches)
-2. [Misconfiguration and Inadequate Change Control](#misconfiguration-and-inadequate-change-control)
-3. [Lack of Cloud Security Architecture and Strategy](#lack-of-cloud-security-architecture-and-strategy)
-4. [Insufficient Identity, Credentials, Access, and Key Management](#insufficient-identity-credentials-access-and-key-management)
-5. [Account Hijacking](#account-hijacking)
-6. [Insider Threat](#insider-threat)
-7. [Insecure Interfaces and APIs](#insecure-interfaces-and-apis)
-8. [Weak Control Plane](#weak-control-plane)
-9. [Metastructure and Applistructure Failures](#metastructure-and-applistructure-failures)
-10. [Limited Cloud Usage Visibility](#limited-cloud-usage-visibility)
-11. [Abuse and Nefarious Use of Cloud Services](#abuse-and-nefarious-use-of-cloud-services)
-+++
-
-## Cloud Security Issues
 
 ==- Insufficient Identity, Credentials, Access, and Key Management
 > Text below this needs to be cited.
@@ -154,30 +140,6 @@ I believe this was formerly abuse and nefarious use of cloud services.
 It might take an attacker years to crack an encryption key using his own limited hardware, but using an array of cloud servers, he might be able to crack it in minutes. Alternatively, he might use that array of cloud servers to stage a DDoS attack, serve malware, or distribute pirated software.
 ==- Cloud Storage Data Exfiltration
 > Text below this needs to be cited.
-==-
-
-==- Weak Control Plane
-*See [System Vulnerabilities](#system-vulnerabilities)*.
-==- Abuse and Nefarious Use of Cloud Services
-*See [Organized Crime/Hackers/APT](#organized-crime-hackers-apt)*.
-==- Insider Threat
-> Text below this needs to be cited.
-
-European Organization for Nuclear Research (CERN) defines an insider threat as "A current or former employee, contractor, or other business partner who has or had authorized access to an organization's network, system, or data and intentionally exceeded or misused that access in a manner that negatively affected the confidentiality, integrity, or availability of the organization's information or information systems."
-==- Data Breaches
-> Text below this needs to be cited.
-==- Account Hijacking
-> Text below this needs to be cited.
-==- Metastructure and Applistructure Failures
-> Text below this needs to be cited.
-==- Limited Cloud Usage Visibility
-> Text below this needs to be cited.
-==-
-
-==- Data Loss
-> Text below this needs to be cited.
-
-Any accidental deletion by the CSP, or worse, a physical catastrophe such as a fire or earthquake, can lead to the permanent loss of customers' data unless the provider takes adequate measures to back it up. Furthermore, the burden of avoiding data loss does not fall solely on the provider's shoulders. If a customer encrypts their data before uploading it to the cloud but loses the encryption key, the data is still lost.
 ==-
 
 ## References
