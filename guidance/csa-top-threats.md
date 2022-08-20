@@ -25,6 +25,9 @@ The following contents reflect information collected from the official [Top Thre
 | CSP | Cloud Service Provider |
 | IaC | Infrastructure as Cloud |
 | IAM | Identity and Access Management |
+| IP | Intellectual Property |
+| PHI | Personal Health Information |
+| PII | Personally Identifiable Information |
 | SaaS | Software-as-a-Service |
 | TTP | Tactics, Techniques, and Procedures |
 ==-
@@ -117,7 +120,8 @@ The migration to cloud infrastructure and adoption of DevOps practices enable IT
 ==- 10. Organized Crime/Hackers/APT
 Advanced persistent threats (APTs) is a broad term used to describe an attack campaign in which an intruder, or team of intruders, establishes an illicit, long-term presence on a network to mine highly sensitive data. These teams may include nationstates as well as organized criminal gangs. The term Organized Crime is meant as a means to describe the manner in which the level of organization a group would have when creating planned and rational acts that reflect the efforts of group individuals. APTs have established sophisticated tactics, techniques, and protocols (TTPs) to infiltrate their targets. It is not uncommon for APT groups to spend months undetected in a target network. This extended time allows them to move laterally towards highly sensitive business data or assets. Some APT groups have historically also favored particular industries or organizations. For example, APT33 has been attributed to threat actors based out of Iran. They have historically targeted the energy and aviation sector. APT groups have various motivations to carry out malicious activities, such as political or economic.
 ==- 11. Cloud Storage Data Exfiltration
-> Text below this needs to be cited.
+Cloud storage data exfiltration is an incident involving sensitive, protected, or confidential information. These data may be released, viewed, stolen, or used by an individual outside of the organization's operating environment. Data exfiltration may be the primary objective of a targeted attack and may result from an exploited vulnerability or 
+misconfiguration, application vulnerabilities, or poor security practice. Exfiltration may involve any kind of information that was not intended for public release, for example, personal health information (PHI), financial information, personally identifiable information (PII), trade secrets, and intellectual property (IP).
 ==-
 
 ## Noteworthy

@@ -127,6 +127,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | IEC | International Electrotechnical Commission |
 | IG | Implementation Group |
 | IMT | Incident Management Team |
+| IP | Intellectual Property |
 | IPS | Intrusion Prevention System |
 | IRM | Information Rights Management |
 | IRT | Incident Response Team |
@@ -177,6 +178,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | PDPA | Personal Data Protection Act |
 | PFI | PCI Forensic Investigator |
 | PHI | Personal Health Information |
+| PII | Personally Identifiable Information |
 | PIPEDA | Personal Information Protection and Electronics Document Act |
 | PLA | Privacy-Level Agreement |
 | QSA | [Qualified Security Assessor](/reference/glossary/#qualified-security-assessor-qsa) |
