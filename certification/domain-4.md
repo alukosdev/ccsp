@@ -9,8 +9,8 @@ label: Domain 4
 - Cloud development basics
 - Common pitfalls
 - Common cloud vulnerabilities
-  - [Open Web Application Security Project (OWASP) Top-10](/guidance/owasp-top-10.md)
-  - [SANS Top-25](/guidance/cwe-sans-top-25.md)
+  - [OWASP Top 10](/guidance/owasp-top-10.md)
+  - [CWE Top 25](/guidance/cwe-top-25.md)
 
 ## 4.2 Describe the Secure Software Development Life Cycle (SDLC) process
 

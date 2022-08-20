@@ -61,11 +61,10 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 +++
 
 ## Web Application Security Risks
-!!!
-To address these risks, organizations must have an application risk management program in place. Implementation of an application risk management program addresses not only vulnerabilities but also all risks associated with applications.
-!!!
 
-==- :white_check_mark: Broken Access Control
+To address these risks, organizations must have an application risk management program in place. Implementation of an application risk management program addresses not only vulnerabilities but also all risks associated with applications.
+
+==- Broken Access Control
 Access control enforces policy such that users cannot act outside of their intended permissions. Failures typically lead to unauthorized information disclosure, modification, or destruction of all data or performing a business function outside the user's limits.
 
 Notable Common Weakness Enumerations (CWEs) include:
@@ -229,7 +228,7 @@ The first thing is to determine the protection needs of data in transit and at r
 !!!
 This risk was renamed from [Sensitive Data Exposure](#sensitive-data-exposure) in 2021.
 !!!
-==- :white_check_mark: Identification and Authentication Failures
+==- Identification and Authentication Failures
 Confirmation of the user's identity, authentication, and session management is critical to protect against authentication-related attacks.
 
 Notable Common Weakness Enumerations (CWEs) include:
@@ -279,6 +278,10 @@ There may be authentication weaknesses if the application:
 This risk was renamed from [Broken Authentication](#broken-authentication) in 2021.
 !!!
 ==- :white_check_mark: Injection
+!!!danger
+We need to add a definition here.
+!!!
+
 Notable Common Weakness Enumerations (CWEs) include:
 
 - CWE-79: Cross-site Scripting

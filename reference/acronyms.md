@@ -50,6 +50,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | CICA | Canadian Institute of Chartered Accountants |
 | CIP | [Critical Infrastructure Plan](/reference/glossary/#critical-infrastructure-plan-cip) |
 | CIS | Center for Internet Security |
+| CISA | Cybersecurity and Infrastructure Security Agency |
 | CMM | [Capability Maturity Model](/reference/glossary/#capability-maturity-model-cmm) |
 | CMVP | Cryptographic Module Validation Program |
 | COBIT | Control Objectives for Information and Related Technologies |
@@ -64,6 +65,8 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | CSRF | Cross-Site Request Forgery |
 | CST | Cryptographic and Security Testing |
 | CTP | CloudTrust Protocol |
+| CVE | Common Vulnerabilities and Exposures |
+| CVSS | Common Vulnerability Scoring System |
 | CWE | Common Weakness Enumeration |
 | DAM | [Database Activity Monitoring](/reference/glossary/#database-activity-monitoring-dam) |
 | DAR | Data at Rest |
@@ -135,6 +138,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | ITAR | International Traffic in Arms Regulations |
 | ITIL | Information Technology Infrastructure Library (formerly) |
 | ITSM | [Information Technology Service Management](/reference/glossary/#information-technology-service-management-itsm) |
+| KEV | Known Exploited Vulnerabilities |
 | KRI | Key Risk Indicator |
 | KVM | Kernel-based Virtual Machine |
 | LOI | [Letter of Intent](/reference/glossary/#letter-of-intent-loi) |
@@ -155,6 +159,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | NIS | Network and Information Security |
 | NIST | National Institute of Standards and Technology |
 | NPP | National Privacy Principles |
+| NVD | National Vulnerability Database |
 | NVLAP | National Voluntary Laboratory Accreditation Program |
 | OCR | Office for Civil Rights |
 | OECD | Organization for Economic Cooperation and Development |
