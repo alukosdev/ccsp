@@ -18,7 +18,7 @@ The following contents reflect information collected from the official [OWASP We
 
 ## Overview
 
-<span id="rev1"></span>The WSTG is a comprehensive guide to testing the security of web applications and web services. Created by the collaborative efforts of cybersecurity professionals and dedicated volunteers, the WSTG provides a framework of best practices used by penetration testers and organizations all over the world.[[¹]](#ref1)
+<span id="rev1"></span>The WSTG is a comprehensive guide to testing the security of web applications and web services. Created by the collaborative efforts of cybersecurity professionals and dedicated volunteers, the WSTG provides a framework of best practices used by penetration testers and organizations all over the world.[[1]](#ref1)
 
 ## Testing Methods
 
