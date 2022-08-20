@@ -242,3 +242,4 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | XML | Extensible Markup Language |
 | XSS | Cross-Site Scripting |
 | XXE | XML External Entities |
+| ZAP | Zed Attack Proxy |

@@ -21,6 +21,7 @@ The following contents reflect information collected from the official [OWASP To
 | ACL | Access Control List |
 | CSRF | Cross-Site Request Forgery |
 | CWE | Common Weakness Enumeration |
+| DAST | Dynamic Application Security Testing |
 | DTD | Document Type Definitions |
 | OWASP | Open Web Application Security Project |
 | SOAP | Simple Object Access Protocol |
@@ -29,6 +30,7 @@ The following contents reflect information collected from the official [OWASP To
 | XML | Extensible Markup Language |
 | XSS | Cross-Site Scripting |
 | XXE | XML External Entities |
+| ZAP | Zed Attack Proxy |
 
 ## Overview
 
@@ -387,6 +389,8 @@ Notable Common Weakness Enumerations (CWEs) include:
 This risk was merged with and renamed from [Insecure Deserialization](#insecure-deserialization) in 2021.
 !!!
 ==- :zap: 9. Security Logging and Monitoring Failures
+Without logging and monitoring, breaches cannot be detected.
+
 Notable Common Weakness Enumerations (CWEs) include:
 
 - CWE-117: Improper Output Neutralization for Logs
@@ -395,6 +399,15 @@ Notable Common Weakness Enumerations (CWEs) include:
 
 +++ Attack Scenarios
 +++ Vulnerabilities
+Insufficient logging, detection, monitoring, and active response occurs any time:
+
+- Auditable events, such as logins, failed logins, and high-value transactions, are not logged.
+- Warnings and errors generate no, inadequate, or unclear log messages.
+- Logs of applications and APIs are not monitored for suspicious activity.
+- Logs are only stored locally.
+- Appropriate alerting thresholds and response escalation processes are not in place or effective.
+- Penetration testing and scans by dynamic application security testing (DAST) tools (such as OWASP ZAP) do not trigger alerts.
+- The application cannot detect, escalate, or alert for active attacks in real-time or near real-time.
 +++ Prevention
 +++
 

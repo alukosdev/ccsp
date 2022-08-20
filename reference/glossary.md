@@ -1084,6 +1084,9 @@ XML gateways transform how services and sensitive data are exposed as APIs to de
 
 ## Z
 
+==- Zed Attack Proxy (ZAP)
+==-
+
 ## Sources
 
 - Gordon, A. (2016). The Official (ISC)² Guide to the CCSP CBK. Sybex.
