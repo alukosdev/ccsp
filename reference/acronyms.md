@@ -225,6 +225,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | TLS | Transport Layer Security |
 | TOTP | Time-Based One-Time Password |
 | TPM | [Trusted Platform Module](/reference/glossary/#trusted-platform-module-tpm) |
+| TTP | Tactics, Techniques, and Procedures |
 | UC | [Underpinning Contract](/reference/glossary/#underpinning-contract-uc) |
 | USG | United States Government |
 | USML | United States Munitions List |

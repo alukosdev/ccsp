@@ -16,11 +16,18 @@ The following contents reflect information collected from the official [Top Thre
 
 ## Acronyms, Abbreviations, and Initialisms
 
+==- Acronyms, Abbreviations, and Initialisms
 | Short Form | Full Form |
 | - | - |
 | API | Application Programming Interface |
 | APT | Advanced Persistent Threat |
 | CSA | Cloud Security Alliance |
+| CSP | Cloud Service Provider |
+| IaC | Infrastructure as Cloud |
+| IAM | Identity and Access Management |
+| SaaS | Software-as-a-Service |
+| TTP | Tactics, Techniques, and Procedures |
+==-
 
 ## Overview
 
@@ -55,104 +62,60 @@ security experts in CSA community about the most significant security issues in 
 ==- 1. Insufficient Identity, Credentials, Access, and Key Management
 Identity, credential, access management systems include tools and policies that allow organizations to manage, monitor, and secure access to valuable resources. Examples may include electronic files, computer systems, and physical resources, such as server rooms or buildings.
 
-+++ Business Impact
-Negative consequences of Insufficient Identity, Credentials, Access and Key Management, and Privileged Accounts may include:
+Proper maintenance and ongoing vigilance are important. The use of risk-scoring in Identity and Access Management (IAM) enhances security posture. Using a clear risk assignment model, diligent monitoring, and proper isolation of its behavior can help cross-check IAM systems. Tracking target access and frequency for risk scoring are also critical to understanding risk context.
 
-- Negative business performance and productivity due to reactive and overly restrictive lockdowns
-- Employee testing fatigue resulting in a lack of compliance and apathy to security
-- Data replacement or corruption vs. exfiltration by unauthorized or malicious users
-- Loss of trust and revenue in the market
-- Financial expenses incurred due to incident response and forensics
-- Ransomware and supply chain disruption
-+++ Key Takeaways
-Proper IAM, credential and key management results may include:
-
-1. Hardened defenses at the core of enterprise architectures shift hacking to endpoint user identity as low-hanging fruit. 
-2. Robust zero trust layer requires more than simple authentication for discrete users and application-based isolation. 
-3. Operational policies and structured risk are models also vital for advanced tools such as CIEM.
-4. User objects must be given risk scores that dynamically adjust as the business requires. Trust should be earned rather than simply providing keys and codes. 
-+++ Anecdotes and Examples
-Here are some recent examples of this security Issue’s cloud incidents:
-
-(2021) State-sponsored attacks are on the rise and getting more sophisticated. 2021 saw breaches that involved Twitch, Cosmology Kozmetik, PeopleGIS, Premier Diagnostics, 
-SeniorAdvisor, Reindeer, and Twillo, with the majority of these attacks being privilege abuse from insider threats. Companies that don’t monitor risk and resilience, face a dynamic threat landscape flat-footed.
-
----
-
-(10/2021) A closer look at SEGA Europe’s cloud highlights two important configuration management cloud misconfigurations - The AWS S3 bucket was set to public access 
-permissions. Hard-coded credentials were stored in the cloud. Content replacement in AWS and CDN networks could have been avoided if sandbox submissions were implemented, 
-allowing systems more time to validate changes and risk-score the access context.
-
----
-
-(1/2019 - 7/2019) CapitalOne AWS insider breach, where borrowed dynamic IAM roles were key in the breach. While S3 buckets were not exposed to the Internet like many other 
-breaches, an EC2 instance with an excessive IAM role might have been the culprit.
-+++
-
-!!!
-This threat aligns with the Disclosure category of the STRIDE threat model.
-!!!
+Privileged accounts must be deprovisioned in a precise and immediate manner in order to avoid personnel access after offboarding or role change. This reduces the data exfiltration or the likelihood of compromise. Outside of deprovisioning privileged accounts, it is imperative that roles and responsibilities match the level of "need to know". Multiple over-privileged personnel create a higher likelihood of data mismanagement or account takeover.
 ==- 2. Insecure Interfaces and APIs
-> Text below this needs to be cited.
+API usage continues to grow in popularity; securing these interfaces has become paramount. APIs and microservices must be checked for vulnerabilities due to misconfiguration, poor coding practices, a lack of authentication and inappropriate authorization. These oversights can potentially leave the interfaces vulnerable to malicious activity. Common examples include:
 
-API usage continues to grow in popularity; securing these interfaces has become paramount. APIs and microservices must be checked for vulnerabilities due to misconfiguration, poor coding practices, a lack of authentication and inappropriate authorization. These oversights can potentially leave the interfaces vulnerable to malicious activity. Common examples include 1. Unauthenticated endpoints; 2. Weak authentication; 3. Excessive permissions; 4. Standard security controls disabled; 5. Unpatched systems; 6. Logical design issues; and 7. 
-Disabled logging or monitoring. Misconfiguration of APIs and other interfaces is a leading cause of incidents and data breaches. These could allow exfiltration, deletion or modification of resources, data adjustments, or service interruptions.
+1. Unauthenticated endpoints
+2. Weak authentication
+3. Excessive permissions
+4. Standard security controls disabled
+5. Unpatched systems
+6. Logical design issues
+7. Disabled logging or monitoring.
 
-The risk of an insecure interface or API varies depending on the usage and data associated with the API, as well as how quickly the vulnerability is detected and mitigated.
-
-The most commonly reported business impact is the unintended exposure of sensitive or private data left unsecured by the API.
-
-!!!danger
-The following definition was copied from previous notes. References need to be identified.
-!!!
-
-Cloud computing providers expose a set of software interfaces or APIs that customers use to manage and interact with cloud services. Provisioning, management, orchestration, and monitoring are all performed using these interfaces. The security and availability of general cloud services is dependent on the security of these basic APIs. From authentication and access control to encryption and activity monitoring, these interfaces must be designed to protect against both accidental and malicious attempts to circumvent policy.
+Misconfiguration of APIs and other interfaces is a leading cause of incidents and data breaches. These could allow exfiltration, deletion or modification of resources, data 
+adjustments, or service interruptions.
 ==- 3. Misconfiguration and Inadequate Change Control
-> Text below this needs to be cited.
+Misconfigurations are the incorrect or sub-optimal setup of computing assets that may leave them vulnerable to unintended damage or external/internal malicious activity. Lack of system knowledge or understanding of security settings and nefarious intentions can result in misconfigurations. Some common misconfigurations are:
+
+1. Unsecured data storage elements or containers
+2. Excessive permissions
+3. Default credentials and configuration settings are left unchanged
+4. Standard security controls disabled
+5. Unpatched systems
+6. Logging or monitoring disabled
+7. Unrestricted access to ports and services
+8. Unsecured Secrets Management
+9. Poorly configured or lack of configuration validation.
+
+Misconfiguration of cloud resources is a leading cause of data breaches and could allow deletion or modification of resources and service interruptions.
 ==- 4. Lack of Cloud Security Architecture and Strategy
-> Text below this needs to be cited.
-
-!!!danger
-Was this formerly shared technology issues? That's what I added below.
-!!!
-
-Whether it's the underlying components that make up this infrastructure that were not designed to offer strong isolation properties for a multitenant architecture (IaaS), redeployable platforms (PaaS), or multicustomer applications (SaaS), the threat of shared vulnerabilities exists in all delivery models. A defense-in-depth strategy is recommended and should include compute, storage, network, application and user security enforcement, and monitoring, whether the service model is IaaS, PaaS, or SaaS. The key is that a single vulnerability or misconfiguration can lead to compromise across an entire provider's cloud.
+Cloud security strategy and security architecture encompasses the consideration and selection of cloud deployment models, cloud service models, cloud service providers (CSPs), service region availability zone, specific cloud services, general principles, and pre-determinations. Furthermore, a forward-looking design of IAM, networking and security controls across different cloud accounts, vendors, services, and environments are in scope. Consideration of strategy should precede and dictate design, but it is common that cloud 
+challenges demand an incremental and agile approach to planning.
 ==- 5. Insecure Software Development
-> Text below this needs to be cited.
+Software is complex, with cloud technologies tending to add to the complexity. In that complexity, unintended functionality emerges which could allow for the creation of exploits and likely misconfigurations. Thanks to the accessibility of the cloud, threat actors can leverage these "features" more easily than ever before.
 ==- 6. Unsecured Third-Party Resources
-> Text below this needs to be cited.
-
-!!!danger
-This was taken from insufficient due diligence.
-!!!
-
-Too many enterprise jump into the cloud without understanding the full scope of the undertaking. Without a complete understanding of the CSP environment, applications, or services being pushed to the cloud, and operational responsibilities such as incident response, encryption, and security monitoring, organizations are taking on unknown levels of risk in ways they may not even comprehend but that are a far departure from their current risks.
+In a world where cloud computing adoption is increasing rapidly, a third-party resource could mean different things: from open source code, through SaaS products and API risks (Security Issue 2), and all the way to a managed service provided by a cloud vendor. Risks stemming from third-party resources are also considered supply chain vulnerabilities since they are a part of the process of delivering your products or services. These risks exist in every product and service consumed. Still, due to the increasing reliance on third-party services and software-based products in recent years, more exploits of these vulnerabilities and hackable configurations occur.
 ==- 7. System Vulnerabilities
-> Text below this needs to be cited.
+System vulnerabilities are flaws in cloud service platforms. They may be exploited in an attempt to compromise confidentiality, integrity, and availability of data, potentially disrupting service operations. All components can contain vulnerabilities that may leave cloud services open to attack. Implementing security hardening practices that align 
+with the below vulnerability categories is essential to mitigating their security risks.
 
-!!!danger
-This was taken from denial of service.
-!!!
+There are four main categories of system vulnerabilities:
 
-By forcing the victim cloud service to consume inordinate amounts of finite system resources such as process power, memory, disk space, and network bandwidth, the attacker causes an intolerable system slowdown.
+1. Zero-day vulnerabilities
+2. Missing security patches
+3. Configuration-based vulnerabilities
+4. Weak or default credentials
+
 ==- 8. Accidental Cloud Data Disclosure
-> Text below this needs to be cited.
-
-!!!danger
-This was just a piece of data breaches from the T12.
-!!!
-
-If a multitenant cloud service database is not properly designed, a flaw in one client's application can allow an attacker access not only to that client's data but to every other client's data as well.
+Cloud services enable companies to build, innovate, and scale at a pace never seen before. However, the complexity of the cloud and a shift to cloud-service ownership, with diverse teams and business units, often leads to a lack of security governance and control. Increasing numbers of configurations for cloud resources in different CSPs make misconfigurations more common, and the lack of transparency into cloud inventory and adequate network exposure can lead to unintentional data leaks.
 ==- 9. Misconfiguration and Exploitation of Serverless and Container Workloads
-> Text below this needs to be cited.
+The migration to cloud infrastructure and adoption of DevOps practices enable IT teams to deliver value to the business faster than ever. Managing and scaling the infrastructure and security controls to run applications is still a significant burden on development teams. Legacy infrastructure teams used to managing on-prem environments must learn new skills like Infrastructure as Code (IaC) and cloud security. The same teams must take on more responsibility for the network and security controls supporting their applications. Serverless and cloud-native containerized workloads can seem like a silver bullet for this problem, offloading that responsibility to the cloud service provider (CSP). Still, it requires a higher level of cloud and application security maturity than migrating virtual machines to the cloud.
 ==- 10. Organized Crime/Hackers/APT
-> Text below this needs to be cited.
-
-!!!danger
-I believe this was formerly abuse and nefarious use of cloud services.
-!!!
-
-It might take an attacker years to crack an encryption key using his own limited hardware, but using an array of cloud servers, he might be able to crack it in minutes. Alternatively, he might use that array of cloud servers to stage a DDoS attack, serve malware, or distribute pirated software.
+Advanced persistent threats (APTs) is a broad term used to describe an attack campaign in which an intruder, or team of intruders, establishes an illicit, long-term presence on a network to mine highly sensitive data. These teams may include nationstates as well as organized criminal gangs. The term Organized Crime is meant as a means to describe the manner in which the level of organization a group would have when creating planned and rational acts that reflect the efforts of group individuals. APTs have established sophisticated tactics, techniques, and protocols (TTPs) to infiltrate their targets. It is not uncommon for APT groups to spend months undetected in a target network. This extended time allows them to move laterally towards highly sensitive business data or assets. Some APT groups have historically also favored particular industries or organizations. For example, APT33 has been attributed to threat actors based out of Iran. They have historically targeted the energy and aviation sector. APT groups have various motivations to carry out malicious activities, such as political or economic.
 ==- 11. Cloud Storage Data Exfiltration
 > Text below this needs to be cited.
 ==-
@@ -169,3 +132,4 @@ It might take an attacker years to crack an encryption key using his own limited
 ## Sources
 
 - CSA. (2022, June 6). *Top Threats to Cloud Computing Pandemic Eleven*. https://cloudsecurityalliance.org/download/artifacts/top-threats-to-cloud-computing-pandemic-eleven
+- CSA. (2016, February 29). *Top Threats to Cloud Computing Treacherous Twelve*. https://downloads.cloudsecurityalliance.org/assets/research/top-threats/Treacherous-12_Cloud-Computing_Top-Threats.pdf
