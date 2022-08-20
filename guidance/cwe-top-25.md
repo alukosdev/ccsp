@@ -27,7 +27,9 @@ This list demonstrates the currently most common and impactful software weakness
 
 To create the list, the CWE Team leveraged Common Vulnerabilities and Exposures (CVE) data found within the National Institute of Standards and Technology (NIST) National Vulnerability Database (NVD) and the Common Vulnerability Scoring System (CVSS) scores associated with each CVE Record, including a focus on CVE Records from the Cybersecurity and Infrastructure Security Agency (CISA) Known Exploited Vulnerabilities (KEV) Catalog. A formula was applied to the data to score each weakness based on prevalence and severity.
 
-## Weaknesses
+## Publications
+
+### 2022 CWE Top 25
 
 Below is a list of the weaknesses in the 2022 CWE Top 25:
 
