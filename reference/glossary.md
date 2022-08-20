@@ -997,7 +997,7 @@ Something or someone that carries out the attack. Also known as a threat actor.
 ==- TLS Authentication
 When the server proves its identity to the client.
 ==- Top Threats
-Top Threats is a working group established by the CSA that aims to provide organizations with an up-to-date, expert-informed understanding of cloud security risks, threats and vulnerabilities in order to make educated risk-management decisions regarding cloud adoption strategies.[[¹]]
+Top Threats is a working group established by the CSA that aims to provide organizations with an up-to-date, expert-informed understanding of cloud security risks, threats and vulnerabilities in order to make educated risk-management decisions regarding cloud adoption strategies.[[1]]
 ==- Total Risk
 The risk that exists &before& any controls are implemented.
 ==- Traditional Networking

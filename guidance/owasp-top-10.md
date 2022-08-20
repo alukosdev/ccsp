@@ -232,6 +232,8 @@ SQL structures such as table names, column names, and so on cannot be escaped, a
 This risk was merged with and renamed from [Cross-Site Scripting (XSS)](#cross-site-scripting-xss) in 2021.
 !!!
 ==- :zap: 4. Insecure Design
+Insecure design is a broad category representing different weaknesses, expressed as "missing or ineffective control design." Insecure design is not the source for all other Top 10 risk categories. There is a difference between insecure design and insecure implementation. We differentiate between design flaws and implementation defects for a reason, they have different root causes and remediation. A secure design can still have implementation defects leading to vulnerabilities that may be exploited. An insecure design cannot be fixed by a perfect implementation as by definition, needed security controls were never created to defend against specific attacks. One of the factors that contribute to insecure design is the lack of business risk profiling inherent in the software or system being developed, and thus the failure to determine what level of security design is required.
+
 Notable Common Weakness Enumerations (CWEs) include:
 
 - CWE-209: Generation of Error Message Containing Sensitive Information
@@ -240,8 +242,28 @@ Notable Common Weakness Enumerations (CWEs) include:
 - CWE-522: Insufficiently Protected Credentials
 
 +++ Attack Scenarios
+**Scenario #1**: A credential recovery workflow might include “questions and answers,” which is prohibited by NIST 800-63b, the OWASP ASVS, and the OWASP Top 10. Questions and answers cannot be trusted as evidence of identity as more than one person can know the answers, which is why they are prohibited. Such code should be removed and replaced with a more secure design.
+
+---
+
+**Scenario #2**: A cinema chain allows group booking discounts and has a maximum of fifteen attendees before requiring a deposit. Attackers could threat model this flow and test if they could book six hundred seats and all cinemas at once in a few requests, causing a massive loss of income.
+
+---
+
+**Scenario #3**: A retail chain’s e-commerce website does not have protection against bots run by scalpers buying high-end video cards to resell auction websites. This creates terrible publicity for the video card makers and retail chain owners and enduring bad blood with enthusiasts who cannot obtain these cards at any price. Careful anti-bot design and domain logic rules, such as purchases made within a few seconds of availability, might identify inauthentic purchases and rejected such transactions.
 +++ Vulnerabilities
 +++ Prevention
+
+- Establish and use a secure development lifecycle with AppSec professionals to help evaluate and design security and privacy-related controls
+- Establish and use a library of secure design patterns or paved road ready to use components
+- Use threat modeling for critical authentication, access control, business logic, and key flows
+- Integrate security language and controls into user stories
+- Integrate plausibility checks at each tier of your application (from frontend to backend)
+- Write unit and integration tests to validate that all critical flows are resistant to the threat model. Compile use-cases and misuse-cases for each tier of your application.
+- Segregate tier layers on the system and network layers depending on the exposure and protection needs
+- Segregate tenants robustly by design throughout all tiers
+- Limit resource consumption by user or service
+
 +++
 
 ==- :zap: 5. Security Misconfiguration
