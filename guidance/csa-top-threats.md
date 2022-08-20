@@ -140,8 +140,8 @@ It might take an attacker years to crack an encryption key using his own limited
 
 ## Noteworthy
 
-- [x] The security issues contained within the *Top Threats* reports are specifically related to *cloud computing*.
-- [x] The most current version of the *Top Threats* report is known as the *Pandemic Eleven*.
+- [x] The security issues contained within the CSA *Top Threats* reports are specifically related to *cloud computing*.
+- [x] The most current version of the CSA *Top Threats* report is known as the *Pandemic Eleven*.
 
 ## References
 

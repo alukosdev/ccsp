@@ -35,6 +35,11 @@ The following contents reflect information collected from the official [OWASP We
 11. Client-side Testing
 12. API Testing
 
+## Noteworthy
+
+- [x] The OWASP WSTG contains *twelve methods* of testing.
+- [x] The OWASP WSTG provides guidance for testing *web applications* and *web services*.
+
 ## References
 
 1. <span id="ref1"></span>[⌃](#rev1) OWASP. (n.d.). *OWASP Web Security Testing Guide*. https://owasp.org/www-project-web-security-testing-guide

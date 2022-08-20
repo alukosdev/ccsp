@@ -360,7 +360,7 @@ Notable Common Weakness Enumerations (CWEs) include:
 
 ## Noteworthy
 
-- [x] The security issues contained within the *Top 10* reports are specifically related to *web application security*.
+- [x] The security issues contained within the *OWASP Top 10* reports are specifically related to *web application security*.
 
 ## Sources
 
