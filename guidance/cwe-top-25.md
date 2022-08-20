@@ -31,8 +31,6 @@ To create the list, the CWE Team leveraged Common Vulnerabilities and Exposures 
 
 ### 2022 CWE Top 25
 
-Below is a list of the weaknesses in the 2022 CWE Top 25:
-
 | Rank | ID | Name | { class="compact" }
 | - | - | - |
 | 1 | CWE-787 | Out-of-bounds Write |
