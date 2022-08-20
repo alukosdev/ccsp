@@ -40,7 +40,7 @@ To address these risks, organizations must have an application risk management p
 
 | Name | Release Date |
 | - | - |
-| [Top 10:2021](#top-10-2021) | 2021 |
+| [Top 10:2021](#top-102021) | 2021 |
 | Top 10:2017 | 2017 |
 | Top 10:2013 | 2013 |
 | Top 10:2010 | 2010 |
