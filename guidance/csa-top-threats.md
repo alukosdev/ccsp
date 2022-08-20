@@ -71,7 +71,7 @@ Proper IAM, credential and key management results may include:
 2. Robust zero trust layer requires more than simple authentication for discrete users and application-based isolation. 
 3. Operational policies and structured risk are models also vital for advanced tools such as CIEM.
 4. User objects must be given risk scores that dynamically adjust as the business requires. Trust should be earned rather than simply providing keys and codes. 
-+++ Examples
++++ Anecdotes and Examples
 Here are some recent examples of this security Issue’s cloud incidents:
 
 (2021) State-sponsored attacks are on the rise and getting more sophisticated. 2021 saw breaches that involved Twitch, Cosmology Kozmetik, PeopleGIS, Premier Diagnostics, 
@@ -89,26 +89,9 @@ allowing systems more time to validate changes and risk-score the access context
 breaches, an EC2 instance with an excessive IAM role might have been the culprit.
 +++
 
-> Text below this needs to be cited.
-
-Identity, credential, access management systems include tools and policies that allow organizations to manage, monitor, and secure access to valuable resources. Examples may include electronic files, computer systems, and physical resources, such as server rooms or buildings.
-
-- Negative business performance and productivity due to reactive and overly restrictive lockdowns
-- Employee testing fatigue resulting in a lack of compliance and apathy to security
-- Data replacement or corruption vs. exfiltration by unauthorized or malicious users
-- Loss of trust and revenue in the market
-- Financial expenses incurred due to incident response and forensics
-- Ransomware and supply chain disruption
-
 !!!
 This threat aligns with the Disclosure category of the STRIDE threat model.
 !!!
-
-!!!danger
-This was taken from account hijacking.
-!!!
-
-If attackers gain access to your credentials, they can eavesdrop on your activities and transactions, manipulate data, return falsified information, and redirect your clients to illegitimate sites. Your account or service instances may become a new base for the attacker.
 ==- 2. Insecure Interfaces and APIs
 > Text below this needs to be cited.
 
