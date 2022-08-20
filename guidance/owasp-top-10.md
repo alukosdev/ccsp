@@ -34,11 +34,13 @@ The following contents reflect information collected from the official [OWASP To
 
 The OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications.
 
+To address these risks, organizations must have an application risk management program in place. Implementation of an application risk management program addresses not only vulnerabilities but also all risks associated with applications.
+
 ## Publications
 
 | Name | Release Date |
 | - | - |
-| Top 10:2021 | 2021 |
+| [Top 10:2021](#top-10-2021) | 2021 |
 | Top 10:2017 | 2017 |
 | Top 10:2013 | 2013 |
 | Top 10:2010 | 2010 |
@@ -58,8 +60,6 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 8. [Software and Data Integrity Failures](#software-and-data-integrity-failures)
 9. [Security Logging and Monitoring Failures](#security-logging-and-monitoring-failures)
 10. [Server-Side Request Forgery (SSRF)](#server-side-request-forgery-ssrf)
-
-To address these risks, organizations must have an application risk management program in place. Implementation of an application risk management program addresses not only vulnerabilities but also all risks associated with applications.
 
 ==- 1. Broken Access Control
 Access control enforces policy such that users cannot act outside of their intended permissions. Failures typically lead to unauthorized information disclosure, modification, or destruction of all data or performing a business function outside the user's limits.
