@@ -108,7 +108,7 @@ When a system or user who is part of a federation needs access to an application
 
 An IdP is responsible for providing identifiers for users looking to interact with a system, asserting to such a system that an identifier presented by a user is known to the provider, and possibly providing other information about the user that is known to the provider. This can be achieved via an authentication module, which verifies a security token that can be accepted as an alternative to repeatedly explicitly authenticating a user within a security realm.
 
-The IdP is usually referred to as the *source* of the identity in federation. The identity provider isn’t always the authoritative source, but can sometimes rely on the authoritative source, especially if it is a broker for the process.
+The IdP is usually referred to as the *source* of the identity in federation. The identity provider isn't always the authoritative source, but can sometimes rely on the authoritative source, especially if it is a broker for the process.
 
 The IdP *holds all the identities* and generates a token for known users. The IdP is usually the *customer*.
 

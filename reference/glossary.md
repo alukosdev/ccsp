@@ -255,7 +255,7 @@ The existing set of rulings and decisions made by courts, informed by cultural m
 ==- Compliance as a Service (CompaaS/CaaS)
 Includes a variety of compliance services such as data encryption, disaster recovery, reporting, and vulnerability scanning.
 ==- Compute Parameters
-A cloud server’s compute parameters depend on the number of *CPUs* and the amount of *RAM* used. The ability to allocate these resources is a vital compute concern.
+A cloud server's compute parameters depend on the number of *CPUs* and the amount of *RAM* used. The ability to allocate these resources is a vital compute concern.
 ==- Confidentiality
 Protecting information from unauthorized access/dissemination.
 ==- Configuration Item (CI)
@@ -429,11 +429,11 @@ Applications or software that a business would use to assist the organization in
 ==- Enterprise Cloud Backup
 Adds essential features such as archiving and disaster recovery to cloud backup solutions.
 ==- Enterprise Risk Management (ERM)
-ERM includes managing overall risk for the organization, aligned to the organization’s governance and risk tolerance. Enterprise risk management includes all areas of risk, not merely those concerned with technology. It is the overall management of risk for an organization.
+ERM includes managing overall risk for the organization, aligned to the organization's governance and risk tolerance. Enterprise risk management includes all areas of risk, not merely those concerned with technology. It is the overall management of risk for an organization.
 ==- Entitlement
 An entitlement maps an identity (including roles, personas, and attributes) to an authorization. The entitlement is what they are allowed to do, and for documentation purposes we keep these in an entitlement matrix.
 ==- Entity
-The person or “thing” that will have an identity. It could be an individual, a system, a device, or application code.
+The person or "thing" that will have an identity. It could be an individual, a system, a device, or application code.
 ==- Ephemeral Storage
 ==- Erasure Coding
 ==- Eucalyptus
@@ -741,7 +741,7 @@ The assurance that a specific author actually did create and send a specific ite
 ==- Outage Duration
 Outage duration is the length of time of a documented outage and is expressed as an amount of time (minutes, hours, days).
 ==- OWASP Dependency-Check
-Dependency-Check is a Software Composition Analysis (SCA) tool that attempts to detect publicly disclosed vulnerabilities contained within a project’s dependencies. It does this by determining if there is a Common Platform Enumeration (CPE) identifier for a given dependency. If found, it will generate a report linking to the associated CVE entries.
+Dependency-Check is a Software Composition Analysis (SCA) tool that attempts to detect publicly disclosed vulnerabilities contained within a project's dependencies. It does this by determining if there is a Common Platform Enumeration (CPE) identifier for a given dependency. If found, it will generate a report linking to the associated CVE entries.
 
 A utility that identifies project dependencies and checks whether there are any known, publicly disclosed, vulnerabilities.
 ==-
@@ -864,7 +864,7 @@ A risk register is a table to consolidate information about risks.
 ==- Risk Tolerance
 Risk tolerance is the level of risk that an organization can accept per *individual* risk.
 ==- Role
-Identities can have multiple roles which indicate context. “Role” is a confusing and abused term used in many different ways. For our purposes we will think of it as similar to a persona, or as a subset of a persona. For example, a given developer on a given project may have different roles, such as “super-admin” and “dev”, which are then used to make access decisions.
+Identities can have multiple roles which indicate context. "Role" is a confusing and abused term used in many different ways. For our purposes we will think of it as similar to a persona, or as a subset of a persona. For example, a given developer on a given project may have different roles, such as "super-admin" and "dev", which are then used to make access decisions.
 ==- Role-Based Access Control (RBAC)
 ==- Runtime Application Self-Protection (RASP)
 ==-
@@ -935,7 +935,7 @@ Usage and administration of cloud services ought to be transparent to cloud cust
 ==- Single Loss Expectancy (SLE)
 ==- Single Sign-On (SSO)
 ==- Smurf Attack
-The Smurf attack is a distributed denial-of-service attack in which large numbers of Internet Control Message Protocol (ICMP) packets with the intended victim’s spoofed source IP are broadcast to a computer network using an IP broadcast address. Most devices on a network will, by default, respond to this by sending a reply to the source IP address. If the number of machines on the network that receive and respond to these packets is very large, the victim’s computer will be flooded with traffic.
+The Smurf attack is a distributed denial-of-service attack in which large numbers of Internet Control Message Protocol (ICMP) packets with the intended victim's spoofed source IP are broadcast to a computer network using an IP broadcast address. Most devices on a network will, by default, respond to this by sending a reply to the source IP address. If the number of machines on the network that receive and respond to these packets is very large, the victim's computer will be flooded with traffic.
 ==- Snarfing
 The action of grabbing data and using it without the owner's consent.
 ==- Software-as-a-Service (SaaS)

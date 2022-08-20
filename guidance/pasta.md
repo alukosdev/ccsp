@@ -12,7 +12,7 @@ categories: [Threat Models]
 
 ## Overview
 
-The Process for Attack Simulation and Threat Analysis (PASTA) is a risk-centric threat modeling methodology that provides a step-by-step process to inject risk analysis and context into an organization’s overall security strategy from the beginning. PASTA encourages collaboration across all stakeholders, creating an environment focused on security.
+The Process for Attack Simulation and Threat Analysis (PASTA) is a risk-centric threat modeling methodology that provides a step-by-step process to inject risk analysis and context into an organization's overall security strategy from the beginning. PASTA encourages collaboration across all stakeholders, creating an environment focused on security.
 
 ## Stages
 

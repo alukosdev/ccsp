@@ -12,7 +12,7 @@
 === Asset
 Anything of value to a company.
 === Enterprise Risk Management (ERM)
-ERM includes managing overall risk for the organization, aligned to the organization’s governance and risk tolerance. Enterprise risk management includes all areas of risk, not merely those concerned with technology. It is the overall management of risk for an organization.
+ERM includes managing overall risk for the organization, aligned to the organization's governance and risk tolerance. Enterprise risk management includes all areas of risk, not merely those concerned with technology. It is the overall management of risk for an organization.
 === Exploit
 An instance of compromise.
 === Natural Disaster

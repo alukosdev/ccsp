@@ -22,7 +22,7 @@ Automates detection and remediation of security issues.
 === Functional Testing
 Functional testing is performed to confirm the functional aspect of a product. It verifies that a product is performing as expected based on the initial requirements laid out.
 === OWASP Dependency-Check
-Dependency-Check is a Software Composition Analysis (SCA) tool that attempts to detect publicly disclosed vulnerabilities contained within a project’s dependencies. It does this by determining if there is a Common Platform Enumeration (CPE) identifier for a given dependency. If found, it will generate a report linking to the associated CVE entries.
+Dependency-Check is a Software Composition Analysis (SCA) tool that attempts to detect publicly disclosed vulnerabilities contained within a project's dependencies. It does this by determining if there is a Common Platform Enumeration (CPE) identifier for a given dependency. If found, it will generate a report linking to the associated CVE entries.
 
 A utility that identifies project dependencies and checks whether there are any known, publicly disclosed, vulnerabilities.
 === Regression Testing

@@ -63,7 +63,7 @@ This tier is also referred to as STAR Attestation and Certification.
 
 Requires the release and publication of available results of an assessment carried out by an independent third party based on CSA CCM and ISO 27001:2013 or an AICPA SOC 2.
 
-Organizations looking for a third-party audit can choose from one or more of the security and privacy audits and certifications. An organization’s location, along with the regulations and standards it is subject to will have the greatest factor in determining which ones are appropriate to pursue.
+Organizations looking for a third-party audit can choose from one or more of the security and privacy audits and certifications. An organization's location, along with the regulations and standards it is subject to will have the greatest factor in determining which ones are appropriate to pursue.
 
 1. Attestation, Certification, and C-Star
 

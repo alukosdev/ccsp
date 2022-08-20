@@ -74,7 +74,7 @@ Adds requirements for physical tamper-evidence and role-based authentication. So
 
 ### Security Level 3
 
-Adds requirements for physical tamper-resistance and identity-based authentication. There must also be physical or logical separation between the interfaces by which “critical security parameters” enter and leave the module. Private keys can only enter or leave in encrypted form.
+Adds requirements for physical tamper-resistance and identity-based authentication. There must also be physical or logical separation between the interfaces by which "critical security parameters" enter and leave the module. Private keys can only enter or leave in encrypted form.
 
 - Prevention and Detection
 

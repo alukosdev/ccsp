@@ -224,7 +224,7 @@ A loose cluster offers performance, I/O, and storage capacity *within the same n
   - This allows performance to scale with capacity
 - Scalability is limited by the performance of the interconnect
 
-In a loosely coupled storage cluster, each node acts as an independent data store that can be added or removed from the cluster without affecting other nodes. This, however, means that the overall cluster’s *performance/capacity depends on each node’s own maximum performance/capacity*. Because each node in a loosely coupled architecture has its own limitations, the number of nodes will not affect overall performance.
+In a loosely coupled storage cluster, each node acts as an independent data store that can be added or removed from the cluster without affecting other nodes. This, however, means that the overall cluster's *performance/capacity depends on each node's own maximum performance/capacity*. Because each node in a loosely coupled architecture has its own limitations, the number of nodes will not affect overall performance.
 
 - Distributed.
 - Built for servers in multiple locations.

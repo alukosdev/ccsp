@@ -68,7 +68,7 @@ The following are primary benefits are observed by using SDN:
 
 ### Layers
 
-In the SDN architecture, the splitting of the control and data forwarding functions is referred to as “disaggregation,” because these pieces can be sourced separately, rather than deployed as one integrated system. This architecture gives the applications more information about the state of the entire network from the controller, as opposed to traditional networks where the network is only application-aware.
+In the SDN architecture, the splitting of the control and data forwarding functions is referred to as "disaggregation," because these pieces can be sourced separately, rather than deployed as one integrated system. This architecture gives the applications more information about the state of the entire network from the controller, as opposed to traditional networks where the network is only application-aware.
 
 ![SDN Architecture](/static/sdn-architecture.png)
 

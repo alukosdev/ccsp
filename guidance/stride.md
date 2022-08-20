@@ -31,7 +31,7 @@ The STRIDE acronym stands for:
 - **E**levation of privilege
 
 ==- [S]poofing
-Spoofing is using someone else’s credentials to gain access to otherwise inaccessible assets.
+Spoofing is using someone else's credentials to gain access to otherwise inaccessible assets.
 ==- [T]ampering
 Tampering is changing data to mount an attack.
 ==- [R]epudiation

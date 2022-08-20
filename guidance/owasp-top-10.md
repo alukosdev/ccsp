@@ -190,13 +190,13 @@ String query = "SELECT \* FROM accounts WHERE custID='" + request.getParameter("
 
 ---
 
-**Scenario #2**: Similarly, an application’s blind trust in frameworks may result in queries that are still vulnerable, (e.g., Hibernate Query Language (HQL)):
+**Scenario #2**: Similarly, an application's blind trust in frameworks may result in queries that are still vulnerable, (e.g., Hibernate Query Language (HQL)):
 
 ```
 Query HQLQuery = session.createQuery("FROM accounts WHERE custID='" + request.getParameter("id") + "'");
 ```
 
-In both cases, the attacker modifies the ‘id’ parameter value in their browser to send: ‘ or ‘1’=’1. For example:
+In both cases, the attacker modifies the `'id'` parameter value in their browser to send: `'` or `'1'='1`. For example:
 ```
 http://example.com/app/accountView?id=' or '1'='1
 ```
@@ -242,7 +242,7 @@ Notable Common Weakness Enumerations (CWEs) include:
 - CWE-522: Insufficiently Protected Credentials
 
 +++ Attack Scenarios
-**Scenario #1**: A credential recovery workflow might include “questions and answers,” which is prohibited by NIST 800-63b, the OWASP ASVS, and the OWASP Top 10. Questions and answers cannot be trusted as evidence of identity as more than one person can know the answers, which is why they are prohibited. Such code should be removed and replaced with a more secure design.
+**Scenario #1**: A credential recovery workflow might include "questions and answers," which is prohibited by NIST 800-63b, the OWASP ASVS, and the OWASP Top 10. Questions and answers cannot be trusted as evidence of identity as more than one person can know the answers, which is why they are prohibited. Such code should be removed and replaced with a more secure design.
 
 ---
 
@@ -250,7 +250,7 @@ Notable Common Weakness Enumerations (CWEs) include:
 
 ---
 
-**Scenario #3**: A retail chain’s e-commerce website does not have protection against bots run by scalpers buying high-end video cards to resell auction websites. This creates terrible publicity for the video card makers and retail chain owners and enduring bad blood with enthusiasts who cannot obtain these cards at any price. Careful anti-bot design and domain logic rules, such as purchases made within a few seconds of availability, might identify inauthentic purchases and rejected such transactions.
+**Scenario #3**: A retail chain's e-commerce website does not have protection against bots run by scalpers buying high-end video cards to resell auction websites. This creates terrible publicity for the video card makers and retail chain owners and enduring bad blood with enthusiasts who cannot obtain these cards at any price. Careful anti-bot design and domain logic rules, such as purchases made within a few seconds of availability, might identify inauthentic purchases and rejected such transactions.
 +++ Vulnerabilities
 +++ Prevention
 

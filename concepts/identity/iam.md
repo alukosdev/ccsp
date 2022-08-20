@@ -39,7 +39,7 @@ Authorization is often referred to as AuthZ.
 === Entitlement
 An entitlement maps an identity (including roles, personas, and attributes) to an authorization. The entitlement is what they are allowed to do, and for documentation purposes we keep these in an entitlement matrix.
 === Entity
-The person or “thing” that will have an identity. It could be an individual, a system, a device, or application code.
+The person or "thing" that will have an identity. It could be an individual, a system, a device, or application code.
 === Federation
 An association of organizations that come together to exchange information as appropriate about their users and resources to enable collaborations and transactions.
 === Identifier
@@ -55,7 +55,7 @@ Access decisions can be enforced at various points with various technologies.
 === Policy Management
 Establishes the security and access policies based on business needs and the degree of acceptable risk.
 === Role
-Identities can have multiple roles which indicate context. “Role” is a confusing and abused term used in many different ways. For our purposes we will think of it as similar to a persona, or as a subset of a persona. For example, a given developer on a given project may have different roles, such as “super-admin” and “dev”, which are then used to make access decisions.
+Identities can have multiple roles which indicate context. "Role" is a confusing and abused term used in many different ways. For our purposes we will think of it as similar to a persona, or as a subset of a persona. For example, a given developer on a given project may have different roles, such as "super-admin" and "dev", which are then used to make access decisions.
 ==- System for Cross-domain Identity Management (SCIM)
 SCIM is a standard for exchanging identity information between domains. It can be used for provisioning and deprovisioning accounts in external systems and for exchanging attribute information.
 
