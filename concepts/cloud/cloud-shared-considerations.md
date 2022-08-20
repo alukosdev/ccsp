@@ -18,7 +18,7 @@ Portability is the ability to *move applications and associated data between one
 
 Portability can help both prevent vendor lock-in and deliver business benefits by allowing identical cloud deployments to occur in different CSP solutions, either for the purposes of DR or for the global deployment of a distributed single solution.
 
-Portability is the measure of how difficult it might be to move the organization’s systems/data from a given cloud host to another cloud host.
+Portability is the measure of how difficult it might be to move the organization's systems/data from a given cloud host to another cloud host.
 
 ## Reversibility
 

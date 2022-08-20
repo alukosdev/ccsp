@@ -7,7 +7,7 @@ Grouping of resources.
 ==- Anti-affinity
 Separation of resources.
 ==- Compute Parameters
-A cloud server’s compute parameters depend on the number of *CPUs* and the amount of *RAM* used. The ability to allocate these resources is a vital compute concern.
+A cloud server's compute parameters depend on the number of *CPUs* and the amount of *RAM* used. The ability to allocate these resources is a vital compute concern.
 ==- Limits
 A limit creates a *maximum* ceiling for a resource allocation.
 ==- Reservations
