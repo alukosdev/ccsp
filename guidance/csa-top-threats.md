@@ -34,7 +34,7 @@ The following contents reflect information collected from the official [Top Thre
 
 ## Overview
 
-<span id="rev1"></span>Top Threats is a working group established by the CSA that aims to provide organizations with an up-to-date, expert-informed understanding of cloud security risks, threats and vulnerabilities in order to make educated risk-management decisions regarding cloud adoption strategies.[[¹]](#ref1)
+<span id="rev1"></span>Top Threats is a working group established by the CSA that aims to provide organizations with an up-to-date, expert-informed understanding of cloud security risks, threats and vulnerabilities in order to make educated risk-management decisions regarding cloud adoption strategies.[[1]](#ref1)
 
 ## Publications
 
@@ -136,4 +136,3 @@ misconfiguration, application vulnerabilities, or poor security practice. Exfilt
 ## Sources
 
 - CSA. (2022, June 6). *Top Threats to Cloud Computing Pandemic Eleven*. https://cloudsecurityalliance.org/download/artifacts/top-threats-to-cloud-computing-pandemic-eleven
-- CSA. (2016, February 29). *Top Threats to Cloud Computing Treacherous Twelve*. https://downloads.cloudsecurityalliance.org/assets/research/top-threats/Treacherous-12_Cloud-Computing_Top-Threats.pdf
