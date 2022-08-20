@@ -42,7 +42,8 @@ The security issues contained within these reports are specifically related to *
 | Treacherous Twelve | 2016/02/29 |
 | Notorious Nine | 2013/02/24 |
 
-+++ Pandemic Eleven
+### Pandemic Eleven
+
 1. [Insufficient Identity, Credentials, Access, and Key Management](#insufficient-identity-credentials-access-and-key-management)
 2. [Insecure Interfaces and APIs](#insecure-interfaces-and-apis)
 3. [Misconfiguration and Inadequate Change Control](#misconfiguration-and-inadequate-change-control)
@@ -54,42 +55,6 @@ The security issues contained within these reports are specifically related to *
 9. [Misconfiguration and Exploitation of Serverless and Container Workloads](#misconfiguration-and-exploitation-of-serverless-and-container-workloads)
 10. [Organized Crime/Hackers/APT](#organized-crime-hackers-apt)
 11. [Cloud Storage Data Exfiltration](#cloud-storage-data-exfiltration)
-+++ Egregious Eleven
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-+++ Treacherous Twelve
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-+++ Notorious Nine
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-+++
 
 ==- Insufficient Identity, Credentials, Access, and Key Management
 > Text below this needs to be cited.

@@ -120,10 +120,6 @@ Access control is only effective in trusted server-side code or server-less API,
 Developers and QA staff should include functional access control unit and integration tests.
 +++
 
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :white_check_mark: | 1 |
-| Top 10:2017 | :white_check_mark: | 5 |
 ==- :white_check_mark: :zap: 2. Cryptographic Failures
 !!!danger
 We need to add a summary here. I dislike the summary provided by OWASP.
@@ -176,15 +172,6 @@ The first thing is to determine the protection needs of data in transit and at r
 - Avoid deprecated cryptographic functions and padding schemes, such as MD5, SHA1, PKCS number 1 v1.5 .
 - Verify independently the effectiveness of configuration and settings.
 +++
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :white_check_mark: | 2 |
-| Top 10:2017 | :x: | |
-
-!!!
-This risk was renamed from [Sensitive Data Exposure](#sensitive-data-exposure) in 2021.
-!!!
 ==- :white_check_mark: 3. Injection
 !!!danger
 We need to add a definition here.
@@ -243,11 +230,6 @@ SQL structures such as table names, column names, and so on cannot be escaped, a
 - Use LIMIT and other SQL controls within queries to prevent mass disclosure of records in case of SQL injection.
 +++
 
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :white_check_mark: | 3 |
-| Top 10:2017 | :white_check_mark: | 1 |
-
 !!!
 This risk was merged with and renamed from [Cross-Site Scripting (XSS)](#cross-site-scripting-xss) in 2021.
 !!!
@@ -264,10 +246,6 @@ Notable Common Weakness Enumerations (CWEs) include:
 +++ Prevention
 +++
 
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :white_check_mark: | 4 |
-| Top 10:2017 | :x: | |
 ==- :zap: 5. Security Misconfiguration
 Notable Common Weakness Enumerations (CWEs) include:
 
@@ -279,10 +257,6 @@ Notable Common Weakness Enumerations (CWEs) include:
 +++ Prevention
 +++
 
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :white_check_mark: | 5 |
-| Top 10:2017 | :white_check_mark: | 6 |
 ==- :zap: 6. Vulnerable and Outdated Components
 Notable Common Weakness Enumerations (CWEs) include:
 
@@ -292,11 +266,6 @@ Notable Common Weakness Enumerations (CWEs) include:
 +++ Vulnerabilities
 +++ Prevention
 +++
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :white_check_mark: | 6 |
-| Top 10:2017 | :x: | |
 
 !!!
 This risk was renamed from [Using Components with Known Vulnerabilities](#using-components-with-known-vulnerabilities) in 2021.
@@ -342,11 +311,6 @@ There may be authentication weaknesses if the application:
 - Use a server-side, secure, built-in session manager that generates a new random session ID with high entropy after login. Session identifier should not be in the URL, be securely stored, and invalidated after logout, idle, and absolute timeouts.
 +++
 
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :white_check_mark: | 7 |
-| Top 10:2017 | :x: | |
-
 !!!
 This risk was renamed from [Broken Authentication](#broken-authentication) in 2021.
 !!!
@@ -362,11 +326,6 @@ Notable Common Weakness Enumerations (CWEs) include:
 +++ Prevention
 +++
 
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :x: | |
-| Top 10:2017 | :white_check_mark: | 8 |
-
 !!!
 This risk was merged with and renamed from [Insecure Deserialization](#insecure-deserialization) in 2021.
 !!!
@@ -381,11 +340,6 @@ Notable Common Weakness Enumerations (CWEs) include:
 +++ Vulnerabilities
 +++ Prevention
 +++
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :white_check_mark: | 9 |
-| Top 10:2017 | :x: | |
 
 !!!
 This risk was renamed from [Insufficient Logging and Monitoring](#insufficient-logging-and-monitoring) in 2021.
@@ -403,11 +357,6 @@ Notable Common Weakness Enumerations (CWEs) include:
 +++ Vulnerabilities
 +++ Prevention
 +++
-
-| Publication | Appearance | Ranking |
-| - | - | - |
-| Top 10:2021 | :white_check_mark: | 10 |
-| Top 10:2017 | :x: | |
 
 ==-
 
