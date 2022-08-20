@@ -56,7 +56,7 @@ The security issues contained within these reports are specifically related to *
 10. [Organized Crime/Hackers/APT](#organized-crime-hackers-apt)
 11. [Cloud Storage Data Exfiltration](#cloud-storage-data-exfiltration)
 
-==- Insufficient Identity, Credentials, Access, and Key Management
+==- 1. Insufficient Identity, Credentials, Access, and Key Management
 > Text below this needs to be cited.
 
 Identity, credential, access management systems include tools and policies that allow organizations to manage, monitor, and secure access to valuable resources. Examples may include electronic files, computer systems, and physical resources, such as server rooms or buildings.
@@ -77,7 +77,7 @@ This was taken from account hijacking.
 !!!
 
 If attackers gain access to your credentials, they can eavesdrop on your activities and transactions, manipulate data, return falsified information, and redirect your clients to illegitimate sites. Your account or service instances may become a new base for the attacker.
-==- Insecure Interfaces and APIs
+==- 2. Insecure Interfaces and APIs
 > Text below this needs to be cited.
 
 API usage continues to grow in popularity; securing these interfaces has become paramount. APIs and microservices must be checked for vulnerabilities due to misconfiguration, poor coding practices, a lack of authentication and inappropriate authorization. These oversights can potentially leave the interfaces vulnerable to malicious activity. Common examples include 1. Unauthenticated endpoints; 2. Weak authentication; 3. Excessive permissions; 4. Standard security controls disabled; 5. Unpatched systems; 6. Logical design issues; and 7. 
@@ -92,9 +92,9 @@ The following definition was copied from previous notes. References need to be i
 !!!
 
 Cloud computing providers expose a set of software interfaces or APIs that customers use to manage and interact with cloud services. Provisioning, management, orchestration, and monitoring are all performed using these interfaces. The security and availability of general cloud services is dependent on the security of these basic APIs. From authentication and access control to encryption and activity monitoring, these interfaces must be designed to protect against both accidental and malicious attempts to circumvent policy.
-==- Misconfiguration and Inadequate Change Control
+==- 3. Misconfiguration and Inadequate Change Control
 > Text below this needs to be cited.
-==- Lack of Cloud Security Architecture and Strategy
+==- 4. Lack of Cloud Security Architecture and Strategy
 > Text below this needs to be cited.
 
 !!!danger
@@ -102,9 +102,9 @@ Was this formerly shared technology issues? That's what I added below.
 !!!
 
 Whether it's the underlying components that make up this infrastructure that were not designed to offer strong isolation properties for a multitenant architecture (IaaS), redeployable platforms (PaaS), or multicustomer applications (SaaS), the threat of shared vulnerabilities exists in all delivery models. A defense-in-depth strategy is recommended and should include compute, storage, network, application and user security enforcement, and monitoring, whether the service model is IaaS, PaaS, or SaaS. The key is that a single vulnerability or misconfiguration can lead to compromise across an entire provider's cloud.
-==- Insecure Software Development
+==- 5. Insecure Software Development
 > Text below this needs to be cited.
-==- Unsecured Third-Party Resources
+==- 6. Unsecured Third-Party Resources
 > Text below this needs to be cited.
 
 !!!danger
@@ -112,7 +112,7 @@ This was taken from insufficient due diligence.
 !!!
 
 Too many enterprise jump into the cloud without understanding the full scope of the undertaking. Without a complete understanding of the CSP environment, applications, or services being pushed to the cloud, and operational responsibilities such as incident response, encryption, and security monitoring, organizations are taking on unknown levels of risk in ways they may not even comprehend but that are a far departure from their current risks.
-==- System Vulnerabilities
+==- 7. System Vulnerabilities
 > Text below this needs to be cited.
 
 !!!danger
@@ -120,7 +120,7 @@ This was taken from denial of service.
 !!!
 
 By forcing the victim cloud service to consume inordinate amounts of finite system resources such as process power, memory, disk space, and network bandwidth, the attacker causes an intolerable system slowdown.
-==- Accidental Cloud Data Disclosure
+==- 8. Accidental Cloud Data Disclosure
 > Text below this needs to be cited.
 
 !!!danger
@@ -128,9 +128,9 @@ This was just a piece of data breaches from the T12.
 !!!
 
 If a multitenant cloud service database is not properly designed, a flaw in one client's application can allow an attacker access not only to that client's data but to every other client's data as well.
-==- Misconfiguration and Exploitation of Serverless and Container Workloads
+==- 9. Misconfiguration and Exploitation of Serverless and Container Workloads
 > Text below this needs to be cited.
-==- Organized Crime/Hackers/APT
+==- 10. Organized Crime/Hackers/APT
 > Text below this needs to be cited.
 
 !!!danger
@@ -138,7 +138,7 @@ I believe this was formerly abuse and nefarious use of cloud services.
 !!!
 
 It might take an attacker years to crack an encryption key using his own limited hardware, but using an array of cloud servers, he might be able to crack it in minutes. Alternatively, he might use that array of cloud servers to stage a DDoS attack, serve malware, or distribute pirated software.
-==- Cloud Storage Data Exfiltration
+==- 11. Cloud Storage Data Exfiltration
 > Text below this needs to be cited.
 ==-
 
