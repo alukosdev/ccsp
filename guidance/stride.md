@@ -48,6 +48,11 @@ An elevation-of-privilege attack can occur if an unprivileged user gains privile
 STRIDE is particularly useful as part of the software development lifecycle (SDLC) in attempting to identify vulnerabilities throughout the build process. These six concepts help in identifying and classifying threats or vulnerabilities and help form a common language used to describe them.
 !!!
 
+## Noteworthy
+
+- [x] STRIDE contains *six* categories.
+- [x] STRIDE stands for spoofing, tampering, repudiation, information disclosure, denial-of-service, and elevation of privilege.
+
 ## Sources
 
 - Microsoft. (2022, June 16). *Threat modeling for drivers*. https://docs.microsoft.com/en-us/windows-hardware/drivers/driversecurity/threat-modeling-for-drivers

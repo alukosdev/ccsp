@@ -48,6 +48,11 @@ To prioritize the threats, rank each threat from 1 to 10 on all 5 of the DREAD a
 RISK_DREAD = (Damage + Reproducibility + Exploitability + Affected Users + Discoverability) / 5
 ```
 
+## Noteworthy
+
+- [x] DREAD contains *five* criteria.
+- [x] DREAD stands for damage, reproducibility, exploitability, affected users, and discoverability.
+
 ## Sources
 
 - Microsoft. (2022, June 16). *Threat modeling for drivers*. https://docs.microsoft.com/en-us/windows-hardware/drivers/driversecurity/threat-modeling-for-drivers
