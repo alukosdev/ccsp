@@ -77,12 +77,6 @@ Access control enforces policy such that users cannot act outside of their inten
 - CORS misconfiguration allows API access from unauthorized/untrusted origins.
 - Force browsing to authenticated pages as an unauthenticated user or to privileged pages as a standard user.
 
-Notable Common Weakness Enumerations (CWEs) include:
-
-- CWE-200: Exposure of Sensitive Information to an Unauthorized Actor
-- CWE-201: Insertion of Sensitive Information Into Sent Data
-- CWE-352: Cross-Site Request Forgery
-
 +++ Attack Scenarios
 **Scenario #1**: The application uses unverified data in a SQL call that is accessing account information:
 
@@ -118,6 +112,10 @@ Access control is only effective in trusted server-side code or server-less API,
 - Stateful session identifiers should be invalidated on the server after logout. Stateless JWT tokens should rather be short-lived so that the window of opportunity for an attacker is minimized. For longer lived JWTs it's highly recommended to follow the OAuth standards to revoke access.
 
 Developers and QA staff should include functional access control unit and integration tests.
++++ Notable CWEs
+- CWE-200: Exposure of Sensitive Information to an Unauthorized Actor
+- CWE-201: Insertion of Sensitive Information Into Sent Data
+- CWE-352: Cross-Site Request Forgery
 +++
 
 ==- 2. Cryptographic Failures
