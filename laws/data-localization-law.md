@@ -1,7 +1,12 @@
 ---
 categories: [Laws, Privacy Laws, Russian Laws]
+label: stop
 tags: [privacy, russia]
 ---
+
+!!!danger
+This page has not yet been revised for 2022.
+!!!
 
 # Data Localization Law
 
