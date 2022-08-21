@@ -6,6 +6,12 @@ tags: [owasp]
 
 !!!danger
 This page is currently under revision.
+
+- Sources need to be updated.
+- Acronyms need to be identified, added to this page and the global list. Do we really need everything on this page?
+- Check for commas and apostrophes.
+- Check grammar and spelling/consistency formatting.
+- Consistency of page code formatting.
 !!!
 
 :::banner
@@ -212,19 +218,9 @@ This changes the meaning of both queries to return all the records from the acco
 - CWE-89: SQL Injection
 - CWE-73: External Control of File Name or Path
 +++
-
-!!!
-This risk was merged with and renamed from [Cross-Site Scripting (XSS)](#cross-site-scripting-xss) in 2021.
-!!!
 ==- 4. Insecure Design
 Insecure design is a broad category representing different weaknesses, expressed as "missing or ineffective control design." Insecure design is not the source for all other Top 10 risk categories. There is a difference between insecure design and insecure implementation. We differentiate between design flaws and implementation defects for a reason, they have different root causes and remediation. A secure design can still have implementation defects leading to vulnerabilities that may be exploited. An insecure design cannot be fixed by a perfect implementation as by definition, needed security controls were never created to defend against specific attacks. One of the factors that contribute to insecure design is the lack of business risk profiling inherent in the software or system being developed, and thus the failure to determine what level of security design is required.
 
-+++ Attack Scenarios
-**Scenario #1**: A credential recovery workflow might include "questions and answers," which is prohibited by NIST 800-63b, the OWASP ASVS, and the OWASP Top 10. Questions and answers cannot be trusted as evidence of identity as more than one person can know the answers, which is why they are prohibited. Such code should be removed and replaced with a more secure design.
-
-**Scenario #2**: A cinema chain allows group booking discounts and has a maximum of fifteen attendees before requiring a deposit. Attackers could threat model this flow and test if they could book six hundred seats and all cinemas at once in a few requests, causing a massive loss of income.
-
-**Scenario #3**: A retail chain's e-commerce website does not have protection against bots run by scalpers buying high-end video cards to resell auction websites. This creates terrible publicity for the video card makers and retail chain owners and enduring bad blood with enthusiasts who cannot obtain these cards at any price. Careful anti-bot design and domain logic rules, such as purchases made within a few seconds of availability, might identify inauthentic purchases and rejected such transactions.
 +++ Prevention
 - Establish and use a secure development lifecycle with AppSec professionals to help evaluate and design security and privacy-related controls
 - Establish and use a library of secure design patterns or paved road ready to use components
@@ -235,6 +231,12 @@ Insecure design is a broad category representing different weaknesses, expressed
 - Segregate tier layers on the system and network layers depending on the exposure and protection needs
 - Segregate tenants robustly by design throughout all tiers
 - Limit resource consumption by user or service
++++ Attack Scenarios
+**Scenario #1**: A credential recovery workflow might include "questions and answers," which is prohibited by NIST 800-63b, the OWASP ASVS, and the OWASP Top 10. Questions and answers cannot be trusted as evidence of identity as more than one person can know the answers, which is why they are prohibited. Such code should be removed and replaced with a more secure design.
+
+**Scenario #2**: A cinema chain allows group booking discounts and has a maximum of fifteen attendees before requiring a deposit. Attackers could threat model this flow and test if they could book six hundred seats and all cinemas at once in a few requests, causing a massive loss of income.
+
+**Scenario #3**: A retail chain's e-commerce website does not have protection against bots run by scalpers buying high-end video cards to resell auction websites. This creates terrible publicity for the video card makers and retail chain owners and enduring bad blood with enthusiasts who cannot obtain these cards at any price. Careful anti-bot design and domain logic rules, such as purchases made within a few seconds of availability, might identify inauthentic purchases and rejected such transactions.
 +++ Notable CWEs
 - CWE-209: Generation of Error Message Containing Sensitive Information
 - CWE-256: Unprotected Storage of Credentials
@@ -442,9 +444,6 @@ The data shows a relatively low incidence rate with above average testing covera
 - [x] The security issues contained within the *OWASP Top 10* reports are specifically related to *web application security*.
 
 ## Sources
-!!!danger
-These need to be fixed.
-!!!
 
 - https://owasp.org/www-project-top-ten/2017/Top_10.html
 - https://owasp.org/www-project-top-ten/2017/A2_2017-Broken_Authentication
