@@ -1,6 +1,6 @@
 ---
 categories: [Laws, Privacy Laws, Russian Laws]
-label: stop
+icon: stop
 tags: [privacy, russia]
 ---
 

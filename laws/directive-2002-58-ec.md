@@ -1,6 +1,6 @@
 ---
 categories: [Laws, Privacy Laws, EU/EEA Laws]
-label: stop
+icon: stop
 tags: [eea, eu, privacy]
 ---
 

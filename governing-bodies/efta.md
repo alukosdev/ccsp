@@ -1,7 +1,12 @@
 ---
 categories: []
+icon: stop
 tags: [privacy, efta]
 ---
+
+!!!danger
+This page has not yet been revised for 2022.
+!!!
 
 # EFTA
 

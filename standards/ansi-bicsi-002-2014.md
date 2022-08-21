@@ -1,7 +1,12 @@
 ---
 categories: [Standards, Data Center Design Standards]
+icon: stop
 tags: [ansi, bicsi]
 ---
+
+!!!danger
+This page has not yet been revised for 2022.
+!!!
 
 # ANSI/BICSI 002-2014
 

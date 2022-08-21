@@ -1,6 +1,6 @@
 ---
 categories: [Laws, Privacy Laws, United States Laws]
-label: stop
+icon: stop
 tags: [privacy, united states]
 ---
 
