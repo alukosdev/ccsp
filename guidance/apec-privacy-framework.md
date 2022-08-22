@@ -30,10 +30,10 @@ ensure the growth of electronic commerce and innovation must be cooperation to p
 
 ## Contents
 
-I. [Preamble](#part-ipreamble)
-II. [Scope](#part-iiscope)
-III. [Information Privacy Principles](#part-iiiinformation-privacy-principles)
-IV. [Implementation](#part-ivimplementation)
+I. [Preamble](#part-i-preamble)
+II. [Scope](#part-ii-scope)
+III. [Information Privacy Principles](#part-iii-information-privacy-principles)
+IV. [Implementation](#part-iv-implementation)
 
 === Part I: Preamble
 
