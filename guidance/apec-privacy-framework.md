@@ -54,7 +54,7 @@ The Framework was developed and updated in recognition of the importance of:
 The purpose of Part II of the APEC Privacy Framework is to make clear the extent of coverage of the Principles.
 
 !!!
-Part II of the Framework is essentially a list of definitions and applications for the Framework.
+Part II of the APEC Privacy Framework is essentially a list of definitions and applications for the Framework.
 !!!
 
 === Part III: Information Privacy Principles
