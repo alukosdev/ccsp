@@ -43,6 +43,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | CapEx | Capital Expenditure |
 | CASB | [Cloud Access Security Broker](/reference/glossary/#cloud-access-security-broker-casb) |
 | CBA | [Cost-Benefit Analysis](/reference/glossary/#cost-benefit-analysis-cba) |
+| CBPR | Cross Border Privacy Rules |
 | CC | Common Criteria |
 | CCL | Commerce Control List |
 | CCM | [Cloud Controls Matrix](/reference/glossary/#cloud-controls-matrix-ccm) |
@@ -59,6 +60,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | CompaaS | [Compliance as a Service](/reference/glossary/#compliance-as-a-service-compaas-caas) |
 | COPPA | Children's Online Privacy Protection Act |
 | CORS | Cross-Origin Resource Sharing |
+| CPEA | Cross-Border Privacy Enforcement Arrangement |
 | CSA | Cloud Security Alliance |
 | CSB | Cloud Service Broker |
 | CSC | Critical Security Controls (formerly) |
