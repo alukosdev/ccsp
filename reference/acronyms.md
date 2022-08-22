@@ -63,6 +63,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | CSCC | [Cloud Standards Customer Council](/reference/glossary/#cloud-standards-customer-council-cscc) |
 | CSIM | Continual Service Improvement Management |
 | CSP | [Cloud Service Provider](/reference/glossary/#cloud-service-provider-csp) |
+| CSPRNG | Cryptographically Secure Pseudo Random Number Generator |
 | CSRF | Cross-Site Request Forgery |
 | CST | Cryptographic and Security Testing |
 | CTP | CloudTrust Protocol |
@@ -91,6 +92,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | DTD | Document Type Definitions) |
 | EAL | Evaluation Assurance Level |
 | EAR | Export Administration Regulations |
+| ECB | Electronic Code Book |
 | ECPA | Electronic Communication Privacy Act |
 | EEA | [European Economic Area](/reference/glossary/#european-economic-area-eea) |
 | EF | Exposure Factor |
@@ -111,8 +113,10 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | FIPS | Federal Information Processing Standard |
 | FISMA | Federal Information Security Management Act |
 | FPE | Format-Preserving Encryption |
+| FS | Forward Secrecy |
 | FT | [Fault Tolerance](/reference/glossary/#fault-tolerance-ft) |
 | FTC | Federal Trade Commission |
+| FTP | File Transfer Protocol |
 | GAAP | [Generally Accepted Accounting Principles](/reference/glossary/#generally-accepted-accounting-principles-gaap) |
 | GDPR | Global Data Protection Regulation |
 | GLBA | Gramm-Leach-Bliley Act |
@@ -120,6 +124,9 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | HIPAA | Health Insurance Portability and Accountability Act |
 | HITEHC | Health Information Technology for Economic and Clinical Health |
 | HSM | [Hardware Security Module](/reference/glossary/#hardware-security-module-hsm) |
+| HSTS | HTTP Strict Transport Security |
+| HTTP | Hypertext Transfer Protocol |
+| HTTPS | Hypertext Transfer Protocol Secure |
 | IaaS | Infrastructure-as-a-Service |
 | IAASB | International Auditing and Assurance Standards Board |
 | IaC | [Infrastructure as Code](/reference/glossary/#infrastructure-as-code-iac) |
@@ -149,6 +156,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | KVM | Kernel-based Virtual Machine |
 | LOI | [Letter of Intent](/reference/glossary/#letter-of-intent-loi) |
 | MAD | [Maximum Allowable Downtime](/reference/glossary/#maximum-allowable-downtime-mad) |
+| MD5 | Message-Digest Algorithm |
 | MDT | [Microsoft Deployment Toolkit](/reference/glossary/#microsoft-deployment-toolkit-mtd) |
 | MFA | Multifactor Authentication |
 | MOA | [Memorandum of Agreement](/reference/glossary/#memorandum-of-agreement-moa) |
@@ -186,7 +194,9 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | PHI | Personal Health Information |
 | PII | Personally Identifiable Information |
 | PIPEDA | Personal Information Protection and Electronics Document Act |
+| PKCS | Public Key Cryptography Standards |
 | PLA | Privacy-Level Agreement |
+| QA | Quality Assurance |
 | QSA | [Qualified Security Assessor](/reference/glossary/#qualified-security-assessor-qsa) |
 | RASP | Runtime Application Self-Protection |
 | RBAC | Role-Based Access Control |
@@ -214,10 +224,12 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | SDLC | Software Development Lifecycle |
 | SDN | Software-Defined Networking |
 | SEC | Securities and Exchange Commission |
+| SHA | Secure Hashing Algorithm |
 | SIEM | Security Information and Event Management |
 | SLE | Single Loss Expectancy |
 | SLM | Service Level Management |
 | SMSS | Secret Sharing Made Short |
+| SMTP | Simple Mail Transfer Protocol |
 | SOA | [Service-Oriented Architecture](/reference/glossary/#service-oriented-architecture-soa) |
 | SOAP | Simple Object Access Protocol |
 | SOC | System and Organization Controls |

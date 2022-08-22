@@ -12,6 +12,7 @@ This page is currently under revision.
 - Check for commas and apostrophes.
 - Check grammar and spelling/consistency formatting.
 - Consistency of page code formatting.
+- Using hashtags in tabs such as we did in SSRF doesn't look good.
 !!!
 
 :::banner
@@ -26,20 +27,37 @@ The following contents reflect information collected from the official [OWASP To
 | - | - |
 | ACL | Access Control List |
 | CORS | Cross-Origin Resource Sharing |
+| CSPRNG | Cryptographically Secure Pseudo Random Number Generator |
 | CSRF | Cross-Site Request Forgery |
 | CWE | Common Weakness Enumeration |
 | DAST | Dynamic Application Security Testing |
 | DoS | Denial-of-Service |
+| DSS | Data Security Standards |
 | DTD | Document Type Definitions |
+| ECB | Electronic Code Book |
 | ELK | Elasticsearch, Logstash, Kibana |
+| FS | Forward Secrecy
+| FTP | File Transfer Protocol |
+| GDPR | Global Data Protection Regulation |
+| HSTS | HTTP Strict Transport Security |
+| HTTP | Hypertext Transfer Protocol |
+| HTTPS | Hypertext Transfer Protocol Secure |
 | JSON | JavaScript Object Notation |
 | JWT | JSON Web Token |
+| MD5 | Message-Digest Algorithm |
 | NIST | National Institute of Standards and Technology |
 | OWASP | Open Web Application Security Project |
-| RCE| Remote Code Execution |
+| PCI | Payment Card Industry |
+| PKCS | Public Key Cryptography Standards |
+| QA | Quality Assurance |
+| RCE | Remote Code Execution |
+| SHA | Secure Hashing Algorithm |
+| SMTP | Simple Mail Transfer Protocol |
 | SOAP | Simple Object Access Protocol |
+| SQL | Structured Query Language |
 | SSO | Single Sign-On |
 | SSRF | Server-Side Request Forgery |
+| TLS | Transport Layer Security |
 | XML | Extensible Markup Language |
 | XSS | Cross-Site Scripting |
 | XXE | XML External Entities |
