@@ -1,16 +1,14 @@
 ---
 categories: [Application Risk Management Guidance]
+icon: alert
 tags: [owasp]
 ---
 
 !!!danger
 This page is currently under revision.
 
-- Sources need to be updated.
-- Acronyms need to be identified, added to this page and the global list. Do we really need everything on this page?
-- Check for commas and apostrophes.
 - Check grammar and spelling/consistency formatting.
-- Consistency of page code formatting.
+- Consistency of page code formatting (tabs, panels, etc.).
 - Using hashtags in tabs such as we did in SSRF doesn't look good.
 !!!
 
