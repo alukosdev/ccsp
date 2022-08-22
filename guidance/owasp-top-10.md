@@ -480,10 +480,4 @@ The data shows a relatively low incidence rate with above average testing covera
 
 ## Sources
 
-- https://owasp.org/www-project-top-ten/2017/Top_10.html
-- https://owasp.org/www-project-top-ten/2017/A2_2017-Broken_Authentication
-- MITRE. (n.d.). *CWE*. https://cwe.mitre.org/
-- OWASP. (2021). *A01:2021 - Broken Access Control*. https://owasp.org/Top10/A01_2021-Broken_Access_Control
 - OWASP. (2021). *OWASP Top 10*. https://owasp.org/www-project-top-ten
-- OWASP. (2021). *A10:2021 - Server-Side Request Forgery (SSRF)*. https://owasp.org/Top10/A10_2021-Server-Side_Request_Forgery_%28SSRF%29
-- OWASP. (2017). *OWASP Top 10*. https://owasp.org/www-pdf-archive/OWASP_Top_10-2017_%28en%29.pdf.pdf
