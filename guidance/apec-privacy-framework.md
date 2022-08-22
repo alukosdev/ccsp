@@ -1,12 +1,7 @@
 ---
 categories: [Privacy Guidance]
-icon: alert
 tags: [apec, privacy]
 ---
-
-!!!warning
-This page is currently under revision.
-!!!
 
 # APEC Privacy Framework
 
