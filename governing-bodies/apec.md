@@ -19,7 +19,7 @@ APEC operates as a cooperative, multilateral economic and trade forum. Member ec
 
 ## Noteworthy
 
-- [x] APEC contains 21 members.
+- [x] APEC contains 21 member countries.
 - [x] There are *no binding commitments or treaty obligations*.
 - [x] Commitments are undertaken on a *voluntary basis*.
 

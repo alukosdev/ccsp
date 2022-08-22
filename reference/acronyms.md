@@ -186,7 +186,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | NVD | National Vulnerability Database |
 | NVLAP | National Voluntary Laboratory Accreditation Program |
 | OCR | Office for Civil Rights |
-| OECD | Organization for Economic Cooperation and Development |
+| OECD | Organization for Economic Co-operation and Development |
 | OGNL | Object Graph Navigation Library |
 | OIDC | OpenID Connect |
 | OLA | Operational-Level Agreement |
