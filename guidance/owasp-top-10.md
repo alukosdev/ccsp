@@ -15,7 +15,7 @@ This page is currently under revision.
 !!!
 
 :::banner
-The following contents reflect information collected from the official [OWASP Top 10](https://owasp.org/www-project-top-ten){ target="_blank" } released in **2021**.
+The following page reflects information collected from the official [OWASP Top 10](https://owasp.org/www-project-top-ten){ target="_blank" } released in **2021**.
 :::
 
 # OWASP Top 10
