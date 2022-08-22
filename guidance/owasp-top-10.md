@@ -26,31 +26,43 @@ The following contents reflect information collected from the official [OWASP To
 | Short Form | Full Form |
 | - | - |
 | ACL | Access Control List |
+| CI/CD | Continuous Integration and Continuous Delivery |
 | CORS | Cross-Origin Resource Sharing |
 | CSPRNG | Cryptographically Secure Pseudo Random Number Generator |
 | CSRF | Cross-Site Request Forgery |
+| CVE | Common Vulnerability and Exposures |
 | CWE | Common Weakness Enumeration |
 | DAST | Dynamic Application Security Testing |
+| DBMS | Database Management System |
 | DoS | Denial-of-Service |
 | DSS | Data Security Standards |
 | DTD | Document Type Definitions |
 | ECB | Electronic Code Book |
+| EL | Expression Language |
 | ELK | Elasticsearch, Logstash, Kibana |
 | FS | Forward Secrecy
 | FTP | File Transfer Protocol |
 | GDPR | Global Data Protection Regulation |
+| HQL | Hibernate Query Language |
 | HSTS | HTTP Strict Transport Security |
 | HTTP | Hypertext Transfer Protocol |
 | HTTPS | Hypertext Transfer Protocol Secure |
+| IAST | Interactive Application Security Testing |
+| IoT | Internet of Things |
 | JSON | JavaScript Object Notation |
 | JWT | JSON Web Token |
+| LDAP | Lightweight Directory Access Protocol |
 | MD5 | Message-Digest Algorithm |
 | NIST | National Institute of Standards and Technology |
+| NVD | National Vulnerability Database |
+| OGNL | Object Graph Navigation Library |
+| ORM | Object Relational Mapping |
 | OWASP | Open Web Application Security Project |
 | PCI | Payment Card Industry |
 | PKCS | Public Key Cryptography Standards |
 | QA | Quality Assurance |
 | RCE | Remote Code Execution |
+| SAST | Static Application Security Testing |
 | SHA | Secure Hashing Algorithm |
 | SMTP | Simple Mail Transfer Protocol |
 | SOAP | Simple Object Access Protocol |

@@ -11,6 +11,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | Short Form | Full Form | { class="compact" }
 | - | - |
 | ABAC | Attribute-Based Access Control |
+| ACL | Access Control List |
 | AICPA | American Institute of Certified Public Accountants |
 | ALE | [Annualized Loss Expectancy](/reference/glossary/#annualized-loss-expectancy-ale) |
 | ANF | Application Normative Framework |
@@ -48,6 +49,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | CDN | Content Delivery Network |
 | CI | [Configuration Item](/reference/glossary/#configuration-item-ci) |
 | CICA | Canadian Institute of Chartered Accountants |
+| CI/CD | Continuous Integration and Continuous Delivery |
 | CIP | [Critical Infrastructure Plan](/reference/glossary/#critical-infrastructure-plan-cip) |
 | CIS | Center for Internet Security |
 | CISA | Cybersecurity and Infrastructure Security Agency |
@@ -73,6 +75,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | DAM | [Database Activity Monitoring](/reference/glossary/#database-activity-monitoring-dam) |
 | DAR | Data at Rest |
 | DAST | Dynamic Application Security Testing |
+| DBMS | Database Management System |
 | DHHS | Department of Health and Human Services |
 | DIM | Data in Motion |
 | DIT | Data in Transit |
@@ -98,6 +101,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | EF | Exposure Factor |
 | EFS | Encrypting File System |
 | EFTA | European Free Trade Association |
+| EL | Expression Language |
 | ELK | Elasticsearch, Logstash, Kibana |
 | EHR | Electronic Health Records |
 | ENISA | European Union Agency for Cybersecurity |
@@ -123,6 +127,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | HA | [High Availability](/reference/glossary/#high-availability-ha) |
 | HIPAA | Health Insurance Portability and Accountability Act |
 | HITEHC | Health Information Technology for Economic and Clinical Health |
+| HQL | Hibernate Query Language |
 | HSM | [Hardware Security Module](/reference/glossary/#hardware-security-module-hsm) |
 | HSTS | HTTP Strict Transport Security |
 | HTTP | Hypertext Transfer Protocol |
@@ -131,12 +136,14 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | IAASB | International Auditing and Assurance Standards Board |
 | IaC | [Infrastructure as Code](/reference/glossary/#infrastructure-as-code-iac) |
 | IAM | Identity and Access Management |
+| IAST | Interactive Application Security Testing |
 | IDCA | International Data Center Authority |
 | IdP | Identity Provider |
 | IDS | Intrusion Detection System |
 | IEC | International Electrotechnical Commission |
 | IG | Implementation Group |
 | IMT | Incident Management Team |
+| IoT | Internet of Things |
 | IP | Intellectual Property |
 | IPS | Intrusion Prevention System |
 | IRM | Information Rights Management |
@@ -154,6 +161,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | KEV | Known Exploited Vulnerabilities |
 | KRI | Key Risk Indicator |
 | KVM | Kernel-based Virtual Machine |
+| LDAP | Lightweight Directory Access Protocol |
 | LOI | [Letter of Intent](/reference/glossary/#letter-of-intent-loi) |
 | MAD | [Maximum Allowable Downtime](/reference/glossary/#maximum-allowable-downtime-mad) |
 | MD5 | Message-Digest Algorithm |
@@ -177,11 +185,13 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | NVLAP | National Voluntary Laboratory Accreditation Program |
 | OCR | Office for Civil Rights |
 | OECD | Organization for Economic Cooperation and Development |
+| OGNL | Object Graph Navigation Library |
 | OIDC | OpenID Connect |
 | OLA | Operational-Level Agreement |
 | OMB | Office of Management and Budget |
 | ONF | Organizational Normative Framework |
 | OpEx | Operational Expenditure |
+| ORM | Object Relational Mapping |
 | OS | Operating System |
 | OWASP | Open Web Application Security Project |
 | PaaS | Platform-as-a-Service |
