@@ -35,7 +35,7 @@ II. [Scope](#part-ii-scope)
 III. [Information Privacy Principles](#part-iii-information-privacy-principles)
 IV. [Implementation](#part-iv-implementation)
 
-=== Part I: Preamble
+==- Part I: Preamble
 
 The Framework, which aims at promoting electronic commerce throughout the Asia-Pacific region, is consistent with the core values of the OECD's Guidelines on the Protection of Privacy and Trans-Border Flows of Personal Data (OECD Guidelines), and reaffirms the value of privacy to individuals and to the information society.
 
@@ -49,7 +49,7 @@ The Framework was developed and updated in recognition of the importance of:
 - Encouraging organizations to be accountable for all personal information under their control; and
 - Promoting interoperability between the Framework, and its implementing measures such as the CPEA and CBPR system, and privacy arrangements in other regions.
 
-=== Part II: Scope
+==- Part II: Scope
 
 The purpose of Part II of the APEC Privacy Framework is to make clear the extent of coverage of the Principles.
 
@@ -57,7 +57,7 @@ The purpose of Part II of the APEC Privacy Framework is to make clear the extent
 Part II of the APEC Privacy Framework is essentially a list of definitions and applications for the Framework.
 !!!
 
-=== Part III: Information Privacy Principles
+==- Part III: Information Privacy Principles
 
 I. Preventing Harm
 II. Notice
@@ -73,7 +73,7 @@ IX. Accountability
 The Information Privacy Principles should be viewed and interpreted as a whole rather than looking at particular principles in isolation as there is a close interrelationship.
 !!!
 
-=== Part IV: Implementation
+==- Part IV: Implementation
 
 Part IV provides guidance to member economies on implementing the APEC Privacy Framework.
 
