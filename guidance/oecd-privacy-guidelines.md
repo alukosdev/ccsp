@@ -80,10 +80,6 @@ A data controller should be accountable for complying with measures which give e
 
 ==-
 
-!!!
-The OECD principles do not include "the right to be forgotten."
-!!!
-
 ## Noteworthy
 
 - [x] The OECD published the first internationally agreed-upon set of privacy principles.
