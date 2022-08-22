@@ -75,11 +75,8 @@ a) to obtain from a data controller, or otherwise, confirmation of whether or no
 b) to have communicated to them, data relating to them
 
     i. within a reasonable time;
-
     ii. at a charge, if any, that is not excessive;
-
     iii. in a reasonable manner; and
-
     iv. in a form that is readily intelligible to them;
 
 c) to be given reasons if a request made under subparagraphs (a) and (b) is denied, and to be able to challenge such denial; and
