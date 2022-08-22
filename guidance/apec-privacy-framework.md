@@ -59,6 +59,8 @@ Part II of the APEC Privacy Framework is essentially a list of definitions and a
 
 ==- Part III: Information Privacy Principles
 
+The Information Privacy Principles should be viewed and interpreted as a whole rather than looking at particular principles in isolation as there is a close interrelationship.
+
 I. Preventing Harm
 II. Notice
 III. Collection Limitations
@@ -68,10 +70,6 @@ VI. Integrity of Personal Information
 VII. Security Safeguards
 VIII. Access and Correction
 IX. Accountability
-
-!!!
-The Information Privacy Principles should be viewed and interpreted as a whole rather than looking at particular principles in isolation as there is a close interrelationship.
-!!!
 
 ==- Part IV: Implementation
 
