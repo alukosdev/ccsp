@@ -13,12 +13,17 @@ The following contents reflect information collected from the official [CWE Top 
 | Short Form | Full Form |
 | - | - |
 | CISA | Cybersecurity and Infrastructure Security Agency |
+| CSRF | Cross-Site Request Forgery |
 | CVE | Common Vulnerabilities and Exposures |
 | CVSS | Common Vulnerability Scoring System |
 | CWE | Common Weakness Enumeration |
 | KEV | Known Exploited Vulnerabilities |
 | NIST | National Institute of Standards and Technology |
 | NVD | National Vulnerability Database |
+| OS | Operating System |
+| SQL | Structured Query Language |
+| SSRF | Server-Side Request Forgery |
+| XML | Extensible Markup Language |
 
 ## Overview
 

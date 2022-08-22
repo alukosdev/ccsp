@@ -25,12 +25,15 @@ The following contents reflect information collected from the official [OWASP To
 | Short Form | Full Form |
 | - | - |
 | ACL | Access Control List |
+| CORS | Cross-Origin Resource Sharing |
 | CSRF | Cross-Site Request Forgery |
 | CWE | Common Weakness Enumeration |
 | DAST | Dynamic Application Security Testing |
 | DoS | Denial-of-Service |
 | DTD | Document Type Definitions |
 | ELK | Elasticsearch, Logstash, Kibana |
+| JSON | JavaScript Object Notation |
+| JWT | JSON Web Token |
 | NIST | National Institute of Standards and Technology |
 | OWASP | Open Web Application Security Project |
 | RCE| Remote Code Execution |

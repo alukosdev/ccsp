@@ -13,6 +13,7 @@ The following contents reflect information collected from the official [OWASP We
 
 | Short Form | Full Form |
 | - | - |
+| API | Application Programming Interface |
 | OWASP | Open Web Application Security Project |
 | WSTG | Web Security Testing Guide |
 

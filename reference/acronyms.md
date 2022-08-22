@@ -56,6 +56,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | COBIT | Control Objectives for Information and Related Technologies |
 | CompaaS | [Compliance as a Service](/reference/glossary/#compliance-as-a-service-compaas-caas) |
 | COPPA | Children's Online Privacy Protection Act |
+| CORS | Cross-Origin Resource Sharing |
 | CSA | Cloud Security Alliance |
 | CSB | Cloud Service Broker |
 | CSC | Critical Security Controls (formerly) |
@@ -141,6 +142,8 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | ITAR | International Traffic in Arms Regulations |
 | ITIL | Information Technology Infrastructure Library (formerly) |
 | ITSM | [Information Technology Service Management](/reference/glossary/#information-technology-service-management-itsm) |
+| JSON | JavaScript Object Notation |
+| JWT | JSON Web Token |
 | KEV | Known Exploited Vulnerabilities |
 | KRI | Key Risk Indicator |
 | KVM | Kernel-based Virtual Machine |
@@ -171,6 +174,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | OMB | Office of Management and Budget |
 | ONF | Organizational Normative Framework |
 | OpEx | Operational Expenditure |
+| OS | Operating System |
 | OWASP | Open Web Application Security Project |
 | PaaS | Platform-as-a-Service |
 | PAN | Primary Account Number |
@@ -220,6 +224,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | SOX | Sarbanes-Oxley Act |
 | SP | Special Publication |
 | SPML | [Service Provisioning Markup Language](/reference/glossary/#service-provisioning-markup-language-spml) |
+| SQL | Structured Query Language |
 | SSAE | Statement on Standards for Attestation Engagements |
 | SSO | Single Sign-On |
 | SSRF | Server-Side Request Forgery |
