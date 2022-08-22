@@ -14,7 +14,6 @@ This page has not yet been revised for 2022.
 
 | Short Form | Full Form |
 | - | - |
-| GDPR | General Data Protection Regulation |
 | OECD | Organization for Economic Cooperation and Development |
 
 ## Overview
