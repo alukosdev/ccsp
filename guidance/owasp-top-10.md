@@ -473,7 +473,7 @@ The data shows a relatively low incidence rate with above average testing covera
 
 ## Noteworthy
 
-- [x] The security issues contained within the *OWASP Top 10* reports are specifically related to *web application security*.
+- [x] The security issues contained within the OWASP Top 10 reports are specifically related to *web application security*.
 
 ## Sources
 
