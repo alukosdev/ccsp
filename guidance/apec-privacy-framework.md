@@ -54,23 +54,11 @@ The APEC privacy framework is a principles-based privacy framework that is made 
   - IX. Accountability
 - Part IV. Implementation
 
-### Principles
-
-The nine principles that make up the framework are as follows:
-
-- Preventing Harm
-- Notice
-- Collection Limitations
-- Use of Personal Information
-- Choice
-- Integrity of Personal Information
-- Security Safeguards
-- Access and Correction
-- Accountability
-
 ## Noteworthy
 
 - [x] APEC contains 21 members.
+- [x] The APEC Privacy Framework is made up of *four parts*.
+- [x] There are *nine Information Privacy Principles* as part of the APEC Privacy Framework.
 
 ## References
 
