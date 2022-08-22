@@ -71,16 +71,12 @@ There should be a general policy of openness about developments, practices and p
 Individuals should have the right:
 
 a) to obtain from a data controller, or otherwise, confirmation of whether or not the data controller has data relating to them;
-
 b) to have communicated to them, data relating to them
-
     i. within a reasonable time;
     ii. at a charge, if any, that is not excessive;
     iii. in a reasonable manner; and
     iv. in a form that is readily intelligible to them;
-
 c) to be given reasons if a request made under subparagraphs (a) and (b) is denied, and to be able to challenge such denial; and
-
 d) to challenge data relating to them and, if the challenge is successful to have the data erased, rectified, completed or amended.
 
 ==- Accountability Principle
