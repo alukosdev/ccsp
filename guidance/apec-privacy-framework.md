@@ -15,7 +15,7 @@ This page is currently under revision.
 | Short Form | Full Form |
 | - | - |
 | APEC | Asia-Pacific Economic Cooperation |
-| CBPR | Cross Border Privacy Rules |
+| CBPR | Cross-Border Privacy Rules |
 | CPEA | Cross-Border Privacy Enforcement Arrangement |
 | OECD | Organization for Economic Cooperation and Development |
 
@@ -45,7 +45,7 @@ The Framework was developed and updated in recognition of the importance of:
 - The free flow of information to trade, and to economic and social growth in both developed and developing market economies;
 - Enabling global companies that collect, access, use or process data in APEC member economies to develop and implement uniform approaches within their organizations for global access to and use of personal information;
 - Empowering Privacy Enforcement Authorities to fulfill their mandate to protect individual privacy;
-- Advancing international and regional mechanisms, including the APEC Cross Border Privacy Rules (CBPR) system, to promote and enforce privacy and to maintain the continuity of information flows among APEC economies and with their trading partners;
+- Advancing international and regional mechanisms, including the APEC Cross-Border Privacy Rules (CBPR) system, to promote and enforce privacy and to maintain the continuity of information flows among APEC economies and with their trading partners;
 - Encouraging organizations to be accountable for all personal information under their control; and
 - Promoting interoperability between the Framework, and its implementing measures such as the CPEA and CBPR system, and privacy arrangements in other regions.
 
@@ -70,7 +70,7 @@ VIII. Access and Correction
 IX. Accountability
 
 !!!
-The Information Privacy Principles should be viewed and interpreted as a whole rather than looking at particular principles in isolation as there is a close inter-relationship.
+The Information Privacy Principles should be viewed and interpreted as a whole rather than looking at particular principles in isolation as there is a close interrelationship.
 !!!
 
 === Part IV: Implementation
