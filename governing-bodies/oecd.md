@@ -43,3 +43,7 @@ The OECD identified the following Fair Information Practices:
 - *Accountability Principle.* A data controller should be accountable for complying with measures which give effect to the principles stated above.
 
 The OECD principles do not include "the right to be forgotten" as the EU does.
+
+## Noteworthy
+
+## References
