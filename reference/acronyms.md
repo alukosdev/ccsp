@@ -245,6 +245,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | TCI | Trusted Cloud Initiative |
 | TCSEC | Trusted Computer System Evaluation Criteria |
 | TLS | Transport Layer Security |
+| TOCTOU | Time-of-Check, Time-of-Use |
 | TOTP | Time-Based One-Time Password |
 | TPM | [Trusted Platform Module](/reference/glossary/#trusted-platform-module-tpm) |
 | TTP | Tactics, Techniques, and Procedures |
@@ -254,6 +255,7 @@ Please note that not all acronyms, abbreviations, and initialisms referenced bel
 | UTM | Unified Threat Management |
 | VLAN | Virtual Local Area Network |
 | VMI | Virtual Machine Introspection |
+| VPN | Virtual Private Network |
 | WAF | [Web Application Firewall](/reference/glossary/#web-application-firewall-waf) |
 | WDE | Whole Disk Encryption |
 | WORM | [Write Once, Read Many](/reference/glossary/#write-once-read-many-worm) |

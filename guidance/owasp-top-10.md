@@ -58,6 +58,8 @@ The following contents reflect information collected from the official [OWASP To
 | SSO | Single Sign-On |
 | SSRF | Server-Side Request Forgery |
 | TLS | Transport Layer Security |
+| TOCTOU | Time-of-Check, Time-of-Use |
+| VPN | Virtual Private Network |
 | XML | Extensible Markup Language |
 | XSS | Cross-Site Scripting |
 | XXE | XML External Entities |
