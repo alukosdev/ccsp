@@ -15,14 +15,10 @@ tags: [oecd]
 
 The Organization for Economic Co-operation and Development (OECD) is an international organization that works together with governments, policy makers, and citizens to establish evidence-based international standards.
 
-!!!
-OECD standards are not legally binding and do not have the effect of treaties or laws.
-!!!
-
 ## Noteworthy
 
 - [x] OECD contains 37 member countries.
-- [x] OECD standards are *not legally binding*.
+- [x] OECD standards are *not* legally binding.
 
 ## Sources
 
