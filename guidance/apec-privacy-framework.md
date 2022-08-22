@@ -37,7 +37,7 @@ IV. [Implementation](#part-iv-implementation)
 
 ==- Part I: Preamble
 
-The Framework, which aims at promoting electronic commerce throughout the Asia-Pacific region, is consistent with the core values of the OECD's Guidelines on the Protection of Privacy and Trans-Border Flows of Personal Data (OECD Guidelines), and reaffirms the value of privacy to individuals and to the information society.
+The Framework, which aims at promoting electronic commerce throughout the Asia-Pacific region, is consistent with the core values of the [OECD Privacy Guidelines](/guidance/oecd-privacy-guidelines.md), and reaffirms the value of privacy to individuals and to the information society.
 
 The Framework was developed and updated in recognition of the importance of:
 
