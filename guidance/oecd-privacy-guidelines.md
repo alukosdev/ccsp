@@ -30,14 +30,14 @@ According to the OECD, several new concepts have been introduced in the revised 
 
 The OECD Privacy Guidelines include the following basic principles of national application:
 
-- Collection Limitation Principle
-- Data Quality Principle
-- Purpose Specification Principle
-- Use Limitation Principle
-- Security Safeguards Principle
-- Openness Principle
-- Individual Participation Principle
-- Accountability Principle
+- [Collection Limitation Principle](#collection-limitation-principle)
+- [Data Quality Principle](#data-quality-principle)
+- [Purpose Specification Principle](#purpose-specification-principle)
+- [Use Limitation Principle](#use-limitation-principle)
+- [Security Safeguards Principle](#security-safeguards-principle)
+- [Openness Principle](#openness-principle)
+- [Individual Participation Principle](#individual-participation-principle)
+- [Accountability Principle](#accountability-principle)
 
 ==- Collection Limitation Principle
 
