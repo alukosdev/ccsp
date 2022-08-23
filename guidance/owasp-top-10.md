@@ -91,6 +91,17 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 
 ### Top 10:2021
 
+- A01. [Broken Access Control](#1-broken-access-control)
+- A02. [Cryptographic Failures](#2-cryptographic-failures)
+- A03. [Injection](#3-injection)
+- A04. [Insecure Design](#4-insecure-design)
+- A05. [Security Misconfiguration](#5-security-misconfiguration)
+- A06. [Vulnerable and Outdated Components](#6-vulnerable-and-outdated-components)
+- A07. [Identification and Authentication Failures](#7-identification-and-authentication-failures)
+- A08. [Software and Data Integrity Failures](#8-software-and-data-integrity-failures)
+- A09. [Security Logging and Monitoring Failures](#9-security-logging-and-monitoring-failures)
+- A10. [Server-Side Request Forgery (SSRF)](#10-server-side-request-forgery-ssrf)
+
 1. [Broken Access Control](#1-broken-access-control)
 2. [Cryptographic Failures](#2-cryptographic-failures)
 3. [Injection](#3-injection)
