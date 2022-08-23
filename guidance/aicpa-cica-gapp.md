@@ -31,6 +31,10 @@ GAPP is recognized as meeting the SOC 2 Privacy Principle of the Trust Services 
 
 ## Privacy Principles
 
+The privacy principles and criteria are founded on the following privacy objective:
+
+> Personal information is collected, used, retained, disclosed, and disposed of in conformity with the commitments in the entity's privacy notice and with criteria set forth in Generally Accepted Privacy Principles issued by the AICPA and CICA.
+
 The privacy principles are essential to the proper protection and management of personal information. They are based on internationally known fair information practices included in many privacy laws and regulations of various jurisdictions around the world and recognized good privacy practices. 
 
 The following are the 10 generally accepted privacy principles:
