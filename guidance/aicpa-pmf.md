@@ -1,12 +1,7 @@
 ---
 categories: [Privacy Guidance]
-icon: alert
 tags: [aicpa, privacy]
 ---
-
-!!!warning
-This page is currently under revision.
-!!!
 
 # AICPA PMF
 
