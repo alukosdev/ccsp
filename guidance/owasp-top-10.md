@@ -91,17 +91,6 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 
 ### Top 10:2021
 
-- Security Issue 1: [Broken Access Control](#1-broken-access-control)
-- Security Issue 2: [Cryptographic Failures](#2-cryptographic-failures)
-- Security Issue 3. [Injection](#3-injection)
-- Security Issue 4. [Insecure Design](#4-insecure-design)
-- Security Issue 5. [Security Misconfiguration](#5-security-misconfiguration)
-- Security Issue 6. [Vulnerable and Outdated Components](#6-vulnerable-and-outdated-components)
-- Security Issue 7. [Identification and Authentication Failures](#7-identification-and-authentication-failures)
-- Security Issue 8. [Software and Data Integrity Failures](#8-software-and-data-integrity-failures)
-- Security Issue 9. [Security Logging and Monitoring Failures](#9-security-logging-and-monitoring-failures)
-- Security Issue 10. [Server-Side Request Forgery (SSRF)](#10-server-side-request-forgery-ssrf)
-
 1. [Broken Access Control](#1-broken-access-control)
 2. [Cryptographic Failures](#2-cryptographic-failures)
 3. [Injection](#3-injection)
