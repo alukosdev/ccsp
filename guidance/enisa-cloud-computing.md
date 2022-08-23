@@ -19,7 +19,7 @@ ENISA | European Union Agency for Network and Information Security
 
 ## Overview
 
-*Cloud Computing: Benefits, risks, and recommendations for information security* is a paper published by the European Union Agency for Network and Information Security (ENISA) that identifies and categorizes *35 security risks*. From these risks, it further identifies the *top eight* security risks based on likelihood and impact. This paper allows an informed assessment of the security risks and benefits of using cloud computing - providing security guidance for potential and existing users of cloud computing.
+*Cloud Computing: Benefits, risks, and recommendations for information security* is a paper published by the European Union Agency for Network and Information Security (ENISA) that identifies and categorizes *35 security risks* related to cloud computing. From these risks, it further identifies the *top eight* security risks based on likelihood and impact. This paper allows an informed assessment of the security risks and benefits of using cloud computing - providing security guidance for potential and existing users of cloud computing.
 
 ## Risks
 
