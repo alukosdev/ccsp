@@ -9,6 +9,7 @@ tags: [privacy, efta]
 
 Short Form | Full Form
 :--- | :---
+EEA | European Economic Area
 EFTA | European Free Trade Association
 EU | European Union
 
