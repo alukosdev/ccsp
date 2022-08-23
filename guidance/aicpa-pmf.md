@@ -101,5 +101,5 @@ The tool maps each of the nine components of the PMF with Trust Services Criteri
 
 ## Sources
 
-- AICPA. (n.d.). *Privacy Management Framework*. https://us.aicpa.org/interestareas/informationtechnology/privacy-management-framework
 - AICPA. (2021, March 1). *Privacy Management Framework (PMF)*.
+- AICPA. (n.d.). *Privacy Management Framework*. https://us.aicpa.org/interestareas/informationtechnology/privacy-management-framework
