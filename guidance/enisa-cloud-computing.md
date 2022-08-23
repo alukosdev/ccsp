@@ -1,6 +1,5 @@
 ---
 categories: [Cloud Computing Risk Management Guidance]
-label: ENISA Cloud Computing
 tags: [enisa]
 ---
 
@@ -8,7 +7,7 @@ tags: [enisa]
 The following page reflects information collected from the [Cloud Computing: Benefits, risks and recommendations for information security](https://www.enisa.europa.eu/publications/cloud-computing-risk-assessment/at_download/fullReport){ target="_blank" } published in **November 2009**.
 :::
 
-# ENISA Cloud Computing: Benefits, Risks, and Recommendations for Information Security
+# ENISA Cloud Computing: Benefits, risks and recommendations for information security
 
 ## Acronyms, Abbreviations, and Initialisms
 
