@@ -11,7 +11,7 @@ This page is currently under revision.
 # AICPA/CICA GAPP
 
 !!!warning
-The [Privacy Management Framework (PMF)](/guidance/aicpa-pmf.md) was created as an update to the Generally Accepted Privacy Principles (GAPP).
+The [AICPA Privacy Management Framework (PMF)](/guidance/aicpa-pmf.md) was created as an update to the AICPA/CICA Generally Accepted Privacy Principles (GAPP).
 !!!
 
 ## Acronyms, Abbreviations, and Initialisms
@@ -53,3 +53,5 @@ According to GAPP, following are the 10 main privacy principles:
 - [x] GAPP is a component of SOC.
 
 ## Sources
+
+- AICPA. (n.d.). *Privacy Management Framework*. https://us.aicpa.org/interestareas/informationtechnology/privacy-management-framework
