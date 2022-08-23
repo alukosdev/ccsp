@@ -8,7 +8,6 @@ tags: [owasp]
 This page is currently under revision.
 
 - Check grammar and spelling/consistency formatting.
-- Using hashtags in tabs such as we did in SSRF doesn't look good.
 !!!
 
 :::banner
@@ -321,7 +320,7 @@ Secure installation processes should be implemented, including:
 
 - A repeatable hardening process makes it fast and easy to deploy another environment that is appropriately locked down. Development, QA, and production environments should all be configured identically, with different credentials used in each environment. This process should be automated to minimize the effort required to set up a new secure environment.
 - A minimal platform without any unnecessary features, components, documentation, and samples. Remove or do not install unused features and frameworks.
-- A task to review and update the configurations appropriate to all security notes, updates, and patches as part of the patch management process (see A06:2021-Vulnerable and Outdated Components). Review cloud storage permissions (e.g., S3 bucket permissions).
+- A task to review and update the configurations appropriate to all security notes, updates, and patches as part of the patch management process (see [A06 Vulnerable and Outdated Components](#a06-vulnerable-and-outdated-components)). Review cloud storage permissions (e.g., S3 bucket permissions).
 - A segmented application architecture provides effective and secure separation between components or tenants, with segmentation, containerization, or cloud security groups (ACLs).
 - Sending security directives to clients, e.g., Security Headers.
 - An automated process to verify the effectiveness of the configurations and settings in all environments.
@@ -360,7 +359,7 @@ There should be a patch management process in place to:
 
 - Remove unused dependencies, unnecessary features, components, files, and documentation.
 - Continuously inventory the versions of both client-side and server-side components (e.g., frameworks, libraries) and their dependencies using tools like versions, OWASP Dependency Check, retire.js, etc. Continuously monitor sources like Common Vulnerability and Exposures (CVE) and National Vulnerability Database (NVD) for vulnerabilities in the components. Use software composition analysis tools to automate the process. Subscribe to email alerts for security vulnerabilities related to components you use.
-- Only obtain components from official sources over secure links. Prefer signed packages to reduce the chance of including a modified, malicious component (See [A08 Software and Data Integrity Failures](#a08-software-and-data-integrity-failures)).
+- Only obtain components from official sources over secure links. Prefer signed packages to reduce the chance of including a modified, malicious component (see [A08 Software and Data Integrity Failures](#a08-software-and-data-integrity-failures)).
 - Monitor for libraries and components that are unmaintained or do not create security patches for older versions. If patching is not possible, consider deploying a virtual patch to monitor, detect, or protect against the discovered issue.
 
 Every organization must ensure an ongoing plan for monitoring, triaging, and applying updates or configuration changes for the lifetime of the application or portfolio.
