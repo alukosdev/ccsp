@@ -84,7 +84,7 @@ The entity monitors compliance with its privacy policies and procedures and has 
 ==-
 
 !!!
-An important update to the PMF is the replacement of the "choice and consent" component. While the choice and consent criteria were relevant to internet-oriented businesses in 2009, the criteria are much less relevant today because of new global privacy regulations such as the GDPR.
+An important update to the PMF is the replacement of the "choice and consent" component. While the choice and consent criteria were relevant to internet-oriented businesses in 2009, the criteria are much less relevant today because of new global privacy regulations such as the General Data Protection Regulation (GDPR).
 !!!
 
 ## Mapping Tool
@@ -92,7 +92,7 @@ An important update to the PMF is the replacement of the "choice and consent" co
 The PMF mapping tool provides general guidance on privacy and is intended to help practitioners and users effectively manage their privacy risks and comply with applicable 
 privacy laws.
 
-The tool maps each of the nine components of the PMF with Trust Services Criteria (TSC) and the European Union (EU)'s General Data Protection Regulation (GDPR).
+The tool maps each of the nine components of the PMF with Trust Services Criteria (TSC) and the European Union (EU)'s GDPR.
 
 ## Noteworthy
 
