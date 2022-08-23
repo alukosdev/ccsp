@@ -7,6 +7,6 @@ tags: [copyright, united states]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backroynm |
-| - | - |
-| DMCA | Digital Millenium Copyright Act |
+Acronym | Backroynm
+:--- | :---
+DMCA | Digital Millenium Copyright Act
