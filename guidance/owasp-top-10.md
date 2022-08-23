@@ -102,17 +102,6 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 - A09. [Security Logging and Monitoring Failures](#9-security-logging-and-monitoring-failures)
 - A10. [Server-Side Request Forgery (SSRF)](#10-server-side-request-forgery-ssrf)
 
-1. [Broken Access Control](#1-broken-access-control)
-2. [Cryptographic Failures](#2-cryptographic-failures)
-3. [Injection](#3-injection)
-4. [Insecure Design](#4-insecure-design)
-5. [Security Misconfiguration](#5-security-misconfiguration)
-6. [Vulnerable and Outdated Components](#6-vulnerable-and-outdated-components)
-7. [Identification and Authentication Failures](#7-identification-and-authentication-failures)
-8. [Software and Data Integrity Failures](#8-software-and-data-integrity-failures)
-9. [Security Logging and Monitoring Failures](#9-security-logging-and-monitoring-failures)
-10. [Server-Side Request Forgery (SSRF)](#10-server-side-request-forgery-ssrf)
-
 ==- 1. Broken Access Control
 
 Access control enforces policy such that users cannot act outside of their intended permissions. Failures typically lead to unauthorized information disclosure, modification, or destruction of all data or performing a business function outside the user's limits. Common access control vulnerabilities include:
