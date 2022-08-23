@@ -46,4 +46,10 @@ According to GAPP, following are the 10 main privacy principles:
 - Quality
 - Monitoring and enforcement
 
+## Noteworthy
+
+- [x] GAPP consists of *10 key privacy principles*.
+- [x] GAPP contains *74 privacy objectives*.
+- [x] GAPP is a component of SOC.
+
 ## Sources
