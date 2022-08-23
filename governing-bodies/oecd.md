@@ -7,9 +7,9 @@ tags: [oecd]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| OECD | Organization for Economic Co-operation and Development |
+Short Form | Full Form
+:--- | :---
+OECD | Organization for Economic Co-operation and Development
 
 ## Overview
 

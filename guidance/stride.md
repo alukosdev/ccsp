@@ -6,10 +6,10 @@ categories: [Threat Models]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| SDLC | Software Development Lifecycle |
-| STRIDE | Spoofing, Tampering, Repudiation, Information Disclosure, Denial-of-Service, and Elevation of Privilege |
+Short Form | Full Form
+:--- | :---
+SDLC | Software Development Lifecycle
+STRIDE | Spoofing, Tampering, Repudiation, Information Disclosure, Denial-of-Service, and Elevation of Privilege
 
 ## Overview
 

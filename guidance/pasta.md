@@ -6,9 +6,9 @@ categories: [Threat Models]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| PASTA | Process for Attack Simulation and Threat Analysis |
+Short Form | Full Form
+:--- | :---
+PASTA | Process for Attack Simulation and Threat Analysis
 
 ## Overview
 

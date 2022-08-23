@@ -6,9 +6,9 @@ categories: [Threat Models]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| DREAD | Damage, Reproducibility, Exploitability, Affected Users, and Discoverability |
+Short Form | Full Form
+:--- | :---
+DREAD | Damage, Reproducibility, Exploitability, Affected Users, and Discoverability
 
 ## Overview
 

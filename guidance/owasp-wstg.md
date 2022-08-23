@@ -11,11 +11,11 @@ The following page reflects information collected from the official [OWASP Web S
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| API | Application Programming Interface |
-| OWASP | Open Web Application Security Project |
-| WSTG | Web Security Testing Guide |
+Short Form | Full Form
+:--- | :---
+API | Application Programming Interface
+OWASP | Open Web Application Security Project
+WSTG | Web Security Testing Guide
 
 ## Overview
 

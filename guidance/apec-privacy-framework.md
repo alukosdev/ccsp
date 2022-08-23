@@ -7,12 +7,12 @@ tags: [apec, privacy]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| APEC | Asia-Pacific Economic Cooperation |
-| CBPR | Cross-Border Privacy Rules |
-| CPEA | Cross-Border Privacy Enforcement Arrangement |
-| OECD | Organization for Economic Cooperation and Development |
+Short Form | Full Form
+:--- | :---
+APEC | Asia-Pacific Economic Cooperation
+CBPR | Cross-Border Privacy Rules
+CPEA | Cross-Border Privacy Enforcement Arrangement
+OECD | Organization for Economic Cooperation and Development
 
 ## Overview
 

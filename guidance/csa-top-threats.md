@@ -11,19 +11,19 @@ The following page reflects information collected from the official [Top Threats
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| API | Application Programming Interface |
-| APT | Advanced Persistent Threat |
-| CSA | Cloud Security Alliance |
-| CSP | Cloud Service Provider |
-| IaC | Infrastructure as Cloud |
-| IAM | Identity and Access Management |
-| IP | Intellectual Property |
-| PHI | Personal Health Information |
-| PII | Personally Identifiable Information |
-| SaaS | Software-as-a-Service |
-| TTP | Tactics, Techniques, and Procedures |
+Short Form | Full Form
+:--- | :---
+API | Application Programming Interface
+APT | Advanced Persistent Threat
+CSA | Cloud Security Alliance
+CSP | Cloud Service Provider
+IaC | Infrastructure as Cloud
+IAM | Identity and Access Management
+IP | Intellectual Property
+PHI | Personal Health Information
+PII | Personally Identifiable Information
+SaaS | Software-as-a-Service
+TTP | Tactics, Techniques, and Procedures
 
 ## Overview
 
@@ -34,12 +34,12 @@ The following page reflects information collected from the official [Top Threats
 The *Top Threats* reports traditionally aim to raise awareness of threats, vulnerabilities, and risks in the cloud. The reports reflect the current consensus among 
 security experts in CSA community about the most significant security issues in the cloud, ranked in order of significance.
 
-| Name | Release Date |
-| - | - |
-| [Pandemic Eleven](#pandemic-eleven) | 2022/06/06 |
-| Egregious Eleven | 2019/08/06 |
-| Treacherous Twelve | 2016/02/29 |
-| Notorious Nine | 2013/02/24 |
+Name | Release Date
+:--- | :---
+[Pandemic Eleven](#pandemic-eleven) | 2022/06/06
+Egregious Eleven | 2019/08/06
+Treacherous Twelve | 2016/02/29
+Notorious Nine | 2013/02/24
 
 ### Pandemic Eleven
 

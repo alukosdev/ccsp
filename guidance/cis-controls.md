@@ -11,11 +11,11 @@ The following page reflects information collected from the official [CIS Critica
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| CIS | Center for Internet Security |
-| CSC | Critical Security Controls (formerly) |
-| IG | Implementation Group |
+Short Form | Full Form
+:--- | :---
+CIS | Center for Internet Security
+CSC | Critical Security Controls (formerly)
+IG | Implementation Group
 
 ## Overview
 
@@ -37,26 +37,26 @@ An IG3 enterprise employs security experts that specialize in the different face
 
 ## Controls
 
-| Number | Name | { class="compact" }
-| - | - |
-| Control 01 | Inventory and Control of Enterprise Assets |
-| Control 02 | Inventory and Control of Software Assets |
-| Control 03 | Data Protection |
-| Control 04 | Secure Configuration of Enterprise Assets and Software |
-| Control 05 | Account Management |
-| Control 06 | Access Control Management |
-| Control 07 | Continuous Vulnerability Management |
-| Control 08 | Audit Log Management |
-| Control 09 | Email and Web Browser Protections |
-| Control 10 | Malware Defenses |
-| Control 11 | Data Recovery |
-| Control 12 | Network Infrastructure Management |
-| Control 13 | Network Monitoring and Defense |
-| Control 14 | Security Awareness and Skills Training |
-| Control 15 | Service Provider Management |
-| Control 16 | Application Software Security |
-| Control 17 | Incident Response Management |
-| Control 18 | Penetration Testing |
+Number | Name { class="compact" }
+:--- | :---
+Control 01 | Inventory and Control of Enterprise Assets
+Control 02 | Inventory and Control of Software Assets
+Control 03 | Data Protection
+Control 04 | Secure Configuration of Enterprise Assets and Software
+Control 05 | Account Management
+Control 06 | Access Control Management
+Control 07 | Continuous Vulnerability Management
+Control 08 | Audit Log Management
+Control 09 | Email and Web Browser Protections
+Control 10 | Malware Defenses
+Control 11 | Data Recovery
+Control 12 | Network Infrastructure Management
+Control 13 | Network Monitoring and Defense
+Control 14 | Security Awareness and Skills Training
+Control 15 | Service Provider Management
+Control 16 | Application Software Security
+Control 17 | Incident Response Management
+Control 18 | Penetration Testing
 
 ## Noteworthy
 

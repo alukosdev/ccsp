@@ -12,10 +12,10 @@ This page has not yet been revised for 2022.
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| EFTA | European Free Trade Association |
-| EU | European Union |
+Short Form | Full Form
+:--- | :---
+EFTA | European Free Trade Association
+EU | European Union
 
 ## Overview
 

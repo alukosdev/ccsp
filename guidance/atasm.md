@@ -6,9 +6,9 @@ categories: [Threat Models]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| ATASM | Architecture, Threats, Attack Surfaces, and Mitigations |
+Short Form | Full Form
+:--- | :---
+ATASM | Architecture, Threats, Attack Surfaces, and Mitigations
 
 ## Overview
 

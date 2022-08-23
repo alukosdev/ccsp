@@ -8,7 +8,7 @@ tags: [apec]
 ## Acronyms, Abbreviations, and Initialisms
 
 Short Form | Full Form
-:- | :-
+:--- | :---
 APEC | Asia-Pacific Economic Cooperation
 
 ## Overview
