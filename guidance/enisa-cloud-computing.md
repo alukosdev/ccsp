@@ -1,5 +1,6 @@
 ---
 categories: [Cloud Computing Risk Management Guidance]
+label: ENISA Cloud Computing
 tags: [enisa]
 ---
 
