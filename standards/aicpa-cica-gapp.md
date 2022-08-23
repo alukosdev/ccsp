@@ -1,11 +1,11 @@
 ---
-categories: [Standards, Privacy Standards]
-icon: stop
+categories: [Privacy Standards]
+icon: alert
 tags: [aicpa, cica, privacy]
 ---
 
 !!!danger
-This page has not yet been revised for 2022.
+This page is currently under revision.
 !!!
 
 # AICPA/CICA GAPP
