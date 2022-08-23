@@ -1,14 +1,11 @@
 ---
 icon: stop
+label: Information Security Management
 ---
 
 !!!danger
 This page has not yet been revised for 2022.
 !!!
-
----
-label: Information Security Management
----
 
 # Information Security Management (ISM)
 

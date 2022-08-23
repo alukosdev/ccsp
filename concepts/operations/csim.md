@@ -1,14 +1,11 @@
 ---
 icon: stop
+label: Continual Service Improvement Management
 ---
 
 !!!danger
 This page has not yet been revised for 2022.
 !!!
-
----
-label: Continual Service Improvement Management
----
 
 # Continual Service Improvement Management (CSIM)
 
