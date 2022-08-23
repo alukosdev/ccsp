@@ -144,6 +144,7 @@ IdP | Identity Provider
 IDS | Intrusion Detection System
 IEC | International Electrotechnical Commission
 IG | Implementation Group
+IGO | Intergovernmental Organization
 IMT | Incident Management Team
 IoT | Internet of Things
 IP | Intellectual Property

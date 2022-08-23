@@ -1,5 +1,5 @@
 ---
-categories: [Forum]
+categories: [Forum, Intergovernmental Organizations]
 tags: [apec]
 ---
 
