@@ -23,17 +23,19 @@ IG | Implementation Group
 
 #### Implementation Groups
 
-=== IG1
+==- IG1
 
 An IG1 enterprise is small to medium-sized with limited IT and cybersecurity expertise to dedicate towards protecting IT assets and personnel.
 
-=== IG2 (Includes IG1)
+==- IG2 (Includes IG1)
 
 An IG2 enterprise employs individuals responsible for managing and protecting IT infrastructure.
 
-=== IG3 (Includes IG1 and IG2)
+==- IG3 (Includes IG1 and IG2)
 
 An IG3 enterprise employs security experts that specialize in the different facets of cybersecurity (e.g., risk management, penetration testing, application security).
+
+==-
 
 ## Controls
 
