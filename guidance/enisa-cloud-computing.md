@@ -79,3 +79,5 @@ The risks listed above do not follow a specific order of criticality; they are j
 - [x] The Cloud Computing framework identifies the *top eight security risks* based on likelihood and impact.
 
 ## Sources
+
+- https://www.enisa.europa.eu/publications/cloud-computing-risk-assessment/at_download/fullReport
