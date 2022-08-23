@@ -1,3 +1,7 @@
+---
+icon: stop
+---
+
 !!!danger
 This page is currently under reconstruction.
 !!!
