@@ -11,10 +11,8 @@ This page is currently under revision.
 # AICPA/CICA GAPP
 
 !!!warning
-The Privacy Management Framework (PMF) was created as an update to the Generally Accepted Privacy Principles (GAPP).
+The [Privacy Management Framework (PMF)](/guidance/aicpa-pmf.md) was created as an update to the Generally Accepted Privacy Principles (GAPP).
 !!!
-
-> Generally Accepted Privacy Principles
 
 ## Acronyms, Abbreviations, and Initialisms
 
