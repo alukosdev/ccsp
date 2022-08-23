@@ -82,6 +82,7 @@ DAM | [Database Activity Monitoring](/reference/glossary/#database-activity-moni
 DAR | Data at Rest
 DAST | Dynamic Application Security Testing
 DBMS | Database Management System
+DDoS | Distributed Denial-of-Service
 DHHS | Department of Health and Human Services
 DIM | Data in Motion
 DIT | Data in Transit
@@ -103,6 +104,7 @@ EAL | Evaluation Assurance Level
 EAR | Export Administration Regulations
 ECB | Electronic Code Book
 ECPA | Electronic Communication Privacy Act
+EDoS | Economic Denial-of-Service
 EEA | [European Economic Area](/reference/glossary/#european-economic-area-eea)
 EF | Exposure Factor
 EFS | Encrypting File System
