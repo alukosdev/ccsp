@@ -215,6 +215,7 @@ PII | Personally Identifiable Information
 PIPEDA | Personal Information Protection and Electronics Document Act
 PKCS | Public Key Cryptography Standards
 PLA | Privacy-Level Agreement
+PMF | Privacy Management Framework
 QA | Quality Assurance
 QSA | [Qualified Security Assessor](/terminology/glossary/#qualified-security-assessor-qsa)
 RASP | Runtime Application Self-Protection
@@ -267,6 +268,8 @@ TLS | Transport Layer Security
 TOCTOU | Time-of-Check, Time-of-Use
 TOTP | Time-Based One-Time Password
 TPM | [Trusted Platform Module](/terminology/glossary/#trusted-platform-module-tpm)
+TSC | Trust Services Criteria
+TSP | Trust Services Principles
 TTP | Tactics, Techniques, and Procedures
 UC | [Underpinning Contract](/terminology/glossary/#underpinning-contract-uc)
 USG | United States Government
