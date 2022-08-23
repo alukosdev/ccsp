@@ -3,7 +3,7 @@ categories: [Cloud Computing Risk Management Guidance]
 ---
 
 :::banner
-The following page reflects information collected from the official [CWE Top 25](https://cwe.mitre.org/top25/archive/2022/2022_cwe_top25.html){ target="_blank" } published in **2022**.
+The following page reflects information collected from the [CWE Top 25](https://cwe.mitre.org/top25/archive/2022/2022_cwe_top25.html){ target="_blank" } published in **2022**.
 :::
 
 # CWE Top 25

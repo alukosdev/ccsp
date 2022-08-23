@@ -4,7 +4,7 @@ tags: [cis]
 ---
 
 :::banner
-The following page reflects information collected from the official [CIS Critical Security Controls Version 8](https://www.cisecurity.org/controls/v8){ target="_blank" } published on **May 18, 2021**.
+The following page reflects information collected from the [CIS Critical Security Controls Version 8](https://www.cisecurity.org/controls/v8){ target="_blank" } published on **May 18, 2021**.
 :::
 
 # CIS Controls

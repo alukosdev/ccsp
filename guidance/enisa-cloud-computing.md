@@ -9,7 +9,7 @@ This page is currently under revision.
 !!!
 
 :::banner
-The following page reflects information collected from the official [Cloud Computing: Benefits, risks and recommendations for information security](https://www.enisa.europa.eu/publications/cloud-computing-risk-assessment/at_download/fullReport){ target="_blank" } published in **November 2009**.
+The following page reflects information collected from the [Cloud Computing: Benefits, risks and recommendations for information security](https://www.enisa.europa.eu/publications/cloud-computing-risk-assessment/at_download/fullReport){ target="_blank" } published in **November 2009**.
 :::
 
 # ENISA Cloud Computing: Benefits, Risks, and Recommendations for Information Security

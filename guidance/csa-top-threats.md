@@ -4,7 +4,7 @@ tags: [csa]
 ---
 
 :::banner
-The following page reflects information collected from the official [Top Threats to Cloud Computing](https://cloudsecurityalliance.org/download/artifacts/top-threats-to-cloud-computing-pandemic-eleven){ target="_blank" } published on **June 6, 2022**.
+The following page reflects information collected from the [Top Threats to Cloud Computing](https://cloudsecurityalliance.org/download/artifacts/top-threats-to-cloud-computing-pandemic-eleven){ target="_blank" } published on **June 6, 2022**.
 :::
 
 # CSA Top Threats
