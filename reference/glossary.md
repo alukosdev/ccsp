@@ -28,6 +28,7 @@ Solely cognitive-based, focusing on a system-s ability to analyze past data and 
 ==- Annual Rate of Occurrence (ARO)
 ==- Annualized Loss Expectancy (ALE)
 The annualized loss expectancy is a product of the yearly estimate for the exploit (ARO) and the loss in value of an asset after an SLE.
+
 `ALE = SLE * ARO`
 ==- Anti-affinity
 Separation of resources.
@@ -119,7 +120,6 @@ The BCP is *not* critical to the continuation of services in the event of a busi
 ==- Business Impact Analysis (BIA)
 ==- Business Operation Support Services (BOSS)
 ==- Business Requirements
-Business Requirements
 A business requirement is an operational driver for decision making and input for risk management.
 ==- Business Rules
 Business rules are lists of statements that tell you whether you may or may not do anything or that give you the criteria and conditions for making a decision.
