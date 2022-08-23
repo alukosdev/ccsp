@@ -26,7 +26,7 @@ The Generally Accepted Privacy Principles (GAPP) is a framework developed by the
 program that addresses privacy risks and obligations, and business opportunities.
 
 !!!
-GAPP is recognized as meeting the SOC 2 Privacy Principle of the Trust Services Principles (TSP).
+GAPP aligns with the Privacy Principle of the SOC 2 Trust Services Principles (TSP).
 !!!
 
 ## Privacy Principles
@@ -97,7 +97,7 @@ The entity monitors compliance with its privacy policies and procedures and has 
 
 - [x] GAPP consists of *10 key privacy principles*.
 - [x] GAPP contains *74 privacy objectives*.
-- [x] GAPP is recognized as meeting the SOC 2 Privacy Principle of the Trust Services Principles (TSP).
+- [x] GAPP aligns with the Privacy Principle of the SOC 2 TSP.
 
 ## Sources
 

@@ -1,5 +1,6 @@
 ---
 categories: [Cloud Computing Risk Management Guidance]
+tags: [cwe]
 ---
 
 :::banner

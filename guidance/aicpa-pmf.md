@@ -25,6 +25,10 @@ TSC | Trust Services Criteria
 
 The Privacy Management Framework (PMF) is a guide to help organizations address the business activities that involve collecting, creating, using, storing, and transmitting personal information of individuals. It contains *nine components* relating to privacy.
 
+!!!
+The PMF aligns with the Privacy Principle of the SOC 2 Trust Services Criteria (TSC).
+!!!
+
 ## Components
 
 The PMF components are founded on the following privacy objective:
@@ -97,6 +101,7 @@ The tool maps each of the nine components of the PMF with Trust Services Criteri
 ## Noteworthy
 
 - [x] The PMF contains *nine* privacy components.
+- [x] The PMF aligns with the Privacy Principle of the SOC 2 TSC.
 - [x] The adoption of PMF is voluntary.
 
 ## Sources
