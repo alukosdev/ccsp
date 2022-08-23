@@ -1,6 +1,11 @@
 ---
-label: Federated Identity Management
+icon: stop
+label: FIM
 ---
+
+!!!danger
+This page has not yet been revised for 2022.
+!!!
 
 # Federated Identity Management (FIM)
 

@@ -1,7 +1,12 @@
 ---
 categories: [Standards, Cloud Computing Reference Architecture Standards]
+icon: stop
 tags: [csa]
 ---
+
+!!!danger
+This page has not yet been revised for 2022.
+!!!
 
 # CSA TCI
 

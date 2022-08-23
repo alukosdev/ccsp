@@ -1,7 +1,12 @@
 ---
 categories: [Standards, Auditing and Assurance Standards]
+icon: stop
 tags: [eurocloud]
 ---
+
+!!!danger
+This page has not yet been revised for 2022.
+!!!
 
 # EuroCloud StarAudit
 

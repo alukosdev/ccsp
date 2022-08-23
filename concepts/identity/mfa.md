@@ -1,6 +1,11 @@
 ---
-label: Multifactor Authentication
+icon: stop
+label: MFA
 ---
+
+!!!danger
+This page has not yet been revised for 2022.
+!!!
 
 # Multifactor Authentication (MFA)
 

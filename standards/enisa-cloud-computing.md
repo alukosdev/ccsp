@@ -1,7 +1,12 @@
 ---
 categories: [Standards, Risk Management Standards]
+icon: stop
 tags: [enisa]
 ---
+
+!!!danger
+This page has not yet been revised for 2022.
+!!!
 
 # ENISA Cloud Computing: Benefits, Risks, and Recommendations for Information Security
 

@@ -1,3 +1,11 @@
+---
+icon: stop
+---
+
+!!!danger
+This page has not yet been revised for 2022.
+!!!
+
 # Cloud Service Models
 
 Cloud service models affect the *level of control* an organization has over their resources.

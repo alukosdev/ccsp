@@ -1,7 +1,12 @@
 ---
 categories: [Laws, Export Control Laws, United States Laws]
+icon: stop
 tags: [united states]
 ---
+
+!!!danger
+This page has not yet been revised for 2022.
+!!!
 
 # ITAR
 

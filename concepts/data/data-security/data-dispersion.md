@@ -1,3 +1,11 @@
+---
+icon: stop
+---
+
+!!!danger
+This page has not yet been revised for 2022.
+!!!
+
 # Data Dispersion
 
 ## Acronyms, Abbreviations, and Initialisms

@@ -1,7 +1,12 @@
 ---
 categories: [Laws, Privacy Laws, Argentinian Laws]
+icon: stop
 tags: [argentina, privacy]
 ---
+
+!!!danger
+This page has not yet been revised for 2022.
+!!!
 
 # PDPA 25.326
 

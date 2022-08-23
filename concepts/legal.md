@@ -1,6 +1,11 @@
 ---
+icon: stop
 order: 1000
 ---
+
+!!!danger
+This page has not yet been revised for 2022.
+!!!
 
 # Legal
 

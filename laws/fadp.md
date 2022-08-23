@@ -1,7 +1,12 @@
 ---
 categories: [Laws, Privacy Laws, Swiss Laws]
+icon: stop
 tags: [privacy, switzerland]
 ---
+
+!!!danger
+This page has not yet been revised for 2022.
+!!!
 
 # FADP
 

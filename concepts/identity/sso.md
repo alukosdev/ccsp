@@ -1,6 +1,11 @@
 ---
-label: Single Sign-On
+icon: stop
+label: SSO
 ---
+
+!!!danger
+This page has not yet been revised for 2022.
+!!!
 
 # Single Sign-On (SSO)
 

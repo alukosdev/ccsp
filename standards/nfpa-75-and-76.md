@@ -1,7 +1,12 @@
 ---
 categories: [Standards, Data Center Design Standards]
+icon: stop
 tags: [nfpa]
 ---
+
+!!!danger
+This page has not yet been revised for 2022.
+!!!
 
 # NFPA 75 and 76
 

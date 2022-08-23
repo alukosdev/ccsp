@@ -1,7 +1,12 @@
 ---
 categories: [Standards, Data Center Design Standards]
+icon: stop
 tags: [idca]
 ---
+
+!!!danger
+This page has not yet been revised for 2022.
+!!!
 
 # IDCA Infinity Paradigm
 

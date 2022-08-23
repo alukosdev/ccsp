@@ -1,6 +1,12 @@
 ---
+icon: stop
 label: Data Loss Prevention
 ---
+
+!!!danger
+This page has not yet been revised for 2022.
+!!!
+
 
 # Data Loss Prevention (DLP)
 

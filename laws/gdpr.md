@@ -1,7 +1,12 @@
 ---
 categories: [Laws, Privacy Laws, EU/EEA Laws]
+icon: stop
 tags: [eea, eu, privacy]
 ---
+
+!!!danger
+This page has not yet been revised for 2022.
+!!!
 
 # GDPR
 

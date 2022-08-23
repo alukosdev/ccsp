@@ -1,6 +1,11 @@
 ---
-label: Digital Rights Management
+icon: stop
+label: DRM
 ---
+
+!!!danger
+This page has not yet been revised for 2022.
+!!!
 
 # Digital Rights Management (DRM)
 

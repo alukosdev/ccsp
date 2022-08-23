@@ -1,7 +1,12 @@
 ---
 categories: [Laws, Privacy Laws, Canadian Laws]
+icon: stop
 tags: [canada, privacy]
 ---
+
+!!!danger
+This page has not yet been revised for 2022.
+!!!
 
 # PIPEDA
 
