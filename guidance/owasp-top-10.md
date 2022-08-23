@@ -91,18 +91,18 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 
 ### Top 10:2021
 
-- A01:2021 [Broken Access Control](#a01-2021-broken-access-control)
-- A02:2021 [Cryptographic Failures](#2-cryptographic-failures)
-- A03:2021 [Injection](#3-injection)
-- A04:2021 [Insecure Design](#4-insecure-design)
-- A05:2021 [Security Misconfiguration](#5-security-misconfiguration)
-- A06:2021 [Vulnerable and Outdated Components](#6-vulnerable-and-outdated-components)
-- A07:2021 [Identification and Authentication Failures](#7-identification-and-authentication-failures)
-- A08:2021 [Software and Data Integrity Failures](#8-software-and-data-integrity-failures)
-- A09:2021 [Security Logging and Monitoring Failures](#9-security-logging-and-monitoring-failures)
-- A10:2021 [Server-Side Request Forgery (SSRF)](#10-server-side-request-forgery-ssrf)
+- A01 [Broken Access Control](#a01-2021-broken-access-control)
+- A02 [Cryptographic Failures](#a02-cryptographic-failures)
+- A03 [Injection](#a03-injection)
+- A04 [Insecure Design](#a04-insecure-design)
+- A05 [Security Misconfiguration](#a05-security-misconfiguration)
+- A06 [Vulnerable and Outdated Components](#a06-vulnerable-and-outdated-components)
+- A07 [Identification and Authentication Failures](#a07-identification-and-authentication-failures)
+- A08 [Software and Data Integrity Failures](#a08-software-and-data-integrity-failures)
+- A09 [Security Logging and Monitoring Failures](#a09-security-logging-and-monitoring-failures)
+- A10 [Server-Side Request Forgery (SSRF)](#a10-server-side-request-forgery-ssrf)
 
-==- A01:2021 Broken Access Control
+==- A01 Broken Access Control
 
 Access control enforces policy such that users cannot act outside of their intended permissions. Failures typically lead to unauthorized information disclosure, modification, or destruction of all data or performing a business function outside the user's limits. Common access control vulnerabilities include:
 
@@ -162,7 +162,7 @@ If an unauthenticated user can access either page, it's a flaw. If a non-admin c
 
 +++
 
-==- 2. Cryptographic Failures
+==- A02 Cryptographic Failures
 
 The first thing is to determine the protection needs of data in transit and at rest. For example, passwords, credit card numbers, health records, personal information, and business secrets require extra protection, mainly if that data falls under privacy laws, e.g., EU's General Data Protection Regulation (GDPR), or regulations, e.g., financial data protection such as PCI Data Security Standard (PCI DSS). For all such data:
 
@@ -211,7 +211,7 @@ The first thing is to determine the protection needs of data in transit and at r
 
 +++
 
-==- 3. Injection
+==- A03 Injection
 
 An application is vulnerable to attack when:
 
@@ -272,7 +272,7 @@ This changes the meaning of both queries to return all the records from the acco
 
 +++
 
-==- 4. Insecure Design
+==- A04 Insecure Design
 
 Insecure design is a broad category representing different weaknesses, expressed as "missing or ineffective control design." Insecure design is not the source for all other Top 10 risk categories. There is a difference between insecure design and insecure implementation. We differentiate between design flaws and implementation defects for a reason, they have different root causes and remediation. A secure design can still have implementation defects leading to vulnerabilities that may be exploited. An insecure design cannot be fixed by a perfect implementation as by definition, needed security controls were never created to defend against specific attacks. One of the factors that contribute to insecure design is the lack of business risk profiling inherent in the software or system being developed, and thus the failure to determine what level of security design is required.
 
@@ -302,7 +302,7 @@ Insecure design is a broad category representing different weaknesses, expressed
 - CWE-522: Insufficiently Protected Credentials
 +++
 
-==- 5. Security Misconfiguration
+==- A05 Security Misconfiguration
 The application might be vulnerable if the application is:
 
 - Missing appropriate security hardening across any part of the application stack or improperly configured permissions on cloud services.
@@ -343,7 +343,7 @@ Secure installation processes should be implemented, including:
 
 +++
 
-==- 6. Vulnerable and Outdated Components
+==- A06 Vulnerable and Outdated Components
 
 You are likely vulnerable:
 
@@ -380,7 +380,7 @@ There are automated tools to help attackers find unpatched or misconfigured syst
 
 +++
 
-==- 7. Identification and Authentication Failures
+==- A07 Identification and Authentication Failures
 
 Confirmation of the user's identity, authentication, and session management is critical to protect against authentication-related attacks.
 
@@ -420,7 +420,7 @@ Confirmation of the user's identity, authentication, and session management is c
 
 +++
 
-==- 8. Software and Data Integrity Failures
+==- A08 Software and Data Integrity Failures
 
 Software and data integrity failures relate to code and infrastructure that does not protect against integrity violations. An example of this is where an application relies upon plugins, libraries, or modules from untrusted sources, repositories, and content delivery networks (CDNs). An insecure CI/CD pipeline can introduce the potential for unauthorized access, malicious code, or system compromise. Lastly, many applications now include auto-update functionality, where updates are downloaded without sufficient integrity verification and applied to the previously trusted application. Attackers could potentially upload their own updates to be distributed and run on all installations. Another example is where objects or data are encoded or serialized into a structure that an attacker can see and modify is vulnerable to insecure deserialization.
 
@@ -449,7 +449,7 @@ Software and data integrity failures relate to code and infrastructure that does
 
 +++
 
-==- 9. Security Logging and Monitoring Failures
+==- A09 Security Logging and Monitoring Failures
 
 Without logging and monitoring, breaches cannot be detected. Insufficient logging, detection, monitoring, and active response occurs any time:
 
@@ -491,7 +491,7 @@ There are commercial and open-source application protection frameworks such as t
 
 +++
 
-==- 10. Server-Side Request Forgery (SSRF)
+==- A10 Server-Side Request Forgery (SSRF)
 
 SSRF flaws occur whenever a web application is fetching a remote resource without validating the user-supplied URL. It allows an attacker to coerce the application to send a crafted request to an unexpected destination, even when protected by a firewall, VPN, or another type of network access control list (ACL).
 
