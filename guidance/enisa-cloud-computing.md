@@ -92,8 +92,6 @@ ENISA is a standard and model developed in Europe and is responsible for produci
 
 ### Top Security Risks
 
-==- Top security risks
-
 - Loss of governance
 - Lock-in
 - Isolation failure
@@ -106,8 +104,6 @@ ENISA is a standard and model developed in Europe and is responsible for produci
 !!!
 The risks listed above do not follow a specific order of criticality; they are just ten of the most important cloud computing specific risks identified during the assessment. 
 !!!
-
-==-
 
 ## Noteworthy
 
