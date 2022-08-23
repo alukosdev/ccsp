@@ -24,6 +24,18 @@ PMF | Privacy Management Framework
 
 ## Overview
 
+The Privacy Management Framework (PMF) is a guide to help organizations address the business activities that involve collecting, creating, using, storing and transmitting personal information of individuals.
+
+## Components
+
+
+
 ## Noteworthy
 
+- [x] The PMF contains nine privacy components.
+- [x] The adoption of PMF is voluntary.
+
 ## Sources
+
+- https://us.aicpa.org/interestareas/informationtechnology/privacy-management-framework
+- (2021, March 1). *Privacy Management Framework (PMF)*.
