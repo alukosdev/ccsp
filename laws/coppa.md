@@ -22,4 +22,4 @@ COPPA | Children's Online Privacy Protection Act
 ## References
 
 1. <span id="ref1"></span>[⌃](#rev1) FTC. (n.d.). *Children's Online Privacy Protection Rule ("COPPA")*. https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa
-2. <span id="ref1"></span>[⌃](#rev2) CFR. (2022, August 19). *Part 312 - Children's Online Privacy Protection Rule*. https://www.ecfr.gov/current/title-16/chapter-I/subchapter-C/part-312
+2. <span id="ref2"></span>[⌃](#rev2) CFR. (2022, August 19). *Part 312 - Children's Online Privacy Protection Rule*. https://www.ecfr.gov/current/title-16/chapter-I/subchapter-C/part-312
