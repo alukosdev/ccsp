@@ -29,10 +29,6 @@ program that addresses privacy risks and obligations, and business opportunities
 GAPP is recognized as meeting the SOC 2 Privacy Principle of the Trust Services Principles (TSP).
 !!!
 
-!!!warning
-TSP are now referred to as Trust Services Criteria (TSC).
-!!!
-
 ## Privacy Principles
 
 The privacy principles are essential to the proper protection and management of personal information. They are based on internationally known fair information practices included in many privacy laws and regulations of various jurisdictions around the world and recognized good privacy practices. 
