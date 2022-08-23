@@ -35,7 +35,9 @@ The international equivalent to the AICPA SOC 1 is the IAASB issued and approved
 
 ### SOC 2
 
-SOC 2 reporting was specifically designed for IT-managed service providers and cloud computing. The report specifically addresses any number of the so-called Trust Services principles, which follow:
+SOC 2 reporting was specifically designed for IT-managed service providers and cloud computing. The report specifically addresses any number of the so-called Trust Services principles (TSP???), which follow:
+
+> https://socreports.com/white-papers/soc-2/soc-2-privacy-principle-introduction-and-overview new as of 2022/08/23
 
 - Security
 - Availability
