@@ -25,7 +25,7 @@ PMF | Privacy Management Framework
 
 ## Overview
 
-The Generally Accepted Privacy Principles (GAPP) are a framework developed by the American Institute of Certified Public Accountants (AICPA) that consists of *10 key privacy principles* and *74 privacy objectives* and associated methods for measuring and evaluating criteria. It is focused on managing and preventing threats to privacy.
+The Generally Accepted Privacy Principles (GAPP) are a framework developed by the American Institute of Certified Public Accountants (AICPA) that consists of *10 key privacy principles* containing *74 privacy objectives* and associated methods for measuring and evaluating criteria. It is focused primarily on managing and preventing threats to privacy.
 
 !!!
 GAPP is a component of SOC 2. This is the standard in the accounting industry.
