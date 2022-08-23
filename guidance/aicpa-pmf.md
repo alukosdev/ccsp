@@ -23,7 +23,7 @@ TSC | Trust Services Criteria
 
 ## Overview
 
-The Privacy Management Framework (PMF) is a guide to help organizations address the business activities that involve collecting, creating, using, storing and transmitting personal information of individuals. It contains *nine components* relating to privacy.
+The Privacy Management Framework (PMF) is a guide to help organizations address the business activities that involve collecting, creating, using, storing, and transmitting personal information of individuals. It contains *nine components* relating to privacy.
 
 ## Components
 
@@ -101,5 +101,5 @@ The tool maps each of the nine components of the PMF with Trust Services Criteri
 
 ## Sources
 
-- https://us.aicpa.org/interestareas/informationtechnology/privacy-management-framework
-- (2021, March 1). *Privacy Management Framework (PMF)*.
+- AICPA. (n.d.). *Privacy Management Framework*. https://us.aicpa.org/interestareas/informationtechnology/privacy-management-framework
+- AICPA. (2021, March 1). *Privacy Management Framework (PMF)*.
