@@ -1,14 +1,7 @@
 ---
 categories: [Application Risk Management Guidance]
-icon: alert
 tags: [owasp]
 ---
-
-!!!danger
-This page is currently under revision.
-
-- Check grammar and spelling/consistency formatting.
-!!!
 
 :::banner
 The following page reflects information collected from the official [OWASP Top 10](https://owasp.org/www-project-top-ten){ target="_blank" } released in **2021**.
