@@ -35,12 +35,12 @@ To create the list, the CWE Team leveraged Common Vulnerabilities and Exposures 
 
 Name | Release Date
 :--- | :---
-[Top 25:2022](#top-252022) | 2022
-Top 25:2021 | 2021
-Top 25:2020 | 2020
-Top 25:2019 | 2019
+[2022 CWE Top 25 Most Dangerous Software Weaknesses](#2022-cwe-top-25-most-dangerous-software-weaknesses) | 2022
+2021 CWE Top 25 Most Dangerous Software Weaknesses | 2021
+2020 CWE Top 25 Most Dangerous Software Weaknesses | 2020
+2019 CWE Top 25 Most Dangerous Software Errors | 2019
 
-### Top 25:2022
+### 2022 CWE Top 25 Most Dangerous Software Weaknesses
 
 Rank | ID | Name { class="compact" }
 :--- | :--- | :---
