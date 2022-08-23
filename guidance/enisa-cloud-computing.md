@@ -37,7 +37,7 @@ ENISA is a standard and model developed in Europe and is responsible for produci
 ### Risk Categories
 
 !!!
-Risks bolded below indicate the *top eight security risks* based on likelihood and impact. The risks listed above do not follow a specific order of criticality; they are just eight of the most important cloud computing specific risks identified during the assessment. 
+Risks **bolded** below indicate the *top eight security risks* based on likelihood and impact. These risks do not follow a specific order of criticality; they are just eight of the most important cloud computing specific risks identified during the assessment.
 !!!
 
 ==- Policy and organizational risks
