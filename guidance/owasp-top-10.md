@@ -312,7 +312,7 @@ The application might be vulnerable if the application is:
 - For upgraded systems, the latest security features are disabled or not configured securely.
 - The security settings in the application servers, application frameworks (e.g., Struts, Spring, ASP.NET), libraries, databases, etc., are not set to secure values.
 - The server does not send security headers or directives, or they are not set to secure values.
-- The software is out of date or vulnerable (see [A06:2021-Vulnerable and Outdated Components](#6-vulnerable-and-outdated-components)).
+- The software is out of date or vulnerable (see [A06 Vulnerable and Outdated Components](#a06-vulnerable-and-outdated-components)).
 
 Without a concerted, repeatable application security configuration process, systems are at a higher risk.
 
@@ -352,7 +352,7 @@ You are likely vulnerable:
 - If you do not scan for vulnerabilities regularly and subscribe to security bulletins related to the components you use.
 - If you do not fix or upgrade the underlying platform, frameworks, and dependencies in a risk-based, timely fashion. This commonly happens in environments when patching is a monthly or quarterly task under change control, leaving organizations open to days or months of unnecessary exposure to fixed vulnerabilities.
 - If software developers do not test the compatibility of updated, upgraded, or patched libraries.
-- If you do not secure the components’ configurations (see [A05:2021-Security Misconfiguration](#5-security-misconfiguration)).
+- If you do not secure the components’ configurations (see [A05 Security Misconfiguration](#a05-security-misconfiguration)).
 
 +++ Prevention
 
@@ -360,7 +360,7 @@ There should be a patch management process in place to:
 
 - Remove unused dependencies, unnecessary features, components, files, and documentation.
 - Continuously inventory the versions of both client-side and server-side components (e.g., frameworks, libraries) and their dependencies using tools like versions, OWASP Dependency Check, retire.js, etc. Continuously monitor sources like Common Vulnerability and Exposures (CVE) and National Vulnerability Database (NVD) for vulnerabilities in the components. Use software composition analysis tools to automate the process. Subscribe to email alerts for security vulnerabilities related to components you use.
-- Only obtain components from official sources over secure links. Prefer signed packages to reduce the chance of including a modified, malicious component (See [A08:2021-Software and Data Integrity Failures](#8-software-and-data-integrity-failures)).
+- Only obtain components from official sources over secure links. Prefer signed packages to reduce the chance of including a modified, malicious component (See [A08 Software and Data Integrity Failures](#a08-software-and-data-integrity-failures)).
 - Monitor for libraries and components that are unmaintained or do not create security patches for older versions. If patching is not possible, consider deploying a virtual patch to monitor, detect, or protect against the discovered issue.
 
 Every organization must ensure an ongoing plan for monitoring, triaging, and applying updates or configuration changes for the lifetime of the application or portfolio.
@@ -406,7 +406,7 @@ Confirmation of the user's identity, authentication, and session management is c
 - Permits brute force or other automated attacks.
 - Permits default, weak, or well-known passwords, such as "Password1" or "admin/admin".
 - Uses weak or ineffective credential recovery and forgot-password processes, such as "knowledge-based answers," which cannot be made safe.
-- Uses plain text, encrypted, or weakly hashed passwords data stores (see [A02:2021-Cryptographic Failures](#2-cryptographic-failures)).
+- Uses plain text, encrypted, or weakly hashed passwords data stores (see [A02 Cryptographic Failures](#a02-cryptographic-failures)).
 - Has missing or ineffective multi-factor authentication.
 - Exposes session identifier in the URL.
 - Reuse session identifier after successful login.
@@ -460,7 +460,7 @@ Without logging and monitoring, breaches cannot be detected. Insufficient loggin
 - Appropriate alerting thresholds and response escalation processes are not in place or effective.
 - Penetration testing and scans by dynamic application security testing (DAST) tools (such as OWASP ZAP) do not trigger alerts.
 - The application cannot detect, escalate, or alert for active attacks in real-time or near real-time.
-- You are vulnerable to information leakage by making logging and alerting events visible to a user or an attacker (see [A01:2021-Broken Access Control](#1-broken-access-control)).
+- You are vulnerable to information leakage by making logging and alerting events visible to a user or an attacker (see [A01 Broken Access Control](#a01-broken-access-control)).
 
 +++ Prevention
 
@@ -508,7 +508,7 @@ From the network layer:
 
 !!!
 - Establish an ownership and a lifecycle for firewall rules based on applications.
-- Log all accepted and blocked network flows on firewalls (see [A09:2021-Security Logging and Monitoring Failures](#9-security-logging-and-monitoring-failures)).
+- Log all accepted and blocked network flows on firewalls (see [A09 Security Logging and Monitoring Failures](#a09-security-logging-and-monitoring-failures)).
 !!!
 
 From the application layer:
