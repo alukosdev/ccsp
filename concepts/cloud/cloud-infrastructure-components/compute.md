@@ -1,5 +1,5 @@
 ---
-ocon: stop
+icon: stop
 ---
 
 !!!danger
