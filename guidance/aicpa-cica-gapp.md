@@ -1,14 +1,18 @@
 ---
-categories: [Privacy Standards]
+categories: [Privacy Guidance]
 icon: alert
 tags: [aicpa, cica, privacy]
 ---
 
-!!!danger
+!!!warning
 This page is currently under revision.
 !!!
 
 # AICPA/CICA GAPP
+
+!!!warning
+The Privacy Management Framework (PMF) was created as an update to the Generally Accepted Privacy Principles (GAPP).
+!!!
 
 > Generally Accepted Privacy Principles
 
@@ -19,10 +23,11 @@ Short Form | Full Form
 AICPA | American Institute of Certified Public Accountants
 CICA | Canadian Institute of Chartered Accountants
 GAPP | Generally Accepted Privacy Principles
+PMF | Privacy Management Framework
 
 ## Overview
 
-The GAPP is an AICPA standard that consists of *10 key privacy principles* and *74 privacy objectives* and associated methods for measuring and evaluating criteria. It is focused on managing and preventing threats to privacy.
+The Generally Accepted Privacy Principles (GAPP) are a framework developed by the American Institute of Certified Public Accountants (AICPA) that consists of *10 key privacy principles* and *74 privacy objectives* and associated methods for measuring and evaluating criteria. It is focused on managing and preventing threats to privacy.
 
 !!!
 GAPP is a component of SOC 2. This is the standard in the accounting industry.
@@ -42,3 +47,5 @@ According to GAPP, following are the 10 main privacy principles:
 - Security for privacy
 - Quality
 - Monitoring and enforcement
+
+## Sources

@@ -1,5 +1,6 @@
 ---
 categories: [Application Risk Management Guidance]
+label: OWASP WSTG
 tags: [owasp]
 ---
 
