@@ -23,6 +23,8 @@ IG | Implementation Group
 
 #### Implementation Groups
 
+Implementation Groups (IGs) are the recommended guidance to prioritize implementation of the CIS Controls. In an effort to assist enterprises of every size, IGs are divided into three groups. They are based on the risk profile and resources an enterprise has available to them to implement the CIS Controls.
+
 ==- IG1
 
 An IG1 enterprise is small to medium-sized with limited IT and cybersecurity expertise to dedicate towards protecting IT assets and personnel.
@@ -71,3 +73,4 @@ Control 18 | Penetration Testing
 ## Sources
 
 - CIS. (2021, May 18). *CIS Critical Security Controls Version 8*. https://www.cisecurity.org/controls/v8
+- CIS. (n.d.). *CIS Critical Security Controls Implementation Groups*. https://www.cisecurity.org/controls/implementation-groups

@@ -22,4 +22,4 @@ The Organization for Economic Co-operation and Development (OECD) is an internat
 
 ## Sources
 
-- OECD. (n.d.) *Who we are*. https://www.oecd.org/about/
+- OECD. (n.d.). *Who we are*. https://www.oecd.org/about/

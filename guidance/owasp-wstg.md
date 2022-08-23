@@ -38,7 +38,7 @@ WSTG | Web Security Testing Guide
 
 ## Noteworthy
 
-- [x] The OWASP WSTG contains *twelve methods* of testing.
+- [x] The OWASP WSTG contains *12 methods* of testing.
 - [x] The OWASP WSTG provides guidance for testing *web applications* and *web services*.
 
 ## References

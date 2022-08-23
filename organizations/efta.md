@@ -26,4 +26,4 @@ Iceland, Liechtenstein, Norway, and Switzerland are not members of the EU. Icela
 
 ## Sources
 
-- EFTA. (n.d.) *The European Free Trade Association*. https://www.efta.int/about-efta/european-free-trade-association
+- EFTA. (n.d.). *The European Free Trade Association*. https://www.efta.int/about-efta/european-free-trade-association
