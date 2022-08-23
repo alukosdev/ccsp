@@ -2,15 +2,13 @@
 
 ## Acronyms, Abbreviations, and Initialisms
 
-==- Acronyms
-| Short Form | Full Form |
-| - | - |
-| ALE | Annualized Loss Expectancy |
-| ARO | Annual Rate of Occurrence |
-| AV | Asset Value |
-| EF | Exposure Factor |
-| SLE | Single Loss Expectancy |
-==-
+Short Form | Full Form
+:--- | :---
+ALE | Annualized Loss Expectancy
+ARO | Annual Rate of Occurrence
+AV | Asset Value
+EF | Exposure Factor
+SLE | Single Loss Expectancy
 
 ## Glossary
 

@@ -7,9 +7,9 @@ tags: [idca]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| IDCA | International Data Center Authority |
+Short Form | Full Form
+:--- | :---
+IDCA | International Data Center Authority
 
 ## Overview
 

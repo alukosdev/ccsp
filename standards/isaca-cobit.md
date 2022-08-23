@@ -9,10 +9,10 @@ tags: [isaca]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Backroynm |
-| - | - |
-| COBIT | Control Objectives for Information and Related Technologies |
-| ISACA | Information Systems Audit and Control Association |
+Short Form | Full Form
+:--- | :---
+COBIT | Control Objectives for Information and Related Technologies
+ISACA | Information Systems Audit and Control Association
 
 ## Overview
 

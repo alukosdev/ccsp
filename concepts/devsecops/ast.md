@@ -6,12 +6,12 @@ label: Application Security Testing
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| AST | Application Security Testing |
-| DAST | Dynamic Application Security Testing |
-| RASP | Runtime Application Self-Protection |
-| SAST | Static Application Security Testing |
+Short Form | Full Form
+:--- | :---
+AST | Application Security Testing
+DAST | Dynamic Application Security Testing
+RASP | Runtime Application Self-Protection
+SAST | Static Application Security Testing
 
 ## Glossary
 

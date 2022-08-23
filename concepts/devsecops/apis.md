@@ -6,11 +6,11 @@ label: Application Programming Interfaces
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| API | Application Programming Interface |
-| REST | Representation State Transfer |
-| SOAP | Simple Object Access Protocol |
+Short Form | Full Form
+:--- | :---
+API | Application Programming Interface
+REST | Representation State Transfer
+SOAP | Simple Object Access Protocol
 
 ## Overview
 

@@ -6,13 +6,13 @@ label: Identity and Access Management
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| ABAC | Attribute-Based Access Control |
-| IAM | Identity and Access Management |
-| RBAC | Role-Based Access Control |
-| SCIM | System for Cross-domain Identity Management |
-| SPML | Service Provisioning Markup Language |
+Short Form | Full Form
+:--- | :---
+ABAC | Attribute-Based Access Control
+IAM | Identity and Access Management
+RBAC | Role-Based Access Control
+SCIM | System for Cross-domain Identity Management
+SPML | Service Provisioning Markup Language
 
 ## Glossary
 

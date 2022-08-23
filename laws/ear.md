@@ -7,11 +7,11 @@ tags: [export control, united states]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| CCL | Commerce Control List |
-| EAR | Export Administration Regulations |
-| USML | United States Munitions List |
+Short Form | Full Form
+:--- | :---
+CCL | Commerce Control List
+EAR | Export Administration Regulations
+USML | United States Munitions List
 
 ## Overview
 

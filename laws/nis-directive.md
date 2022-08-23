@@ -7,12 +7,12 @@ tags: [eea, enisa, eu, privacy]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| EEA | European Economic Area |
-| ENISA | European Union Agency for Cybersecurity |
-| EU | European Union |
-| NIS | Network and Information Security |
+Short Form | Full Form
+:--- | :---
+EEA | European Economic Area
+ENISA | European Union Agency for Cybersecurity
+EU | European Union
+NIS | Network and Information Security
 
 ## Overview
 

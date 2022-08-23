@@ -6,16 +6,16 @@ label: Federated Identity Management
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| FIM | Federated Identity Management |
-| IAM | Identity and Access Management |
-| IdP | Identity Provider |
-| OIDC | OpenID Connect |
-| SAML | Security Assertion Markup Language |
-| SCIM | System for Cross-domain Identity Management |
-| SPML | Service Provisioning Markup Language |
-| SSO | Single Sign-On |
+Short Form | Full Form
+:--- | :---
+FIM | Federated Identity Management
+IAM | Identity and Access Management
+IdP | Identity Provider
+OIDC | OpenID Connect
+SAML | Security Assertion Markup Language
+SCIM | System for Cross-domain Identity Management
+SPML | Service Provisioning Markup Language
+SSO | Single Sign-On
 
 ## Overview
 

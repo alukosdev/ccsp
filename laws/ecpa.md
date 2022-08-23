@@ -7,6 +7,6 @@ tags: [privacy, united states]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| ECPA | Electronic Communication Privacy Act |
+Short Form | Full Form
+:--- | :---
+ECPA | Electronic Communication Privacy Act

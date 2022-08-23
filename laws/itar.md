@@ -7,11 +7,11 @@ tags: [united states]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| CCL | Commerce Control List |
-| ITAR | International Traffic in Arms Regulations |
-| USML | United States Munitions List |
+Short Form | Full Form
+:--- | :---
+CCL | Commerce Control List
+ITAR | International Traffic in Arms Regulations
+USML | United States Munitions List
 
 ## Overview
 

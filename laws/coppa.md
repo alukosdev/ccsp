@@ -12,9 +12,9 @@ This page has not yet been revised for 2022.
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| COPPA | Children's Online Privacy Protection Act |
+Short Form | Full Form
+:--- | :---
+COPPA | Children's Online Privacy Protection Act
 
 ## Overview
 

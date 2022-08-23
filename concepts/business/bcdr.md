@@ -6,20 +6,20 @@ label: Business Continuity and Disaster Recovery
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| BC | Business Continuity |
-| BCM | Business Continuity Management |
-| BCP | Business Continuity Plan |
-| BIA	| Business Impact Analysis |
-| DR | Disaster Recovery |
-| DRP	| Disaster Recovery Plan |
-| MAD	| Maximum Allowable Downtime |
-| MTD	| Maximum Tolerable Downtime |
-| RPO	| Recovery Point Objective |
-| RSL	| Recovery Service Level |
-| RTO	| Recovery Time Objective |
-| WRT	| Work Recovery Time |
+Short Form | Full Form
+:--- | :---
+BC | Business Continuity
+BCM | Business Continuity Management
+BCP | Business Continuity Plan
+BIA	| Business Impact Analysis
+DR | Disaster Recovery
+DRP	| Disaster Recovery Plan
+MAD	| Maximum Allowable Downtime
+MTD	| Maximum Tolerable Downtime
+RPO	| Recovery Point Objective
+RSL	| Recovery Service Level
+RTO	| Recovery Time Objective
+WRT	| Work Recovery Time
 
 ## Glossary
 

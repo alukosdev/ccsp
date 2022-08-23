@@ -17,10 +17,10 @@ Virtualization has the potential to affect data classification processes and imp
 The purpose of classification is to dictate *how to protect data*. You protect top-secret data differently than you protect secret data.
 !!!
 
-| Datasets | Input Entities |
-| - | - |
-| Primary set | P&DP law <br /> Scope and purpose of the processing <br /> Categories of the personal data to be processed <br /> Categories of the processing to be performed |
-| Secondary set | Data location allowed <br /> Categories of users allowed <br /> Data retention constraints <br /> Security measures to be ensured <br /> Data breach constraints <br /> Status |
+Datasets | Input Entities
+:--- | :---
+Primary set | P&DP law <br /> Scope and purpose of the processing <br /> Categories of the personal data to be processed <br /> Categories of the processing to be performed
+Secondary set | Data location allowed <br /> Categories of users allowed <br /> Data retention constraints <br /> Security measures to be ensured <br /> Data breach constraints <br /> Status
 
 ## Classification Process
 

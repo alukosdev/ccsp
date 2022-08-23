@@ -6,9 +6,9 @@ label: Continual Service Improvement Management
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| CSIM | Continual Service Improvement Management |
+Short Form | Full Form
+:--- | :---
+CSIM | Continual Service Improvement Management
 
 ## Overview
 

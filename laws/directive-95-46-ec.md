@@ -12,10 +12,10 @@ This page has not yet been revised for 2022.
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| EU | European Union |
-| OECD | Organization for Economic Cooperation and Development |
+Short Form | Full Form
+:--- | :---
+EU | European Union
+OECD | Organization for Economic Cooperation and Development
 
 ## Overview
 

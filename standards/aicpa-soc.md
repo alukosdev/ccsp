@@ -11,13 +11,13 @@ This page has not yet been revised for 2022.
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| AICPA |	American Institute of Certified Public Accountants |
-| IAASB	| International Auditing and Assurance Standards Board |
-| SAS	| Statement on Auditing Standards |
-| SOC	| System and Organization Controls |
-| SSAE | Statement on Standards for Attestation Engagements |
+Short Form | Full Form
+:--- | :---
+AICPA |	American Institute of Certified Public Accountants
+IAASB | International Auditing and Assurance Standards Board
+SAS	| Statement on Auditing Standards
+SOC	| System and Organization Controls
+SSAE | Statement on Standards for Attestation Engagements
 
 ## Overview
 

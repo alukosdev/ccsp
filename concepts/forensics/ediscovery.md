@@ -2,9 +2,9 @@
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| ESI | Electronically Stored Information |
+Short Form | Full Form
+:--- | :---
+ESI | Electronically Stored Information
 
 eDiscovery refers to any process in which electronic data is sought, located, secured, and searched with the intent of using it as evidence in a civil or criminal legal case.
 

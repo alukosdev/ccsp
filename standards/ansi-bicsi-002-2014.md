@@ -12,10 +12,10 @@ This page has not yet been revised for 2022.
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| ANSI | American National Standards Institute |
-| BICSI | Building Industry Consulting Services International |
+Short Form | Full Form
+:--- | :---
+ANSI | American National Standards Institute
+BICSI | Building Industry Consulting Services International
 
 ## Overview
 

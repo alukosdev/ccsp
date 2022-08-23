@@ -6,10 +6,10 @@ label: Service Level Management
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| SLM | Service Level Management |
-| UC | Underpinning Contract |
+Short Form | Full Form
+:--- | :---
+SLM | Service Level Management
+UC | Underpinning Contract
 
 ## Glossary
 

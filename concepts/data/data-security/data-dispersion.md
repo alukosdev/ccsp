@@ -2,10 +2,10 @@
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| AONT-RS | All-or-Nothing-Transform with Reed-Solomon |
-| SMSS | Secret Sharing Made Short |
+Short Form | Full Form
+:--- | :---
+AONT-RS | All-or-Nothing-Transform with Reed-Solomon
+SMSS | Secret Sharing Made Short
 
 ## Overview
 

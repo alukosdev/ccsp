@@ -8,9 +8,9 @@ categories: [Standards, Secure Architecture and Design Standards]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| TOGAF | The Open Group Architecture Framework |
+Short Form | Full Form
+:--- | :---
+TOGAF | The Open Group Architecture Framework
 
 ## Overview
 

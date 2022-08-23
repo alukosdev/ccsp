@@ -7,9 +7,9 @@ tags: [privacy, united states]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| SCA | Stored Communication Act |
+Short Form | Full Form
+:--- | :---
+SCA | Stored Communication Act
 
 ## Overview
 

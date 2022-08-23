@@ -7,10 +7,10 @@ tags: [australia, privacy]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| APP | Australian Privacy Principles |
-| NPP | National Privacy Principles |
+Short Form | Full Form
+:--- | :---
+APP | Australian Privacy Principles
+NPP | National Privacy Principles
 
 ## Overview
 

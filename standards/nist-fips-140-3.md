@@ -7,14 +7,14 @@ tags: [nist]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| CST | Cryptographic and Security Testing |
-| CMVP | Cryptographic Module Validation Program |
-| FIPS | Federal Information Processing Standard |
-| NIST | National Institute of Standards and Technology |
-| NVLAP |	National Voluntary Laboratory Accreditation Program |
-| SBU | Sensitive But Unclassified |
+Short Form | Full Form
+:--- | :---
+CST | Cryptographic and Security Testing
+CMVP | Cryptographic Module Validation Program
+FIPS | Federal Information Processing Standard
+NIST | National Institute of Standards and Technology
+NVLAP |	National Voluntary Laboratory Accreditation Program
+SBU | Sensitive But Unclassified
 
 ## Overview
 

@@ -9,19 +9,19 @@ tags: [pci]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| AoC | Attestation of Compliance |
-| ASV | Approved Scanning Vendor |
-| DSS | Data Security Standards |
-| ISA | Internal Security Assessor |
-| PAN | Primary Account Number |
-| PCI | Payment Card Industry |
-| PFI | PCI Forensic Investigator |
-| QSA |	Qualified Security Assessor |
-| ROC |	Report of Compliance |
-| SAD |	Sensitive Authentication Data |
-| SAQ |	Self-Assessment Questionnaire |
+Short Form | Full Form
+:--- | :---
+AoC | Attestation of Compliance
+ASV | Approved Scanning Vendor
+DSS | Data Security Standards
+ISA | Internal Security Assessor
+PAN | Primary Account Number
+PCI | Payment Card Industry
+PFI | PCI Forensic Investigator
+QSA |	Qualified Security Assessor
+ROC |	Report of Compliance
+SAD |	Sensitive Authentication Data
+SAQ |	Self-Assessment Questionnaire
 
 ## Glossary
 
@@ -51,12 +51,12 @@ PCI DSS is a comprehensive and intensive security standard that lists both techn
 
 ### Merchant Levels
 
-| Merchant Level | Description |
-| - | - |
-| 1 | Any merchant-regardless of acceptance channel-processing more than 6 million transactions per year. Any merchant that the credit card issuer, at its sole discretion, determines should meet the Level 1 requirements to minimize risk to the credit card issuer's system. |
-| 2 | Any merchant-regardless of acceptance channel-processing 1-6 million credit card transactions per year. |
-| 3 | Any merchant processing 20,000 to 1 million credit card e-commerce transactions per year. |
-| 4 | Any merchant processing fewer than 20,000 credit card e-commerce transactions per year and all other merchants-regardless of acceptance channel-processing up to 1 million credit card transactions per year. |
+Merchant Level | Description
+:--- | :---
+1 | Any merchant-regardless of acceptance channel-processing more than 6 million transactions per year. Any merchant that the credit card issuer, at its sole discretion, determines should meet the Level 1 requirements to minimize risk to the credit card issuer's system.
+2 | Any merchant-regardless of acceptance channel-processing 1-6 million credit card transactions per year.
+3 | Any merchant processing 20,000 to 1 million credit card e-commerce transactions per year.
+4 | Any merchant processing fewer than 20,000 credit card e-commerce transactions per year and all other merchants-regardless of acceptance channel-processing up to 1 million credit card transactions per year.
 
 Merchants at different tiers are required to have more or fewer audits in the same time frame as merchants in other tiers, depending on the tier. Businesses at level 1 are required to undergo a *yearly PCI audit* conducted by a QSA.
 

@@ -9,10 +9,10 @@ tags: [csa]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| CSA | Cloud Security Alliance |
-| TCI | Trusted Cloud Initiative |
+Short Form | Full Form
+:--- | :---
+CSA | Cloud Security Alliance
+TCI | Trusted Cloud Initiative
 
 ## Overview
 

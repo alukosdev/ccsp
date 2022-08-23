@@ -7,12 +7,12 @@ tags: [eea, eu, privacy]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| EEA | European Economic Area |
-| EU | European Union |
-| GDPR | Global Data Protection Regulation |
-| SA | Supervisory Authority |
+Short Form | Full Form
+:--- | :---
+EEA | European Economic Area
+EU | European Union
+GDPR | Global Data Protection Regulation
+SA | Supervisory Authority
 
 ## Overview
 

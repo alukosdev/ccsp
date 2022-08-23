@@ -6,14 +6,14 @@ order: 1700
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| LOI | Letter of Intent |
-| MOA | Memorandum of Agreement |
-| MOU | Memorandum of Understanding |
-| OLA | Operational-Level Agreement |
-| PLA | Privacy-Level Agreement |
-| SLA | Service-Level Agreement |
+Short Form | Full Form
+:--- | :---
+LOI | Letter of Intent
+MOA | Memorandum of Agreement
+MOU | Memorandum of Understanding
+OLA | Operational-Level Agreement
+PLA | Privacy-Level Agreement
+SLA | Service-Level Agreement
 
 ## Glossary
 

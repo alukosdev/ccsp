@@ -7,11 +7,11 @@ tags: [information security, united states]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| FISMA | Federal Information Security Management Act |
-| NIST | National Institute of Standards and Technology |
-| OMB | Office of Management and Budget |
+Short Form | Full Form
+:--- | :---
+FISMA | Federal Information Security Management Act
+NIST | National Institute of Standards and Technology
+OMB | Office of Management and Budget
 
 ## Overview
 

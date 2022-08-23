@@ -6,9 +6,9 @@ label: Release and Deployment Management
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| RDM | Release and Deployment Management |
+Short Form | Full Form
+:--- | :---
+RDM | Release and Deployment Management
 
 ## Overview
 

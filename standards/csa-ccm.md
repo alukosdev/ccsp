@@ -14,10 +14,10 @@ This page has not yet been revised for 2022.
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| CCM | Cloud Controls Matrix |
-| CSA | Cloud Security Alliance |
+Short Form | Full Form
+:--- | :---
+CCM | Cloud Controls Matrix
+CSA | Cloud Security Alliance
 
 ## Overview
 

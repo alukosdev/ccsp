@@ -7,10 +7,10 @@ privacy: [united states]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| EHR | Electronic Health Records |
-| HITECH | Health Information Technology for Economic and Clinical Health |
+Short Form | Full Form
+:--- | :---
+EHR | Electronic Health Records
+HITECH | Health Information Technology for Economic and Clinical Health
 
 ## Overview
 

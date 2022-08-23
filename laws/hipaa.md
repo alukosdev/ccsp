@@ -7,12 +7,12 @@ tags: [privacy, united states]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| DHHS | Department of Health and Human Services |
-| HIPAA | Health Insurance Portability and Accountability Act |
-| PHI | Personal Health Information |
-| OCR | Office for Civil Rights |
+Short Form | Full Form
+:--- | :---
+DHHS | Department of Health and Human Services
+HIPAA | Health Insurance Portability and Accountability Act
+PHI | Personal Health Information
+OCR | Office for Civil Rights
 
 ## Overview
 

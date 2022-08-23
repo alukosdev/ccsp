@@ -2,9 +2,9 @@
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| SIEM | Security Information and Event Management |
+Short Form | Full Form
+:--- | :---
+SIEM | Security Information and Event Management
 
 ## Glossary
 

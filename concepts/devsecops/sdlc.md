@@ -6,10 +6,10 @@ label: Software Development Lifecycle
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| IaC | Infrastructure as Code |
-| SDLC | Software Development Lifecycle |
+Short Form | Full Form
+:--- | :---
+IaC | Infrastructure as Code
+SDLC | Software Development Lifecycle
 
 ## Glossary
 

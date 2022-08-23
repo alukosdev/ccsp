@@ -7,11 +7,11 @@ tags: [privacy, united states]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| GLBA | Gramm-Leach-Bliley Act |
-| ISO | Information Security Officer |
-| ISP | Information Security Plan |
+Short Form | Full Form
+:--- | :---
+GLBA | Gramm-Leach-Bliley Act
+ISO | Information Security Officer
+ISP | Information Security Plan
 
 ## Overview
 

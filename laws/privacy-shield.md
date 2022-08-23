@@ -7,11 +7,11 @@ tags: [privacy, united states]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| DoC | Department of Commerce |
-| DoT | Department of Transportation |
-| FTC | Federal Trade Commission |
+Short Form | Full Form
+:--- | :---
+DoC | Department of Commerce
+DoT | Department of Transportation
+FTC | Federal Trade Commission
 
 ## Overview
 

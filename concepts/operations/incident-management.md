@@ -2,10 +2,10 @@
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| IMT | Incident Management Team |
-| IRT | Incident Response Team |
+Short Form | Full Form
+:--- | :---
+IMT | Incident Management Team
+IRT | Incident Response Team
 
 ## Glossary
 

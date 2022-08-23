@@ -7,9 +7,9 @@ tags: [canada, privacy]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| PIPEDA | Personal Information Protection and Electronics Document Act |
+Short Form | Full Form
+:--- | :---
+PIPEDA | Personal Information Protection and Electronics Document Act
 
 ## Overview
 

@@ -6,13 +6,13 @@ label: Data Loss Prevention
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| DAR | Data at Rest |
-| DIM | Data in Motion |
-| DIT | Data in Transit |
-| DIU | Data in Use |
-| DLP | Data Loss Prevention |
+Short Form | Full Form
+:--- | :---
+DAR | Data at Rest
+DIM | Data in Motion
+DIT | Data in Transit
+DIU | Data in Use
+DLP | Data Loss Prevention
 
 ## Glossary
 

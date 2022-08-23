@@ -2,21 +2,21 @@
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| DAR | Data at Rest |
-| DIM | Data in Motion |
-| DIT | Data in Transit |
-| DIU | Data in Use |
-| EFS | Encrypting File System |
-| FDE | Full Disk Encryption |
-| FPE | Format-Preserving Encryption |
-| HSM | Hardware Security Module |
-| IaaS | Infrastructure as a Service |
-| PaaS | Platform as a Service |
-| SaaS | Software as a Service |
-| TPM | Trusted Platform Module |
-| WDE | Whole Disk Encryption |
+Short Form | Full Form
+:--- | :---
+DAR | Data at Rest
+DIM | Data in Motion
+DIT | Data in Transit
+DIU | Data in Use
+EFS | Encrypting File System
+FDE | Full Disk Encryption
+FPE | Format-Preserving Encryption
+HSM | Hardware Security Module
+IaaS | Infrastructure-as-a-Service
+PaaS | Platform-as-a-Service
+SaaS | Software-as-a-Service
+TPM | Trusted Platform Module
+WDE | Whole Disk Encryption
 
 ## Glossary
 

@@ -2,11 +2,11 @@
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| DLP | Data Loss Prevention |
-| DRM | Digital Rights Management |
-| IRM | Information Rights Management |
+Short Form | Full Form
+:--- | :---
+DLP | Data Loss Prevention
+DRM | Digital Rights Management
+IRM | Information Rights Management
 
 ## Overview
 

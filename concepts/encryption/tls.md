@@ -2,12 +2,12 @@
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| DAR | Data at Rest
-| DIM | Data in Motion |
-| DIT | Data in Transit |
-| TLS | Transport Layer Security |
+Short Form | Full Form
+:--- | :---
+DAR | Data at Rest
+DIM | Data in Motion
+DIT | Data in Transit
+TLS | Transport Layer Security
 
 ## Glossary
 

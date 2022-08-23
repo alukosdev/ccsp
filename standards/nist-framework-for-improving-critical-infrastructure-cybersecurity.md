@@ -7,9 +7,9 @@ tags: [nist]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| NIST | National Institute of Standards and Technology |
+Short Form | Full Form
+:--- | :---
+NIST | National Institute of Standards and Technology
 
 ## Overview
 

@@ -6,9 +6,9 @@ order: 2000
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| AUP | Agreed-Upon Procedures |
+Short Form | Full Form
+:--- | :---
+AUP | Agreed-Upon Procedures
 
 ## Glossary
 

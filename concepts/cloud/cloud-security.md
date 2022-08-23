@@ -2,12 +2,12 @@
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| API | Application Programming Interface |
-| DAM | Database Activity Monitoring |
-| FAM | File Activity Monitoring |
-| WAF | Web Application Firewall |
+Short Form | Full Form
+:--- | :---
+API | Application Programming Interface
+DAM | Database Activity Monitoring
+FAM | File Activity Monitoring
+WAF | Web Application Firewall
 
 ## Glossary
 

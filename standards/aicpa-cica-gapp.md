@@ -14,11 +14,11 @@ This page has not yet been revised for 2022.
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| AICPA | American Institute of Certified Public Accountants |
-| CICA | Canadian Institute of Chartered Accountants |
-| GAPP | Generally Accepted Privacy Principles |
+Short Form | Full Form
+:--- | :---
+AICPA | American Institute of Certified Public Accountants
+CICA | Canadian Institute of Chartered Accountants
+GAPP | Generally Accepted Privacy Principles
 
 ## Overview
 

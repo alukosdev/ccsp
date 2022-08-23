@@ -6,13 +6,13 @@ label: Single Sign-On
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| FIM | Federated Identity Management |
-| RSO | Reduced Sign-On |
-| SCIM | System for Cross-domain Identity Management |
-| SPML | Service Provisioning Markup Language |
-| SSO | Single Sign-On |
+Short Form | Full Form
+:--- | :---
+FIM | Federated Identity Management
+RSO | Reduced Sign-On
+SCIM | System for Cross-domain Identity Management
+SPML | Service Provisioning Markup Language
+SSO | Single Sign-On
 
 ## Glossary
 

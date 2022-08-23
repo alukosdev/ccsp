@@ -2,9 +2,9 @@
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| CI | Configuration Item |
+Short Form | Full Form
+:--- | :---
+CI | Configuration Item
 
 ## Glossary
 

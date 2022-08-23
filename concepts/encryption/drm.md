@@ -6,10 +6,10 @@ label: Digital Rights Management
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Acronym | Definition |
-| - | - |
-| DRM | Digital Rights Management |
-| IRM | Information Rights Management |
+Short Form | Full Form
+:--- | :---
+DRM | Digital Rights Management
+IRM | Information Rights Management
 
 ## Overview
 

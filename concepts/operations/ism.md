@@ -6,9 +6,9 @@ label: Information Security Management
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| ISM | Information Security Management |
+Short Form | Full Form
+:--- | :---
+ISM | Information Security Management
 
 ## Overview
 

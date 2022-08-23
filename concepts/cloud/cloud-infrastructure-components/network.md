@@ -2,10 +2,10 @@
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| NBI | Northbound Interface |
-| SBI | Southbound Interface |
+Short Form | Full Form
+:--- | :---
+NBI | Northbound Interface
+SBI | Southbound Interface
 
 ![Network Models](/static/network-models.png)
 

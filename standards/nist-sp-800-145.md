@@ -9,10 +9,10 @@ tags: [nist]
 
 ## Acronyms, Abbreviations, and Initialisms
 
-| Short Form | Full Form |
-| - | - |
-| NIST | National Institute of Standards and Technology |
-| SP | Special Publication |
+Short Form | Full Form
+:--- | :---
+NIST | National Institute of Standards and Technology
+SP | Special Publication
 
 ## Overview
 
