@@ -1,12 +1,7 @@
 ---
 categories: [Cloud Computing Risk Management Guidance]
-icon: alert
 tags: [enisa]
 ---
-
-!!!warning
-This page is currently under revision.
-!!!
 
 :::banner
 The following page reflects information collected from the [Cloud Computing: Benefits, risks and recommendations for information security](https://www.enisa.europa.eu/publications/cloud-computing-risk-assessment/at_download/fullReport){ target="_blank" } published in **November 2009**.
@@ -24,17 +19,9 @@ ENISA | European Union Agency for Network and Information Security
 
 ## Overview
 
-> Fix the below verbiage
-
-*Cloud Computing: Benefits, risks, and recommendations for information security* is a framework that identifies and categorizes *35 types of risks* organizations should consider. It further identifies the *top eight* security risks based on likelihood and impact.
-
-!!!contrast Remove this
-ENISA is a standard and model developed in Europe and is responsible for producing *Cloud Computing: Benefits, Risks, and Recommendations for Information Security*. It identifies *35 types of risks* organizations should consider but goes further by identifying the *top eight security risks* based on likelihood and impact:
-!!!
+*Cloud Computing: Benefits, risks, and recommendations for information security* is a paper published by the European Union Agency for Network and Information Security (ENISA) that identifies and categorizes *35 security risks*. From these risks, it further identifies the *top eight* security risks based on likelihood and impact. This paper allows an informed assessment of the security risks and benefits of using cloud computing - providing security guidance for potential and existing users of cloud computing.
 
 ## Risks
-
-### Risk Categories
 
 !!!
 Risks **bolded** below indicate the *top eight security risks* based on likelihood and impact. These risks do not follow a specific order of criticality; they are just eight of the most important cloud computing specific risks identified during the assessment.
