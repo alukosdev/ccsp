@@ -501,7 +501,7 @@ As modern web applications provide end-users with convenient features, fetching 
 
 Developers can prevent SSRF by implementing some or all the following defense in depth controls:
 
-##### From the network layer
+From the network layer:
 
 - Segment remote resource access functionality in separate networks to reduce the impact of SSRF
 - Enforce "deny by default" firewall policies or network access control rules to block all but essential intranet traffic.
@@ -511,7 +511,7 @@ Developers can prevent SSRF by implementing some or all the following defense in
 - Log all accepted and blocked network flows on firewalls (see [A09:2021-Security Logging and Monitoring Failures](#9-security-logging-and-monitoring-failures)).
 !!!
 
-##### From the application layer
+From the application layer:
 
 - Sanitize and validate all client-supplied input data
 - Enforce the URL schema, port, and destination with a positive allow list
@@ -521,7 +521,7 @@ Developers can prevent SSRF by implementing some or all the following defense in
 
 Do not mitigate SSRF via the use of a deny list or regular expression. Attackers have payload lists, tools, and skills to bypass deny lists.
 
-##### Additional measures to consider
+Additional measures to consider:
 
 - Don't deploy other security relevant services on front systems (e.g. OpenID). Control local traffic on these systems (e.g. localhost)
 - For frontends with dedicated and manageable user groups use network encryption (e.g. VPNs) on independent systems to consider very high protection needs
