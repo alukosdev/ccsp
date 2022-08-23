@@ -53,12 +53,12 @@ Risks **bolded** below indicate the *top eight security risks* based on likeliho
 ==- Technical risks
 
 - R.8 Resource exhaustion (under or over provisioning)
-- R.9 **Isolation failure**
-- R.10 **Cloud provider malicious insider - abuse of high privilege roles**
-- R.11 **Management interface compromise (manipulation, availability of infrastructure)**
+- **R.9 Isolation failure**
+- **R.10 Cloud provider malicious insider - abuse of high privilege roles**
+- **R.11 Management interface compromise (manipulation, availability of infrastructure)**
 - R.12 Intercepting data in transit
 - R.13 Data leakage on up/download, intra-cloud
-- R.14 **Insecure or ineffective deletion of data**
+- **R.14 Insecure or ineffective deletion of data**
 - R.15 Distributed denial-of-service (DDoS)
 - R.16 Economic denial-of-service (EDoS)
 - R.17 Loss of encryption keys
@@ -70,7 +70,7 @@ Risks **bolded** below indicate the *top eight security risks* based on likeliho
 
 - R.21 Subpoena and e-discovery
 - R.22 Risk from changes of jurisdiction
-- R.23 **Data protection risks**
+- **R.23 Data protection risks**
 - R.24 Licensing risk
 
 ==- Risks not specific to the cloud
