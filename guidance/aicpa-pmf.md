@@ -11,7 +11,7 @@ This page is currently under revision.
 # AICPA PMF
 
 !!!success
-The AICPA Privacy Management Framework (PMF) was created as an update to the [AICPA/CICA Generally Accepted Privacy Principles (GAPP)](/guidance/aicpa-cica-gapp.md).
+The AICPA Privacy Management Framework (PMF) was created in 2020 as an update to the 2009 [AICPA/CICA Generally Accepted Privacy Principles (GAPP)](/guidance/aicpa-cica-gapp.md).
 !!!
 
 ## Acronyms, Abbreviations, and Initialisms
