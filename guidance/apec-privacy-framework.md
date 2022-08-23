@@ -25,12 +25,12 @@ ensure the growth of electronic commerce and innovation must be cooperation to p
 
 ## Contents
 
-I. [Preamble](#part-i-preamble)
-II. [Scope](#part-ii-scope)
-III. [Information Privacy Principles](#part-iii-information-privacy-principles)
-IV. [Implementation](#part-iv-implementation)
+I. [Preamble](#i-preamble)
+II. [Scope](#ii-scope)
+III. [Information Privacy Principles](#iii-information-privacy-principles)
+IV. [Implementation](#iv-implementation)
 
-==- Part I: Preamble
+==- I: Preamble
 
 The Framework, which aims at promoting electronic commerce throughout the Asia-Pacific region, is consistent with the core values of the [OECD Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data("Privacy Guidelines"))](/guidance/oecd-privacy-guidelines.md), and reaffirms the value of privacy to individuals and to the information society.
 
@@ -44,7 +44,7 @@ The Framework was developed and updated in recognition of the importance of:
 - Encouraging organizations to be accountable for all personal information under their control; and
 - Promoting interoperability between the Framework, and its implementing measures such as the CPEA and CBPR system, and privacy arrangements in other regions.
 
-==- Part II: Scope
+==- II: Scope
 
 The purpose of Part II of the APEC Privacy Framework is to make clear the extent of coverage of the Principles.
 
@@ -52,7 +52,7 @@ The purpose of Part II of the APEC Privacy Framework is to make clear the extent
 Part II of the APEC Privacy Framework is essentially a list of definitions and applications for the Framework.
 !!!
 
-==- Part III: Information Privacy Principles
+==- III: Information Privacy Principles
 
 The Information Privacy Principles should be viewed and interpreted as a whole rather than looking at particular principles in isolation as there is a close interrelationship.
 
@@ -66,7 +66,7 @@ VII. Security Safeguards
 VIII. Access and Correction
 IX. Accountability
 
-==- Part IV: Implementation
+==- IV: Implementation
 
 Part IV provides guidance to member economies on implementing the APEC Privacy Framework.
 
