@@ -30,7 +30,7 @@ EL | Expression Language
 ELK | Elasticsearch, Logstash, Kibana
 FS | Forward Secrecy
 FTP | File Transfer Protocol
-GDPR | Global Data Protection Regulation
+GDPR | General Data Protection Regulation
 HQL | Hibernate Query Language
 HSTS | HTTP Strict Transport Security
 HTTP | Hypertext Transfer Protocol
@@ -344,7 +344,7 @@ You are likely vulnerable:
 - If you do not scan for vulnerabilities regularly and subscribe to security bulletins related to the components you use.
 - If you do not fix or upgrade the underlying platform, frameworks, and dependencies in a risk-based, timely fashion. This commonly happens in environments when patching is a monthly or quarterly task under change control, leaving organizations open to days or months of unnecessary exposure to fixed vulnerabilities.
 - If software developers do not test the compatibility of updated, upgraded, or patched libraries.
-- If you do not secure the components’ configurations (see [A05 Security Misconfiguration](#a05-security-misconfiguration)).
+- If you do not secure the components' configurations (see [A05 Security Misconfiguration](#a05-security-misconfiguration)).
 
 +++ Prevention
 

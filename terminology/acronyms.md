@@ -130,7 +130,7 @@ FT | [Fault Tolerance](/terminology/glossary/#fault-tolerance-ft)
 FTC | Federal Trade Commission
 FTP | File Transfer Protocol
 GAAP | [Generally Accepted Accounting Principles](/terminology/glossary/#generally-accepted-accounting-principles-gaap)
-GDPR | Global Data Protection Regulation
+GDPR | General Data Protection Regulation
 GLBA | Gramm-Leach-Bliley Act
 HA | [High Availability](/terminology/glossary/#high-availability-ha)
 HIPAA | Health Insurance Portability and Accountability Act
@@ -211,6 +211,7 @@ PDCA | Plan-Do-Check-Act
 PDPA | Personal Data Protection Act
 PFI | PCI Forensic Investigator
 PHI | Personal Health Information
+PI | Personal Information
 PII | Personally Identifiable Information
 PIPEDA | Personal Information Protection and Electronics Document Act
 PKCS | Public Key Cryptography Standards

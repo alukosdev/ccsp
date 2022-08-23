@@ -20,7 +20,7 @@ Name | Alternative Name | Category | Area of Impact { class="compact" }
 [FADP](/laws/fadp.md) | Data Protection Act | [Privacy Laws](/categories/privacy-laws/) | Switzerland
 [FERPA](/laws/ferpa.md) | Family Educational Rights and Privacy Act | [Privacy Laws](/categories/privacy-laws/) | United States
 [FISMA](/laws/fisma.md) | Federal Information Security Management Act | [Information Security Laws](/categories/information-security-laws/) | United States
-[GDPR](/laws/gdpr.md) | Global Data Protection Regulation | [Privacy Laws](/categories/privacy-laws/) | EU/EEA
+[GDPR](/laws/gdpr.md) | General Data Protection Regulation | [Privacy Laws](/categories/privacy-laws/) | EU/EEA
 [GLBA](/laws/glba.md) | Gramm-Leach-Bliley Act | [Privacy Laws](/categories/privacy-laws/) | United States
 [HIPAA](/laws/hipaa.md) | Health Insurance Portability and Accountability Act | [Privacy Laws](/categories/privacy-laws/) | United States
 [HITECH](/laws/hitech.md) | Health Information Technology for Economic and Clinical Health | | United States

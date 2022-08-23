@@ -532,7 +532,7 @@ A standard framework of guidelines for financial accounting.
 ==- Generally Accepted Privacy Principles (GAPP)
 ==- Geofence
 A geofence is a virtual perimeter for a real-world geographic area.
-==- Global Data Protection Regulation (GDPR)
+==- General Data Protection Regulation (GDPR)
 ==- Gramm-Leach-Bliley Act (GLBA)
 ==-
 
