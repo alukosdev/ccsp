@@ -265,7 +265,7 @@ SSO | Single Sign-On
 SSRF | Server-Side Request Forgery
 ST | Security Target
 STAR | Security, Trust, and Assurance Registry
-TADP | Trans-Atlantic Data Privacy Framework
+TADP | Trans-Atlantic Data Privacy
 TCI | Trusted Cloud Initiative
 TCSEC | Trusted Computer System Evaluation Criteria
 TLS | Transport Layer Security

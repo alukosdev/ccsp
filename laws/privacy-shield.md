@@ -7,7 +7,8 @@ visibility: hidden
 # Privacy Shield
 
 !!!warning
-The Privacy Shield's replacement, the [Trans-Atlantic Data Privacy Framework (TADP)](/laws/tadp.md), was announced on March 25, 2022.
+On March 25, 2022, the United States and the European Union (EU) announced a political agreement on a new [Trans-Atlantic Data Privacy (TADP)](/laws/tadp.md) Framework to safeguard 
+commercial cross-border data flows.
 !!!
 
 !!!danger
@@ -29,6 +30,7 @@ EU | European Union
 FADP | Federal Act on Data Protection
 FDPIC | Federal Data Protection and Information Commissioner
 ITA | International Trade Administration
+TADP | Trans-Atlantic Data Privacy
 U.S. | United States
 
 ## Overview
@@ -60,3 +62,4 @@ The Privacy Shield Principles comprise a set of seven commonly recognized privac
 - Privacy Shield Framework. (n.d.). *Privacy Shield Overview*. https://www.privacyshield.gov/Program-Overview
 - Privacy Shield Framework. (n.d.). *Requirements of Participation*. https://www.privacyshield.gov/article?id=Requirements-of-Participation
 - Federal Trade Commission / FTC. (n.d.). *U.S.-EU Safe Harbor Framework*. https://www.ftc.gov/business-guidance/privacy-security/us-eu-safe-harbor-framework
+- https://crsreports.congress.gov/product/pdf/IF/IF11613

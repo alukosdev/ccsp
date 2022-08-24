@@ -7,7 +7,7 @@ tags: [privacy, united states]
 # TADP
 
 !!!success
-The Trans-Atlantic Data Privacy Framework (TADP) replaced the [Privacy Shield](/laws/privacy-shield.md) on March 25, 2022.
+On March 25, 2022, the United States and the European Union (EU) announced a political agreement on a new Trans-Atlantic Data Privacy (TADP) Framework to safeguard commercial cross-border data flows.
 !!!
 
 ## Acronyms, Abbreviations, and Initialisms
@@ -15,7 +15,6 @@ The Trans-Atlantic Data Privacy Framework (TADP) replaced the [Privacy Shield](/
 Short Form | Full Form
 :--- | :---
 EU | European Union
-TADP | Trans-Atlantic Data Privacy Framework
-U.S. | United States
+TADP | Trans-Atlantic Data Privacy
 
 ## Overview
