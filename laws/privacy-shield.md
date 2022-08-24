@@ -17,7 +17,7 @@ On September 8, 2020 the Federal Data Protection and Information Commissioner (F
 !!!
 
 !!!success
-In May 2018, an update to the Data Directive took effect known as the "Privacy Regulation". The Privacy Regulation supersedes the Data Directive and ends the [Safe Harbor](/laws/safe-harbor.md) program, replacing it with a new program known as the EU-U.S. Privacy Shield.
+In May 2018, an update to the Data Directive took effect known as the "Privacy Regulation". The Privacy Regulation supersedes the Data Directive and ends the [Safe Harbor](/laws/safe-harbor.md) program, replacing it with a new program known as the Privacy Shield.
 !!!
 
 ## Acronyms, Abbreviations, and Initialisms
