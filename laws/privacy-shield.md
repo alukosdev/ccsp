@@ -11,9 +11,11 @@ This page has not yet been revised for 2022.
 # Privacy Shield
 
 !!!warning
-On July 16, 2020, the Court of Justice of the European Union issued a judgment declaring as “invalid” the European Commission’s Decision (EU) 2016/1250 of 12 July 2016 on the adequacy of the protection provided by the EU-U.S. Privacy Shield. As a result of that decision, the EU-U.S. Privacy Shield Framework is no longer a valid mechanism to comply with EU data protection requirements when transferring personal data from the European Union to the United States. That decision does not relieve participants in the EU-U.S. Privacy Shield of their obligations under the EU-U.S. Privacy Shield Framework.
+<span id="rev1"></span>On July 16, 2020, the Court of Justice of the European Union issued a judgment declaring as "invalid" the European Commission’s Decision (EU) 2016/1250 of 12 July 2016 on the adequacy of the protection provided by the EU-U.S. Privacy Shield. As a result of that decision, the EU-U.S. Privacy Shield Framework is no longer a valid mechanism to comply with EU data protection requirements when transferring personal data from the European Union to the United States. That decision does not relieve participants in the EU-U.S. Privacy Shield of their obligations under the EU-U.S. Privacy Shield Framework.[[1]](#ref1)
+!!!
 
-On March 25, 2022, the Privacy Shield's replacement, the Trans-Atlantic Data Privacy Framework, was finally announced.
+!!!
+On March 25, 2022, the Privacy Shield's replacement, the [Trans-Atlantic Data Privacy Framework](/laws/tadp.md), was finally announced.
 !!!
 
 ## Acronyms, Abbreviations, and Initialisms
@@ -47,3 +49,7 @@ The following principles are requirements for participation:
 - Recourse, Enforcement and Liability
 
 If American companies don't want to subscribe to Privacy Shield, they can create internal policies called "binding corporate rules" and "standard contractual clauses" that explicitly state full compliance with the Data Directive and Privacy Regulation.
+
+## References
+
+1. <span id="ref1"></span>[⌃](#rev1) Privacy Shield Framework. (n.d.). *Privacy Shield Program Overview*. https://www.privacyshield.gov/Program-Overview
