@@ -6,8 +6,8 @@ visibility: hidden
 
 # Privacy Shield
 
-!!!warning
-On March 25, 2022, the United States (U.S.) and the European Union (EU) announced a political agreement on a new [Trans-Atlantic Data Privacy (TADP)](/laws/tadp.md) Framework to safeguard commercial cross-border data flows.
+!!!success
+On July 12, 2016, the European Commission issued an adequacy decision on the EU-U.S. Privacy Shield Framework. This new Framework, which replaces the Safe Harbor program, provides a legal mechanism for companies to transfer personal data from the EU to the United States.
 !!!
 
 !!!danger
@@ -16,8 +16,8 @@ On July 16, 2020, the Court of Justice of the European Union issued a judgment d
 On September 8, 2020 the Federal Data Protection and Information Commissioner (FDPIC) of Switzerland issued an opinion concluding that the Swiss-U.S. Privacy Shield Framework does not provide an adequate level of protection for data transfers from Switzerland to the United States pursuant to Switzerland’s [Federal Act on Data Protection (FADP)](/laws/fadp.md).
 !!!
 
-!!!success
-On July 12, 2016, the European Commission issued an adequacy decision on the EU-U.S. Privacy Shield Framework. This new Framework, which replaces the Safe Harbor program, provides a legal mechanism for companies to transfer personal data from the EU to the United States.
+!!!warning
+On March 25, 2022, the United States (U.S.) and the European Union (EU) announced a political agreement on a new [Trans-Atlantic Data Privacy (TADP)](/laws/tadp.md) Framework to safeguard commercial cross-border data flows.
 !!!
 
 ## Acronyms, Abbreviations, and Initialisms
