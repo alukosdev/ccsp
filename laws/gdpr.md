@@ -21,7 +21,7 @@ SA | Supervisory Authority
 
 ## Overview
 
-The EU adopted the GDPR in 2016, which is binding on all EU member states, as well as members of the European Economic Area (EEA). GDPR is also directly binding on any corporation that processes the data of EU citizens.
+The EU adopted the GDPR in 2016, which is binding on all EU member states, as well as members of the European Economic Area (EEA). The GDPR is also directly binding on any corporation that processes the data of EU citizens.
 
 ## Principles
 

@@ -52,7 +52,7 @@ This tier is also referred to as STAR Self-Assessment.
 At level one organizations can submit one or both of the security and privacy self-assessments. For the security assessment, organizations use the Cloud Controls Matrix to evaluate and document their security Controls. The privacy assessment submissions are based on the GDPR Code of Conduct.
 
 1. Self-Assessment
-2. 2. GDPR Code of Conduct Self-Assessment
+2. GDPR Code of Conduct Self-Assessment
 
 #### STAR Level 1 Continuous
 

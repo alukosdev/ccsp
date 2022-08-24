@@ -78,4 +78,4 @@ Another key component and differentiator related to regulated PII is mandatory b
 
 Mandatory breach reporting requires both private and government entities to notify and inform individuals of any security breaches involving PII.
 
-Security breaches should be reported immediately to customers; however, 72 hours is defined in GDPR for informing the authorities.
+Security breaches should be reported immediately to customers; however, 72 hours is defined in the GDPR for informing the authorities.
