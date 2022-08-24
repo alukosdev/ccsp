@@ -11,7 +11,7 @@ On July 16, 2020, the Court of Justice of the European Union issued a judgment d
 
 On September 8, 2020 the Federal Data Protection and Information Commissioner (FDPIC) of Switzerland issued an opinion concluding that the Swiss-U.S. Privacy Shield Framework does not provide an adequate level of protection for data transfers from Switzerland to the United States pursuant to Switzerland’s [Federal Act on Data Protection (FADP)](/laws/fadp.md).
 
-On March 25, 2022, the U.S. and the EU announced a political agreement on a new [Trans-Atlantic Data Privacy (TADP)](/laws/tadp.md) Framework to safeguard commercial cross-border data flows.
+<span id="rev1"></span>On March 25, 2022, the U.S. and the EU announced a political agreement on a new [Trans-Atlantic Data Privacy (TADP)](/laws/tadp.md) Framework to safeguard commercial cross-border data flows.[[1]](#ref1)
 !!!
 
 ## Acronyms, Abbreviations, and Initialisms
@@ -34,7 +34,7 @@ The Privacy Shield program, which is administered by the International Trade Adm
 
 ## Principles
 
-The Privacy Shield Principles comprise a set of seven commonly recognized privacy principles combined with 16 equally binding supplemental principles, which explain and augment the first seven. Collectively, the 23 Privacy Shield Principles lay out a set of requirements governing participating organizations' use and treatment of personal data received from the EU under the Framework as well as the access and recourse mechanisms that participants must provide to individuals in the EU.
+<span id="rev2"></span>The Privacy Shield Principles comprise a set of seven commonly recognized privacy principles combined with 16 equally binding supplemental principles, which explain and augment the first seven. Collectively, the 23 Privacy Shield Principles lay out a set of requirements governing participating organizations' use and treatment of personal data received from the EU under the Framework as well as the access and recourse mechanisms that participants must provide to individuals in the EU.[[2]](#ref2)
 
 1. Notice
 2. Choice
@@ -52,9 +52,11 @@ The Privacy Shield Principles comprise a set of seven commonly recognized privac
 - [x] Joining the Privacy Shield is voluntary.
 - [x] Once an eligible organization makes the public commitment to comply with the Framework requirements, the commitment will become enforceable under U.S. law.
 
+## References
+
+1. <span id="ref1"></span>[⌃](#rev1) Congressional Research Service (CRS). (2022, June 2). *U.S.-EU Trans-Atlantic Data Privacy Framework*. https://crsreports.congress.gov/product/pdf/IF/IF11613#:~:text=In%20March%202022%2C%20the%20United,points%20in%20U.S.%2DEU%20relations.
+2. <span id="ref2"></span>[⌃](#rev2) Privacy Shield Framework. (n.d.). *Requirements of Participation*. https://www.privacyshield.gov/article?id=Requirements-of-Participation
+
 ## Sources
 
 - Privacy Shield Framework. (n.d.). *Privacy Shield Overview*. https://www.privacyshield.gov/Program-Overview
-- Privacy Shield Framework. (n.d.). *Requirements of Participation*. https://www.privacyshield.gov/article?id=Requirements-of-Participation
-- Federal Trade Commission / FTC. (n.d.). *U.S.-EU Safe Harbor Framework*. https://www.ftc.gov/business-guidance/privacy-security/us-eu-safe-harbor-framework
-- https://crsreports.congress.gov/product/pdf/IF/IF11613
