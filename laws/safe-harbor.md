@@ -10,7 +10,7 @@ This page has not yet been revised for 2022.
 
 # Safe Harbor
 
-!!!
+!!!danger
 In May 2018, an update to the Data Directive took effect known as the "Privacy Regulation". The Privacy Regulation supersedes the Data Directive and ends the Safe Harbor program, replacing it with a new program known as Privacy Shield.
 !!!
 
