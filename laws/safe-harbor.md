@@ -51,3 +51,5 @@ Organizations must also be subject to enforcement and dispute resolution proceed
 ## Noteworthy
 
 ## Sources
+
+- Federal Trade Commission / FTC. (n.d.). *U.S.-EU Safe Harbor Framework*. https://www.ftc.gov/business-guidance/privacy-security/us-eu-safe-harbor-framework
