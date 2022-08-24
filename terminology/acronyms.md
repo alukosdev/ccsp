@@ -160,7 +160,7 @@ IRT | Incident Response Team
 ISA | [Internal Security Assessor](/terminology/glossary/#internal-security-assessor-isa)
 ISM | Information Security Management
 ISO | Information Security Officer <br> International Organization for Standardization
-ISP | Information Security Plan
+ISP | Information Security Plan <br> Internet Service Provider
 IT | Information Technology
 ITAR | International Traffic in Arms Regulations
 ITIL | Information Technology Infrastructure Library (formerly)
