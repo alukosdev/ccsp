@@ -51,9 +51,9 @@ The Privacy Shield Principles comprise a set of seven commonly recognized privac
 
 ## Noteworthy
 
+- [x] The Privacy Shield Principles comprise a set of *seven* commonly recognized privacy principles.
 - [x] Joining the Privacy Shield is voluntary.
 - [x] Once an eligible organization makes the public commitment to comply with the Framework requirements, the commitment will become enforceable under U.S. law.
-- [x] The Privacy Shield Principles comprise a set of *seven* commonly recognized privacy principles.
 
 ## Sources
 
