@@ -42,6 +42,7 @@ PIPEDA could be considered Canada's version of the European Union (EU)'s General
 
 - [x] PIPEDA is a Canadian law.
 - [x] PIPEDA applies to *private sector* organizations.
+- [x] PIPEDA contains *10 fair information principles*.
 
 ## Sources
 
