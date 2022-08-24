@@ -34,3 +34,4 @@ Name | Alternative Name | Category | Area of Impact { class="compact" }
 ~~[Safe Harbor](/laws/safe-harbor.md)~~ | ~~International Safe Harbor Principles~~ | ~~[Privacy Laws](/categories/privacy-laws/)~~ | ~~United States~~
 [SCA](/laws/sca.md) | Stored Communications Act | [Privacy Laws](/categories/privacy-laws/) | United States
 [SOX](/laws/sox.md) | Sarbanes-Oxley Act | | United States
+[TADP](/laws/tadp.md) | Trans-Atlantic Data Privacy Framework | [Privacy Laws](/categories/privacy-laws/) | United States
