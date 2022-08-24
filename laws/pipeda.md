@@ -27,8 +27,6 @@ PIPEDA could be considered Canada's version of the European Union (EU)'s General
 
 ## Principles
 
-The principles are:
-
 1. Accountability
 2. Identifying Purposes
 3. Consent
