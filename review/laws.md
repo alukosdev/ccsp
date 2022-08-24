@@ -11,7 +11,7 @@ This is a new page. We need to determine whether it's relevant to keep around or
 Name | Alternative Name | Category | Area of Impact { class="compact" }
 :--- | :---
 [COPPA](/laws/coppa.md) | Children's Online Privacy Protection Act | [Privacy Laws](/categories/privacy-laws/) | United States
-[Data Localization Law](/laws/data-localization-law.md) | | [Privacy Laws](/categories/privacy-laws/) | Russia
+[Federal Law No. 242-FZ](/laws/data-localization-law.md) | Russian Data Localization Law | [Privacy Laws](/categories/privacy-laws/) | Russia
 [Directive 2002/58/EC](/laws/directive-2002-58-ec.md) | ePrivacy Directive | [Privacy Laws](/categories/privacy-laws/) | EU/EEA
 [Directive 95/46/EC](/laws/directive-95-46-ec.md) | EU Data Protection Directive of 1995 | [Privacy Laws](/categories/privacy-laws) | EU/EEA
 [DMCA](/laws/dmca.md) | Digital Millenium Copyright Act | [Copyright Laws](/categories/copyright-laws/) | United States
