@@ -1,27 +1,24 @@
 ---
 categories: [Laws, Privacy Laws, United States Laws]
-icon: stop
 tags: [privacy, united states]
 visibility: hidden
 ---
 
-!!!danger
-This page has not yet been revised for 2022.
-!!!
-
-# Safe Harbor
+# International Safe Harbor Privacy Principles
 
 !!!danger
-In May 2018, an update to the Data Directive took effect known as the "Privacy Regulation". The Privacy Regulation supersedes the Data Directive and ends the Safe Harbor program, replacing it with a new program known as Privacy Shield.
+In May 2018, an update to the Data Directive took effect known as the "Privacy Regulation". The Privacy Regulation supersedes the Data Directive and ends the Safe Harbor program, replacing it with a new program known as the [Privacy Shield](/laws/privacy-shield.md).
 !!!
 
 ## Acronyms, Abbreviations, and Initialisms
 
 Short Form | Full Form
 :--- | :---
-DoC | Department of Commerce
-DoT | Department of Transportation
+DOC | Department of Commerce
+DOT | Department of Transportation
+EU | European Union
 FTC | Federal Trade Commission
+U.S. | United States
 
 ## Overview
 
@@ -33,22 +30,18 @@ To allow some U.S.-based companies to operate legitimately inside the EU, the EU
 
 Any U.S. organization subject to the FTC's jurisdiction and some transportation organizations subject to the jurisdiction of the DoT can participate in the Safe Harbor program. Certain industries, such as telecommunication carriers, banks, and insurance companies, may not be eligible for this program.
 
-### Enforcement
-
-- For most companies, the Safe Harbor program was *administered* by the DoC.
-- For the specific industries of airlines and shipping companies, the program was *administered* by the DoT.
-- The *enforcement* arm of the DoC is the FTC.
-
-## Principles
-
-Under the Safe Harbor program, U.S. companies have been able to voluntarily adhere to a set of seven principles:
+## Privacy Principles
 
 - Notice
 - Choice
-- Transfers to third parties
-- Access
+- Onward Transfer
 - Security
-- Date integrity
+- Data Integrity
+- Access
 - Enforcement
 
 Organizations must also be subject to enforcement and dispute resolution proceedings.
+
+## Noteworthy
+
+## Sources

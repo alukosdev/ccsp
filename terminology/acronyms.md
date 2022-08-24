@@ -273,6 +273,7 @@ TSC | Trust Services Criteria
 TSP | Trust Services Principles
 TTP | Tactics, Techniques, and Procedures
 UC | [Underpinning Contract](/terminology/glossary/#underpinning-contract-uc)
+U.S. | United States
 U.S.C. | United States Code
 USG | United States Government
 USML | United States Munitions List
