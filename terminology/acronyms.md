@@ -119,6 +119,7 @@ EU | European Union
 FADP | Federal Act on Data Protection
 FAM | [File Activity Monitoring](/terminology/glossary/#file-activity-monitoring-fam)
 FDE | Full Disk Encryption
+FDPIC | Federal Data Protection and Information Commissioner
 FedRAMP | Federal Risk and Authorization Management Program
 FERPA | Family Educational Rights and Privacy Act
 FIM | Federated Identity Management
@@ -162,6 +163,7 @@ ISM | Information Security Management
 ISO | Information Security Officer <br> International Organization for Standardization
 ISP | Information Security Plan <br> Internet Service Provider
 IT | Information Technology
+ITA | International Trade Administration
 ITAR | International Traffic in Arms Regulations
 ITIL | Information Technology Infrastructure Library (formerly)
 ITSM | [Information Technology Service Management](/terminology/glossary/#information-technology-service-management-itsm)

@@ -1,55 +1,60 @@
 ---
 categories: [Laws, Privacy Laws, United States Laws]
-icon: stop
 tags: [privacy, united states]
+visibility: hidden
 ---
-
-!!!danger
-This page has not yet been revised for 2022.
-!!!
 
 # Privacy Shield
 
 !!!warning
-<span id="rev1"></span>On July 16, 2020, the Court of Justice of the European Union issued a judgment declaring as "invalid" the European Commission’s Decision (EU) 2016/1250 of 12 July 2016 on the adequacy of the protection provided by the EU-U.S. Privacy Shield. As a result of that decision, the EU-U.S. Privacy Shield Framework is no longer a valid mechanism to comply with EU data protection requirements when transferring personal data from the European Union to the United States. That decision does not relieve participants in the EU-U.S. Privacy Shield of their obligations under the EU-U.S. Privacy Shield Framework.[[1]](#ref1)
+The Privacy Shield's replacement, the [Trans-Atlantic Data Privacy Framework](/laws/tadp.md), was announced on March 25, 2022.
 !!!
 
+!!!danger
+On July 16, 2020, the Court of Justice of the European Union issued a judgment declaring as "invalid" the European Commission’s Decision (EU) 2016/1250 of 12 July 2016 on the adequacy of the protection provided by the EU-U.S. Privacy Shield. As a result of that decision, the EU-U.S. Privacy Shield Framework is no longer a valid mechanism to comply with EU data protection requirements when transferring personal data from the European Union to the United States.
+
+On September 8, 2020 the Federal Data Protection and Information Commissioner (FDPIC) of Switzerland issued an opinion concluding that the Swiss-U.S. Privacy Shield Framework does not provide an adequate level of protection for data transfers from Switzerland to the United States pursuant to Switzerland’s Federal Act on Data Protection (FADP).
 !!!
-On March 25, 2022, the Privacy Shield's replacement, the [Trans-Atlantic Data Privacy Framework](/laws/tadp.md), was finally announced.
+
+!!!success
+In May 2018, an update to the Data Directive took effect known as the "Privacy Regulation". The Privacy Regulation supersedes the Data Directive and ends the [Safe Harbor](/laws/safe-harbor.md) program, replacing it with a new program known as the EU-U.S. Privacy Shield.
 !!!
 
 ## Acronyms, Abbreviations, and Initialisms
 
 Short Form | Full Form
 :--- | :---
-DoC | Department of Commerce
-DoT | Department of Transportation
-FTC | Federal Trade Commission
+DOC | Department of Commerce
+EU | European Union
+FDPIC | Federal Data Protection and Information Commissioner
+ITA | International Trade Administration
+U.S. | United States
 
 ## Overview
 
-The EU-U.S. Privacy Shield is a framework for regulating transatlantic exchanges of personal data for commercial purposes between the EU and the U.S., with the goal of protecting EU citizens' personal information.
+The EU-U.S. and Swiss-U.S. Privacy Shield Frameworks were designed by the U.S. Department of Commerce (DOC), and the European Commission and Swiss Administration, respectively, to provide companies on both sides of the Atlantic with a mechanism to comply with data protection requirements when transferring personal data from the EU and Switzerland to the United States in support of transatlantic commerce.
 
-### Enforcement
-
-The DoC *manages* the Privacy Shield program in the United States.
-The program is *dministered* by the DoT and the FTC.
-The FTC is the U.S. *enforcement* arm for most Privacy Shield activity.
+The Privacy Shield program, which is administered by the International Trade Administration (ITA) within the U.S. DOC, enables U.S.-based organizations to join one or both of the Privacy Shield Frameworks. To join either Privacy Shield Framework, a U.S.-based organization will be required to self-certify to the Department and publicly commit to comply with the Framework requirements. While joining the Privacy Shield is voluntary, once an eligible organization makes the public commitment to comply with the Framework requirements, the commitment will become enforceable under U.S. law.
 
 ## Principles
 
-The following principles are requirements for participation:
+The Privacy Shield Principles comprise a set of seven commonly recognized privacy principles combined with 16 equally binding supplemental principles, which explain and augment the first seven. Collectively, the 23 Privacy Shield Principles lay out a set of requirements governing participating organizations' use and treatment of personal data received from the EU under the Framework as well as the access and recourse mechanisms that participants must provide to individuals in the EU.
 
-- Notice
-- Choice
-- Accountability for Onward Transfer
-- Security
-- Data Integrity and Purpose Limitation
-- Access
-- Recourse, Enforcement and Liability
+1. Notice
+2. Choice
+3. Accountability for Onward Transfer
+4. Security
+5. Data Integrity and Purpose Limitation
+6. Access
+7. Recourse, Enforcement and Liability
 
-If American companies don't want to subscribe to Privacy Shield, they can create internal policies called "binding corporate rules" and "standard contractual clauses" that explicitly state full compliance with the Data Directive and Privacy Regulation.
+## Noteworthy
 
-## References
+- [x] Joining the Privacy Shield is voluntary.
+- [x] Once an eligible organization makes the public commitment to comply with the Framework requirements, the commitment will become enforceable under U.S. law.
+- [x] The Privacy Shield Principles comprise a set of *seven* commonly recognized privacy principles.
 
-1. <span id="ref1"></span>[⌃](#rev1) Privacy Shield Framework. (n.d.). *Privacy Shield Program Overview*. https://www.privacyshield.gov/Program-Overview
+## Sources
+
+- Privacy Shield Framework. (n.d.). *Privacy Shield Overview*. https://www.privacyshield.gov/Program-Overview
+- Privacy Shield Framework. (n.d.). *Requirements of Participation*. https://www.privacyshield.gov/article?id=Requirements-of-Participation

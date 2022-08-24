@@ -30,7 +30,7 @@ Name | Alternative Name | Category | Area of Impact { class="compact" }
 [PDPA 25.326](/laws/pdpa-25.326.md) | Personal Data Protection Act | [Privacy Laws](/categories/privacy-laws/) | Argentina
 [PIPEDA](/laws/pipeda.md) | Personal Information Protection and Electronic Document Act | [Privacy Laws](/categories/privacy-laws/) | Canada
 [Privacy Act 1988](/laws/privacy-act-1988.md) | Australian Privacy Act | [Privacy Laws](/categories/privacy-laws/) | Australia
-~~[Privacy Shield](/laws/privacy-shield.md)~~ | ~~EU-U.S. Privacy Shield~~ | ~~[Privacy Laws](/categories/privacy-laws/)~~ | ~~United States~~
+~~[Privacy Shield](/laws/privacy-shield.md)~~ | ~~EU-U.S. Privacy Shield Framework, Swiss-U.S. Privacy Shield Framework~~ | ~~[Privacy Laws](/categories/privacy-laws/)~~ | ~~United States~~
 ~~[Safe Harbor](/laws/safe-harbor.md)~~ | ~~International Safe Harbor Principles~~ | ~~[Privacy Laws](/categories/privacy-laws/)~~ | ~~United States~~
 [SCA](/laws/sca.md) | Stored Communications Act | [Privacy Laws](/categories/privacy-laws/) | United States
 [SOX](/laws/sox.md) | Sarbanes-Oxley Act | | United States
