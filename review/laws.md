@@ -33,4 +33,4 @@ Name | Alternative Name | Category | Area of Impact { class="compact" }
 [Privacy Shield](/laws/privacy-shield.md) | EU-U.S. Privacy Shield Framework, Swiss-U.S. Privacy Shield Framework | [Privacy Laws](/categories/privacy-laws/) | United States
 [SCA](/laws/sca.md) | Stored Communications Act | [Privacy Laws](/categories/privacy-laws/) | United States
 [SOX](/laws/sox.md) | Sarbanes-Oxley Act | | United States
-[TADP](/laws/tadp.md) | Trans-Atlantic Data Privacy | [Privacy Laws](/categories/privacy-laws/) | United States
+[TADP Framework](/laws/tadp.md) | Trans-Atlantic Data Privacy Framework | [Privacy Laws](/categories/privacy-laws/) | United States
