@@ -13,8 +13,10 @@ tags: [privacy, united states]
 
 Short Form | Full Form
 :--- | :---
+BCR | Binding Corporate Rule
 DOC | Department of Commerce
 EU | European Union
+SCC | Standard Contractual Clause
 TADP | Trans-Atlantic Data Privacy
 U.S. | United States
 
@@ -29,9 +31,9 @@ EU officials hope that the new TADP Framework will be finalized and adopted by t
 Apart from the new framework, U.S. firms have limited options for cross-border data flows with the EU. They include:
 
 - Create Binding Corporate Rules (BCRs) that EU officials must approve on a firm-by-firm basis;
-- Implement updated EU-approved SCCs and reassess for adequate safeguards according to the CJEU ruling;
+- Implement updated EU-approved Standard Contractual Clauses (SCCs) and reassess for adequate safeguards according to the CJEU ruling;
 - Use commercial cloud services provided by large technology firms that use approved BCRs or updated SCCs (e.g., Microsoft, IBM);
-- Store EU citizens’ personal data only in the EU or other approved country, an idea advocated by some European DPAs and other stakeholders, but which others view as potential costly data localization trade barriers;
+- Store EU citizens' personal data only in the EU or other approved country, an idea advocated by some European DPAs and other stakeholders, but which others view as potential costly data localization trade barriers;
 - Obtain consent from individuals for every single transfer of personal data, a likely logistically challenging and costly option for most entities;
 - Exit or limit participation in the EU market.
 

@@ -34,6 +34,7 @@ ATASM | Architecture, Threats, Attack Surfaces, and Mitigations
 AUP | [Agreed-Upon Procedures](/terminology/glossary/#agreed-upon-procedures-aup)
 AV | Asset Value
 BC | [Business Continuity](/terminology/glossary/#business-continuity-bc)
+BCR | Binding Corporate Rule
 BCM | [Business Continuity Management](/terminology/glossary/#business-continuity-management-bcm)
 BCP | [Business Continuity Plan](/terminology/glossary/#business-continuity-plan-bcp)
 BIA | Business Impact Analysis
