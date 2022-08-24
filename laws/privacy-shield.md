@@ -13,7 +13,7 @@ The Privacy Shield's replacement, the [Trans-Atlantic Data Privacy Framework (TA
 !!!danger
 On July 16, 2020, the Court of Justice of the European Union issued a judgment declaring as "invalid" the European Commission’s Decision (EU) 2016/1250 of 12 July 2016 on the adequacy of the protection provided by the EU-U.S. Privacy Shield. As a result of that decision, the EU-U.S. Privacy Shield Framework is no longer a valid mechanism to comply with EU data protection requirements when transferring personal data from the European Union to the United States.
 
-On September 8, 2020 the Federal Data Protection and Information Commissioner (FDPIC) of Switzerland issued an opinion concluding that the Swiss-U.S. Privacy Shield Framework does not provide an adequate level of protection for data transfers from Switzerland to the United States pursuant to Switzerland’s Federal Act on Data Protection (FADP).
+On September 8, 2020 the Federal Data Protection and Information Commissioner (FDPIC) of Switzerland issued an opinion concluding that the Swiss-U.S. Privacy Shield Framework does not provide an adequate level of protection for data transfers from Switzerland to the United States pursuant to Switzerland’s [Federal Act on Data Protection (FADP)](/laws/fadp.md).
 !!!
 
 !!!success
@@ -26,6 +26,7 @@ Short Form | Full Form
 :--- | :---
 DOC | Department of Commerce
 EU | European Union
+FADP | Federal Act on Data Protection
 FDPIC | Federal Data Protection and Information Commissioner
 ITA | International Trade Administration
 U.S. | United States
