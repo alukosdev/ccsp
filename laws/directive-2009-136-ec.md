@@ -11,7 +11,7 @@ Not revised.
 # Directive 2009/136/EC
 
 !!!success
-Directive 2009/136/EC amended the former [Directive 2002/58/EC](/laws/directive-2002-58-ec.md).
+Directive 2009/136/EC amended [Directive 2002/58/EC](/laws/directive-2002-58-ec.md) on November 25, 2009.
 !!!
 
 Is this part of EEA?

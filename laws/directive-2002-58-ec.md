@@ -7,7 +7,7 @@ visibility: hidden
 # Directive 2002/58/EC
 
 !!!warning
-Directive 2002/58/EC has been amended by [Directive 2009/136/EC](/laws/directive-2009-136-ec.md).
+Directive 2002/58/EC was amended by [Directive 2009/136/EC](/laws/directive-2009-136-ec.md) on November 25, 2009.
 !!!
 
 ## Overview
