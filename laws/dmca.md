@@ -28,4 +28,4 @@ U.S. | United States
 
 ## References
 
-1. <span id="ref1"></span>[⌃](#rev1) U.S. Copyright Office. (n.d.). *The Digital Millenium Copyright Act*. https://www.copyright.gov/dmca/
+1. <span id="ref1"></span>[⌃](#rev1) U.S. Copyright Office. (n.d.). *The Digital Millenium Copyright Act*. [https://www.copyright.gov/dmca](https://www.copyright.gov/dmca :icon-link-external:)
