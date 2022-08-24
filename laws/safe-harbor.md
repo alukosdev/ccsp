@@ -2,6 +2,7 @@
 categories: [Laws, Privacy Laws, United States Laws]
 icon: stop
 tags: [privacy, united states]
+visibility: hidden
 ---
 
 !!!danger

@@ -35,7 +35,7 @@ The SCA contains 13 sections:
 
 ## Noteworthy
 
-- [x] The SCA addresses "stored wire and electronic communications and transactional records."
+- [x] The SCA addresses voluntary and compelled disclosure of "stored wire and electronic communications and transactional records."
 
 ## References
  

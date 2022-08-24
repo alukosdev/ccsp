@@ -1,6 +1,7 @@
 ---
 categories: [Laws, Privacy Laws, EU/EEA Laws]
 tags: [eea, eu, privacy]
+visibility: hidden
 ---
 
 # Directive 2002/58/EC

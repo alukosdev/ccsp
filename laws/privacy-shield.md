@@ -8,7 +8,13 @@ tags: [privacy, united states]
 This page has not yet been revised for 2022.
 !!!
 
-# Privacy Shield
+# ~~Privacy Shield~~
+
+!!!warning
+On July 16, 2020, the Court of Justice of the European Union issued a judgment declaring as “invalid” the European Commission’s Decision (EU) 2016/1250 of 12 July 2016 on the adequacy of the protection provided by the EU-U.S. Privacy Shield. As a result of that decision, the EU-U.S. Privacy Shield Framework is no longer a valid mechanism to comply with EU data protection requirements when transferring personal data from the European Union to the United States. That decision does not relieve participants in the EU-U.S. Privacy Shield of their obligations under the EU-U.S. Privacy Shield Framework.
+
+On March 25, 2022, the Privacy Shield's replacement, the Trans-Atlantic Data Privacy Framework, was finally announced.
+!!!
 
 ## Acronyms, Abbreviations, and Initialisms
 
