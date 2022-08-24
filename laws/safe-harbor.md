@@ -23,7 +23,7 @@ U.S. | United States
 
 ## Overview
 
-To allow some U.S.-based companies to operate legitimately inside the EU, the EU Data Directive included a set of safe harbor privacy rules designed to outline what American companies must do in order to comply with EU laws. These rules outlined the proper handling of storage and transmission of private information belonging to EU citizens.
+To allow some U.S.-based companies to operate legitimately inside the European Union (EU), the EU Data Directive included a set of safe harbor privacy rules designed to outline what American companies must do in order to comply with EU laws. These rules outlined the proper handling of storage and transmission of private information belonging to EU citizens.
 
 - Must voluntarily agree to comply with the Data Directive.
 - Must sign up with a federal enforcement entity in the United States that would administer the program.
