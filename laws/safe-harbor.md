@@ -1,5 +1,6 @@
 ---
 categories: [Laws, Privacy Laws, United States Laws]
+label: Safe Harbor
 tags: [privacy, united states]
 visibility: hidden
 ---
