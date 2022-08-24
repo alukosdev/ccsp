@@ -6,6 +6,10 @@ tags: [privacy, united states]
 visibility: hidden
 ---
 
+!!!danger
+Is this even a law?
+!!!
+
 # International Safe Harbor Privacy Principles
 
 !!!danger
