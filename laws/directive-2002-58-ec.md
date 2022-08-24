@@ -3,11 +3,11 @@ categories: [Laws, Privacy Laws, EU/EEA Laws]
 tags: [eea, eu, privacy]
 ---
 
+# Directive 2002/58/EC
+
 !!!warning
 Directive 2002/58/EC has been amended by Directive 2009/136.
 !!!
-
-# Directive 2002/58/EC
 
 ## Overview
 
