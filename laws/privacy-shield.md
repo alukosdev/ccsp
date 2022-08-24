@@ -7,7 +7,7 @@ visibility: hidden
 # Privacy Shield
 
 !!!warning
-The Privacy Shield's replacement, the [Trans-Atlantic Data Privacy Framework](/laws/tadp.md), was announced on March 25, 2022.
+The Privacy Shield's replacement, the [Trans-Atlantic Data Privacy Framework (TADP)](/laws/tadp.md), was announced on March 25, 2022.
 !!!
 
 !!!danger
