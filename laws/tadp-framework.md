@@ -6,7 +6,7 @@ tags: [privacy, united states]
 # TADP Framework
 
 !!!success
-<span id="rev1"></span>On March 25, 2022, the United States (U.S.) and the European Union (EU) announced a political agreement on a new Trans-Atlantic Data Privacy (TADP) Framework to safeguard commercial cross-border data flows.[[1]](#ref1)
+On March 25, 2022, the United States (U.S.) and the European Union (EU) announced a political agreement on a new Trans-Atlantic Data Privacy (TADP) Framework to safeguard commercial cross-border data flows.
 !!!
 
 ## Acronyms, Abbreviations, and Initialisms
@@ -43,10 +43,6 @@ Apart from the new framework, U.S. firms have limited options for cross-border d
 - [x] The TADP Framework will require participating companies and organizations to adhere to the Privacy Shield Principles.
 - [x] Participation in the TADP Framework will be voluntary.
 - [x] Once an eligible organization makes the public commitment to comply with the Framework requirements, the commitment will become enforceable under U.S. law.
-
-## References
-
-1. <span id="ref1"></span>[⌃](#rev1) Congressional Research Service (CRS). (2022, June 2). *U.S.-EU Trans-Atlantic Data Privacy Framework*. https://crsreports.congress.gov/product/pdf/IF/IF11613#:~:text=In%20March%202022%2C%20the%20United,points%20in%20U.S.%2DEU%20relations
 
 ## Sources
 
