@@ -27,7 +27,7 @@ Name | Alternative Name | Category | Area of Impact { class="compact" }
 [ITAR](/laws/itar.md) | International Traffic in Arms Regulations | [Export Control Laws](/categories/privacy-laws/) | United States
 [NIS Directive](/laws/nis-directive.md) | Network and Information Security Directive | [Privacy Laws](/categories/privacy-laws/) | EU/EEA
 [PDPA 25.326](/laws/pdpa-25.326.md) | Personal Data Protection Act | [Privacy Laws](/categories/privacy-laws/) | Argentina
-[PIPEDA](/laws/pipeda.md) | Personal Information Protection and Electronics Document Act | [Privacy Laws](/categories/privacy-laws/) | Canada
+[PIPEDA](/laws/pipeda.md) | Personal Information Protection and Electronic Document Act | [Privacy Laws](/categories/privacy-laws/) | Canada
 [Privacy Act 1988](/laws/privacy-act-1988.md) | Australian Privacy Act | [Privacy Laws](/categories/privacy-laws/) | Australia
 [Privacy Shield](/laws/privacy-shield.md) | EU-U.S. Privacy Shield | [Privacy Laws](/categories/privacy-laws/) | United States
 ~~[Safe Harbor](/laws/safe-harbor.md)~~ | | ~~[Privacy Laws](/categories/privacy-laws/)~~ | ~~United States~~
