@@ -58,6 +58,7 @@ CI/CD | Continuous Integration and Continuous Delivery
 CIP | [Critical Infrastructure Plan](/terminology/glossary/#critical-infrastructure-plan-cip)
 CIS | Center for Internet Security
 CISA | Cybersecurity and Infrastructure Security Agency
+CJEU | Court of Justice of the European Union
 CMM | [Capability Maturity Model](/terminology/glossary/#capability-maturity-model-cmm)
 CMVP | Cryptographic Module Validation Program
 COBIT | Control Objectives for Information and Related Technologies
@@ -243,6 +244,7 @@ SAST | Static Application Security Testing
 SBI | Southbound Interface
 SBU | Sensitive But Unclassified
 SCA | [Source Code Analysis](/terminology/glossary/#source-code-analysis-sca) <br> Stored Communication Act
+SCC | Standard Contractual Clause
 SCIM | [System for Cross-domain Identity Management](/terminology/glossary/#system-for-cross-domain-identity-management-scim)
 SDLC | Software Development Lifecycle
 SDN | Software-Defined Networking

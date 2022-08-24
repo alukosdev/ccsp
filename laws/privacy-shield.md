@@ -1,28 +1,31 @@
 ---
 categories: [Laws, Privacy Laws, United States Laws]
 tags: [privacy, united states]
-visibility: hidden
 ---
 
 # Privacy Shield
 
 !!!danger
-On July 16, 2020, the Court of Justice of the European Union issued a judgment declaring as "invalid" the European Commission's Decision (EU) 2016/1250 of 12 July 2016 on the adequacy of the protection provided by the EU-U.S. Privacy Shield. As a result of that decision, the EU-U.S. Privacy Shield Framework is no longer a valid mechanism to comply with EU data protection requirements when transferring personal data from the European Union (EU) to the United States (U.S.).
+On July 16, 2020, the Court of Justice of the European Union (CJEU) issued a judgment declaring as "invalid" the European Commission's Decision (EU) 2016/1250 of 12 July 2016 on the adequacy of the protection provided by the EU-U.S. Privacy Shield. As a result of that decision, the EU-U.S. Privacy Shield Framework is no longer a valid mechanism to comply with EU data protection requirements when transferring personal data from the European Union (EU) to the United States (U.S.).
 
 On September 8, 2020 the Federal Data Protection and Information Commissioner (FDPIC) of Switzerland issued an opinion concluding that the Swiss-U.S. Privacy Shield Framework does not provide an adequate level of protection for data transfers from Switzerland to the United States pursuant to Switzerland’s [Federal Act on Data Protection (FADP)](/laws/fadp.md).
 
-<span id="rev1"></span>On March 25, 2022, the U.S. and the EU announced a political agreement on a new [Trans-Atlantic Data Privacy (TADP)](/laws/tadp.md) Framework to safeguard commercial cross-border data flows.[[1]](#ref1)
+<span id="rev1"></span>The CJEU found that Privacy Shield failed to meet EU data protection standards given the breadth of U.S. data collection powers authorized in U.S. electronic surveillance laws and the lack of redress options for EU citizens. The CJEU ruling also increased due diligence requirements for data exporters using another EU mechanism—standard contractual clauses (SCCs)—to transfer personal data to the United States.
+
+On March 25, 2022, the U.S. and the EU announced a political agreement on a new [Trans-Atlantic Data Privacy (TADP)](/laws/tadp.md) Framework to safeguard commercial cross-border data flows.[[1]](#ref1)
 !!!
 
 ## Acronyms, Abbreviations, and Initialisms
 
 Short Form | Full Form
 :--- | :---
+CJEU | Court of Justice of the European Union
 DOC | Department of Commerce
 EU | European Union
 FADP | Federal Act on Data Protection
 FDPIC | Federal Data Protection and Information Commissioner
 ITA | International Trade Administration
+SCC | Standard Contractual Clause
 TADP | Trans-Atlantic Data Privacy
 U.S. | United States
 
