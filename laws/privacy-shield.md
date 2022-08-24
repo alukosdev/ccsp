@@ -17,7 +17,7 @@ On September 8, 2020 the Federal Data Protection and Information Commissioner (F
 !!!
 
 !!!success
-In May 2018, an update to the Data Directive took effect known as the "Privacy Regulation". The Privacy Regulation supersedes the Data Directive and ends the [Safe Harbor](/laws/safe-harbor.md) program, replacing it with a new program known as the Privacy Shield.
+On July 12, 2016, the European Commission issued an adequacy decision on the EU-U.S. Privacy Shield Framework. This new Framework, which replaces the [Safe Harbor](/laws/safe-harbor.md) program, provides a legal mechanism for companies to transfer personal data from the EU to the United States.
 !!!
 
 ## Acronyms, Abbreviations, and Initialisms
@@ -59,3 +59,4 @@ The Privacy Shield Principles comprise a set of seven commonly recognized privac
 
 - Privacy Shield Framework. (n.d.). *Privacy Shield Overview*. https://www.privacyshield.gov/Program-Overview
 - Privacy Shield Framework. (n.d.). *Requirements of Participation*. https://www.privacyshield.gov/article?id=Requirements-of-Participation
+- Federal Trade Commission / FTC. (n.d.). *U.S.-EU Safe Harbor Framework*. https://www.ftc.gov/business-guidance/privacy-security/us-eu-safe-harbor-framework

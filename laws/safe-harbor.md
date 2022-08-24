@@ -9,7 +9,11 @@ visibility: hidden
 # International Safe Harbor Privacy Principles
 
 !!!warning
-In May 2018, an update to the Data Directive took effect known as the "Privacy Regulation". The Privacy Regulation supersedes the Data Directive and ends the Safe Harbor program, replacing it with a new program known as the [Privacy Shield](/laws/privacy-shield.md).
+On July 12, 2016, the European Commission issued an adequacy decision on the [EU-U.S. Privacy Shield Framework](/laws/privacy-shield.md). This new Framework, which replaces the [Safe Harbor](/laws/safe-harbor.md) program, provides a legal mechanism for companies to transfer personal data from the EU to the United States.
+!!!
+
+!!!danger
+On October 6, 2015, the European Court of Justice issued a judgment declaring invalid the European Commission’s July 26, 2000 decision on the legal adequacy of the U.S.-EU Safe Harbor Framework.
 !!!
 
 ## Acronyms, Abbreviations, and Initialisms
