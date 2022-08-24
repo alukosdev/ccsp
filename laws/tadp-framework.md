@@ -24,7 +24,7 @@ U.S. | United States
 
 Despite U.S. assurances, many in the EU have remained uneasy about U.S. intelligence and surveillance laws and possible U.S. government access to EU citizens' personal data. The new framework would increase safeguards and limits on U.S. signals intelligence activities, establish a new redress mechanism with independent and binding authority (the Data Protection Review Court), and add oversight procedures for signals intelligence activities.
 
-Participating companies and organizations that take advantage of the TADP Framework to protect data flows would continue to be required to adhere to the [:icon-law: Privacy Shield Principles](/laws/privacy-shield/#principles) and to self-certify through the U.S. Department of Commerce (DOC).
+Participating companies and organizations that take advantage of the TADP Framework to protect data flows would continue to be required to adhere to the [Privacy Shield Principles](/laws/privacy-shield/#principles) and to self-certify through the U.S. Department of Commerce (DOC).
 
 EU officials hope that the new TADP Framework will be finalized and adopted by the end of 2022.
 
