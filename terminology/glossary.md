@@ -761,7 +761,7 @@ The expression of an identity with attributes that indicates context. For exampl
 Any information relating to an identified or identifiable natural personal data subject; an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his or her physical, physiological, mental, economic, cultural, or social identity.
 ==- Personal Data Protection Act (PDPA)
 ==- Personal Health Information (PHI)
-==- Personal Information Protection and Electronics Document Act (PIPEDA)
+==- Personal Information Protection and Electronic Documents Act (PIPEDA)
 ==- Plan-Do-Check-Act (PDCA)
 ==- Platform-as-a-Service (PaaS)
 ==- Plenum

@@ -213,7 +213,7 @@ PFI | PCI Forensic Investigator
 PHI | Personal Health Information
 PI | Personal Information
 PII | Personally Identifiable Information
-PIPEDA | Personal Information Protection and Electronics Document Act
+PIPEDA | Personal Information Protection and Electronic Documents Act
 PKCS | Public Key Cryptography Standards
 PLA | Privacy-Level Agreement
 PMF | Privacy Management Framework
