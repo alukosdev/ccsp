@@ -1,10 +1,9 @@
 ---
 categories: [Laws, Privacy Laws, United States Laws]
-icon: stop
 tags: [privacy, united states]
 ---
 
-# TADP
+# TADP Framework
 
 !!!success
 <span id="rev1"></span>On March 25, 2022, the United States (U.S.) and the European Union (EU) announced a political agreement on a new Trans-Atlantic Data Privacy (TADP) Framework to safeguard commercial cross-border data flows.[[1]](#ref1)
@@ -21,9 +20,11 @@ U.S. | United States
 
 ## Overview
 
+Despite U.S. assurances, many in the EU have remained uneasy about U.S. intelligence and surveillance laws and possible U.S. government access to EU citizens' personal data. The new framework would increase safeguards and limits on U.S. signals intelligence activities, establish a new redress mechanism with independent and binding authority (the Data Protection Review Court), and add oversight procedures for signals intelligence activities.
+
 Participating companies and organizations that take advantage of the TADP Framework to protect data flows would continue to be required to adhere to the [Privacy Shield Principles](/laws/privacy-shield/#principles) and to self-certify through the U.S. Department of Commerce (DOC).
 
-The new framework would increase safeguards and limits on U.S. signals intelligence activities, establish a new redress mechanism with independent and binding authority (the Data Protection Review Court), and add oversight procedures for signals intelligence activities.
+EU officials hope that the new TADP Framework will be finalized and adopted by the end of 2022.
 
 Apart from the new framework, U.S. firms have limited options for cross-border data flows with the EU. They include:
 
@@ -32,10 +33,19 @@ Apart from the new framework, U.S. firms have limited options for cross-border d
 - Use commercial cloud services provided by large technology firms that use approved BCRs or updated SCCs (e.g., Microsoft, IBM);
 - Store EU citizens’ personal data only in the EU or other approved country, an idea advocated by some European DPAs and other stakeholders, but which others view as potential costly data localization trade barriers;
 - Obtain consent from individuals for every single transfer of personal data, a likely logistically challenging and costly option for most entities;
-- Exit or limit participation in the EU market
+- Exit or limit participation in the EU market.
 
-EU officials hope that the new TADP Framework will be finalized and adopted by the end of 2022.
+## Noteworthy
+
+- [x] The TADP Framework is likely to be the successor to the Privacy Shield.
+- [x] The TADP Framework will require participating companies and organizations to adhere to the Privacy Shield Principles.
+- [x] Participation in the TADP Framework will be voluntary.
+- [x] Once an eligible organization makes the public commitment to comply with the Framework requirements, the commitment will become enforceable under U.S. law.
 
 ## References
 
 1. <span id="ref1"></span>[⌃](#rev1) Congressional Research Service (CRS). (2022, June 2). *U.S.-EU Trans-Atlantic Data Privacy Framework*. https://crsreports.congress.gov/product/pdf/IF/IF11613#:~:text=In%20March%202022%2C%20the%20United,points%20in%20U.S.%2DEU%20relations
+
+## Sources
+
+- Congressional Research Service (CRS). (2022, June 2). *U.S.-EU Trans-Atlantic Data Privacy Framework*. https://crsreports.congress.gov/product/pdf/IF/IF11613#:~:text=In%20March%202022%2C%20the%20United,points%20in%20U.S.%2DEU%20relations

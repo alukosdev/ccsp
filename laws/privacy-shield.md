@@ -12,7 +12,7 @@ On September 8, 2020 the Federal Data Protection and Information Commissioner (F
 
 <span id="rev1"></span>The CJEU found that Privacy Shield failed to meet EU data protection standards given the breadth of U.S. data collection powers authorized in U.S. electronic surveillance laws and the lack of redress options for EU citizens. The CJEU ruling also increased due diligence requirements for data exporters using another EU mechanism—standard contractual clauses (SCCs)—to transfer personal data to the United States.
 
-On March 25, 2022, the U.S. and the EU announced a political agreement on a new [Trans-Atlantic Data Privacy (TADP)](/laws/tadp.md) Framework to safeguard commercial cross-border data flows.[[1]](#ref1)
+On March 25, 2022, the U.S. and the EU announced a political agreement on a new [Trans-Atlantic Data Privacy (TADP)](/laws/tadp-framework.md) Framework to safeguard commercial cross-border data flows.[[1]](#ref1)
 !!!
 
 ## Acronyms, Abbreviations, and Initialisms
@@ -52,7 +52,7 @@ The Privacy Shield program, which is administered by the International Trade Adm
 - [x] The Privacy Shield was replaced by the TADP.
 - [x] The Privacy Shield replaced the Safe Harbor program.
 - [x] The Privacy Shield Principles comprise a set of *seven* commonly recognized privacy principles.
-- [x] Joining the Privacy Shield is voluntary.
+- [x] Participation in the Privacy Shield is voluntary.
 - [x] Once an eligible organization makes the public commitment to comply with the Framework requirements, the commitment will become enforceable under U.S. law.
 
 ## References
