@@ -34,19 +34,19 @@ A breach of an APP is an "interference with the privacy of an individual" and ca
 
 <span id="rev3"></span>The 13 APPs include:[[3]](#ref3)
 
-- APP 1 Open and transparent management of personal information
-- APP 2 Anonymity and pseudonymity
-- APP 3 Collection of solicited personal information
-- APP 4 Dealing with unsolicited personal information
-- APP 5 Notification of the collection of personal information
-- APP 6 Use or disclosure of personal information
-- APP 7 Direct marketing
-- APP 8 Cross-border disclosure of personal information
-- APP 9 Adoption, use or disclosure of government related identifiers
-- APP 10 Quality of personal information
-- APP 11 Security of personal information
-- APP 12 Access to personal information
-- APP 13 Correction of personal information
+- APP 1 [Open and transparent management of personal information](#app-1-open-and-transparent-management-of-personal-information)
+- APP 2 [Anonymity and pseudonymity](#app-2-anonymity-and-pseudonymity)
+- APP 3 [Collection of solicited personal information](#app-3-collection-of-solicited-personal-information)
+- APP 4 [Dealing with unsolicited personal information](#app-4-dealing-with-unsolicited-personal-information)
+- APP 5 [Notification of the collection of personal information](#app-5-notification-of-the-collection-of-personal-information)
+- APP 6 [Use or disclosure of personal information](#app-6-use-or-disclosure-of-personal-information)
+- APP 7 [Direct marketing](#app-7-direct-marketing)
+- APP 8 [Cross-border disclosure of personal information](#app-8-cross-border-disclosure-of-personal-information)
+- APP 9 [Adoption, use or disclosure of government related identifiers](#app-9-adoption-use-or-disclosure-of-government-related-identifiers)
+- APP 10 [Quality of personal information](#app-10-quality-of-personal-information)
+- APP 11 [Security of personal information](#app-11-security-of-personal-information)
+- APP 12 [Access to personal information](#app-12-access-to-personal-information)
+- APP 13 [Correction of personal information](#app-13-correction-of-personal-information)
 
 ==- APP 1 Open and transparent management of personal information
 	
