@@ -193,7 +193,6 @@ NERC | North American Electric Reliability Corporation
 NFPA | National Fire Protection Association
 NIS | Network and Information Security
 NIST | National Institute of Standards and Technology
-NPP | National Privacy Principles
 NVD | National Vulnerability Database
 NVLAP | National Voluntary Laboratory Accreditation Program
 OCR | Office for Civil Rights
