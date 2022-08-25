@@ -6,6 +6,8 @@ icon: alert
 This is a new page which is currently under revision.
 !!!
 
+[Link test :icon-link-external:](https://linktest.com)
+
 # Laws
 
 Name | Alternative Name | Category | Area of Impact { class="compact" }
@@ -27,7 +29,7 @@ Name | Alternative Name | Category | Area of Impact { class="compact" }
 [HITECH](/laws/hitech.md) | Health Information Technology for Economic and Clinical Health | | United States
 [ITAR](/laws/itar.md) | International Traffic in Arms Regulations | [Export Control Laws](/categories/privacy-laws/) | United States
 [NIS Directive](/laws/nis-directive.md) | Network and Information Security Directive | [Privacy Laws](/categories/privacy-laws/) | EU/EEA
-[PDPA 25.326](/laws/pdpa-25.326.md) | Personal Data Protection Act | [Privacy Laws](/categories/privacy-laws/) | Argentina
+[PDPA](/laws/pdpa.md) | Personal Data Protection Act 25.326 | [Privacy Laws](/categories/privacy-laws/) | Argentina
 [PIPEDA](/laws/pipeda.md) | Personal Information Protection and Electronic Document Act | [Privacy Laws](/categories/privacy-laws/) | Canada
 [Privacy Act 1988](/laws/privacy-act-1988.md) | Australian Privacy Act | [Privacy Laws](/categories/privacy-laws/) | Australia
 [Privacy Shield](/laws/privacy-shield.md) | EU-U.S. Privacy Shield Framework, Swiss-U.S. Privacy Shield Framework | [Privacy Laws](/categories/privacy-laws/) | United States
