@@ -6,8 +6,6 @@ icon: alert
 This is a new page which is currently under revision.
 !!!
 
-[Link test :icon-link-external-16:](https://linktest.com)
-
 # Laws
 
 Name | Alternative Name | Category | Area of Impact { class="compact" }
