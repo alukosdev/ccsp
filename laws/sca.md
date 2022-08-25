@@ -15,7 +15,7 @@ U.S.C. | United States Code
 
 ## Overview
 
-<span id="rev1"></span>The Stored Communication Act (SCA, codified at 18 U.S.C. Chapter 121 §§ 2701–2713)[[1]](#ref1) is a law that addresses voluntary and compelled disclosure of "stored wire and electronic communications and transactional records" held by third-party internet service providers (ISPs). It further provides for privacy protection regarding certain electronic communications and computing services from unauthorized access or interception by government entities.
+<span id="rev1"></span>The Stored Communication Act (SCA, 18 U.S.C. Chapter 121 §§ 2701–2713)[[1]](#ref1) is a law that addresses voluntary and compelled disclosure of "stored wire and electronic communications and transactional records" held by third-party internet service providers (ISPs). It further provides for privacy protection regarding certain electronic communications and computing services from unauthorized access or interception by government entities.
 
 The SCA contains 13 sections:
 
