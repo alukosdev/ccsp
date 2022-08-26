@@ -6,6 +6,10 @@ icon: stop
 This page is currently under reconstruction.
 !!!
 
+!!!danger
+This page currently has a bug with the table of contents (on the right side of the page). This issue has been acknowledged and a fix is in progress. If you experience this issue on *any other pages*, simply refresh and it should disappear.
+!!!
+
 # Glossary
 
 ## A
