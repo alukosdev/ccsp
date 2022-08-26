@@ -113,7 +113,7 @@ EFS | Encrypting File System
 EFTA | European Free Trade Association
 EL | Expression Language
 ELK | Elasticsearch, Logstash, Kibana
-EHR | Electronic Health Records
+EHR | Electronic Health Record
 ENISA | European Union Agency for Cybersecurity
 ERM | [Enterprise Risk Management](/terminology/glossary/#enterprise-risk-management-erm)
 ESI | Electronically Stored Information

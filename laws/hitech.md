@@ -1,12 +1,7 @@
 ---
 categories: [Laws, United States Laws]
-icon: stop
 privacy: [united states]
 ---
-
-!!!danger
-This page has not yet been revised for 2022.
-!!!
 
 # HITECH
 
@@ -14,9 +9,16 @@ This page has not yet been revised for 2022.
 
 Short Form | Full Form
 :--- | :---
-EHR | Electronic Health Records
+ARRA | American Recovery and Reinvestment Act
+EHR | Electronic Health Record
 HITECH | Health Information Technology for Economic and Clinical Health
 
 ## Overview
 
-The HITECH Act is a legislation that was created to stimulate the adoption of EHR and the supporting technology in the United States.
+The Health Information Technology for Economic and Clinical Health Act (HITECH) is part of the American Recovery and Reinvestment Act (ARRA) of 2009 and creates incentives related to health care information technology, including incentives for the use of electronic health record (EHR) systems among providers.
+
+Because HITECH legislation results in an expansion in the exchange of electronic protected health information (ePHI), it also widens the scope of privacy and security protections under the Health Insurance Portability and Accountability Act (HIPAA), including increasing legal liability for non-compliance and more enforcement actions.
+
+## Sources
+
+https://www.hhs.gov/hipaa/for-professionals/special-topics/hitech-act-enforcement-interim-final-rule/index.html
