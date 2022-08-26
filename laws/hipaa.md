@@ -16,7 +16,7 @@ Short Form | Full Form
 :--- | :---
 DHHS | Department of Health and Human Services
 HIPAA | Health Insurance Portability and Accountability Act
-PHI | Personal Health Information
+PHI | Protected Health Information
 OCR | Office for Civil Rights
 
 ## Overview

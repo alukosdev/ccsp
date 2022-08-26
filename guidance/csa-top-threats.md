@@ -20,7 +20,7 @@ CSP | Cloud Service Provider
 IaC | Infrastructure as Cloud
 IAM | Identity and Access Management
 IP | Intellectual Property
-PHI | Personal Health Information
+PHI | Protected Health Information
 PII | Personally Identifiable Information
 SaaS | Software-as-a-Service
 TTP | Tactics, Techniques, and Procedures
@@ -134,7 +134,7 @@ Advanced persistent threats (APTs) is a broad term used to describe an attack ca
 ==- Security Issue 11: Cloud Storage Data Exfiltration
 
 Cloud storage data exfiltration is an incident involving sensitive, protected, or confidential information. These data may be released, viewed, stolen, or used by an individual outside of the organization's operating environment. Data exfiltration may be the primary objective of a targeted attack and may result from an exploited vulnerability or 
-misconfiguration, application vulnerabilities, or poor security practice. Exfiltration may involve any kind of information that was not intended for public release, for example, personal health information (PHI), financial information, personally identifiable information (PII), trade secrets, and intellectual property (IP).
+misconfiguration, application vulnerabilities, or poor security practice. Exfiltration may involve any kind of information that was not intended for public release, for example, protected health information (PHI), financial information, personally identifiable information (PII), trade secrets, and intellectual property (IP).
 
 ==-
 
