@@ -115,6 +115,7 @@ EL | Expression Language
 ELK | Elasticsearch, Logstash, Kibana
 EHR | Electronic Health Record
 ENISA | European Union Agency for Cybersecurity
+ePHI | Electronic Protected Health Information
 ERM | [Enterprise Risk Management](/terminology/glossary/#enterprise-risk-management-erm)
 ESI | Electronically Stored Information
 EU | European Union
@@ -213,7 +214,7 @@ PCI | Payment Card Industry
 PDCA | Plan-Do-Check-Act
 PDPA | Personal Data Protection Act
 PFI | PCI Forensic Investigator
-PHI | Personal Health Information
+PHI | Protected Health Information
 PI | Personal Information
 PII | Personally Identifiable Information
 PIPEDA | Personal Information Protection and Electronic Documents Act
