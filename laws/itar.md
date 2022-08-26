@@ -20,8 +20,8 @@ USML | United States Munitions List
 
 ## Overview
 
-International Traffic in Arms Regulations (ITAR) is a United States regulatory regime to restrict and *control the export* of defense and military related technologies to safeguard U.S. national security and further U.S. foreign policy objectives.
+The International Traffic in Arms Regulations (ITAR) is the United States regulation that controls the manufacture, sale, and distribution of defense and space-related articles and services as defined in the United States Munitions List (USML).
 
 ITAR covers the **control** of all defense articles and services, while EAR covers the **restriction** of commercial and dual-use items and technologies. You can find ITAR-covered items on the USML, while EAR items are listed on CCL.
 
-The State Department is involved with controlling exports.
+## References

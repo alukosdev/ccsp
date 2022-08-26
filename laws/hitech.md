@@ -24,6 +24,6 @@ Because HITECH legislation results in an expansion in the exchange of electronic
 
 - [x] The HITECH Act was created to stimulate the adoption of EHR and supporting technology.
 
-## Sources
+## References
 
 1. <span id="ref1"></span>[⌃](#rev1) American Speech-Language-Hearing Association (ASHA). (n.d.). *Health Information Technology for Economics and Clinical Health (HITECH) Act*. https://www.hhs.gov/hipaa/for-professionals/special-topics/hitech-act-enforcement-interim-final-rule/index.html
