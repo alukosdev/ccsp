@@ -27,6 +27,7 @@ API | Application Programming Interface
 APP | Australian Privacy Principles
 APT | Advanced Persistent Threat
 ARO | Annual Rate of Occurrence
+ARRA | American Recovery and Reinvestment Act
 ASMP | Application Security Management Process
 AST | Application Security Testing
 ASV | Approved Scanning Vendor
@@ -115,7 +116,6 @@ EL | Expression Language
 ELK | Elasticsearch, Logstash, Kibana
 EHR | Electronic Health Record
 ENISA | European Union Agency for Cybersecurity
-ePHI | Electronic Protected Health Information
 ERM | [Enterprise Risk Management](/terminology/glossary/#enterprise-risk-management-erm)
 ESI | Electronically Stored Information
 EU | European Union
