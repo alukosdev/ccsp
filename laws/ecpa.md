@@ -27,7 +27,7 @@ Title I of the ECPA, which is often referred to as the Wiretap Act, prohibits th
 
 ==- Title II
 
-Title II of the ECPA, which is called of the ECPA, which is called the Stored Communications Act (SCA, 18 U.S.C. Chapter 121 §§ 2701–2713), protects the privacy of the contents of files stored by service providers and of records held about the subscriber by service providers, such as subscriber name, billing records, or IP addresses. It further provides for privacy protection regarding certain electronic communications and computing services from unauthorized access or interception by government entities.
+Title II of the ECPA, which is called the Stored Communications Act (SCA, 18 U.S.C. Chapter 121 §§ 2701–2713), protects the privacy of the contents of files stored by service providers and of records held about the subscriber by service providers, such as subscriber name, billing records, or IP addresses.
 
 The SCA contains 13 sections:
 
