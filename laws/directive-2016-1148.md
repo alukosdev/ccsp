@@ -3,7 +3,7 @@ categories: [Laws, Privacy Laws, EU/EEA Laws]
 tags: [eea, enisa, eu, privacy]
 ---
 
-# NIS Directive
+# Directive 2016/1148
 
 ## Acronyms, Abbreviations, and Initialisms
 
