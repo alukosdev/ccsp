@@ -16,9 +16,9 @@ USML | United States Munitions List
 
 ## Overview
 
-The U.S. Department of Commerce administers the Export Administration Regulations (EAR) (15 CFR §§730-774), which regulate the export of "dual-use" items. These items include goods and related technology, including technical data and technical assistance, which are designed for commercial purposes, but which could have military applications, such as computers, aircraft, and pathogens.
+The U.S. Department of Commerce administers the Export Administration Regulations (EAR, 15 CFR §§730-774), which regulate the export of "dual-use" items. These items include goods and related technology, including technical data and technical assistance, which are designed for commercial purposes, but which could have military applications, such as computers, aircraft, and pathogens.
 
-The list of EAR-controlled items is known as the Commerce Control list (CCL). EAR Technical Data may take forms such as blueprints, plans, diagrams, models, formulae, tables, engineering designs and specifications, manuals, and instructions written or recorded on other media or devices such as disk, tape, and read-only memories. EAR Technical Assistance may take forms such as instruction, skills training, working knowledge, and consulting services.
+The list of EAR-controlled items is known as the Commerce Control List (CCL). EAR Technical Data may take forms such as blueprints, plans, diagrams, models, formulae, tables, engineering designs and specifications, manuals, and instructions written or recorded on other media or devices such as disk, tape, and read-only memories. EAR Technical Assistance may take forms such as instruction, skills training, working knowledge, and consulting services.
 
 The CCL categorizes these covered items into 10 broad categories:
 
@@ -32,6 +32,8 @@ The CCL categorizes these covered items into 10 broad categories:
 8. Navigation and Avionics
 9. Marine
 10. Propulsion Systems, Space Vehicles, and Related Equipment
+
+## Noteworthy
 
 - [x] The EAR controls the export of "dual-use" items.
 - [x] The EAR-controlled items are defined in the CCL.
