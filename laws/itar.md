@@ -20,8 +20,8 @@ USML | United States Munitions List
 
 ## Noteworthy
 
-- [x] The ITAR governs the *control* of defense articles and space-related articles and services whereas the Export Administration Regulations (EAR) governs the *restriction* of commercial and dual-use items and technologies.
-- [x] The ITAR-governed items are defined in the USML whereas the EAR-governed items are defined in the Commerce Control List (CCL).
+- [x] The ITAR controls the control of defense articles and space-related articles and services.
+- [x] The ITAR-controlled items are defined in the USML.
 
 ## References
 
