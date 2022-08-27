@@ -7,7 +7,7 @@ icon: stop
 This page has not yet been revised for 2022.
 !!!
 
-# Uptime Institute
+# Uptime Institute Tier Standards
 
 ## Overview
 
