@@ -1,11 +1,11 @@
 ---
 categories: [Laws, Privacy Laws, EU/EEA Laws]
-icon: stop
+icon: alert
 tags: [eea, eu, privacy]
 ---
 
 !!!danger
-Not revised.
+This page is currently under revision.
 !!!
 
 # Directive 2009/136/EC
