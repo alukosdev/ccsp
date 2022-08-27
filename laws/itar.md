@@ -1,9 +1,10 @@
 ---
 categories: [Laws, Export Control Laws, United States Laws]
+label: ITAR
 tags: [united states]
 ---
 
-# ITAR
+# International Traffic in Arms Regulations (ITAR)
 
 ## Acronyms, Abbreviations, and Initialisms
 
@@ -20,8 +21,8 @@ USML | United States Munitions List
 
 ## Noteworthy
 
-- [x] The ITAR controls the control of defense articles and space-related articles and services.
-- [x] The ITAR-controlled items are defined in the USML.
+- [x] ITAR controls the control of defense articles and space-related articles and services.
+- [x] ITAR-controlled items are defined in the USML.
 
 ## References
 

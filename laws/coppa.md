@@ -1,9 +1,10 @@
 ---
 categories: [Laws, Privacy Laws, United States Laws]
+label: COPPA
 tags: [privacy, united states]
 ---
 
-# COPPA
+# Children's Online Privacy Protection Act (COPPA)
 
 ## Acronyms, Abbreviations, and Initialisms
 

@@ -1,9 +1,10 @@
 ---
 categories: [Laws, Export Control Laws, United States Laws]
+label: EAR
 tags: [export control, united states]
 ---
 
-# EAR
+# Export Administration Regulations (EAR)
 
 ## Acronyms, Abbreviations, and Initialisms
 
@@ -35,8 +36,8 @@ The CCL categorizes these covered items into 10 broad categories:
 
 ## Noteworthy
 
-- [x] The EAR controls the export of "dual-use" items.
-- [x] The EAR-controlled items are defined in the CCL.
+- [x] EAR controls the export of "dual-use" items.
+- [x] EAR-controlled items are defined in the CCL.
 
 ## Sources
 

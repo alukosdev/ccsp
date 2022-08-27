@@ -1,9 +1,10 @@
 ---
 categories: [Laws, Privacy Laws, United States Laws]
+label: ECPA
 tags: [privacy, united states]
 ---
 
-# ECPA
+# Electronic Communications Privacy Act (ECPA)
 
 ## Acronyms, Abbreviations, and Initialisms
 
@@ -53,7 +54,7 @@ Title III of the ECPA, which addresses pen register and trap and trace devices, 
 
 ## Noteworthy
 
-- [x] The SCA addresses voluntary and compelled disclosure of "stored wire and electronic communications and transactional records."
+- [x] SCA addresses voluntary and compelled disclosure of "stored wire and electronic communications and transactional records."
 
 ## Sources
 

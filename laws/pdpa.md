@@ -1,9 +1,10 @@
 ---
 categories: [Laws, Privacy Laws, Argentinian Laws]
+label: PDPA
 tags: [argentina, privacy]
 ---
 
-# PDPA
+# Personal Data Protection Act (PDPA)
 
 ## Acronyms, Abbreviations, and Initialisms
 

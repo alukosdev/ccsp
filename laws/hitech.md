@@ -1,9 +1,10 @@
 ---
 categories: [Laws, United States Laws]
+label: HITECH
 privacy: [united states]
 ---
 
-# HITECH
+# Health Information Technology for Economic and Clinical Health (HITECH) Act
 
 ## Acronyms, Abbreviations, and Initialisms
 

@@ -1,9 +1,10 @@
 ---
 categories: [Trade Organizations, Intergovernmental Organizations]
+label: EFTA
 tags: [privacy, efta]
 ---
 
-# EFTA
+# European Free Trade Association (EFTA)
 
 ## Acronyms, Abbreviations, and Initialisms
 

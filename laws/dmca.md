@@ -1,9 +1,10 @@
 ---
 categories: [Laws, Copyright Laws, United States Laws]
+label: DMCA
 tags: [copyright, united states]
 ---
 
-# DMCA
+# Digital Millennium Copyright Act (DMCA)
 
 ## Acronyms, Abbreviations, and Initialisms
 
@@ -24,7 +25,7 @@ U.S. | United States
 
 ## Noteworthy
 
-- [x] The DMCA established the notice-and-takedown system.
+- [x] DMCA established the notice-and-takedown system.
 
 ## References
 

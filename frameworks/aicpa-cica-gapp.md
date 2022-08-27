@@ -1,9 +1,10 @@
 ---
 categories: [Privacy Guidance]
+label: AICPA/CICA GAPP
 tags: [aicpa, cica, privacy]
 ---
 
-# AICPA/CICA GAPP
+# AICPA/CICA Generally Accepted Privacy Principles (GAPP)
 
 !!!danger
 The [AICPA Privacy Management Framework (PMF)](/frameworks/aicpa-pmf.md) was created in 2020 as an update to the 2009 AICPA/CICA Generally Accepted Privacy Principles (GAPP).

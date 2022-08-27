@@ -1,9 +1,10 @@
 ---
 categories: [Forums, Intergovernmental Organizations]
+label: OECD
 tags: [oecd]
 ---
 
-# OECD
+# Organization for Economic Co-operation and Development (OECD)
 
 ## Acronyms, Abbreviations, and Initialisms
 

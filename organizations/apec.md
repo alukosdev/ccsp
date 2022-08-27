@@ -1,9 +1,10 @@
 ---
 categories: [Forums, Intergovernmental Organizations]
+label: APEC
 tags: [apec]
 ---
 
-# APEC
+# Asia-Pacific Economic Cooperation (APEC)
 
 ## Acronyms, Abbreviations, and Initialisms
 

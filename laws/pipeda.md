@@ -1,9 +1,10 @@
 ---
 categories: [Laws, Privacy Laws, Canadian Laws]
+label: PIPEDA
 tags: [canada, privacy]
 ---
 
-# PIPEDA
+# Personal Information Protection and Electronic Documents Act (PIPEDA)
 
 ## Acronyms, Abbreviations, and Initialisms
 
