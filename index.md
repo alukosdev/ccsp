@@ -31,7 +31,7 @@ Michael Ferullo (xyeLz#1337 on Discord) | [!button <svg width="24" height="24" f
 
 ## Errata
 
-Please do not hesitate to contact me on LinkedIn or Discord if you discover any pages containing inaccurate or outdated information, grammatical or spelling errors, and/or formatting issues.
+Please do not hesitate to contact me if you discover any pages containing inaccurate or outdated information, grammatical or spelling errors, and/or formatting issues.
 
 ## Resources
 
