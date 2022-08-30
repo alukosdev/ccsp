@@ -3,7 +3,7 @@ icon: alert
 ---
 
 !!!warning
-This is a new page which is currently under revision.
+You've landed upon a new page being designed specifically for the latest exam objectives! This page is currently under revision.
 !!!
 
 # Laws
