@@ -1,6 +1,6 @@
 input: .
 output: .retype
-url: retypetest.pages.dev
+url: ccsp2022.alukos.com
 generator:
   trailingSlash: true
 branding:
