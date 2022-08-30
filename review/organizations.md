@@ -8,8 +8,8 @@ You've landed upon a new page being designed specifically for the latest exam ob
 
 # Organizations
 
-Name | Description { class="compact" }
+Name | Alternative Name | Category { class="compact" }
 :--- | :---
-[APEC](/organizations/apec.md) | Asia-Pacific Economic Cooperation |
-[EFTA](/organizations/efta.md) | European Free Trade Association
-[OECD](/organizations/oecd.md) | Organization for Economic Co-operation and Development
+[APEC](/organizations/apec.md) | Asia-Pacific Economic Cooperation | Forums
+[EFTA](/organizations/efta.md) | European Free Trade Association | Trade Organizations
+[OECD](/organizations/oecd.md) | Organization for Economic Co-operation and Development | Forums
