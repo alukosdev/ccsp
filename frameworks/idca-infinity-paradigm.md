@@ -17,6 +17,6 @@ A framework intended to be used for operations and datacenter design. The Infini
 
 ## Noteworthy
 
-- [x] The IDCA Infinity Paradigm is intended ot be used for operations and datacenter design.
+- [x] The IDCA Infinity Paradigm is intended to be used for operations and datacenter design.
 
 ## 
