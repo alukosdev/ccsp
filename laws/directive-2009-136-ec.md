@@ -7,7 +7,7 @@ tags: [eea, eu, privacy]
 
 ## Legislation
 
-Amends | Date
+Amends | Date { class="compact" }
 :--- | :---
 [Directive 2002/58/EC](/laws/directive-2002-58-ec.md) | November 25, 2009
 
