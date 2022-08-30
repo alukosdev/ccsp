@@ -1,15 +1,14 @@
 ---
 categories: [IT Governance Frameworks]
 icon: alert
+label: TOGAF
 ---
 
 !!!warning
 This page is currently under revision.
 !!!
 
-# TOGAF
-
-> The Open Group Architecture Framework
+# The Open Group Architecture Framework (TOGAF)
 
 ## Acronyms, Abbreviations, and Initialisms
 
