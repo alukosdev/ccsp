@@ -8,5 +8,5 @@ You've landed upon a new page being designed specifically for the latest exam ob
 
 # Guidance
 
-Name | Alternative Name | Category | Area of Impact { class="compact" }
+Name | Alternative Name | Category { class="compact" }
 :--- | :---
