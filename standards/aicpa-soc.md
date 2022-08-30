@@ -1,10 +1,10 @@
 ---
 categories: [Auditing and Assurance Standards]
-icon: alert
+icon: stop
 ---
 
-!!!warning
-This page is currently under revision.
+!!!danger
+This page has not yet been revised for 2022.
 !!!
 
 # AICPA SOC
