@@ -17,7 +17,7 @@ Amended by | Date of Amendment { class="compact" }
 
 ## Noteworthy
 
-- [x] Directive 2002/58/EC is also known as the "ePrivacy Directive."
+- [x] Directive 2002/58/EC is known as the "ePrivacy Directive."
 
 ## References
 
