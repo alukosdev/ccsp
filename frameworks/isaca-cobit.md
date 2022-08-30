@@ -20,7 +20,7 @@ U.S. | United States
 <span id="rev1"></span>Created by the Information Systems Audit and Control Association (ISACA), COBIT allows practitioners to govern and manage IT holistically, incorporating all end-to-end business and information technology (IT) functional areas of responsibility.[[1]](#ref1)
 
 !!!
-<span id="rev2"></span>In the United States (U.S.), COBIT is the most commonly used framework for achieving compliance with the [Sarbanes-Oxley Act (SOX)](/laws/sox.md)[[2]](#ref2)
+<span id="rev2"></span>In the United States (U.S.), COBIT is the most commonly used framework for achieving compliance with the [Sarbanes-Oxley Act (SOX)](/laws/sox.md).[[2]](#ref2)
 !!!
 
 ## Noteworthy
