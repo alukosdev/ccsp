@@ -19,7 +19,7 @@ EU | European Union
 
 ## Overview
 
-Directive 2009/136/EC, also known as the "Cookie Directive", regulates the use of cookies and trackers by requiring websites to obtain prior consent from users when employing cookies to process personal data from individuals inside the European Union (EU).
+Directive 2009/136/EC, also known as the "Cookie Directive," regulates the use of cookies and trackers by requiring websites to obtain prior consent from users when employing cookies to process personal data from individuals inside the European Union (EU).
 
 ## Noteworthy
 
