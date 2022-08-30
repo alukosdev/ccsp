@@ -11,9 +11,15 @@ Amends | Date
 :--- | :---
 [Directive 2002/58/EC](/laws/directive-2002-58-ec.md) | November 25, 2009
 
+## Acronyms, Abbreviations, and Initialisms
+
+Short Form | Full Form
+:--- | :---
+EU | European Union
+
 ## Overview
 
-Directive 2009/136/EC, also known as the "Cookie Directive", is concerned with...
+Directive 2009/136/EC, also known as the "Cookie Directive", regulates the use of cookies and trackers by requiring websites to obtain prior consent from users when employing cookies to process personal data from individuals inside the European Union (EU).
 
 ## Noteworthy
 
