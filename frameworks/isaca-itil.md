@@ -1,11 +1,11 @@
 ---
 categories: [Standards, Secure Architecture and Design Standards]
-icon: stop
+icon: alert
 tags: [isaca]
 ---
 
-!!!danger
-This page has not yet been revised for 2022.
+!!!warning
+This page is currently under revision.
 !!!
 
 # ISACA ITIL
