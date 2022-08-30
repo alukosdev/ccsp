@@ -13,7 +13,7 @@ Amended by | Date
 
 ## Overview
 
-<span id="rev1"></span> Directive 2002/58/EC, also known as the "ePrivacy Directive," is concerned with the processing of personal data and the protection of privacy in the electronic communications sector.[[1]](#ref1)
+<span id="rev1"></span>Directive 2002/58/EC, also known as the "ePrivacy Directive," is concerned with the processing of personal data and the protection of privacy in the electronic communications sector.[[1]](#ref1)
 
 ## Noteworthy
 
