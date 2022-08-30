@@ -1,16 +1,10 @@
 ---
-categories: [Standards, Risk Management Standards]
-icon: alert
+categories: [IT Governance Frameworks]
+label: ISACA COBIT
 tags: [isaca]
 ---
 
-!!!warning
-This page is currently under revision.
-!!!
-
-# ISACA COBIT
-
-> Control Objectives for Information and Related Technologies
+# ISACA Control Objectives for Information and Related Technologies (COBIT)
 
 ## Acronyms, Abbreviations, and Initialisms
 
@@ -18,25 +12,22 @@ Short Form | Full Form
 :--- | :---
 COBIT | Control Objectives for Information and Related Technologies
 ISACA | Information Systems Audit and Control Association
+IT | Information Technology
+U.S. | United States
 
 ## Overview
 
-Designed for all types of business, regardless of their purpose. COBIT is a framework for managing IT controls, largely from a process and governance perspective.
+<span id="rev1"></span>Created by the Information Systems Audit and Control Association (ISACA), COBIT allows practitioners to govern and manage IT holistically, incorporating all end-to-end business and information technology (IT) functional areas of responsibility.[[1]](#ref1)
 
-It is a framework created by the ISACA for IT governance and management. It was designed to be a supportive tool for managers—and allows bridging the crucial gap between technical issues, business risks, and control requirements.
+!!!
+<span id="rev2"></span>In the United States (U.S.), COBIT is the most commonly used framework for achieving compliance with the [Sarbanes-Oxley Act (SOX)](/laws/sox.md)[[2]](#ref2)
+!!!
 
-The framework helps companies follow law, be more agile and earn more.
+## Noteworthy
 
-## Components
+- [x] COBIT is concerned with IT *governance*.
 
-=== Framework
-Organizes IT governance objectives and good practices by IT domains and processes and links them to business requirements.
-=== Process descriptions
-A reference process model and common language for everyone in an organization. The processes map to responsibility areas of plan, build, run, and monitor.
-=== Control objectives
-Provides a complete set of high-level requirements to be considered by management for effective control of each IT process.
-=== Management guidelines
-Helps assign responsibility, agree on objectives, measure performance, and illustrate interrelationship with other processes.
-=== Maturity models
-Assesses maturity and capability per process and helps to address gaps.
-===
+## References
+
+1. <span id="ref1"></span>[⌃](#rev1) ISACA. (n.d.). *COBIT An ISACA Framework*. https://www.isaca.org/resources/cobit
+2. <span id="ref2"></span>[⌃](#rev2) TechTarget. (2021, September). *COBIT*. https://www.techtarget.com/searchsecurity/definition/COBIT#:~:text=The%20goal%20of%20the%20COBIT,%2C%20goals%2C%20objectives%20and%20outcomes

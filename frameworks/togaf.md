@@ -1,5 +1,5 @@
 ---
-categories: [Standards, Secure Architecture and Design Standards]
+categories: [IT Governance Frameworks]
 icon: stop
 ---
 
