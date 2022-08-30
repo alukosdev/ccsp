@@ -5,15 +5,15 @@ tags: [eea, eu, privacy]
 
 # Directive 2002/58/EC
 
+## Overview
+
+<span id="rev1"></span>Directive 2002/58/EC, also known as the "ePrivacy Directive," is concerned with the processing of personal data and the protection of privacy in the electronic communications sector.[[1]](#ref1)
+
 ## Legislation
 
 Amended by | Date { class="compact" }
 :--- | :---
 [Directive 2009/136/EC](/laws/directive-2009-136-ec.md) | November 25, 2009
-
-## Overview
-
-<span id="rev1"></span>Directive 2002/58/EC, also known as the "ePrivacy Directive," is concerned with the processing of personal data and the protection of privacy in the electronic communications sector.[[1]](#ref1)
 
 ## Noteworthy
 
