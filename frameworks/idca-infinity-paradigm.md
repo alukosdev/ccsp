@@ -13,10 +13,12 @@ IDCA | International Data Center Authority
 
 ## Overview
 
-A framework intended to be used for operations and datacenter design. The Infinity Paradigm covers data center location, facility, structure, and infrastructure and applications.
+Established by the International Data Center Authority (IDCA), Infinity Paradigm is a framework designed to promote the global standardization of datacenter design by visualizing and analyzing an entire information technology system as a holistic and dynamic model (the "Application Ecosystem"), in a manner that qualitatively and quantitatively illustrates the myriad of interdependencies of its various supporting components.
 
 ## Noteworthy
 
-- [x] The IDCA Infinity Paradigm is intended to be used for operations and datacenter design.
+- [x] The IDCA Infinity Paradigm is related to *datacenter design*.
 
-## 
+## Sources
+
+- IDCA. (2017). *The Infinity Paradigm*. https://idc-a.org/data-center-standards
