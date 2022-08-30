@@ -5,9 +5,11 @@ tags: [eea, eu, privacy]
 
 # Directive 2009/136/EC
 
-!!!success
-Directive 2009/136/EC amended [Directive 2002/58/EC](/laws/directive-2002-58-ec.md) on November 25, 2009.
-!!!
+## Legislation
+
+Amends | Date
+:--- | :---
+[Directive 2002/58/EC](/laws/directive-2002-58-ec.md) | November 25, 2009
 
 ## Overview
 

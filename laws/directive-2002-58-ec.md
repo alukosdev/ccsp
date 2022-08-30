@@ -1,22 +1,23 @@
 ---
 categories: [Laws, Privacy Laws, EU/EEA Laws]
 tags: [eea, eu, privacy]
-visibility: hidden
 ---
 
 # Directive 2002/58/EC
 
-!!!danger
-Directive 2002/58/EC was amended by [Directive 2009/136/EC](/laws/directive-2009-136-ec.md) on November 25, 2009.
-!!!
+## Legislation
+
+Amended by | Date
+:--- | :---
+[Directive 2009/136/EC](/laws/directive-2009-136-ec.md) | November 25, 2009
 
 ## Overview
 
-<span id="rev1"></span> Directive 2002/58/EC, also known as the "ePrivacy Directive", is concerned with the processing of personal data and the protection of privacy in the electronic communications sector.[[1]](#ref1)
+<span id="rev1"></span> Directive 2002/58/EC, also known as the "ePrivacy Directive," is concerned with the processing of personal data and the protection of privacy in the electronic communications sector.[[1]](#ref1)
 
 ## Noteworthy
 
-- [x] Directive 2002/58/EC is also known as the ePrivacy Directive.
+- [x] Directive 2002/58/EC is also known as the "ePrivacy Directive."
 
 ## References
 
