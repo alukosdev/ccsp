@@ -24,3 +24,7 @@ Directive 2009/136/EC, also known as the "Cookie Directive," regulates the use o
 ## Noteworthy
 
 - [x] Directive 2009/136/EC is known as the "Cookie Directive."
+
+## Sources
+
+- Cookiebot. (2021, December 21). *EU cookie law | ePrivacy Directive and cookies | Compliant EU cookie consent with Cookiebot CMP*. https://www.cookiebot.com/en/cookie-law/
