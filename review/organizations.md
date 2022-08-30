@@ -10,6 +10,6 @@ You've landed upon a new page being designed specifically for the latest exam ob
 
 Name | Description { class="compact" }
 :--- | :---
-APEC | Asia-Pacific Economic Cooperation |
-EFTA | European Free Trade Association
-OECD | Organization for Economic Co-operation and Development
+[APEC](/organizations/apec.md) | Asia-Pacific Economic Cooperation |
+[EFTA](/organizations/efta.md) | European Free Trade Association
+[OECD](/organizations/oecd.md) | Organization for Economic Co-operation and Development
