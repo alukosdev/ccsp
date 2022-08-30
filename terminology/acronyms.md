@@ -104,6 +104,7 @@ DRS | Distributed Resource Scheduling
 DSaaS | [Data Science as a Service](/terminology/glossary/#data-science-as-a-service-dsaas)
 DSS | Data Security Standards
 DTD | Document Type Definitions)
+EA | Enterprise Architecture
 EAL | Evaluation Assurance Level
 EAR | Export Administration Regulations
 ECB | Electronic Code Book
@@ -170,6 +171,7 @@ IT | Information Technology
 ITA | International Trade Administration
 ITAR | International Traffic in Arms Regulations
 ITIL | Information Technology Infrastructure Library (formerly)
+ITOS | Information Technology Operation and Support
 ITSM | [Information Technology Service Management](/terminology/glossary/#information-technology-service-management-itsm)
 JSON | JavaScript Object Notation
 JWT | JSON Web Token

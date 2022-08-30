@@ -1,10 +1,10 @@
 ---
 categories: [Standards, Secure Architecture and Design Standards]
-icon: stop
+icon: alert
 ---
 
-!!!danger
-This page has not yet been revised for 2022.
+!!!warning
+This page is currently under revision.
 !!!
 
 # SABSA
@@ -37,5 +37,5 @@ SABSA includes the following components, which can be used separately or togethe
 - Through-Life Security Service Management and Performance Management Framework
 
 !!!
-According to the CSA Enterprise Architecture, SABSA is part of the BOSS.
+According to the CSA Enterprise Architecture, SABSA is part of Business Operation Support Services (BOSS).
 !!!
