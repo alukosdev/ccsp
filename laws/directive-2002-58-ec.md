@@ -11,7 +11,7 @@ tags: [eea, eu, privacy]
 
 ## Legislation
 
-Amended by | Date { class="compact" }
+Amended by | Date of Amendment { class="compact" }
 :--- | :---
 [Directive 2009/136/EC](/laws/directive-2009-136-ec.md) | November 25, 2009
 

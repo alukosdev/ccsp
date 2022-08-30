@@ -17,7 +17,7 @@ Directive 2009/136/EC, also known as the "Cookie Directive," regulates the use o
 
 ## Legislation
 
-Amends | Date { class="compact" }
+Amends | Date of Amendment { class="compact" }
 :--- | :---
 [Directive 2002/58/EC](/laws/directive-2002-58-ec.md) | November 25, 2009
 
