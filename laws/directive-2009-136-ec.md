@@ -1,12 +1,7 @@
 ---
 categories: [Laws, Privacy Laws, EU/EEA Laws]
-icon: alert
 tags: [eea, eu, privacy]
 ---
-
-!!!danger
-This page is currently under revision.
-!!!
 
 # Directive 2009/136/EC
 
@@ -19,3 +14,7 @@ Is this part of EEA?
 ## Overview
 
 Directive 2009/136/EC, also known as the "Cookie Directive", is concerned with...
+
+## Noteworthy
+
+- [x] Directive 2009/136/EC is known as the "Cookie Directive."
