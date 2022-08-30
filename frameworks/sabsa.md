@@ -1,22 +1,23 @@
 ---
 categories: [Standards, Secure Architecture and Design Standards]
 icon: alert
+label: SABSA
 ---
 
 !!!warning
 This page is currently under revision.
 !!!
 
-# SABSA
-
-> Sherwood Applied Business Security Architecture
+# Sherwood Applied Business Security Architecture (SABSA)
 
 ## Acronyms, Abbreviations, and Initialisms
 
 Short Form | Full Form
 :--- | :---
-SABSA | Sherwood Applied Business Security Architecture
 BOSS | Business Operation Support Services
+CSA | Cloud Security Alliance
+EA | Enterprise Architecture
+SABSA | Sherwood Applied Business Security Architecture
 
 ## Overview
 
@@ -37,5 +38,9 @@ SABSA includes the following components, which can be used separately or togethe
 - Through-Life Security Service Management and Performance Management Framework
 
 !!!
-According to the CSA Enterprise Architecture, SABSA is part of Business Operation Support Services (BOSS).
+ITIL is part of the Business Operation Support Services (BOSS) domain of the Cloud Security Alliance (CSA) Enterprise Architecture (EA).
 !!!
+
+## Noteworthy
+
+## 

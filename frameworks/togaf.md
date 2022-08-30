@@ -33,3 +33,7 @@ According to the CSA Enterprise Architecture, TOGAF provides four high-level ser
 - Infrastructure Services (Technology)
 
 TOGAF relies heavily on modularization, standardization, and already existing, proven technologies and products.
+
+## Noteworthy
+
+## 
