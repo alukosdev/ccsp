@@ -1,12 +1,7 @@
 ---
 categories: [Standards, Risk Management Standards]
-icon: alert
 tags: [nist]
 ---
-
-!!!warning
-This page is currently under revision.
-!!!
 
 # NIST Framework for Improving Critical Infrastructure Cybersecurity
 
@@ -18,13 +13,7 @@ NIST | National Institute of Standards and Technology
 
 ## Overview
 
-The framework provides a common taxonomy and mechanism for organizations to:
-
-- Describe their current cybersecurity posture
-- Describe their target state for cybersecurity
-- Identify and prioritize opportunities for improvement within the context of a continuous and repeatable process
-- Assess progress toward the target state
-- Communicate among internal and external stakeholders about cybersecurity risk
+The National Institute of Standards and Technology developed the "Framework for Improving Critical Infrastructure Cybersecurity," which describes a voluntary risk management framework ("the Framework") that consists of standards, guidelines, and best practices to manage cybersecurity-related risk. The Framework's prioritized, flexible, and cost-effective approach helps to promote the protection and resilience of critical infrastructure and other sectors important to the economy and national security.
 
 !!!
 This framework is ideal to use as a supplement to best coding practices and code reviews and testing, but also functions as an approach to risk mitigation.
@@ -32,36 +21,44 @@ This framework is ideal to use as a supplement to best coding practices and code
 
 ## Components
 
-### Framework Core
+The Cybersecurity Framework consists of three main components:
 
-Cybersecurity activities and outcomes divided into five functions:
+1. [Core](#framework-core)
+2. [Implementation Tiers](#framework-implementation-tiers)
+3. [Profiles](#framework-profile)
 
-- Identify
-- Protect
-- Detect
-- Respond
-- Recover
+==- Framework Core
 
-#### Identify (ID)
+The Framework Core provides a set of desired cybersecurity activities and outcomes using common language that is easy to understand. The Core guides organizations in managing and reducing their cybersecurity risks in a way that complements an organization’s existing cybersecurity and risk management processes. 
 
-Contains two categories:
+The Core includes five high level functions:
 
-- Asset Management (ID.AM)
-  - ID.AM-2. Software platforms and applications within the organization are inventoried.
-  - ID.AM-3. Organizational communication and data flows are mapped.
-  - ID.AM-5. Resources (such as hardware, devices, data, and software) are prioritized based on their classification, criticality, and business value.
-- Risk Assessment (ID.RA)
-  - ID.RA-1. Asset vulnerabilities are identified and documented.
-  - ID.RA-5. Threats, vulnerabilities, likelihoods, and impacts are used to determine risk.
+- Identify (ID)
+- Protect (PR)
+- Detect (DE)
+- Respond (RS)
+- Recover (RC)
 
-### Framework Profile
+Spread across these five functions are 23 categories.
 
-Used to assist the organization in aligning activities with business requirements, risk tolerance, and resources.
+The image below depicts the Framework Core's Functions and Categories:
 
-### Framework Implementation Tiers
+![Framework Core Categories and Functions](/static/coreofframework.png)
 
-Used to identify where the organization is with regard to their particular approach.
+==- Framework Implementation Tiers
+
+The Framework Implementation Tiers assist organizations by providing context on how an organization views cybersecurity risk management. The Tiers guide organizations to consider the appropriate level of rigor for their cybersecurity program and are often used as a communication tool to discuss risk appetite, mission priority, and budget.
+
+==- Framework Profile
+
+Framework Profiles are an organization’s unique alignment of their organizational requirements and objectives, risk appetite, and resources against the desired outcomes of the Framework Core. Profiles are primarily used to identify and prioritize opportunities for improving cybersecurity at an organization.
+
+==-
 
 ## Noteworthy
 
-## 
+## Sources
+
+- National Institute of Standards and Technology (NIST). (2018, April 16). *Framework for Improving Critical Infrastructure Cybersecurity Version 1.1*. https://www.nist.gov/publications/framework-improving-critical-infrastructure-cybersecurity-version-11
+- National Institute of Standards and Technology (NIST). (n.d.). *Cybersecurity Framework - Getting Started*. https://www.nist.gov/cyberframework/getting-started
+- National Institute of Standards and Technology (NIST). (n.d.). *Cybersecurity Framework - An Introduction to the Components of the Framework*. https://www.nist.gov/cyberframework/online-learning/components-framework
