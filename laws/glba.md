@@ -1,11 +1,11 @@
 ---
 categories: [Laws, Privacy Laws, United States Laws]
-icon: stop
+icon: alert
 tags: [privacy, united states]
 ---
 
-!!!danger
-This page has not yet been revised for 2022.
+!!!warning
+This page is currently under revision.
 !!!
 
 # GLBA

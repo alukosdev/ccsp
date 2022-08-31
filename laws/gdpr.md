@@ -1,11 +1,11 @@
 ---
 categories: [Laws, Privacy Laws, EU/EEA Laws]
-icon: stop
+icon: alert
 tags: [eea, eu, privacy]
 ---
 
-!!!danger
-This page has not yet been revised for 2022.
+!!!warning
+This page is currently under revision.
 !!!
 
 # GDPR
