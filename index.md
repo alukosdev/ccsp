@@ -37,7 +37,7 @@ Please do not hesitate to contact me if you discover any pages containing inaccu
 
 ### Social
 
-- The [Certification Station](https://discord.gg/certstation){ target="_blank" } Discord server is an invaluable source of study information.
+- The [Certification Station](https://discord.gg/certstation){ target="_blank" } Discord server is a helpful study and discussion tool.
 
 ### Books
 
