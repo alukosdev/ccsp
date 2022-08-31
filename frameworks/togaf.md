@@ -1,12 +1,11 @@
 ---
 categories: [IT Governance Frameworks]
-icon: alert
 label: TOGAF
 ---
 
-!!!warning
-This page is currently under revision.
-!!!
+:::banner
+The following page reflects information collected from The TOGAF Standard, 10th Edition published on **April 24, 2022**.
+:::
 
 # The Open Group Architecture Framework (TOGAF)
 
@@ -18,24 +17,20 @@ TOGAF | The Open Group Architecture Framework
 
 ## Overview
 
-The TOGAF Standard is a framework for Enterprise Architecture. It may be used freely by any organization wishing to develop an Enterprise Architecture for use within that organization.[[REF]]https://pubs.opengroup.org/togaf-standard/index.html
+The TOGAF Standard is a framework for Enterprise Architecture. It may be used freely by any organization wishing to develop an Enterprise Architecture for use within that organization.
 
+The TOGAF approach helps practitioners avoid being locked into proprietary methods, utilize resources more efficiently and effectively, and realize a greater return on investment.
 
-
-TOGAF is one of the many frameworks available to the cloud security professional for designing, planning, implementing, and governing an enterprise Information Technology architecture. TOGAF provides a standardized approach that can be used to address business needs by providing a common lexicon for business communication.
-
-TOGAF is based on *open methods* and approaches to enterprise architecture, allowing the business to avoid a lock-in scenario from the use of proprietary approaches. TOGAF also provides for the ability to quantifiably measure ROI so that the business can use resources more efficiently. Thus, TOGAF is a means to incorporate security architecture with the overall business architecture.
-
-TOGAF relies heavily on modularization, standardization, and already existing, proven technologies and products.
+The TOGAF Standard makes adoption of best practices easier. It will show you where to find enduring and universal concepts and proven best practice and also it will underscore where to look for new emerging ideas. Together universal concepts, best practice guidance, and emerging ideas are how you adapt the TOGAF Standard for your configured Enterprise Architecture practice.
 
 ## Domains
 
-There are four architecture domains that are commonly accepted as subsets of an overall Enterprise Architecture, all of which the TOGAF Standard is designed to support:[[REF]]https://pubs.opengroup.org/togaf-standard/introduction/chap03.html
+There are four architecture domains that are commonly accepted as subsets of an overall Enterprise Architecture, all of which the TOGAF Standard is designed to support:
 
-- Business Architecture
-- Data Architecture
-- Application Architecture
-- Technology Architecture
+- [Business Architecture](#business-architecture)
+- [Data Architecture](#data-architecture)
+- [Application Architecture](#application-architecture)
+- [Technology Architecture](#technology-architecture)
 
 ==- Business Architecture
 
@@ -65,7 +60,10 @@ The TOGAF framework enables the creation of these multi-dimensional views and ca
 
 ## Noteworthy
 
-- [x] SABSA is a means of developing *security capabilities* that align with *business objectives*.
-- [x] TOGAF is a means of 
+- [x] TOGAF is a means of incorporating *security architecture* with the overall *business architecture*.
 
-## 
+## Sources
+
+- The Open Group. (n.d.). *The TOGAF Standard - Introduction*. https://pubs.opengroup.org/togaf-standard/index.html
+- The Open Group. (n.d.). *The TOGAF Standard, 10th Edition*. https://publications.opengroup.org/c220
+- The Open Group. (n.d.). *The TOGAF Standard - Introduction - Core Concepts*. https://pubs.opengroup.org/togaf-standard/introduction/chap03.html
