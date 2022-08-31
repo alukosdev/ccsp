@@ -21,7 +21,7 @@ The TOGAF Standard is a framework for Enterprise Architecture. It may be used fr
 
 The TOGAF approach helps practitioners avoid being locked into proprietary methods, utilize resources more efficiently and effectively, and realize a greater return on investment.
 
-The TOGAF Standard makes adoption of best practices easier. It will show you where to find enduring and universal concepts and proven best practice and also it will underscore where to look for new emerging ideas. Together universal concepts, best practice guidance, and emerging ideas are how you adapt the TOGAF Standard for your configured Enterprise Architecture practice.
+The TOGAF Standard makes adoption of best practices easier. It will show you where to find enduring and universal concepts and proven best practice and also it will underscore where to look for new emerging ideas.
 
 ## Domains
 
