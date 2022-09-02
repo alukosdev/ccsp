@@ -49,3 +49,6 @@ The Data Directive addresses individual personal privacy by codifying these seve
 - Enforcement: All entities that have any personal data of any EU citizen understand that they are subject to enforcement actions by EU authorities.
 
 These principles largely conforms to a set of principles created by the OECD.
+
+## Noteworthy
+
