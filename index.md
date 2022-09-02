@@ -19,7 +19,7 @@ Information contained within these notes is copyrighted. Sources of copyrighted 
 
 ## Purpose
 
-These notes have been created for the sole purpose of aggregating accurate information from reliable sources to facilitate studying for the (ISC)² CCSP examination and have been made publicly available and open source.
+These notes were created for the sole purpose of aggregating accurate information from reliable sources to facilitate studying for the (ISC)² Certified Cloud Security Professional (CCSP) exam and have been shared publicly with the community.
 
 ## Credit
 
