@@ -8,7 +8,7 @@ The following Exam Outline is derived from the [(ISC)² CCSP Certification Exam 
 
 # Exam Outline
 
-## Examination Weights
+## Exam Weights
 
 Domains | Weight
 :--- | :---
