@@ -25,6 +25,10 @@ A community cloud features infrastructure and processing owned and operated by a
 
 Gaming communities might be considered community clouds. For instance, the PlayStation network involves many different entities coming together to engage in online gaming: Sony hosts the identity and access management (IAM) tasks for the network, a particular game company might host a set of servers that run digital rights management (DRM) functions and processing for a specific game, and individual users conduct some of their own processing and storage locally on their own PlayStations.
 
+!!!
+A private cloud differs from a traditional datacenter in that a private cloud still must retain the core [characteristics](/concepts/cloud/cloud-characteristics.md#cloud-characteristics) of cloud computing.
+!!!
+
 ### Risks
 
 - Resiliency Through Shared Ownership
