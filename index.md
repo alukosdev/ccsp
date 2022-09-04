@@ -4,7 +4,7 @@ label: Welcome
 ---
 
 :::banner
-This is a community project and we intend on keeping it that way. If you are interested in contributing to the project, please consider [donating](https://www.paypal.com/donate/?business=EEFDLRY7AJ8KN&no_recurring=0&currency_code=USD){ target="_blank" } or becoming an editor. ❤️
+This is a community project and we intend on keeping it that way. If you are interested in contributing to the project, please consider [donating](https://www.paypal.com/donate/?business=EEFDLRY7AJ8KN&no_recurring=0&currency_code=USD){ target="_blank" } or becoming an [editor](https://github.com/alukosdev/ccsp). ❤️
 :::
 
 !!!warning
