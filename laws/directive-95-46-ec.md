@@ -6,7 +6,7 @@ tags: [eea, eu, privacy]
 # Directive 95/46/EC
 
 !!!danger
-Directive 95/46/EC is repealed with effect from 25 May 2018.
+Directive 95/46/EC is repealed with effect from 25 May 2018. The [General Data Protection Regulation (GDPR)](/laws/gdpr.md), adopted in 2016, supersedes this directive.
 !!!
 
 ## Acronyms, Abbreviations, and Initialisms
@@ -14,6 +14,7 @@ Directive 95/46/EC is repealed with effect from 25 May 2018.
 Short Form | Full Form
 :--- | :---
 EU | European Union
+GDPR | General Data Protection Regulation
 OECD | Organization for Economic Cooperation and Development
 
 ## Overview
@@ -54,5 +55,4 @@ These principles largely conforms to a set of principles created by the OECD.
 - [x] The Data Protection Directive of 1995 was the *first* major EU data privacy law.
 
 ## Sources
-
 
