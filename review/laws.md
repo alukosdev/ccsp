@@ -12,10 +12,10 @@ Name | Alternative Name | Category | Enforcement Arm | Area of Impact | Status {
 :--- | :---
 [COPPA](/laws/coppa.md) | Children's Online Privacy Protection Act | [Privacy Laws](/categories/privacy-laws/) | | United States | [!badge variant="success" text="In Force"]
 [Federal Law No. 242-FZ](/laws/federal-law-no-242-fz.md) | Russian Data Localization Law | [Privacy Laws](/categories/privacy-laws/) | | Russia | [!badge variant="success" text="In Force"]
+[Directive 95/46/EC](/laws/directive-95-46-ec.md) | EU Data Protection Directive of 1995 | [Privacy Laws](/categories/privacy-laws) | | EU/EEA | [!badge variant="danger" text="Repealed"]
 [Directive 2002/58/EC](/laws/directive-2002-58-ec.md) | ePrivacy Directive | [Privacy Laws](/categories/privacy-laws/) | | EU/EEA | [!badge variant="success" text="In Force"]
 [Directive 2009/136/EC](/laws/directive-2009-136-ec.md) | Cookie Directive | [Privacy Laws](/categories/privacy-laws) | | EU/EEA | [!badge variant="success" text="In Force"]
 [Directive 2016/1148](/laws/directive-2016-1148.md) | NIS Directive | [Privacy Laws](/categories/privacy-laws) | | EU/EEA | [!badge variant="success" text="In Force"]
-[Directive 95/46/EC](/laws/directive-95-46-ec.md) | EU Data Protection Directive of 1995 | [Privacy Laws](/categories/privacy-laws) | | EU/EEA | [!badge variant="danger" text="Repealed"]
 [DMCA](/laws/dmca.md) | Digital Millenium Copyright Act | [Copyright Laws](/categories/copyright-laws/) | | United States | [!badge variant="success" text="In Force"]
 [EAR](/laws/ear.md) | Export Administration Regulations | [Export Control Laws](/categories/export-control-laws/) | | United States | [!badge variant="success" text="In Force"]
 [ECPA](/laws/ecpa.md) | Electronic Communication Privacy Act | [Privacy Laws](/categories/privacy-laws/) | | United States | [!badge variant="success" text="In Force"]
