@@ -24,7 +24,7 @@ Name | Alternative Name | Category | Enforcement Arm | Area of Impact | Status {
 [FISMA](/laws/fisma.md) | Federal Information Security Management Act | [Information Security Laws](/categories/information-security-laws/) | | United States
 [GDPR](/laws/gdpr.md) | General Data Protection Regulation | [Privacy Laws](/categories/privacy-laws/) | | EU/EEA
 [GLBA](/laws/glba.md) | Gramm-Leach-Bliley Act | [Privacy Laws](/categories/privacy-laws/) | FTC | United States
-[HIPAA](/laws/hipaa.md) | Health Insurance Portability and Accountability Act | [Privacy Laws](/categories/privacy-laws/) | OCR | United States
+[HIPAA](/laws/hipaa.md) | Health Insurance Portability and Accountability Act | [Privacy Laws](/categories/privacy-laws/) | OCR | United States | [!button size="s" variant="success" text="Active"]
 [HITECH](/laws/hitech.md) | Health Information Technology for Economic and Clinical Health | | | United States
 [ITAR](/laws/itar.md) | International Traffic in Arms Regulations | [Export Control Laws](/categories/privacy-laws/) | | United States
 [NIS Directive](/laws/nis-directive.md) | Network and Information Security Directive | [Privacy Laws](/categories/privacy-laws/) | | EU/EEA
