@@ -37,7 +37,7 @@ HIPAA is comprised of several rules, each of which outline different requirement
 
 The HIPAA Privacy Rule establishes national standards to protect individuals' medical records and other individually identifiable health information (collectively defined as "protected health information (PHI)" and applies to health plans, health care clearinghouses, and those health care providers that conduct certain health care transactions electronically. The Rule requires appropriate safeguards to protect the privacy of protected health information and sets limits and conditions on the uses and disclosures that may be made of such information without an individual’s authorization. The Rule also gives individuals rights over their protected health information, including rights to examine and obtain a copy of their health records, to direct a covered entity to transmit to a third party an electronic copy of their protected health information in an electronic health record, and to request corrections.
 
-The Privacy Rule protects all "individually identifiable health information" held or transmitted by a covered entity or its business associate, in any form or media, whether electronic, paper, or oral.
+The Privacy Rule protects all PHI held or transmitted by a covered entity or its business associate, in any form or media, whether electronic, paper, or oral.
 
 ==- Security Rule
 
@@ -66,7 +66,7 @@ The HIPAA Breach Notification Rule requires HIPAA covered entities and their bus
 ## Noteworthy
 
 - [x] The Privacy Rule provides the patient control over their medical records.
-- [x] The Privacy Rule protects all "individually identifiable health information" whether electronic, paper, or oral.
+- [x] The Privacy Rule protects all PHI whether electronic, paper, or oral.
 - [x] The Security Rule applies only to electronic protected health information (ePHI).
 
 ## Sources
