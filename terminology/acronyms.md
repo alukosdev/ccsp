@@ -100,6 +100,7 @@ DOC | Department of Commerce
 DoS | Denial-of-Service
 DOT | Department of Transportation
 DPA | Data Protection Act
+DPD | Data Protection Directive
 DR | [Disaster Recovery](/terminology/glossary/#disaster-recovery-dr)
 DRM | Digital Rights Management
 DRP | [Disaster Recovery Plan](/terminology/glossary/#disaster-recovery-plan-drp)
