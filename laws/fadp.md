@@ -1,42 +1,28 @@
 ---
 categories: [Laws, Privacy Laws, Swiss Laws]
-icon: alert
 tags: [privacy, switzerland]
 ---
 
-!!!warning
-This page is currently under revision.
-!!!
-
-# FADP
+# Federal Act on Data Protection (FADP)
 
 ## Acronyms, Abbreviations, and Initialisms
 
 Short Form | Full Form
 :--- | :---
-DPA | Data Protection Act
 FADP | Federal Act on Data Protection
 
 ## Overview
 
-The Federal Act on Data Protection is also known as the Data Protection Act.
-
-In accordance with Swiss data protection law, the basic principles of which are in line with EU law, three issues are important:
-
-- The conditions under which the transfer of personal data processing to third parties is permissible
-- The conditions under which personal data may be sent abroad
-- Data security
+The Federal Act on Data Protection (FADP) is a Swiss law that aims to protect the privacy and the fundamental rights of persons when their data is processed.
 
 ## Principles
 
-### Data Processing by Third Parties
+1. Personal data may only be processed lawfully.
+2. Its processing must be carried out in good faith and must be proportionate.
+3. Personal data may only be processed for the purpose indicated at the time of collection, that is evident from the circumstances, or that is provided for by law.
+4. The collection of personal data and in particular the purpose of its processing must be evident to the data subject.
+5. If the consent of the data subject is required for the processing of personal data, such consent is valid only if given voluntarily on the provision of adequate information. Additionally, consent must be given expressly in the case of processing of sensitive personal data or personality profiles.
 
-In systems of law with extended data protection, as is the case for EU and Switzerland, it is permissible to enlist the support of third parties for data processing.
+## Sources
 
-### Transferring Personal Data Abroad
-
-Exporting data abroad is permissible if legislation that ensures adequate data protection in accordance with Swiss standards exists in the country in which the recipient of the data is located.
-
-### Data Security
-
-CIA of data must be ensured by means of appropriate organizational and technical measures.
+- Fedlex. (1992, June 18). *Federal Act on Data Protection*. https://www.fedlex.admin.ch/eli/cc/1993/1945_1945_1945/en
