@@ -51,6 +51,7 @@ The FTC is responsible for enforcing its Privacy Rule and its Safeguards Rule.
 ## Noteworthy
 
 - [x] Compliance with GLBA is mandatory.
+- [x] GLBA consists of two rules and a set of provisions.
 
 ## Sources
 
