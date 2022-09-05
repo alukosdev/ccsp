@@ -31,5 +31,5 @@ Name | Alternative Name | Category | Enforcement Arm | Area of Impact | Status {
 [PIPEDA](/laws/pipeda.md) | Personal Information Protection and Electronic Document Act | [Privacy Laws](/categories/privacy-laws/) | | Canada | [!badge variant="success" text="Active"]
 [Privacy Act 1988](/laws/privacy-act-1988.md) | Australian Privacy Act | [Privacy Laws](/categories/privacy-laws/) | | Australia | [!badge variant="success" text="Active"]
 [Privacy Shield](/laws/privacy-shield.md) | EU-U.S. Privacy Shield Framework, Swiss-U.S. Privacy Shield Framework | [Privacy Laws](/categories/privacy-laws/) | | United States | [!badge variant="warning" text="Invalid"]
-[SOX](/laws/sox.md) | Sarbanes-Oxley Act | | | United States
-[TADP Framework](/laws/tadp-framework.md) | Trans-Atlantic Data Privacy Framework | [Privacy Laws](/categories/privacy-laws/) | | United States
+[SOX](/laws/sox.md) | Sarbanes-Oxley Act | | | United States | [!badge variant="success" text="Active"]
+[TADP Framework](/laws/tadp-framework.md) | Trans-Atlantic Data Privacy Framework | [Privacy Laws](/categories/privacy-laws/) | | United States | [!badge variant="primary" text="In Progress"]
