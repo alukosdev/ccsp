@@ -1,12 +1,7 @@
 ---
 categories: [Laws, United States Laws]
-icon: alert
 tags: [united states]
 ---
-
-!!!warning
-This page is currently under revision.
-!!!
 
 # SOX
 
@@ -15,16 +10,28 @@ This page is currently under revision.
 Short Form | Full Form
 :--- | :---
 SEC | Securities and Exchange Commission
-SOX | Sarbanes-Oxley Act
+SOX | Sarbanes-Oxley
+U.S. | United States
 
 ## Overview
 
-In 2002 the Sarbanes-Oxley Act (SOX) was enacted as an attempt to prevent fraudulent accounting practices, poor audit practices, inadequate financial controls, and poor oversight by governing boards of directors. It applies to all publicly traded corporations. SOX protects individuals from *accounting errors* and *fraudulent practices* in *publicly traded companies*. It provides for corporate accountability.
+In 2002, the United States (U.S.) Congress passed the Sarbanes-Oxley (SOX) Act to protect shareholders and the general public from accounting errors and fraudulent practices in enterprises, and to improve the accuracy of corporate disclosures.
 
-SOX is not a set of business practices and does not specify how a business should store records; rather, it defines which records (such as financial records) are to be stored and for how long.
+The act does not specify a set of business practices but instead defines which company records need to be kept on file and for how long.
 
-SOX is also known as the "*public company* accounting reform and investor protection act".
+SOX is also known as the "Public Company Accounting Reform and Investor Protection Act of 2002." SOX provisions apply to publicly-traded U.S. companies and their auditors. Privately-held companies don't need to comply with the reporting requirements, but they are subject to the penalty and liability provisions.
 
-### Enforcement
+!!!
+The Securities and Exchange Commission (SEC) enforces SOX. SOX imposes criminal penalties for certifying a misleading or fraudulent financial report, which can be upwards of $5 million in fines and 20 years in prison when someone willfully certifies misleading or fraudulent financial statements.
+!!!
 
-The SEC is the organization responsible for establishing standards and guidelines and conducting audits and imposing subsequent fines should any be required.
+## Noteworthy
+
+- [X] SOX protects from *accounting errors* and *fraudulent practices*.
+
+## Sources
+
+- Digital Guardian. (2022, March 14). *What is SOX Compliance? 2022 SOX Requirements & More*. https://digitalguardian.com/blog/what-sox-compliance
+- Investopedia. (2022, May 8). *Sarbanes-Oxley (SOX) Act of 2002*. https://www.investopedia.com/terms/s/sarbanesoxleyact.asp
+- Spiceworks. (2021, September 24). *Think Sarbanes-Oxley Only Applies to Public Companies? Think Again*. https://www.spiceworks.com/finance/governance/guest-article/think-sarbanes-oxley-only-applies-to-public-companies-think-again/
+- Hyperproof. (n.d.). *The Sarbanes-Oxley Act (SOX)*. https://hyperproof.io/sarbanes-oxley-act/#:~:text=The%20Securities%20and%20Exchange%20Commission,misleading%20or%20fraudulent%20financial%20statements

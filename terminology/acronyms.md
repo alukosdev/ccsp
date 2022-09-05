@@ -269,7 +269,7 @@ SMTP | Simple Mail Transfer Protocol
 SOA | [Service-Oriented Architecture](/terminology/glossary/#service-oriented-architecture-soa)
 SOAP | Simple Object Access Protocol
 SOC | System and Organization Controls
-SOX | Sarbanes-Oxley Act
+SOX | Sarbanes-Oxley
 SP | Special Publication
 SPML | [Service Provisioning Markup Language](/terminology/glossary/#service-provisioning-markup-language-spml)
 SQL | Structured Query Language
