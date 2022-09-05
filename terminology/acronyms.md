@@ -91,7 +91,6 @@ DAR | Data at Rest
 DAST | Dynamic Application Security Testing
 DBMS | Database Management System
 DDoS | Distributed Denial-of-Service
-DHHS | Department of Health and Human Services
 DIM | Data in Motion
 DIT | Data in Transit
 DIU | Data in Use
@@ -143,6 +142,7 @@ GAAP | [Generally Accepted Accounting Principles](/terminology/glossary/#general
 GDPR | General Data Protection Regulation
 GLBA | Gramm-Leach-Bliley Act
 HA | [High Availability](/terminology/glossary/#high-availability-ha)
+HHS | Department of Health and Human Services
 HIPAA | Health Insurance Portability and Accountability Act
 HITEHC | Health Information Technology for Economic and Clinical Health
 HQL | Hibernate Query Language

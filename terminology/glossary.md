@@ -366,7 +366,7 @@ A DAM operates at layer 7 of the OSI model.
 ==- Demand Management
 Can we meet our demand requirements (can we scale up and down)? Elasticity in the cloud solves this.
 ==- Department of Commerce (DOC)
-==- Department of Health and Human Services (DHHS)
+==- Department of Health and Human Services (HHS)
 ==- Department of Transportation (DOT)
 ==- Diffie-Hellman
 The Diffie-Hellman *key exchange process* is used for *asymmetric encryption* and is designed to allow two parties to create a shared secret (symmetric key) over an untrusted medium.
