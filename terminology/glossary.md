@@ -731,6 +731,7 @@ Network forensics is defined as the capture, storage, and analysis of network ev
 ==- Networking as a Service (NaaS)
 Includes network services from third-parties to customers that do not want to build their own networking infrastructure.
 ==- Nonfunctional Requirements
+==- Nonpublic Personal Information (NPI)
 ==- Nonrepudiation
 The assurance that a specific author actually did create and send a specific item to a specific recipient and that it was successfully received. The sender of the message cannot later credibly deny having sent the message, nor can the recipient credibly claim not to have received it.
 ==- North American Electric Reliability Corporation (NERC)

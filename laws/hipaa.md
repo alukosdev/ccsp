@@ -59,9 +59,9 @@ The HIPAA Breach Notification Rule requires HIPAA covered entities and their bus
 
 ==-
 
-## Enforcement
-
-- HHS' Office for Civil Rights (OCR) is responsible for enforcing the Privacy and Security Rules.
+!!!
+HHS' Office for Civil Rights (OCR) is responsible for enforcing the Privacy and Security Rules.
+!!!
 
 ## Noteworthy
 
