@@ -8,7 +8,7 @@ tags: [owasp]
 The following page reflects information collected from the [OWASP Web Security Testing Guide Version 4.2](https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf){ target="_blank" } published on **December 3, 2020**.
 :::
 
-# OWASP WSTG
+# OWASP Web Security Testing Guide
 
 ## Acronyms, Abbreviations, and Initialisms
 
@@ -20,7 +20,7 @@ WSTG | Web Security Testing Guide
 
 ## Overview
 
-<span id="rev1"></span>The WSTG is a comprehensive guide to testing the security of web applications and web services. Created by the collaborative efforts of cybersecurity professionals and dedicated volunteers, the WSTG provides a framework of best practices used by penetration testers and organizations all over the world.[[1]](#ref1)
+<span id="rev1"></span>The Web Security Testing Guide (WSTG) is a comprehensive guide to testing the security of web applications and web services. Created by the collaborative efforts of cybersecurity professionals and dedicated volunteers, the WSTG provides a framework of best practices used by penetration testers and organizations all over the world.[[1]](#ref1)
 
 ## Testing Methods
 
