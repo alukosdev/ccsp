@@ -10,13 +10,12 @@ tags: [privacy, united states]
 Short Form | Full Form
 :--- | :---
 GLBA | Gramm-Leach-Bliley Act
-ISO | Information Security Officer
 ISP | Information Security Plan
 NPI | Nonpublic Personal Information
 
 ## Overview
 
-The Gramm-Leach-Bliley Act (GLBA), also known as the Financial Services Modernization Act of 1999, requires financial institutions to explain their information-sharing practices to their customers and to safeguard sensitive data. These financial institutions must communicate to their customers how they share the customers' sensitive data, inform customers of their right to opt-out if they prefer that their personal data not be shared with third parties, and apply specific protections to customers' private data in accordance with a written information security plan created by the institution.
+The Gramm-Leach-Bliley Act (GLBA), also known as the Financial Services Modernization Act of 1999, requires financial institutions to explain their information-sharing practices to their customers and to safeguard sensitive data. These financial institutions must communicate to their customers how they share the customers' sensitive data, inform customers of their right to opt-out if they prefer that their personal data not be shared with third parties, and apply specific protections to customers' private data in accordance with a written information security plan (ISP) created by the institution.
 
 !!!
 Compliance with GLBA is mandatory. A policy to protect information from foreseeable threats in security and data integrity must exist regardless of whether a financial institution discloses nonpublic information or not.

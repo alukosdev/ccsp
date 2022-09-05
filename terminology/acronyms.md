@@ -170,7 +170,7 @@ IRM | Information Rights Management
 IRT | Incident Response Team
 ISA | [Internal Security Assessor](/terminology/glossary/#internal-security-assessor-isa)
 ISM | Information Security Management
-ISO | Information Security Officer <br> International Organization for Standardization
+ISO | International Organization for Standardization
 ISP | Information Security Plan <br> Internet Service Provider
 IT | Information Technology
 ITA | International Trade Administration
