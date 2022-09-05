@@ -49,7 +49,7 @@ The Privacy Shield Principles comprise a set of seven commonly recognized privac
 
 ## Noteworthy
 
-- [x] The Privacy Shield was replaced by the TADP.
+- [x] The Privacy Shield is superseded by the [TADP Framework](/laws/tadp-framework.md).
 - [x] The Privacy Shield replaced the Safe Harbor program.
 - [x] The Privacy Shield Principles comprise a set of *seven* commonly recognized privacy principles.
 - [x] Participation in the Privacy Shield is voluntary.

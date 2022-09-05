@@ -40,7 +40,7 @@ Apart from the new framework, U.S. firms have limited options for cross-border d
 
 ## Noteworthy
 
-- [x] The TADP Framework is likely to be the successor to the Privacy Shield.
+- [x] The TADP Framework will supersede the [Privacy Shield](/laws/privacy-shield.md).
 - [x] The TADP Framework will require participating companies and organizations to adhere to the Privacy Shield Principles.
 - [x] Participation in the TADP Framework will be voluntary.
 - [x] Once an eligible organization makes the public commitment to comply with the Framework requirements, the commitment will become enforceable under U.S. law.
