@@ -27,4 +27,4 @@ Directive 95/46/EC, more commonly known as the "Data Protection Directive (DPD)"
 
 ## Sources
 
-- EUR-Lex. (n.d.). **. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A31995L0046
+- EUR-Lex. (n.d.). *Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data*. https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A31995L0046
