@@ -431,6 +431,7 @@ The flexibility of allocating resources as needed for immediate usage, instead o
 ==- Elasticsearch, Logstash, Kibana (ELK)
 ==- Electronic Communication Privacy Act (ECPA)
 ==- Electronic Health Records (EHR)
+==- Electronic Protected Health Information (ePHI)
 ==- Electronically Stored Information (ESI)
 ==- Encrypting File System (EFS)
 ==- Enterprise Application

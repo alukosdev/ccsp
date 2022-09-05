@@ -10,6 +10,7 @@ tags: [privacy, united states]
 
 Short Form | Full Form
 :--- | :---
+ePHI | Electronic Protected Health Information
 HHS | Department of Health and Human Services
 HIPAA | Health Insurance Portability and Accountability Act
 HITECH | Health Information Technology for Economic and Clinical Health
@@ -21,7 +22,6 @@ OCR | Office for Civil Rights
 The Health Insurance Portability and Accountability Act of 1996 (HIPAA) was enacted to improve the efficiency and effectiveness of the nation’s health care system.
 
 The law includes provisions to establish national standards for electronic health care transactions and national identifiers for providers, health plans, and employers. It also defines requirements for the privacy and security of protected health information.
-
 
 ## Rules
 
@@ -61,8 +61,7 @@ The HIPAA Breach Notification Rule requires HIPAA covered entities and their bus
 
 ## Enforcement
 
-- The DHHS is in charge of managing HIPAA.
-- The OCR is the federal enforcement arm of the DHHS.
+- HHS' Office for Civil Rights (OCR) is responsible for enforcing the Privacy and Security Rules.
 
 ## Noteworthy
 
@@ -77,5 +76,5 @@ The HIPAA Breach Notification Rule requires HIPAA covered entities and their bus
 - https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html
 - https://www.hhs.gov/hipaa/for-professionals/security/index.html
 - https://www.hhs.gov/hipaa/for-professionals/special-topics/enforcement-rule/index.html
-- 
+- https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/combined-regulation-text/omnibus-hipaa-rulemaking/index.html
 - https://www.hhs.gov/hipaa/for-professionals/breach-notification/index.html
