@@ -1,14 +1,13 @@
 ---
 categories: [Laws, Privacy Laws, EU/EEA Laws]
-icon: alert
 tags: [eea, eu, privacy]
 ---
 
-!!!warning
-This page is currently under revision.
-!!!
-
 # Directive 95/46/EC
+
+!!!danger
+Directive 95/46/EC is repealed with effect from 25 May 2018.
+!!!
 
 ## Acronyms, Abbreviations, and Initialisms
 
@@ -19,7 +18,7 @@ OECD | Organization for Economic Cooperation and Development
 
 ## Overview
 
-Directive 95/46/EC, also known as the EuropEU Data Protection Directive of 1995, was the first major EU data privacy law. This overarching regulation describes the appropriate handling of personal and private information of all EU citizens. Any entity gathering the PII of any citizen of the EU is subject to the Data Directive. This includes by either automated or paper means.
+Directive 95/46/EC, also known as the "European Union (EU) Data Protection Directive of 1995," was the first major EU data privacy law. This overarching regulation describes the appropriate handling of personal and private information of all EU citizens. Any entity gathering the PII of any citizen of the EU is subject to the Data Directive. This includes by either automated or paper means.
 
 It does *not* apply to the processing of data in these instances:
 
@@ -51,4 +50,9 @@ The Data Directive addresses individual personal privacy by codifying these seve
 These principles largely conforms to a set of principles created by the OECD.
 
 ## Noteworthy
+
+- [x] The Data Protection Directive of 1995 was the *first* major EU data privacy law.
+
+## Sources
+
 
