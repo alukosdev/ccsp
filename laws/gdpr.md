@@ -40,31 +40,44 @@ The articles of the GDPR are split into several chapters, each of which has thei
 
 ### Principles
 
+Chapter 2 of the GDPR is titled "Principles." The principles contained within the GDPR include:
 
-
-!!!danger
-I do not know where the following principles. They may be components somewhere within the regulation, but they're *not* the principles.
-
-- The concept of consent
-- Transfers abroad
-- The right to be forgotten (also known as right of erasure)
-- Establishment of the role of the data protection officer
-- Access requests
-- Home state regulation
-- Increased sanctions
-!!!
-
-To be able to demonstrate compliance with the GDPR, the data controller should implement measures, which meet the principles of data protection by design and data protection by default.
-
-Privacy by design and by default require data protection measures to be designed into the development of business processes for products and services. Such measures include pseudonymizing personal data, by the controller, as soon as possible.
-
-Each member state will establish an independent SA to hear and investigate complaints, sanction administrative offenses, etc.
+- Article 5 - Principles relating to processing of personal data
+- Article 6 - Lawfulness of processing
+- Article 7 - Conditions for consent
+- Article 8 - Conditions applicable to child's consent in relation to information society services
+- Article 9 - Processing of special categories of personal data
+- Article 10 - Processing of personal data relating to criminal convictions and offences
+- Article 11 - Processing which does not require identification
 
 ### Rights
 
-### Breaches of Security
+Chapter 3 of the GDPR is titled "Rights of the data subject." The rights of the data subject contained within the GDPR include:
 
-The GDPR requires companies to report that they have suffered a breach of security. The reporting requirements are risk-based, and there are different requirements for reporting the breach to the Supervisory Authority and to the affected data subjects. Breaches must be reported within 72 hours of the company becoming aware of the incident.
+- Article 12 - Transparent information, communication and modalities for the exercise of the rights of the data subject
+- Article 13 - Information to be provided where personal data are collected from the data subject
+- Article 14 - Information to be provided where personal data have not been obtained from the data subject
+- Article 15 - Right of access by the data subject
+- Article 16 - Right to rectification
+- Article 17 - Right to erasure ('right to be forgotten')
+- Article 18 - Right to restriction of processing
+- Article 19 - Notification obligation regarding rectification or erasure of personal data or restriction of processing
+- Article 20 - Right to data portability
+- Article 21 - Right to object
+- Article 22 - Automated individual decision-making, including profiling
+- Article 23 - Restrictions
+
+### Roles
+
+Chapter 4 of the GDPR is titled "Controller and processor." While this chapter is concerned with general obligations, security of personal data, and data protection, it's particularly important to highlight Article 33:
+
+- Article 33 - Notification of a personal data breach to the supervisory authority
+
+==- Article 33 - Notification of a personal data breach to the supervisory authority
+
+In the case of a personal data breach, the controller shall without undue delay and, where feasible, not later than 72 hours after having become aware of it, notify the personal data breach to the supervisory authority.
+
+==-
 
 ## Recitals
 
@@ -101,3 +114,20 @@ United States | No [!badge variant="danger" text="Noncompliant"]
 ## Sources
 
 - 
+
+## Unknown/Old Content/To Be Cleaned
+
+- The concept of consent
+- Transfers abroad
+- The right to be forgotten (also known as right of erasure)
+- Establishment of the role of the data protection officer
+- Access requests
+- Home state regulation
+- Increased sanctions
+!!!
+
+To be able to demonstrate compliance with the GDPR, the data controller should implement measures, which meet the principles of data protection by design and data protection by default.
+
+Privacy by design and by default require data protection measures to be designed into the development of business processes for products and services. Such measures include pseudonymizing personal data, by the controller, as soon as possible.
+
+Each member state will establish an independent SA to hear and investigate complaints, sanction administrative offenses, etc.
