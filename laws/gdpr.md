@@ -16,6 +16,7 @@ This page is under active and **heavy** revision. We are hoping to have this com
 Short Form | Full Form
 :--- | :---
 EEA | European Economic Area
+EFTA | European Free Trade Association
 EU | European Union
 GDPR | General Data Protection Regulation
 
@@ -110,8 +111,8 @@ Governing Body | Status
 :--- | :---
 Australia | [!badge variant="success" text="Compliant"]
 Canada | [!badge variant="success" text="Compliant"]
-EFTA | [!badge variant="success" text="Compliant"]
-EU | [!badge variant="success" text="Compliant"]
+European Free Trade Association | [!badge variant="success" text="Compliant"]
+European Union | [!badge variant="success" text="Compliant"]
 Israel | [!badge variant="success" text="Compliant"]
 Japan | [!badge variant="success" text="Compliant"]
 United States | [!badge variant="danger" text="Noncompliant"]
