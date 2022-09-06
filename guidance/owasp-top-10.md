@@ -83,16 +83,16 @@ The OWASP Top 10 is a standard awareness document for developers and web applica
 
 ### Top 10:2021
 
-- A01 [Broken Access Control](#a01-broken-access-control)
-- A02 [Cryptographic Failures](#a02-cryptographic-failures)
-- A03 [Injection](#a03-injection)
-- A04 [Insecure Design](#a04-insecure-design)
-- A05 [Security Misconfiguration](#a05-security-misconfiguration)
-- A06 [Vulnerable and Outdated Components](#a06-vulnerable-and-outdated-components)
-- A07 [Identification and Authentication Failures](#a07-identification-and-authentication-failures)
-- A08 [Software and Data Integrity Failures](#a08-software-and-data-integrity-failures)
-- A09 [Security Logging and Monitoring Failures](#a09-security-logging-and-monitoring-failures)
-- A10 [Server-Side Request Forgery (SSRF)](#a10-server-side-request-forgery-ssrf)
+- [A01 Broken Access Control](#a01-broken-access-control)
+- [A02 Cryptographic Failures](#a02-cryptographic-failures)
+- [A03 Injection](#a03-injection)
+- [A04 Insecure Design](#a04-insecure-design)
+- [A05 Security Misconfiguration](#a05-security-misconfiguration)
+- [A06 Vulnerable and Outdated Components](#a06-vulnerable-and-outdated-components)
+- [A07 Identification and Authentication Failures](#a07-identification-and-authentication-failures)
+- [A08 Software and Data Integrity Failures](#a08-software-and-data-integrity-failures)
+- [A09 Security Logging and Monitoring Failures](#a09-security-logging-and-monitoring-failures)
+- [A10 Server-Side Request Forgery (SSRF)](#a10-server-side-request-forgery-ssrf)
 
 ==- A01 Broken Access Control
 

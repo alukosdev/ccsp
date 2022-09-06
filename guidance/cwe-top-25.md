@@ -46,7 +46,7 @@ Name | Release Date
 Rank | ID | Name { class="compact" }
 :--- | :--- | :---
 1 | CWE-787 | Out-of-bounds Write
-2 | CWE-79 | 	Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')
+2 | CWE-79 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')
 3 | CWE-89 | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')
 4 | CWE-20 | Improper Input Validation
 5 | CWE-125 | Out-of-bounds Read
