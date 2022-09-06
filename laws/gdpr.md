@@ -114,7 +114,7 @@ EFTA | [!badge variant="success" text="Compliant"]
 EU | [!badge variant="success" text="Compliant"]
 Israel | [!badge variant="success" text="Compliant"]
 Japan | [!badge variant="success" text="Compliant"]
-United States | No [!badge variant="danger" text="Noncompliant"]
+United States | [!badge variant="danger" text="Noncompliant"]
 
 ## Noteworthy
 
