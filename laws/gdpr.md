@@ -38,7 +38,7 @@ The articles of the GDPR are split into several chapters, each of which has thei
 - Chapter 2: Principles (articles 5-11)
 - Chapter 3: Rights of the data subject (articles 12-23)
 
-### Principles
+### Chapter 2: Principles
 
 Chapter 2 of the GDPR is titled "Principles." The principles contained within the GDPR include:
 
@@ -50,7 +50,7 @@ Chapter 2 of the GDPR is titled "Principles." The principles contained within th
 - Article 10 - Processing of personal data relating to criminal convictions and offences
 - Article 11 - Processing which does not require identification
 
-### Rights
+### Chapter 3: Rights of the data subject
 
 Chapter 3 of the GDPR is titled "Rights of the data subject." The rights of the data subject contained within the GDPR include:
 
@@ -67,7 +67,7 @@ Chapter 3 of the GDPR is titled "Rights of the data subject." The rights of the 
 - Article 22 - Automated individual decision-making, including profiling
 - Article 23 - Restrictions
 
-### Roles
+### Chapter 4: Controller and processor
 
 Chapter 4 of the GDPR is titled "Controller and processor." While this chapter is concerned with general obligations, security of personal data, and data protection, it's particularly important to highlight Article 33:
 
@@ -76,6 +76,8 @@ Chapter 4 of the GDPR is titled "Controller and processor." While this chapter i
 ==- Article 33 - Notification of a personal data breach to the supervisory authority
 
 In the case of a personal data breach, the controller shall without undue delay and, where feasible, not later than 72 hours after having become aware of it, notify the personal data breach to the supervisory authority.
+
+https://gdpr.eu/article-33-notification-of-a-personal-data-breach/
 
 ==-
 
