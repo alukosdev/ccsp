@@ -244,7 +244,6 @@ RPO | [Recovery Point Objective](/terminology/glossary/#recovery-point-objective
 RSL | [Recovery Service Level](/terminology/glossary/#recovery-service-level-rsl)
 RSO | [Reduced Sign-On](/terminology/glossary/#reduced-sign-on-rso)
 RTO | [Recovery Time Objective](/terminology/glossary/#recovery-time-objective-rto)
-SA | Supervisory Authority
 SaaS | Software-as-a-Service
 SABSA | Sherwood Applied Business Security Architecture
 SAD | [Sensitive Authentication Data](/terminology/glossary/#sensitive-authentication-data-sad)

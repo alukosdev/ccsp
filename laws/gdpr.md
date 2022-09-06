@@ -18,7 +18,6 @@ Short Form | Full Form
 EEA | European Economic Area
 EU | European Union
 GDPR | General Data Protection Regulation
-SA | Supervisory Authority
 
 ## Overview
 
