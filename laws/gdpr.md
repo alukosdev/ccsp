@@ -69,31 +69,23 @@ Chapter 3 of the GDPR is titled "Rights of the data subject." The rights of the 
 
 ### Chapter 4: Controller and processor
 
-Chapter 4 of the GDPR is titled "Controller and processor." While this chapter is concerned with general obligations, security of personal data, and data protection, it's particularly important to highlight Article 33:
+Chapter 4 of the GDPR is titled "Controller and processor." This chapter is concerned with general obligations, security of personal data, and data protection. It's particularly important to highlight the following article from this chapter:
 
-- Article 33 - Notification of a personal data breach to the supervisory authority
+=== Article 33 - Notification of a personal data breach to the supervisory authority
 
-==- Article 33 - Notification of a personal data breach to the supervisory authority
+In the case of a personal data breach, the controller shall without undue delay and, where feasible, not later than 72 hours after having become aware of it, notify the personal data breach to the supervisory authority. https://gdpr.eu/article-33-notification-of-a-personal-data-breach/
 
-In the case of a personal data breach, the controller shall without undue delay and, where feasible, not later than 72 hours after having become aware of it, notify the personal data breach to the supervisory authority.
-
-https://gdpr.eu/article-33-notification-of-a-personal-data-breach/
-
-==-
+===
 
 ## Recitals
 
-The GDPR contains 173 recitals. Covered on this page include:
+The GDPR contains 173 recitals. The following recital lays the framework upon which GDPR is established:
 
-- [Recital 1 - Data protection as a fundamental right](#recital-1-data-protection-as-a-fundamental-right)
+=== Recital 1 - Data protection as a fundamental right
 
-==- Recital 1 - Data protection as a fundamental right
+The protection of natural persons in relation to the processing of personal data is a fundamental right. Article 8(1) of the Charter of Fundamental Rights of the European Union (the 'Charter') and Article 16(1) of the Treaty on the Functioning of the European Union (TFEU) provide that everyone has the right to the protection of personal data concerning him or her. https://gdpr.eu/recital-1-data-protection-as-a-fundamental-right/
 
-The protection of natural persons in relation to the processing of personal data is a fundamental right. Article 8(1) of the Charter of Fundamental Rights of the European Union (the 'Charter') and Article 16(1) of the Treaty on the Functioning of the European Union (TFEU) provide that everyone has the right to the protection of personal data concerning him or her.
-
-==-
-
-https://gdpr.eu/recital-1-data-protection-as-a-fundamental-right/
+===
 
 ## Consequences
 
