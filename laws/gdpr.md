@@ -104,7 +104,7 @@ Governing Body | Status
 :--- | :---
 Australia | [!badge variant="success" text="Compliant"]
 Canada | [!badge variant="success" text="Compliant"]
-European Free Trade Association | [!badge variant="success" text="Compliant"]
+EFTA | [!badge variant="success" text="Compliant"]
 European Union | [!badge variant="success" text="Compliant"]
 Israel | [!badge variant="success" text="Compliant"]
 Japan | [!badge variant="success" text="Compliant"]
@@ -125,7 +125,6 @@ United States | [!badge variant="danger" text="Noncompliant"]
 - Access requests
 - Home state regulation
 - Increased sanctions
-!!!
 
 To be able to demonstrate compliance with the GDPR, the data controller should implement measures, which meet the principles of data protection by design and data protection by default.
 
