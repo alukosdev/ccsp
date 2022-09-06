@@ -96,7 +96,13 @@ https://gdpr.eu/recital-1-data-protection-as-a-fundamental-right/
 
 ## Consequences
 
-Violations of the GDPR expose a company to significant sanctions. These sanctions may reach up to the greater of 4% of their global turnover or gross income, or up to EUR 20 million.
+The GDPR states explicitly that some violations are more severe than others and defines two tiers of severity.
+
+The less severe infringements could result in a fine of up to €10 million, or 2% of the firm’s worldwide annual revenue from the preceding financial year, whichever amount is higher.
+
+The more serious infringements go against the very principles of the right to privacy and the right to be forgotten that are at the heart of the GDPR. These types of infringements could result in a fine of up to €20 million, or 4% of the firm’s worldwide annual revenue from the preceding financial year, whichever amount is higher.
+
+https://gdpr.eu/fines/
 
 ## Adoption
 
