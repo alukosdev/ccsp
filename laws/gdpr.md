@@ -106,7 +106,7 @@ https://gdpr.eu/fines/
 
 ## Adoption
 
-Government | Status
+Governing Body | Status
 :--- | :---
 Australia | [!badge variant="success" text="Compliant"]
 Canada | [!badge variant="success" text="Compliant"]
