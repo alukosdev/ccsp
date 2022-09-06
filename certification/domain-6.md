@@ -24,9 +24,9 @@ label: Domain 6
   - Personally identifiable information (PII)
 - Jurisdictional differences in data privacy
 - Standard privacy requirements
-  - International Organization for Standardization/International Electrotechnical Commission (ISO/IEC) 27018
-  - Generally Accepted Privacy Principles (GAPP)
-  - General Data Protection Regulation (GDPR)
+  - [International Organization for Standardization/International Electrotechnical Commission (ISO/IEC) 27018](/standards/iso-iec-27018-2019.md)
+  - [Generally Accepted Privacy Principles (GAPP)](/frameworks/aicpa-cica-gapp.md)
+  - [General Data Protection Regulation (GDPR)](/laws/gdpr.md)
 - Privacy Impact Assessments (PIA)
 
 ## 6.3 Understand audit process, methodologies, and required adaptations for a cloud environment
@@ -54,8 +54,8 @@ label: Domain 6
 - Identification and involvement of relevant stakeholders
 - Specialized compliance requirements for highly-regulated industries
   - North American Electric Reliability Corporation / Critical Infrastructure Protection (NERC / CIP)
-  - Health Insurance Portability and Accountability Act (HIPAA)
-  - Health Information Technology for Economic and Clinical Health (HITECH) Act
+  - [Health Insurance Portability and Accountability Act (HIPAA)](/laws/hipaa.md)
+  - [Health Information Technology for Economic and Clinical Health (HITECH) Act](/laws/hitech.md)
   - Payment Card Industry (PCI)
 - Impact of distributed information technology (IT) model
   - Diverse geographical locations and crossing over legal jurisdictions
@@ -71,8 +71,8 @@ label: Domain 6
 - Difference between data owner/controller vs. data custodian/processor
 - Regulatory transparency requirements
   - Breach notification
-  - Sarbanes-Oxley (SOX)
-  - General Data Protection Regulation (GDPR)
+  - [Sarbanes-Oxley (SOX)](/laws/sox.md)
+  - [General Data Protection Regulation (GDPR)](/laws/gdpr.md)
 - Risk treatment
   - Avoid
   - Mitigate
@@ -109,7 +109,7 @@ label: Domain 6
   - Access to cloud/data
   - Cyber risk insurance
 - Supply-chain management
-  - International Organization for Standardization/International Electrotechnical Commission (ISO/IEC) 27036
+  - [International Organization for Standardization/International Electrotechnical Commission (ISO/IEC) 27036](/standards/iso-iec-27036-2021.md)
 
 ## Sources
 
