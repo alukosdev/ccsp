@@ -981,7 +981,6 @@ Works with a local service to store or archive data to secondary storage using a
 ==- Stored Communication Act (SCA)
 ==- STRIDE
 ==- Structured Storage
-==- Supervisory Authority (SA)
 ==- System and Organization Controls (SOC)
 ==- System for Cross-domain Identity Management (SCIM)
 SCIM is a standard for exchanging identity information between domains. It can be used for provisioning and deprovisioning accounts in external systems and for exchanging attribute information.
