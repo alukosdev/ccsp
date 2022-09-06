@@ -94,7 +94,7 @@ label: Domain 6
   - Master service agreement (MSA)
   - Statement of work (SOW)
 - Vendor management
-  - Vvendor assessments
+  - Vendor assessments
   - Vendor lock-in risks
   - Vendor viability
   - Escrow
