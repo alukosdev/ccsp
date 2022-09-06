@@ -84,7 +84,7 @@ https://gdpr.eu/article-33-notification-of-a-personal-data-breach/
 
 The GDPR contains 173 recitals. Covered on this page include:
 
-- Recital 1 - [Data protection as a fundamental right](#data-protection-as-a-fundamental-right)
+- [Recital 1 - Data protection as a fundamental right](#recital-1-data-protection-as-a-fundamental-right)
 
 ==- Recital 1 - Data protection as a fundamental right
 
