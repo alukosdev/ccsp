@@ -76,6 +76,10 @@ This chapter is concerned with general obligations, security of personal data, a
 
 In the case of a personal data breach, the controller shall without undue delay and, where feasible, not later than 72 hours after having become aware of it, notify the personal data breach to the supervisory authority. https://gdpr.eu/article-33-notification-of-a-personal-data-breach/
 
+=== Article 37 - Designation of the data protection officer
+
+Add content here... https://gdpr.eu/article-37-designation-of-the-data-protection-officer/
+
 ===
 
 ## Recitals
