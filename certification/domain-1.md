@@ -124,10 +124,10 @@ label: Domain 1
 
 - Evaluate cloud service providers
 - Verification against criteria
-  - International Organization for Standardization/International Electrotechnical Commission (ISO/IEC) 27017
-  - Payment Card Industry Data Security Standard (PCI DSS)
+  - [International Organization for Standardization/International Electrotechnical Commission (ISO/IEC) 27017](/standards/iso-iec-27017-2015.md)
+  - [Payment Card Industry Data Security Standard (PCI DSS)](/standards/pci-dss.md)
 - System/subsystem product certifications
-  - Common Criteria (CC)
+  - [Common Criteria (CC)](/standards/iso-iec-15408-2009.md)
   - [Federal Information Processing Standard (FIPS) 140-2](/standards/nist-fips-140-2.md)
 
 ## Sources
