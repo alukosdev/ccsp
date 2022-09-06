@@ -128,7 +128,7 @@ label: Domain 1
   - Payment Card Industry Data Security Standard (PCI DSS)
 - System/subsystem product certifications
   - Common Criteria (CC)
-  - Federal Information Processing Standard (FIPS) 140-2
+  - [Federal Information Processing Standard (FIPS) 140-2](/standards/nist-fips-140-2.md)
 
 ## Sources
 
