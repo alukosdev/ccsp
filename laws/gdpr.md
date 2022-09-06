@@ -15,6 +15,7 @@ This page is under active and **heavy** revision. We are hoping to have this com
 
 Short Form | Full Form
 :--- | :---
+DPD | Data Protection Directive
 EEA | European Economic Area
 EFTA | European Free Trade Association
 EU | European Union
@@ -24,7 +25,7 @@ GDPR | General Data Protection Regulation
 
 The General Data Protection Regulation (GDPR) is a strict data privacy law that was adopted by the European Union (EU) in 2016 and went into effect on May 25, 2018. Though it was drafted and passed by the EU and is binding on all EU member states and members of the European Economic Area (EEA), it applies to any organization targeting or collecting data related to people in the EU. https://gdpr.eu/what-is-gdpr/
 
-The GDPR consists of two components: the articals and recitals.
+The GDPR consists of two components: the articles and recitals.
 
 - The articles constitute the legal requirements organizations must follow to demonstrate compliance.
 - The recitals provide additional information and supporting context to supplement the articles.
@@ -33,7 +34,7 @@ https://www.americanbar.org/groups/litigation/committees/minority-trial-lawyer/p
 
 ## Articles
 
-The articles of the GDPR are split into several chapters, each of which has their own title. Covered on this page include:
+The GDPR contains 99 articles. These articles are split into several chapters. Covered on this page include:
 
 - [Chapter 2: Principles](#chapter-2-principles)
 - [Chapter 3: Rights of the data subject](#chapter-3-rights-of-the-data-subject)
@@ -60,7 +61,7 @@ The rights of the data subject contained within the GDPR include:
 - Article 14 - Information to be provided where personal data have not been obtained from the data subject
 - Article 15 - Right of access by the data subject
 - Article 16 - Right to rectification
-- Article 17 - Right to erasure ('right to be forgotten')
+- Article 17 - Right to erasure ("right to be forgotten")
 - Article 18 - Right to restriction of processing
 - Article 19 - Notification obligation regarding rectification or erasure of personal data or restriction of processing
 - Article 20 - Right to data portability
@@ -74,11 +75,16 @@ This chapter is concerned with general obligations, security of personal data, a
 
 === Article 33 - Notification of a personal data breach to the supervisory authority
 
-In the case of a personal data breach, the controller shall without undue delay and, where feasible, not later than 72 hours after having become aware of it, notify the personal data breach to the supervisory authority. https://gdpr.eu/article-33-notification-of-a-personal-data-breach/
+1. In the case of a personal data breach, the controller shall without undue delay and, where feasible, not later than 72 hours after having become aware of it, notify the personal data breach to the supervisory authority. https://gdpr.eu/article-33-notification-of-a-personal-data-breach/
 
 === Article 37 - Designation of the data protection officer
 
-Add content here... https://gdpr.eu/article-37-designation-of-the-data-protection-officer/
+1. The controller and the processor shall designate a data protection officer in any case where:
+a. the processing is carried out by a public authority or body, except for courts acting in their judicial capacity;
+b. the core activities of the controller or the processor consist of processing operations which, by virtue of their nature, their scope and/or their purposes, require regular and systematic monitoring of data subjects on a large scale; or
+c. the core activities of the controller or the processor consist of processing on a large scale of special categories of data.
+
+https://gdpr.eu/article-37-designation-of-the-data-protection-officer/
 
 ===
 
@@ -94,7 +100,7 @@ The protection of natural persons in relation to the processing of personal data
 
 ## Consequences
 
-The GDPR states explicitly that some violations are more severe than others and defines two tiers of severity.
+The GDPR states explicitly that some violations are more severe than others.
 
 The less severe infringements could result in a fine of up to €10 million, or 2% of the firm’s worldwide annual revenue from the preceding financial year, whichever amount is higher.
 
@@ -116,22 +122,15 @@ United States | [!badge variant="danger" text="Noncompliant"]
 
 ## Noteworthy
 
+- [x] The EU considers data protection a fundamental human right.
+- [x] The GDPR repeals and supersedes the [Data Protection Directive (DPD, Directive 95/46/EC)](/laws/directive-95-46-ec.md).
+- [x] The GDPR applies to any organization targeting or collecting data related to people in the EU.
+- [x] The GDPR contains 99 articles and 173 recitals.
+- [x] The GDPR requires that the data subject must consent to processing of his or her personal data.
+- [x] The GDPR includes the right to be forgotten.
+- [x] The GDPR mandates that the appropriate authorities are notified within 72 hours in the instance of a data breach.
+- [x] The GDPR establishes the role of the data protection officer.
+
 ## Sources
 
 - 
-
-## Unknown/Old Content/To Be Cleaned
-
-- The concept of consent
-- Transfers abroad
-- The right to be forgotten (also known as right of erasure)
-- Establishment of the role of the data protection officer
-- Access requests
-- Home state regulation
-- Increased sanctions
-
-To be able to demonstrate compliance with the GDPR, the data controller should implement measures, which meet the principles of data protection by design and data protection by default.
-
-Privacy by design and by default require data protection measures to be designed into the development of business processes for products and services. Such measures include pseudonymizing personal data, by the controller, as soon as possible.
-
-Each member state will establish an independent SA to hear and investigate complaints, sanction administrative offenses, etc.
