@@ -35,8 +35,9 @@ https://www.americanbar.org/groups/litigation/committees/minority-trial-lawyer/p
 
 The articles of the GDPR are split into several chapters, each of which has their own title. Covered on this page include:
 
-- Chapter 2: Principles (articles 5-11)
-- Chapter 3: Rights of the data subject (articles 12-23)
+- [Chapter 2: Principles](#chapter-2-principles)
+- [Chapter 3: Rights of the data subject](#chapter-3-rights-of-the-data-subject)
+- [Chapter 4: Controller and processor](#chapter-4-controller-and-processor)
 
 ### Chapter 2: Principles
 
@@ -69,7 +70,7 @@ Chapter 3 of the GDPR is titled "Rights of the data subject." The rights of the 
 
 ### Chapter 4: Controller and processor
 
-Chapter 4 of the GDPR is titled "Controller and processor." This chapter is concerned with general obligations, security of personal data, and data protection. It's particularly important to highlight the following article from this chapter:
+Chapter 4 of the GDPR is titled "Controller and processor." This chapter is concerned with general obligations, security of personal data, and data protection. However, it's particularly important to highlight the following article from this chapter:
 
 === Article 33 - Notification of a personal data breach to the supervisory authority
 
