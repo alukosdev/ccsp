@@ -41,7 +41,7 @@ The articles of the GDPR are split into several chapters, each of which has thei
 
 ### Chapter 2: Principles
 
-Chapter 2 of the GDPR is titled "Principles." The principles contained within the GDPR include:
+The principles contained within the GDPR include:
 
 - Article 5 - Principles relating to processing of personal data
 - Article 6 - Lawfulness of processing
@@ -53,7 +53,7 @@ Chapter 2 of the GDPR is titled "Principles." The principles contained within th
 
 ### Chapter 3: Rights of the data subject
 
-Chapter 3 of the GDPR is titled "Rights of the data subject." The rights of the data subject contained within the GDPR include:
+The rights of the data subject contained within the GDPR include:
 
 - Article 12 - Transparent information, communication and modalities for the exercise of the rights of the data subject
 - Article 13 - Information to be provided where personal data are collected from the data subject
@@ -70,7 +70,7 @@ Chapter 3 of the GDPR is titled "Rights of the data subject." The rights of the 
 
 ### Chapter 4: Controller and processor
 
-Chapter 4 of the GDPR is titled "Controller and processor." This chapter is concerned with general obligations, security of personal data, and data protection. However, it's particularly important to highlight the following article from this chapter:
+This chapter is concerned with general obligations, security of personal data, and data protection. For example:
 
 === Article 33 - Notification of a personal data breach to the supervisory authority
 
@@ -80,7 +80,7 @@ In the case of a personal data breach, the controller shall without undue delay 
 
 ## Recitals
 
-The GDPR contains 173 recitals. The following recital lays the framework upon which GDPR is established:
+The GDPR contains 173 recitals. It's particularly important to highlight the following recital as it lays the framework upon which GDPR is established:
 
 === Recital 1 - Data protection as a fundamental right
 
