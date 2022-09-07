@@ -1,10 +1,10 @@
 ---
 categories: [Standards, Auditing and Assurance Standards]
-icon: stop
+icon: alert
 ---
 
-!!!danger
-This page has not yet been revised for 2022.
+!!!warning
+This page is queued for revision.
 !!!
 
 # Shared Assessments

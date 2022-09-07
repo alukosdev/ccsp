@@ -1,11 +1,11 @@
 ---
 categories: [Standards, Data Center Design Standards]
-icon: stop
+icon: alert
 tags: [nfpa]
 ---
 
-!!!danger
-This page has not yet been revised for 2022.
+!!!warning
+This page is queued for revision.
 !!!
 
 # NFPA 75 and 76
