@@ -1,13 +1,8 @@
 ---
 categories: [Laws, Privacy Laws, EU/EEA Laws]
-icon: alert
 label: GDPR
 tags: [eea, eu, privacy]
 ---
-
-!!!warning
-This page is under active and **heavy** revision. We are hoping to have this completely updated by 2022/09/06. Thanks for your patience!
-!!!
 
 # General Data Protection Regulation (GDPR)
 
