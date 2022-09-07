@@ -30,6 +30,6 @@ Name | Alternative Name(s) | Category | Origin | Enforcement | Status { class="c
 [PDPA](/laws/pdpa.md) | Personal Data Protection Act 25.326 | [Privacy Laws](/categories/privacy-laws/) | Argentina | AAIP | [!badge variant="success" text="In Force"]
 [PIPEDA](/laws/pipeda.md) | Personal Information Protection and Electronic Document Act | [Privacy Laws](/categories/privacy-laws/) | Canada | OPC | [!badge variant="success" text="In Force"]
 [Privacy Act 1988](/laws/privacy-act-1988.md) | Australian Privacy Act | [Privacy Laws](/categories/privacy-laws/) | Australia | OAIC | [!badge variant="success" text="In Force"]
-[Privacy Shield](/laws/privacy-shield.md) | EU-U.S. Privacy Shield Framework, Swiss-U.S. Privacy Shield Framework | [Privacy Laws](/categories/privacy-laws/) | U.S. | FTC/DOT | [!badge variant="warning" text="Invalid"]
+[Privacy Shield](/laws/privacy-shield.md) | EU-U.S. Privacy Shield Framework <br> Swiss-U.S. Privacy Shield Framework | [Privacy Laws](/categories/privacy-laws/) | U.S. | FTC/DOT | [!badge variant="warning" text="Invalid"]
 [SOX](/laws/sox.md) | Sarbanes-Oxley Act | | U.S. | SEC | [!badge variant="success" text="In Force"]
 [TADP Framework](/laws/tadp-framework.md) | Trans-Atlantic Data Privacy Framework | [Privacy Laws](/categories/privacy-laws/) | U.S. | N/A | [!badge variant="primary" text="In Progress"]
