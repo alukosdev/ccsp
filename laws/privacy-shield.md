@@ -12,7 +12,7 @@ On September 8, 2020 the Federal Data Protection and Information Commissioner (F
 
 The CJEU found that Privacy Shield failed to meet EU data protection standards given the breadth of U.S. data collection powers authorized in U.S. electronic surveillance laws and the lack of redress options for EU citizens. The CJEU ruling also increased due diligence requirements for data exporters using another EU mechanism—standard contractual clauses (SCCs)—to transfer personal data to the United States.
 
-On March 25, 2022, the U.S. and the EU announced a political agreement on a new [Trans-Atlantic Data Privacy (TADP)](/laws/tadp-framework.md) Framework to safeguard commercial cross-border data flows.
+On March 25, 2022, the U.S. and the EU announced a political agreement on a new [Trans-Atlantic Data Privacy (TADP) Framework](/laws/tadp-framework.md) to safeguard commercial cross-border data flows.
 !!!
 
 ## Acronyms, Abbreviations, and Initialisms
