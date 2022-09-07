@@ -17,7 +17,7 @@ Name | Alternative Name | Category | Area of Impact | Enforcement Arm | Status {
 [Directive 2016/1148](/laws/directive-2016-1148.md) | NIS Directive | [Privacy Laws](/categories/privacy-laws) | EU/EEA | | [!badge variant="success" text="In Force"]
 [DMCA](/laws/dmca.md) | Digital Millenium Copyright Act | [Copyright Laws](/categories/copyright-laws/) | United States | Copyright Owner | [!badge variant="success" text="In Force"]
 [EAR](/laws/ear.md) | Export Administration Regulations | [Export Control Laws](/categories/export-control-laws/) | United States | BIS | [!badge variant="success" text="In Force"]
-[ECPA](/laws/ecpa.md) | Electronic Communication Privacy Act | [Privacy Laws](/categories/privacy-laws/) | United States | [!badge variant="success" text="In Force"]
+[ECPA](/laws/ecpa.md) | Electronic Communication Privacy Act | [Privacy Laws](/categories/privacy-laws/) | United States | | [!badge variant="success" text="In Force"]
 [FADP](/laws/fadp.md) | Data Protection Act | [Privacy Laws](/categories/privacy-laws/) | Switzerland | FDPIC | [!badge variant="success" text="In Force"]
 [Federal Law No. 242-FZ](/laws/federal-law-no-242-fz.md) | Russian Data Localization Law | [Privacy Laws](/categories/privacy-laws/) | | Russia | [!badge variant="success" text="In Force"]
 [FERPA](/laws/ferpa.md) | Family Educational Rights and Privacy Act | [Privacy Laws](/categories/privacy-laws/) | United States | DOE | [!badge variant="success" text="In Force"]
