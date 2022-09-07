@@ -18,7 +18,7 @@ Name | Alternative Name(s) | Category | Origin | Enforcement | Status { class="c
 [DMCA](/laws/dmca.md) | Digital Millenium Copyright Act | [Copyright Laws](/categories/copyright-laws/) | U.S. | Copyright Owner | [!badge variant="success" text="In Force"]
 [EAR](/laws/ear.md) | Export Administration Regulations | [Export Control Laws](/categories/export-control-laws/) | U.S. | BIS | [!badge variant="success" text="In Force"]
 [ECPA](/laws/ecpa.md) | Electronic Communication Privacy Act | [Privacy Laws](/categories/privacy-laws/) | U.S. | | [!badge variant="success" text="In Force"]
-[FADP](/laws/fadp.md) | Federal Act on Data Protection <br> Data Protection Act | [Privacy Laws](/categories/privacy-laws/) | Switzerland | FDPIC | [!badge variant="success" text="In Force"]
+[FADP](/laws/fadp.md) | Federal Act on Data Protection | [Privacy Laws](/categories/privacy-laws/) | Switzerland | FDPIC | [!badge variant="success" text="In Force"]
 [Federal Law No. 242-FZ](/laws/federal-law-no-242-fz.md) | Russian Data Localization Law | [Privacy Laws](/categories/privacy-laws/) | Russia | Roskomnadzor | [!badge variant="success" text="In Force"]
 [FERPA](/laws/ferpa.md) | Family Educational Rights and Privacy Act | [Privacy Laws](/categories/privacy-laws/) | U.S. | DOE | [!badge variant="success" text="In Force"]
 [FISMA](/laws/fisma.md) | Federal Information Security Management Act | [Information Security Laws](/categories/information-security-laws/) | U.S. | DHS | [!badge variant="success" text="In Force"]
