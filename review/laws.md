@@ -11,7 +11,7 @@ You've landed upon a new page being designed specifically for the latest exam ob
 Name | Alternative Name | Category | Area of Impact | Enforcement Arm | Status { class="compact" }
 :--- | :---
 [COPPA](/laws/coppa.md) | Children's Online Privacy Protection Act | [Privacy Laws](/categories/privacy-laws/) | United States | FTC | [!badge variant="success" text="In Force"]
-[Directive 95/46/EC](/laws/directive-95-46-ec.md) | EU Data Protection Directive of 1995 | [Privacy Laws](/categories/privacy-laws) | EU/EEA | | [!badge variant="danger" text="Repealed"]
+[Directive 95/46/EC](/laws/directive-95-46-ec.md) | EU Data Protection Directive of 1995 | [Privacy Laws](/categories/privacy-laws) | EU/EEA | N/A | [!badge variant="danger" text="Repealed"]
 [Directive 2002/58/EC](/laws/directive-2002-58-ec.md) | ePrivacy Directive | [Privacy Laws](/categories/privacy-laws/) | EU/EEA | DPA | [!badge variant="success" text="In Force"]
 [Directive 2009/136/EC](/laws/directive-2009-136-ec.md) | Cookie Directive | [Privacy Laws](/categories/privacy-laws) | EU/EEA | DPA | [!badge variant="success" text="In Force"]
 [Directive 2016/1148](/laws/directive-2016-1148.md) | NIS Directive | [Privacy Laws](/categories/privacy-laws) | EU/EEA | ICO | [!badge variant="success" text="In Force"]
