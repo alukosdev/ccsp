@@ -23,14 +23,12 @@ GDPR | General Data Protection Regulation
 
 ## Overview
 
-The General Data Protection Regulation (GDPR) is a strict data privacy law that was adopted by the European Union (EU) in 2016 and went into effect on May 25, 2018. Though it was drafted and passed by the EU and is binding on all EU member states and members of the European Economic Area (EEA), it applies to any organization targeting or collecting data related to people in the EU. https://gdpr.eu/what-is-gdpr/
+The General Data Protection Regulation (GDPR) is a strict data privacy law that was adopted by the European Union (EU) in 2016 and went into effect on May 25, 2018. Though it was drafted and passed by the EU and is binding on all EU member states and members of the European Economic Area (EEA), it applies to any organization targeting or collecting data related to people in the EU.
 
 The GDPR consists of two components: the articles and recitals.
 
 - The articles constitute the legal requirements organizations must follow to demonstrate compliance.
 - The recitals provide additional information and supporting context to supplement the articles.
-
-https://www.americanbar.org/groups/litigation/committees/minority-trial-lawyer/practice/2019/a-very-brief-introduction-to-the-gdpr-recitals/#:~:text=As%20mentioned%2C%20the%20GDPR%20consists,context%20to%20supplement%20the%20articles.
 
 ## Articles
 
@@ -75,7 +73,7 @@ This chapter is concerned with general obligations, security of personal data, a
 
 === Article 33 - Notification of a personal data breach to the supervisory authority
 
-1. In the case of a personal data breach, the controller shall without undue delay and, where feasible, not later than 72 hours after having become aware of it, notify the personal data breach to the supervisory authority. https://gdpr.eu/article-33-notification-of-a-personal-data-breach/
+1. In the case of a personal data breach, the controller shall without undue delay and, where feasible, not later than 72 hours after having become aware of it, notify the personal data breach to the supervisory authority.
 
 === Article 37 - Designation of the data protection officer
 
@@ -83,8 +81,6 @@ This chapter is concerned with general obligations, security of personal data, a
     a. the processing is carried out by a public authority or body, except for courts acting in their judicial capacity;
     b. the core activities of the controller or the processor consist of processing operations which, by virtue of their nature, their scope and/or their purposes, require regular and systematic monitoring of data subjects on a large scale; or
     c. the core activities of the controller or the processor consist of processing on a large scale of special categories of data.
-
-https://gdpr.eu/article-37-designation-of-the-data-protection-officer/
 
 ===
 
@@ -94,7 +90,7 @@ The GDPR contains 173 recitals. It's particularly important to highlight the fol
 
 === Recital 1 - Data protection as a fundamental right
 
-The protection of natural persons in relation to the processing of personal data is a fundamental right. Article 8(1) of the Charter of Fundamental Rights of the European Union (the 'Charter') and Article 16(1) of the Treaty on the Functioning of the European Union (TFEU) provide that everyone has the right to the protection of personal data concerning him or her. https://gdpr.eu/recital-1-data-protection-as-a-fundamental-right/
+The protection of natural persons in relation to the processing of personal data is a fundamental right. Article 8(1) of the Charter of Fundamental Rights of the European Union (the 'Charter') and Article 16(1) of the Treaty on the Functioning of the European Union (TFEU) provide that everyone has the right to the protection of personal data concerning him or her.
 
 ===
 
@@ -105,8 +101,6 @@ The GDPR states explicitly that some violations are more severe than others.
 The less severe infringements could result in a fine of up to €10 million, or 2% of the firm’s worldwide annual revenue from the preceding financial year, whichever amount is higher.
 
 The more serious infringements go against the very principles of the right to privacy and the right to be forgotten that are at the heart of the GDPR. These types of infringements could result in a fine of up to €20 million, or 4% of the firm’s worldwide annual revenue from the preceding financial year, whichever amount is higher.
-
-https://gdpr.eu/fines/
 
 ## Adoption
 
@@ -133,4 +127,9 @@ United States | [!badge variant="danger" text="Noncompliant"]
 
 ## Sources
 
-- 
+- https://gdpr.eu/what-is-gdpr/
+- https://www.americanbar.org/groups/litigation/committees/minority-trial-lawyer/practice/2019/a-very-brief-introduction-to-the-gdpr-recitals/#:~:text=As%20mentioned%2C%20the%20GDPR%20consists,context%20to%20supplement%20the%20articles
+- https://gdpr.eu/article-33-notification-of-a-personal-data-breach/
+- https://gdpr.eu/article-37-designation-of-the-data-protection-officer/
+- https://gdpr.eu/recital-1-data-protection-as-a-fundamental-right/
+- https://gdpr.eu/fines/
