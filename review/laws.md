@@ -8,7 +8,7 @@ You've landed upon a new page being designed specifically for the latest exam ob
 
 # Laws
 
-Name | Alternative Name | Category | Area of Impact | Enforcement Arm | Status { class="compact" }
+Name | Alternative Name | Category | Origin | Enforcement | Status { class="compact" }
 :--- | :---
 [COPPA](/laws/coppa.md) | Children's Online Privacy Protection Act | [Privacy Laws](/categories/privacy-laws/) | United States | FTC | [!badge variant="success" text="In Force"]
 [Directive 95/46/EC](/laws/directive-95-46-ec.md) | EU Data Protection Directive of 1995 | [Privacy Laws](/categories/privacy-laws) | EU/EEA | N/A | [!badge variant="danger" text="Repealed"]
