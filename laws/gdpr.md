@@ -110,7 +110,7 @@ Israel | [!badge variant="success" text="Compliant"]
 Japan | [!badge variant="success" text="Compliant"]
 United States | [!badge variant="danger" text="Noncompliant"]
 
-Noncompliance with GDPR does not necessarily mean an organization cannot process the data of EU citizens. Rather, these entities must meet special conditions to ensure that they provide an adequate level of data protection. In the United States (U.S.), this was accomplished by joining and complying with the [Privacy Shield](/laws/privacy-shield.md). However, this rendered invalid in 2020 and a new agreement known as the [Trans-Atlantic Data Privacy (TADP) Framework](/laws/tadp-framework.md) has been announced.
+Noncompliance with GDPR does not necessarily mean an organization cannot process the data of EU citizens. Rather, these entities must meet special conditions to ensure that they provide an adequate level of data protection. In the United States (U.S.), this was accomplished by joining and complying with the [Privacy Shield](/laws/privacy-shield.md). However, this was rendered invalid in 2020 and a new agreement known as the [Trans-Atlantic Data Privacy (TADP) Framework](/laws/tadp-framework.md) was announced in 2022 but has not yet been formally adopted.
 
 ## Noteworthy
 
