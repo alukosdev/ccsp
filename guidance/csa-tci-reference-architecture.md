@@ -1,7 +1,7 @@
 ---
-categories: [Standards, Cloud Computing Reference Architecture Standards]
+categories: [Cloud Computing Reference Architecture Guidance]
 label: CSA TCI Reference Architecture
-tags: [csa]
+tags: [csa, tci]
 ---
 
 # CSA Trusted Cloud Initiative (TCI) Reference Architecture
