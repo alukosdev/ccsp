@@ -17,7 +17,7 @@ NFPA | National Fire Protection Association
 This standard provides requirements for fire protection of telecommunications facilities providing telephone, data, internet transmission, wireless, and video services to the public as well as life safety for the occupants plus protection of equipment and service continuity.
 
 !!!
-Both NFPA 75 and 76 standards specify how [hot aisle containment](/terminology/glossary.md#hot-aisle-containment) and [cold aisle containment](/terminology/glossary.md#cold-aisle-containment) is to be carried out.
+Both NFPA 75 and 76 standards specify how [hot aisle containment](/terminology/glossary.md#hot-aisle-containment){ target="blank" } and [cold aisle containment](/terminology/glossary.md#cold-aisle-containment){ target="blank" } is to be carried out.
 !!!
 
 ## Noteworthy
