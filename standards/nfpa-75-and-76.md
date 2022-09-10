@@ -18,8 +18,6 @@ NFPA | National Fire Protection Association
 
 ## Overview
 
-The NFPA publishes standards regarding fire protection.
-
 NFPA 75 and 76 standards specify how hot or cold aisle containment is to be carried out.
 
 ## Components
