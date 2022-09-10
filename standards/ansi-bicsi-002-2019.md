@@ -47,6 +47,11 @@ This standard is intended primarily for:
 - Section 16: Commissioning
 - Section 17: Data Center Maintenance
 
+## Noteworthy
+
+- [x] ANSI/BICSI 002-2019 provides recommendations for datacenter design and implementation best practices.
+- [x] ANSI/BICSI 002-2019 includes specifications for hot/cold aisle setups, power specifications, and energy efficiency.
+
 ## Sources
 
 - https://www.bicsi.org/docs/default-source/publications/002-2019-preview.pdf
