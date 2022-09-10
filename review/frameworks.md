@@ -19,3 +19,11 @@ Name | Alternative Name | Category { class="compact" }
 [NIST Framework for Improving Critical Infrastructure Cybersecurity](/frameworks/nist-framework-for-improving-critical-infrastructure-cybersecurity.md) | | Risk Management
 [SABSA](/frameworks/sabsa.md) | Sherwood Applied Business Security Architecture | Secure Architecture and Design
 [TOGAF](/frameworks/togaf.md) | The Open Group Architecture Framework | IT Governance
+
+New frameworks that have not been classified yet since they've moved from another category include:
+
+- CSA CCM
+- CSA STAR
+- EuroCloud StarAudit
+- FedRAMP
+- Shared Assessments
