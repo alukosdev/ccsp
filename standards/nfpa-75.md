@@ -1,14 +1,10 @@
 ---
 categories: [Standards, Data Center Design Standards]
-icon: alert
+label: NFPA 75
 tags: [nfpa]
 ---
 
-!!!warning
-This page is queued for revision.
-!!!
-
-# NFPA 75 and 76
+# NFPA 75: Standard for the Fire Protection of Information Technology Equipment
 
 ## Acronyms, Abbreviations, and Initialisms
 
@@ -18,7 +14,11 @@ NFPA | National Fire Protection Association
 
 ## Overview
 
+This standard covers the requirements for the protection of information technology equipment and information technology equipment areas from fire damage by fire or its associated effects--smoke, corrosion, heat, and water.
+
+!!!
 NFPA 75 and 76 standards specify how hot or cold aisle containment is to be carried out.
+!!!
 
 ## Components
 
@@ -31,3 +31,7 @@ The process of isolating intake air into a single aisle for two separate rows of
 
 In this configuration, racks are configured such that the fronts of the devices face each other.
 ===
+
+## Sources
+
+- https://www.nfpa.org/codes-and-standards/all-codes-and-standards/list-of-codes-and-standards/detail?code=75
