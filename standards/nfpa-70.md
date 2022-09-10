@@ -1,12 +1,7 @@
 ---
 categories: [Standards, Data Center Design Standards]
-icon: alert
 tags: [nfpa]
 ---
-
-!!!warning
-This page is queued for revision.
-!!!
 
 # NFPA 70
 
