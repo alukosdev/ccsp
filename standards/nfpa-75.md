@@ -22,7 +22,7 @@ Both NFPA 75 and 76 standards specify how [hot aisle containment](/terminology/g
 
 ## Noteworthy
 
-- [x] Both NFPA 75 and 76 standards specify how hot and cold aisle containment should be carried out.
+- [x] Both NFPA 75 and 76 standards specify how hot aisle containment and cold aisle containment should be carried out.
 
 ## Sources
 
