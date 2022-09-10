@@ -255,6 +255,10 @@ Not all cloud users are staff of cloud customers. Many cloud users are simply in
 ==- Cloud Washing
 The act of adding the name "cloud" to a non-cloud service and selling it as a cloud solution.
 ==- CloudTrust Protocol (CTP)
+==- Cold Aisle Containment
+The process of isolating intake air into a single aisle for two separate rows of server cages.
+
+In this configuration, racks are configured such that the fronts of the devices face each other.
 ==- Commerce Control List (CCL)
 ==- Common Criteria (CC)
 ==- Common Law
@@ -573,6 +577,10 @@ Honeypots are computer systems setup to look like production systems using the m
 Used to detect, deflect, or in some manner counteract attempts at unauthorized use of information systems.
 
 Enticement vs. entrapment. The real term to be used should be "distract".
+==- Hot Aisle Containment
+The process of isolating exhaust heat into a single aisle for two separate rows of server cages.
+
+In this configuration, racks are configured such that the backs of the devices face each other.
 ==- Humanized Artificial Intelligence
 Incorporates emotional intelligence, cognitive learning and responses, and also expands to include social intelligence.
 ==-

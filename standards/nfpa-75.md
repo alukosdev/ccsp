@@ -17,20 +17,12 @@ NFPA | National Fire Protection Association
 This standard covers the requirements for the protection of information technology equipment and information technology equipment areas from fire damage by fire or its associated effects--smoke, corrosion, heat, and water.
 
 !!!
-NFPA 75 and 76 standards specify how hot or cold aisle containment is to be carried out.
+Both NFPA 75 and 76 standards specify how [hot aisle containment](/terminology/glossary.md#hot-aisle-containment) and [cold aisle containment](/terminology/glossary.md#cold-aisle-containment) is to be carried out.
 !!!
 
-## Components
+## Noteworthy
 
-=== Hot Aisle Containment
-The process of isolating exhaust heat into a single aisle for two separate rows of server cages.
-
-In this configuration, racks are configured such that the backs of the devices face each other.
-=== Cold Aisle Containment
-The process of isolating intake air into a single aisle for two separate rows of server cages.
-
-In this configuration, racks are configured such that the fronts of the devices face each other.
-===
+- [x] Both NFPA 75 and 76 standards specify how hot and cold aisle containment should be carried out.
 
 ## Sources
 
