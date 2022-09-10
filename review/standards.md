@@ -10,6 +10,10 @@ This page needs a formatting update. Additionally, all standards should be linke
 This page is currently under revision.
 !!!
 
+!!!
+Please note that there is a different between accepted *standards* and *standardized* approaches.
+!!!
+
 # Standards
 
 Name | Description | Category { class="compact" }

@@ -1,20 +1,24 @@
 ---
 categories: [Standards, Security Management and Controls Standards]
-icon: alert
+label: FedRAMP
 ---
 
-!!!warning
-This page is queued for revision.
-!!!
+# Federal Risk and Authorization Management Program (FedRAMP)
 
-# FedRAMP
+## Acronyms, Abbreviations, and Initialisms
 
-> Federal Risk and Authorization Management Program
+Short Form | Full Form
+:--- | :---
+FedRAMP | Federal Risk and Authorization Management Program
 
 ## Overview
 
-The Federal Risk and Authorization Management Program (FedRAMP) is a government-wide program that provides a standardized approach to security assessment, authorization, and continuous monitoring for cloud products and services. FedRAMP enables Agencies to rapidly adapt from old, insecure legacy IT to mission-enabling, secure, and cost effective cloud-based IT. FedRAMP created and manages a core set of processes to ensure effective, repeatable cloud security for the government.
+The Federal Risk and Authorization Management Program (FedRAMP) is a government-wide program that promotes the adoption of secure cloud services across the federal government by providing a standardized approach to security and risk assessment for cloud technologies and federal agencies.
 
 !!!
 The FedRAMP standard dictates that American federal agencies must retain their data within the boundaries of the United States, including data within cloud datacenters.
 !!!
+
+## Sources
+
+- https://www.fedramp.gov/program-basics/
