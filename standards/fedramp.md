@@ -1,5 +1,5 @@
 ---
-categories: [Standards, Security Management and Controls Standards]
+categories: [Standards, Cloud Service Adoption]
 label: FedRAMP
 ---
 
