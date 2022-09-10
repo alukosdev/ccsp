@@ -13,6 +13,11 @@ The StarAudit scheme evaluates cloud services according to a well-defined and tr
 
 The certification procedure is based on best practices and provides answers to the fundamental questions managers are likely to ask when looking for a suitable cloud service provider. Unlike pure security or data protection audits, it covers the entire range of cloud service functions and validates compliance against the requirements in clearly understandable terms.
 
+## Noteworthy
+
+- [x] StarAudit offers a certification scheme to establish trust in cloud services.
+- [x] StarAudit evaluates cloud services according to a catalogue of criteria.
+
 ## Sources
 
 - https://staraudit.org/home/about/

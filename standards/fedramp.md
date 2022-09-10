@@ -19,6 +19,11 @@ The Federal Risk and Authorization Management Program (FedRAMP) is a government-
 The FedRAMP standard dictates that American federal agencies must retain their data within the boundaries of the United States, including data within cloud datacenters.
 !!!
 
+## Noteworthy
+
+- [x] The FedRAMP standard dictates that American federal agencies must retain their data within the boundaries of the United States, including data within cloud datacenters.
+- [x] The FedRAMP standard promotes the adoption of secure cloud services across *federal government agencies*.
+
 ## Sources
 
 - https://www.fedramp.gov/program-basics/
