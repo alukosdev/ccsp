@@ -719,6 +719,9 @@ Multitenancy refers to the notion of hosting multiple cloud tenants on a single 
 ## N
 
 ==- National Fire Protection Association (NFPA)
+
+The NFPA publishes standards regarding fire protection.
+
 ==- National Institute of Standards and Technology (NIST)
 ==- National Privacy Principles (NPP)
 ==- National Voluntary Laboratory Accreditation Program (NVLAP)

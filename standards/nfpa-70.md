@@ -1,18 +1,22 @@
 ---
 categories: [Standards, Data Center Design Standards]
+label: NFPA 70
 tags: [nfpa]
 ---
 
-# NFPA 70
+# NFPA 70: National Electrical Code
 
 ## Acronyms, Abbreviations, and Initialisms
 
 Short Form | Full Form
 :--- | :---
+NEC | National Electrical Code
 NFPA | National Fire Protection Association
 
 ## Overview
 
-The NFPA publishes standards regarding fire protection.
+The National Electrical Code (NEC), or NFPA 70, is the benchmark for safe electrical design, installation, and inspection to protect people and property from electrical hazards.
 
-NFPA standard 70 requires the implementation of an emergency power-off button to protect first responders in the data center in case of emergency.
+## Sources
+
+- https://www.nfpa.org/codes-and-standards/all-codes-and-standards/list-of-codes-and-standards/detail?code=70

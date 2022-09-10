@@ -199,6 +199,7 @@ MTTR | Mean Time to Repair
 MTTS | Mean Time to Switchover
 NaaS | [Networking as a Service](/terminology/glossary/#networking-as-a-service-naas)
 NBI | Northbound Interface
+NEC | National Electrical Code
 NERC | North American Electric Reliability Corporation
 NFPA | National Fire Protection Association
 NIS | Network and Information Security
