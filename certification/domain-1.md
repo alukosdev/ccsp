@@ -2,6 +2,10 @@
 label: Domain 1
 ---
 
+:::banner
+The following domain objectives are derived from the [(ISC)² CCSP Certification Exam Outline](https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CCSP-Exam-Outline-2022.ashx){ target="_blank" } with an effective date of **August 1, 2022**.
+:::
+
 # Domain 1: Cloud Concepts, Architecture and Design
 
 ## 1.1 Understand cloud computing concepts
@@ -129,7 +133,3 @@ label: Domain 1
 - System/subsystem product certifications
   - [Common Criteria (CC)](/standards/iso-iec-15408-2009.md)
   - [Federal Information Processing Standard (FIPS) 140-2](/standards/nist-fips-140-2.md)
-
-## Sources
-
-- (ISC)². (2022, August 1). *CCSP Certification Exam Outline*. https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CCSP-Exam-Outline-2022.ashx

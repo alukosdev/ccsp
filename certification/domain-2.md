@@ -2,6 +2,10 @@
 label: Domain 2
 ---
 
+:::banner
+The following domain objectives are derived from the [(ISC)² CCSP Certification Exam Outline](https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CCSP-Exam-Outline-2022.ashx){ target="_blank" } with an effective date of **August 1, 2022**.
+:::
+
 # Domain 2: Cloud Data Security
 
 ## 2.1 Describe cloud data concepts
@@ -65,7 +69,3 @@ label: Domain 2
   - Geolocation
 - Logging, storage and analysis of data events
 - Chain of custody and non-repudiation
-
-## Sources
-
-- (ISC)². (2022, August 1). *CCSP Certification Exam Outline*. https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CCSP-Exam-Outline-2022.ashx

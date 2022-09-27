@@ -2,6 +2,10 @@
 label: Domain 5
 ---
 
+:::banner
+The following domain objectives are derived from the [(ISC)² CCSP Certification Exam Outline](https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CCSP-Exam-Outline-2022.ashx){ target="_blank" } with an effective date of **August 1, 2022**.
+:::
+
 # Domain 5: Cloud Security Operations
 
 ## 5.1 Build and implement physical and logical infrastructure for cloud environment
@@ -112,7 +116,3 @@ label: Domain 5
   - Log management
 - Incident management
 - Vulnerability assessments
-
-## Sources
-
-- (ISC)². (2022, August 1). *CCSP Certification Exam Outline*. https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CCSP-Exam-Outline-2022.ashx

@@ -2,6 +2,10 @@
 label: Domain 4
 ---
 
+:::banner
+The following domain objectives are derived from the [(ISC)² CCSP Certification Exam Outline](https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CCSP-Exam-Outline-2022.ashx){ target="_blank" } with an effective date of **August 1, 2022**.
+:::
+
 # Domain 4: Cloud Application Security
 
 ## 4.1 Advocate training and awareness for application security
@@ -77,7 +81,3 @@ label: Domain 4
 - Multi-factor authentication (MFA)
 - Cloud access security broker (CASB)
 - Secrets management
-
-## Sources
-
-- (ISC)². (2022, August 1). *CCSP Certification Exam Outline*. https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CCSP-Exam-Outline-2022.ashx

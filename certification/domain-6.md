@@ -2,6 +2,10 @@
 label: Domain 6
 ---
 
+:::banner
+The following domain objectives are derived from the [(ISC)² CCSP Certification Exam Outline](https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CCSP-Exam-Outline-2022.ashx){ target="_blank" } with an effective date of **August 1, 2022**.
+:::
+
 # Domain 6: Legal, Risk and Compliance
 
 ## 6.1 Articulate legal requirements and unique risks within the cloud environment
@@ -110,7 +114,3 @@ label: Domain 6
   - Cyber risk insurance
 - Supply-chain management
   - [International Organization for Standardization/International Electrotechnical Commission (ISO/IEC) 27036](/standards/iso-iec-27036-2021.md)
-
-## Sources
-
-- (ISC)². (2022, August 1). *CCSP Certification Exam Outline*. https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CCSP-Exam-Outline-2022.ashx
