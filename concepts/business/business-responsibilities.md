@@ -1,12 +1,8 @@
----
-icon: stop
----
-
 !!!danger
-This page has not yet been revised for 2022.
+This page is currently queued for revision.
 !!!
 
-# Business Responsibilities
+# Business Responsibilities*
 
 ## Responsibilities in the Cloud
 

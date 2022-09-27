@@ -1,12 +1,8 @@
----
-icon: stop
----
-
 !!!danger
-This page has not yet been revised for 2022.
+This page is currently queued for revision.
 !!!
 
-# Cloud Roles
+# Cloud Roles*
 
 === Cloud Access Security Broker (CASB)
 Typically a third-party entity or company that looks to extend or enhance value to multiple customers of cloud-based services through relationships with multiple cloud service providers. It acts as a liaison between cloud services customers and cloud service providers, selecting the best provider for each customer and monitoring the services.

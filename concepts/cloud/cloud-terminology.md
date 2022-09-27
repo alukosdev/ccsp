@@ -1,12 +1,8 @@
----
-icon: stop
----
-
 !!!danger
-This page has not yet been revised for 2022.
+This page is currently queued for revision.
 !!!
 
-# Cloud Terminology
+# Cloud Terminology*
 
 === Apache CloudStack
 Apache CloudStack creates, manages, and deploys clouds. It is an open-source application. It is software utilized to deploy and manage large networks of virtual machines, that need to be highly available.

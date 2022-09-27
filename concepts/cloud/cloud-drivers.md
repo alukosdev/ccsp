@@ -1,12 +1,8 @@
----
-icon: stop
----
-
 !!!danger
-This page has not yet been revised for 2022.
+This page is currently queued for revision.
 !!!
 
-# Cloud Drivers
+# Cloud Drivers*
 
 There are many drivers that may move a company to consider cloud computing. These may include the costs associated with the ownership of their current IT infrastructure solutions as well as projected costs to continue to maintain these solutions year in and year out.
 

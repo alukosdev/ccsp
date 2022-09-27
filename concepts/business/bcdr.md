@@ -1,13 +1,12 @@
 ---
-icon: stop
 label: Business Continuity and Disaster Recovery
 ---
 
 !!!danger
-This page has not yet been revised for 2022.
+This page is currently queued for revision.
 !!!
 
-# Business Continuity and Disaster Recovery (BCDR)
+# Business Continuity and Disaster Recovery (BCDR)*
 
 ## Acronyms, Abbreviations, and Initialisms
 

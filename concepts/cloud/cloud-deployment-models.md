@@ -1,12 +1,8 @@
----
-icon: stop
----
-
 !!!danger
-This page has not yet been revised for 2022.
+This page is currently queued for revision.
 !!!
 
-# Cloud Deployment Models
+# Cloud Deployment Models*
 
 Cloud deployment models affect the *extent of resource sharing* the organization will be subjected to.
 
