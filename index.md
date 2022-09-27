@@ -4,18 +4,18 @@ label: Welcome
 ---
 
 :::banner
-This is a community derived and maintained project and we intend on keeping it that way. If you are interested in contributing to the project, please consider [donating](https://www.paypal.com/donate/?business=EEFDLRY7AJ8KN&no_recurring=0&currency_code=USD){ target="_blank" }. ❤️
+This project was created, is maintained, and continues to be updated by one individual. If you are interested in contributing, please consider [donating](https://www.paypal.com/donate/?business=EEFDLRY7AJ8KN&no_recurring=0&currency_code=USD){ target="_blank" }. ❤️
 :::
 
 !!!warning
-We are actively updating these notes to reflect the latest exam revision released on August 1st, 2022. The content on these pages will change dynamically as these updates occur. Additionally, we are working to migrate references and sources to their individual pages rather than a centralized page. For this reason, some sources may not be properly cited. We appreciate your patience and understanding as we work to apply these updates.
+I am actively updating these notes to reflect the latest exam revision released on August 1st, 2022. The content on these pages will change dynamically as these updates occur. Additionally, I am working to migrate references and sources to their individual pages rather than a centralized page. For this reason, some sources may not be properly cited. I appreciate your patience and understanding as I work to apply these updates.
 !!!
 
 # Welcome
 
 ## Purpose
 
-These notes were created for the sole purpose of aggregating accurate information from reliable sources to facilitate studying for the (ISC)² Certified Cloud Security Professional (CCSP) exam and have been shared publicly with the community.
+These notes were created to aggregate accurate information from reliable sources to facilitate studying for the (ISC)² Certified Cloud Security Professional (CCSP) exam. While these notes were originally intended for personal use, they have been shared publicly to help the community study for and pass the CCSP.
 
 ## Credit
 
