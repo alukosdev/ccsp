@@ -1,13 +1,12 @@
 ---
-icon: stop
 label: TLS
 ---
 
 !!!danger
-This page has not yet been revised for 2022.
+This page is currently queued for revision.
 !!!
 
-# Transport Layer Security (TLS)
+# Transport Layer Security (TLS)*
 
 ## Acronyms, Abbreviations, and Initialisms
 

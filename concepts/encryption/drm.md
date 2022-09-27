@@ -1,13 +1,12 @@
 ---
-icon: stop
 label: DRM
 ---
 
 !!!danger
-This page has not yet been revised for 2022.
+This page is currently queued for revision.
 !!!
 
-# Digital Rights Management (DRM)
+# Digital Rights Management (DRM)*
 
 ## Acronyms, Abbreviations, and Initialisms
 

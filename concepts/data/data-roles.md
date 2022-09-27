@@ -1,12 +1,8 @@
----
-icon: stop
----
-
 !!!danger
-This page has not yet been revised for 2022.
+This page is currently queued for revision.
 !!!
 
-# Data Roles
+# Data Roles*
 
 - Data **ownership** is based on **possession**.
 - Data **type** is based on data **format**.

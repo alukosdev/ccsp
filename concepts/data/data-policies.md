@@ -1,16 +1,8 @@
----
-icon: stop
----
-
 !!!danger
-This page has not yet been revised for 2022.
+This page is currently queued for revision.
 !!!
 
-# Data Policies
-
-!!!warning
-Perhaps this page should move beneath the policies page instead?
-!!!
+# Data Policies*
 
 ## Data Archiving Policy
 
