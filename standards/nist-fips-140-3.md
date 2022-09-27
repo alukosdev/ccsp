@@ -1,14 +1,13 @@
 ---
 categories: [Standards, Auditing and Assurance Standards]
-icon: stop
 tags: [nist]
 ---
 
 !!!danger
-This page has not yet been revised for 2022.
+This page is currently queued for revision.
 !!!
 
-# NIST FIPS 140-3
+# NIST FIPS 140-3*
 
 ## Acronyms, Abbreviations, and Initialisms
 

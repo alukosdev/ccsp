@@ -1,14 +1,13 @@
 ---
 categories: [Standards, Security Management and Controls Standards]
-icon: stop
 tags: [pci]
 ---
 
 !!!danger
-This page has not yet been revised for 2022.
+This page is currently queued for revision.
 !!!
 
-# PCI DSS
+# PCI DSS*
 
 > Payment Card Industry Data Security Standards
 

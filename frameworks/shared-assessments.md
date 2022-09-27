@@ -6,7 +6,7 @@ categories: [Standards, Auditing and Assurance Standards]
 This page is currently under construction.
 !!!
 
-# Shared Assessments
+# Shared Assessments*
 
 !!!
 Shared Assessments was formerly known as BITS Shared Assessments

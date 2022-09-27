@@ -1,14 +1,13 @@
 ---
 categories: [Standards, Risk Management Standards]
-icon: stop
 tags: [nist]
 ---
 
 !!!danger
-This page has not yet been revised for 2022.
+This page is currently queued for revision.
 !!!
 
-# NIST SP 800-37
+# NIST SP 800-37*
 
 > Guide for Applying the Risk Management Framework to Federal Information Systems
 

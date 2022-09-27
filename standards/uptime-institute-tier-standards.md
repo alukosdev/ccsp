@@ -1,13 +1,12 @@
 ---
 categories: [Standards, Data Center Design Standards]
-icon: stop
 ---
 
 !!!danger
-This page has not yet been revised for 2022.
+This page is currently queued for revision.
 !!!
 
-# Uptime Institute Tier Standards
+# Uptime Institute Tier Standards*
 
 ## Overview
 
