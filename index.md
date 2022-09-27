@@ -4,7 +4,7 @@ label: Welcome
 ---
 
 :::banner
-This project was created, is maintained, and continues to be updated by one individual. If you are interested in contributing, please consider [donating](https://www.paypal.com/donate/?business=EEFDLRY7AJ8KN&no_recurring=0&currency_code=USD){ target="_blank" }. ❤️
+This project was created, is maintained, and continues to be updated by a single person. If you are interested in contributing, please consider [donating](https://www.paypal.com/donate/?business=EEFDLRY7AJ8KN&no_recurring=0&currency_code=USD){ target="_blank" }. ❤️
 :::
 
 !!!warning
