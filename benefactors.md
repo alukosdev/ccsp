@@ -1,6 +1,7 @@
 ---
 icon: heart
 label: Benefactors
+order: 1000
 ---
 
 # Benefactors
