@@ -1,13 +1,12 @@
 ---
-icon: stop
 label: FIM
 ---
 
 !!!danger
-This page has not yet been revised for 2022.
+This page is currently queued for revision.
 !!!
 
-# Federated Identity Management (FIM)
+# Federated Identity Management (FIM)*
 
 ## Acronyms, Abbreviations, and Initialisms
 

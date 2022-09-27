@@ -1,13 +1,12 @@
 ---
-icon: stop
 label: Information Security Management
 ---
 
 !!!danger
-This page has not yet been revised for 2022.
+This page is currently queued for revision.
 !!!
 
-# Information Security Management (ISM)
+# Information Security Management (ISM)*
 
 ## Acronyms, Abbreviations, and Initialisms
 

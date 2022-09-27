@@ -1,13 +1,12 @@
 ---
-icon: stop
 label: Business Continuity Management
 ---
 
 !!!danger
-This page has not yet been revised for 2022.
+This page is currently queued for revision.
 !!!
 
-# Business Continuity Management (BCM)
+# Business Continuity Management (BCM)*
 
 ## Acronyms, Abbreviations, and Initialisms
 

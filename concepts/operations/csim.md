@@ -1,13 +1,12 @@
 ---
-icon: stop
 label: Continual Service Improvement Management
 ---
 
 !!!danger
-This page has not yet been revised for 2022.
+This page is currently queued for revision.
 !!!
 
-# Continual Service Improvement Management (CSIM)
+# Continual Service Improvement Management (CSIM)*
 
 ## Acronyms, Abbreviations, and Initialisms
 

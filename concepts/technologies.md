@@ -1,13 +1,12 @@
 ---
-icon: stop
 order: 700
 ---
 
 !!!danger
-This page has not yet been revised for 2022.
+This page is currently queued for revision.
 !!!
 
-# Technologies
+# Technologies*
 
 ## Artificial Intelligence
 

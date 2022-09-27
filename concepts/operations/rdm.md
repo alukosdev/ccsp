@@ -1,13 +1,12 @@
 ---
-icon: stop
 label: Release and Deployment Management
 ---
 
 !!!danger
-This page has not yet been revised for 2022.
+This page is currently queued for revision.
 !!!
 
-# Release and Deployment Management (RDM)
+# Release and Deployment Management (RDM)*
 
 ## Acronyms, Abbreviations, and Initialisms
 

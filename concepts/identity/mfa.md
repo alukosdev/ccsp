@@ -1,13 +1,12 @@
 ---
-icon: stop
 label: MFA
 ---
 
 !!!danger
-This page has not yet been revised for 2022.
+This page is currently queued for revision.
 !!!
 
-# Multifactor Authentication (MFA)
+# Multifactor Authentication (MFA)*
 
 ## Acronyms, Abbreviations, and Initialisms
 

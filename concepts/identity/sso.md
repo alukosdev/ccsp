@@ -1,13 +1,12 @@
 ---
-icon: stop
 label: SSO
 ---
 
 !!!danger
-This page has not yet been revised for 2022.
+This page is currently queued for revision.
 !!!
 
-# Single Sign-On (SSO)
+# Single Sign-On (SSO)*
 
 ## Acronyms, Abbreviations, and Initialisms
 

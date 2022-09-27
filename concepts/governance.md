@@ -1,13 +1,12 @@
 ---
-icon: stop
 order: 1200
 ---
 
 !!!danger
-This page has not yet been revised for 2022.
+This page is currently queued for revision.
 !!!
 
-# Governance
+# Governance*
 
 ## Glossary
 

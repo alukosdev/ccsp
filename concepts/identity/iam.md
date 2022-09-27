@@ -1,13 +1,12 @@
 ---
-icon: stop
 label: IAM
 ---
 
 !!!danger
-This page has not yet been revised for 2022.
+This page is currently queued for revision.
 !!!
 
-# Identity and Access Management (IAM)
+# Identity and Access Management (IAM)*
 
 ## Acronyms, Abbreviations, and Initialisms
 
