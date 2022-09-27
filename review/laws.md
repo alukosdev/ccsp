@@ -1,12 +1,8 @@
----
-icon: alert
----
-
 !!!warning
-You've landed upon a new page being designed specifically for the latest exam objectives! This page is currently under revision.
+You've landed upon a new page being designed specifically for the latest exam objectives. This page is currently under design review and will be updated routinely.
 !!!
 
-# Laws
+# Laws*
 
 Name | Alternative Name(s) | Category | Origin | Enforcement | Status { class="compact" }
 :--- | :---
