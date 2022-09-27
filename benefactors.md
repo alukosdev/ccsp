@@ -6,7 +6,7 @@ order: 1100
 
 # Benefactors
 
-A very gracious thank you to those who have contributed to keeping this project alive:
+A very gracious thank you to those who have found value in these notes and contributed to keeping the project alive:
 
 Name | Social
 :--- | :---
