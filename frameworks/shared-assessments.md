@@ -1,10 +1,9 @@
 ---
 categories: [Standards, Auditing and Assurance Standards]
-icon: alert
 ---
 
 !!!warning
-This page is queued for revision.
+This page is currently under construction.
 !!!
 
 # Shared Assessments

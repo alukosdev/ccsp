@@ -1,11 +1,10 @@
 ---
 categories: [Standards, Auditing and Assurance]
-icon: stop
 tags: [csa]
 ---
 
 !!!danger
-This page has not yet been revised for 2022.
+This page is currently queued for revision.
 !!!
 
 # CSA STAR

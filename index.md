@@ -4,18 +4,14 @@ label: Welcome
 ---
 
 :::banner
-This is a community project and we intend on keeping it that way. If you are interested in contributing to the project, please consider [donating](https://www.paypal.com/donate/?business=EEFDLRY7AJ8KN&no_recurring=0&currency_code=USD){ target="_blank" } or becoming an [editor](https://github.com/alukosdev/ccsp). ❤️
+This is a community derived and maintained project and we intend on keeping it that way. If you are interested in contributing to the project, please consider [donating](https://www.paypal.com/donate/?business=EEFDLRY7AJ8KN&no_recurring=0&currency_code=USD){ target="_blank" }. ❤️
 :::
 
 !!!warning
-We are actively updating these notes to reflect the latest exam revision released on August 1st, 2022. The content on these pages will change dynamically as these updates occur. Additionally, we are working to migrate references and sources to their individual pages rather than a centralized page. For this reason, some sources may not be properly cited. Any page displaying :icon-stop: contains the same material from our previous version of notes for the former exam objectives. While these are likely still safe to use for study purposes, they have *not* yet been updated for the latest exam objectives. Any page displaying :icon-alert: is currently under revision and is being updated to align with the latest exam objectives. We appreciate your patience and understanding as we work to apply these updates.
+We are actively updating these notes to reflect the latest exam revision released on August 1st, 2022. The content on these pages will change dynamically as these updates occur. Additionally, we are working to migrate references and sources to their individual pages rather than a centralized page. For this reason, some sources may not be properly cited. We appreciate your patience and understanding as we work to apply these updates.
 !!!
 
 # Welcome
-
-!!!
-Information contained within these notes is copyrighted. Sources of copyrighted information have been documented on their respective pages.
-!!!
 
 ## Purpose
 
@@ -23,7 +19,7 @@ These notes were created for the sole purpose of aggregating accurate informatio
 
 ## Credit
 
-These notes were created and continue to be actively maintained by the Alukos team and the following members of the information security community:
+These notes were created and continue to be actively maintained by the following members of the Alukos team:
 
 Member | Social | Contribution
 :--- | :---
@@ -35,9 +31,13 @@ Please do not hesitate to contact me if you discover any pages containing inaccu
 
 ## Resources
 
+!!!
+Information contained within these notes is copyrighted. Sources of copyrighted information have been documented on their respective pages.
+!!!
+
 ### Social
 
-- The [Certification Station](https://discord.gg/certstation){ target="_blank" } Discord server is a helpful study and discussion tool.
+- The [Certification Station](https://discord.gg/certstation){ target="_blank" } Discord server.
 
 ### Books
 
