@@ -1,7 +1,3 @@
----
-icon: stop
----
-
 !!!danger
 This page is currently queued for revision.
 !!!
