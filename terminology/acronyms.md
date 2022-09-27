@@ -1,16 +1,8 @@
----
-icon: alert
----
-
-!!!danger Note to Creator
-We need to decide whether to remove links entirely from this page, leave them as-is, or create separate buttons for linking to other resources. The latter will get unruly very quickly. It is not scalable.
-!!!
-
 !!!warning
-This page is currently under revision.
+Since this page contains information from nearly all other pages, this will remain under active construction until all notes have been fully updated.
 !!!
 
-# Acronyms, Abbreviations, and Initialisms
+# Acronyms, Abbreviations, and Initialisms*
 
 !!!
 Please note that not all acronyms, abbreviations, and initialisms referenced below exist in the glossary with a simple definition. Some acronyms, abbreviations, and initialisms describe concepts, organizations, laws, standards, guidance, or models that require more thoughtful explanation and may exist in their own respective page or pages. For this reason, we chose not to directly link any content below to individual pages or anchors. Please use the search feature to locate and research these terms.
