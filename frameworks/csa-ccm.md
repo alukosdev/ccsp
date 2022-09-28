@@ -53,7 +53,7 @@ Mappings identify the equivalence, gaps, and misalignment between the control sp
 - ISO/IEC 27018
 - CCM v3.0.1
 - AICPA TSC
-- CIS Controls V8
+- CIS Controls v8
 - NIST 800-53 Rev. 5
 - PCI DSS v3.2.1
 
