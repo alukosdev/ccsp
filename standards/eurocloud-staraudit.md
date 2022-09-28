@@ -1,5 +1,5 @@
 ---
-categories: [Standards, Cloud Service Adoption]
+categories: [Standards, Auditing and Assurance]
 tags: [eurocloud]
 ---
 
