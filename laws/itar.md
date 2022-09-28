@@ -17,13 +17,13 @@ USML | United States Munitions List
 
 ## Overview
 
-<span id="rev1"></span>The International Traffic in Arms Regulations (ITAR) is a United States regulation that controls the manufacture, sale, and distribution of defense and space-related articles and services as defined in the United States Munitions List (USML).[[1]](#ref1)
+The International Traffic in Arms Regulations (ITAR) is a United States regulation that controls the manufacture, sale, and distribution of defense and space-related articles and services as defined in the United States Munitions List (USML).
 
 ## Noteworthy
 
 - [x] ITAR controls the control of defense articles and space-related articles and services.
 - [x] ITAR-controlled items are defined in the USML.
 
-## References
+## Sources
 
-1. <span id="ref1"></span>[⌃](#rev1) Varonis. (2018, October 10). *What is ITAR Compliance? Definition and Regulations*. https://www.varonis.com/blog/itar-compliance
+- https://www.varonis.com/blog/itar-compliance

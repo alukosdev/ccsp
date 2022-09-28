@@ -58,5 +58,5 @@ Title III of the ECPA, which addresses pen register and trap and trace devices, 
 
 ## Sources
 
-- Burea of Justice Assistance (BJA). (n.d.) *Electronic Communications Privacy Act of 1986 (ECPA)*. https://bja.ojp.gov/program/it/privacy-civil-liberties/authorities/statutes/1285#:~:text=The%20ECPA%2C%20as%20amended%2C%20protects,conversations%2C%20and%20data%20stored%20electronically.
-- Legal Information Institute/LII. (n.d.). *18 U.S. Code Chapter 121 - STORED WIRE AND ELECTRONIC COMMUNICATIONS AND TRANSACTIONAL RECORDS ACCESS*. https://www.law.cornell.edu/uscode/text/18/part-I/chapter-121
+- https://bja.ojp.gov/program/it/privacy-civil-liberties/authorities/statutes/1285#:~:text=The%20ECPA%2C%20as%20amended%2C%20protects,conversations%2C%20and%20data%20stored%20electronically
+- https://www.law.cornell.edu/uscode/text/18/part-I/chapter-121

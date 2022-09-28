@@ -27,4 +27,4 @@ Amends | Date of Amendment { class="compact" }
 
 ## Sources
 
-- Cookiebot. (2021, December 21). *EU cookie law | ePrivacy Directive and cookies | Compliant EU cookie consent with Cookiebot CMP*. https://www.cookiebot.com/en/cookie-law/
+- https://www.cookiebot.com/en/cookie-law/

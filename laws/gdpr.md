@@ -125,9 +125,9 @@ Noncompliance with GDPR does not necessarily mean an organization cannot process
 
 ## Sources
 
-- https://gdpr.eu/what-is-gdpr/
-- https://www.americanbar.org/groups/litigation/committees/minority-trial-lawyer/practice/2019/a-very-brief-introduction-to-the-gdpr-recitals/#:~:text=As%20mentioned%2C%20the%20GDPR%20consists,context%20to%20supplement%20the%20articles
-- https://gdpr.eu/article-33-notification-of-a-personal-data-breach/
-- https://gdpr.eu/article-37-designation-of-the-data-protection-officer/
-- https://gdpr.eu/recital-1-data-protection-as-a-fundamental-right/
-- https://gdpr.eu/fines/
+- https://gdpr.eu/what-is-gdpr
+- https://www.americanbar.org/groups/litigation/committees/minority-trial-lawyer/practice/2019/a-very-brief-introduction-to-the-gdpr-recitals#:~:text=As%20mentioned%2C%20the%20GDPR%20consists,context%20to%20supplement%20the%20articles
+- https://gdpr.eu/article-33-notification-of-a-personal-data-breach
+- https://gdpr.eu/article-37-designation-of-the-data-protection-officer
+- https://gdpr.eu/recital-1-data-protection-as-a-fundamental-right
+- https://gdpr.eu/fines

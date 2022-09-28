@@ -21,4 +21,4 @@ Established by the International Data Center Authority (IDCA), Infinity Paradigm
 
 ## Sources
 
-- IDCA. (2017). *The Infinity Paradigm*. https://idc-a.org/data-center-standards
+- https://idc-a.org/data-center-standards

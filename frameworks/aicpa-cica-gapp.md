@@ -102,5 +102,4 @@ The entity monitors compliance with its privacy policies and procedures and has 
 
 ## Sources
 
-- AICPA/CICA. (2009, August). *Generally Accepted Privacy Principles*.
-- AICPA. (n.d.). *Privacy Management Framework*. https://us.aicpa.org/interestareas/informationtechnology/privacy-management-framework
+- https://us.aicpa.org/interestareas/informationtechnology/privacy-management-framework

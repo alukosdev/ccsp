@@ -42,4 +42,4 @@ SABSA is comprised of a series of integrated frameworks, models, methods and pro
 
 ## Sources
 
-- SABSA. (n.d.). *SABSA Executive Summary*. https://sabsa.org/sabsa-executive-summary/
+- https://sabsa.org/sabsa-executive-summary

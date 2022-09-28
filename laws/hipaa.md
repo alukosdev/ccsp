@@ -71,10 +71,10 @@ HHS' Office for Civil Rights (OCR) is responsible for enforcing the Privacy and 
 
 ## Sources
 
-- Centers for Medicare & Medicaid Services (CMS). (2022, May 11). *Privacy and Security Information*. https://www.cms.gov/Regulations-and-Guidance/Administrative-Simplification/HIPAA-ACA/PrivacyandSecurityInformation
-- U.S. Department of Health & Human Services (HHS). (2022, March 31). *The HIPAA Privacy Rule*. https://www.hhs.gov/hipaa/for-professionals/privacy/index.html
-- U.S. Department of Health & Human Services (HHS). (2013, July 26). *Summary of the HIPAA Privacy Rule*. https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html*
-- U.S. Department of Health & Human Services (HHS). (2020, September 23). *The Security Rule*. https://www.hhs.gov/hipaa/for-professionals/security/index.html)*
-- U.S. Department of Health & Human Services (HHS). (2020, August 31). *The HIPAA Enforcement Rule*. https://www.hhs.gov/hipaa/for-professionals/special-topics/enforcement-rule/index.html
-- U.S. Department of Health & Human Services (HHS). (2019, September 13). *Omnibus HIPAA Rulemaking*. https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/combined-regulation-text/omnibus-hipaa-rulemaking/index.html
-- U.S. Department of Health & Human Services (HHS). (2013, July 26). *Breach Notification Rule*. https://www.hhs.gov/hipaa/for-professionals/breach-notification/index.html
+- https://www.cms.gov/Regulations-and-Guidance/Administrative-Simplification/HIPAA-ACA/PrivacyandSecurityInformation
+- https://www.hhs.gov/hipaa/for-professionals/privacy/index.html
+- https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html*
+- https://www.hhs.gov/hipaa/for-professionals/security/index.html)*
+- https://www.hhs.gov/hipaa/for-professionals/special-topics/enforcement-rule/index.html
+- https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/combined-regulation-text/omnibus-hipaa-rulemaking/index.html
+- https://www.hhs.gov/hipaa/for-professionals/breach-notification/index.html

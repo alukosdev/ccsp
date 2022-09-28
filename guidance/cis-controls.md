@@ -19,7 +19,7 @@ IG | Implementation Group
 
 ## Overview
 
-<span id="rev1"></span>The CIS Controls (formerly referred to as the Critical Security Controls) are a recommended set of actions for cyber defense that provide specific and actionable ways to stop today's most pervasive and dangerous attacks.[[1]](#ref1)
+The CIS Controls (formerly referred to as the Critical Security Controls) are a recommended set of actions for cyber defense that provide specific and actionable ways to stop today's most pervasive and dangerous attacks.
 
 #### Implementation Groups
 
@@ -66,11 +66,8 @@ Control 18 | Penetration Testing
 
 - [x] The CIS Controls contain *18 controls*.
 
-## References
-
-1. <span id="ref1"></span>[⌃](#rev1) SANS. (2021, April 21). *CIS Controls v8*. https://www.sans.org/blog/cis-controls-v8
-
 ## Sources
 
-- CIS. (2021, May 18). *CIS Critical Security Controls Version 8*. https://www.cisecurity.org/controls/v8
-- CIS. (n.d.). *CIS Critical Security Controls Implementation Groups*. https://www.cisecurity.org/controls/implementation-groups
+- https://www.sans.org/blog/cis-controls-v8
+- https://www.cisecurity.org/controls/v8
+- https://www.cisecurity.org/controls/implementation-groups

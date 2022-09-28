@@ -41,4 +41,4 @@ The CCL categorizes these covered items into 10 broad categories:
 
 ## Sources
 
-- MIT Office of the Vice President for Research. (n.d.). *The Export Administration Regulations - EAR*. https://research.mit.edu/integrity-and-compliance/export-control/information-documents/export-control-regulations/export
+- https://research.mit.edu/integrity-and-compliance/export-control/information-documents/export-control-regulations/export

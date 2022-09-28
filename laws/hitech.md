@@ -32,5 +32,5 @@ HITECH provides financial incentives to “eligible professionals” for the mea
 
 ## Sources
 
-- American Speech-Language-Hearing Association (ASHA). (n.d.). *Health Information Technology for Economics and Clinical Health (HITECH) Act*. https://www.hhs.gov/hipaa/for-professionals/special-topics/hitech-act-enforcement-interim-final-rule/index.html
-- AMA Journal of Ethics. (2011). *THE HITECH ACT: An Overview*. https://journalofethics.ama-assn.org/article/hitech-act-overview/2011-03#:~:text=HITECH%20provides%20financial%20incentives%20to,incentives%20for%20hospitals%20as%20well.
+- https://www.hhs.gov/hipaa/for-professionals/special-topics/hitech-act-enforcement-interim-final-rule/index.html
+- https://journalofethics.ama-assn.org/article/hitech-act-overview/2011-03#:~:text=HITECH%20provides%20financial%20incentives%20to,incentives%20for%20hospitals%20as%20well.

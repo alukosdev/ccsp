@@ -542,4 +542,4 @@ The data shows a relatively low incidence rate with above average testing covera
 
 ## Sources
 
-- OWASP. (2021). *OWASP Top 10*. https://owasp.org/www-project-top-ten
+- https://owasp.org/www-project-top-ten

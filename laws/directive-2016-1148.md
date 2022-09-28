@@ -27,4 +27,4 @@ The NIS Directive has three parts:
 
 ## Sources
 
-- European Union Agency for Cybersecurity (ENISA). (n.d.). *NIS Directive*. https://www.enisa.europa.eu/topics/nis-directive
+- https://www.enisa.europa.eu/topics/nis-directive

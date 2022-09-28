@@ -88,4 +88,4 @@ A data controller should be accountable for complying with measures which give e
 
 ## Sources
 
-- OECD Legal Instruments. (2013, October 7). *Recommendation of the Council concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data*. https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0188
+- https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0188

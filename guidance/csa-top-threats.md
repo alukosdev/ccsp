@@ -27,7 +27,7 @@ TTP | Tactics, Techniques, and Procedures
 
 ## Overview
 
-<span id="rev1"></span>Top Threats is a working group established by the CSA that aims to provide organizations with an up-to-date, expert-informed understanding of cloud security risks, threats and vulnerabilities in order to make educated risk-management decisions regarding cloud adoption strategies.[[1]](#ref1)
+Top Threats is a working group established by the CSA that aims to provide organizations with an up-to-date, expert-informed understanding of cloud security risks, threats and vulnerabilities in order to make educated risk-management decisions regarding cloud adoption strategies.
 
 ## Publications
 
@@ -143,10 +143,7 @@ misconfiguration, application vulnerabilities, or poor security practice. Exfilt
 - [x] The security issues contained within the CSA *Top Threats* reports are specifically related to *cloud computing*.
 - [x] The most current version of the CSA *Top Threats* report is known as the *Pandemic Eleven*.
 
-## References
-
-1. <span id="ref1"></span>[⌃](#rev1) CSA. (n.d.). *Top Threats Working Group*. https://cloudsecurityalliance.org/research/working-groups/top-threats
-
 ## Sources
 
-- CSA. (2022, June 6). *Top Threats to Cloud Computing Pandemic Eleven*. https://cloudsecurityalliance.org/download/artifacts/top-threats-to-cloud-computing-pandemic-eleven
+- https://cloudsecurityalliance.org/research/working-groups/top-threats
+- https://cloudsecurityalliance.org/download/artifacts/top-threats-to-cloud-computing-pandemic-eleven

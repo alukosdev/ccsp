@@ -25,4 +25,4 @@ FERPA gives parents certain rights with respect to their children's education re
 
 ## Sources
 
-- U.S. Department of Education. (2021, August 25). *Family Educational Rights and Privacy Act (FERPA)*. https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html
+- https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html

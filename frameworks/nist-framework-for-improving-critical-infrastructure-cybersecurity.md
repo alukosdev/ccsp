@@ -59,6 +59,6 @@ Framework Profiles are an organization’s unique alignment of their organizatio
 
 ## Sources
 
-- National Institute of Standards and Technology (NIST). (2018, April 16). *Framework for Improving Critical Infrastructure Cybersecurity Version 1.1*. https://www.nist.gov/publications/framework-improving-critical-infrastructure-cybersecurity-version-11
-- National Institute of Standards and Technology (NIST). (n.d.). *Cybersecurity Framework - Getting Started*. https://www.nist.gov/cyberframework/getting-started
-- National Institute of Standards and Technology (NIST). (n.d.). *Cybersecurity Framework - An Introduction to the Components of the Framework*. https://www.nist.gov/cyberframework/online-learning/components-framework
+- https://www.nist.gov/publications/framework-improving-critical-infrastructure-cybersecurity-version-11
+- https://www.nist.gov/cyberframework/getting-started
+- https://www.nist.gov/cyberframework/online-learning/components-framework

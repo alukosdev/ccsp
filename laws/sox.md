@@ -31,7 +31,7 @@ The Securities and Exchange Commission (SEC) enforces SOX. SOX imposes criminal 
 
 ## Sources
 
-- Digital Guardian. (2022, March 14). *What is SOX Compliance? 2022 SOX Requirements & More*. https://digitalguardian.com/blog/what-sox-compliance
-- Investopedia. (2022, May 8). *Sarbanes-Oxley (SOX) Act of 2002*. https://www.investopedia.com/terms/s/sarbanesoxleyact.asp
-- Spiceworks. (2021, September 24). *Think Sarbanes-Oxley Only Applies to Public Companies? Think Again*. https://www.spiceworks.com/finance/governance/guest-article/think-sarbanes-oxley-only-applies-to-public-companies-think-again/
-- Hyperproof. (n.d.). *The Sarbanes-Oxley Act (SOX)*. https://hyperproof.io/sarbanes-oxley-act/#:~:text=The%20Securities%20and%20Exchange%20Commission,misleading%20or%20fraudulent%20financial%20statements
+- https://digitalguardian.com/blog/what-sox-compliance
+- https://www.investopedia.com/terms/s/sarbanesoxleyact.asp
+- https://www.spiceworks.com/finance/governance/guest-article/think-sarbanes-oxley-only-applies-to-public-companies-think-again/
+- https://hyperproof.io/sarbanes-oxley-act/#:~:text=The%20Securities%20and%20Exchange%20Commission,misleading%20or%20fraudulent%20financial%20statements

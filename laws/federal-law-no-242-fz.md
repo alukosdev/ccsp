@@ -19,4 +19,4 @@ In other words, personal data of Russian citizens collected by operators must be
 
 ## Sources
 
-- (2014, July 21). *FEDERAL LAW NO. 242-FZ OF JULY 21, 2014 ON AMENDING SOME LEGISLATIVE ACTS OF THE RUSSIAN FEDERATION IN AS MUCH AS IT CONCERNS UPDATING THE PROCEDURE FOR PERSONAL DATA PROCESSING IN INFORMATION-TELECOMMUNICATION NETWORKS (with the Amendments and Additions of December 31, 2014)*. http://wko.at/ooe/Branchen/Industrie/Zusendungen/FEDERAL%20LAW2.pdf
+- http://wko.at/ooe/Branchen/Industrie/Zusendungen/FEDERAL%20LAW2.pdf

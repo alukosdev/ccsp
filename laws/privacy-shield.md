@@ -57,6 +57,6 @@ The Privacy Shield Principles comprise a set of seven commonly recognized privac
 
 ## Sources
 
-- Privacy Shield Framework. (n.d.). *Privacy Shield Overview*. https://www.privacyshield.gov/Program-Overview
-- Privacy Shield Framework. (n.d.). *Requirements of Participation*. https://www.privacyshield.gov/article?id=Requirements-of-Participation
-- Congressional Research Service (CRS). (2022, June 2). *U.S.-EU Trans-Atlantic Data Privacy Framework*. https://crsreports.congress.gov/product/pdf/IF/IF11613#:~:text=In%20March%202022%2C%20the%20United,points%20in%20U.S.%2DEU%20relations.
+- https://www.privacyshield.gov/Program-Overview
+- https://www.privacyshield.gov/article?id=Requirements-of-Participation
+- https://crsreports.congress.gov/product/pdf/IF/IF11613#:~:text=In%20March%202022%2C%20the%20United,points%20in%20U.S.%2DEU%20relations

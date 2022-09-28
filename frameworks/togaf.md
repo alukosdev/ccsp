@@ -64,6 +64,6 @@ The TOGAF framework enables the creation of these multi-dimensional views and ca
 
 ## Sources
 
-- The Open Group. (n.d.). *The TOGAF Standard - Introduction*. https://pubs.opengroup.org/togaf-standard/index.html
-- The Open Group. (n.d.). *The TOGAF Standard, 10th Edition*. https://publications.opengroup.org/c220
-- The Open Group. (n.d.). *The TOGAF Standard - Introduction - Core Concepts*. https://pubs.opengroup.org/togaf-standard/introduction/chap03.html
+- https://pubs.opengroup.org/togaf-standard/index.html
+- https://publications.opengroup.org/c220
+- https://pubs.opengroup.org/togaf-standard/introduction/chap03.html

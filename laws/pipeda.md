@@ -47,4 +47,4 @@ PIPEDA could be considered Canada's version of the European Union (EU)'s General
 
 ## Sources
 
-1. Office of the Privacy Commissioner of Canada. (2021, December 8). *The Personal Information Protection and Electronic Documents Act (PIPEDA)*. https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/pipeda_brief
+- https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/pipeda_brief

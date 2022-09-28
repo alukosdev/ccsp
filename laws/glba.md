@@ -54,5 +54,5 @@ The FTC is responsible for enforcing its Privacy Rule and its Safeguards Rule.
 
 ## Sources
 
-- Federal Trade Commission (FTC). (n.d.). *Gramm-Leach-Bliley Act*. https://www.ftc.gov/business-guidance/privacy-security/gramm-leach-bliley-act
-- Digital Guardian. (2021, July 6). *What is GLBA Compliance? Understanding the Data Protection Requirements of the Gramm-Leach-Bliley Act in 2021*. https://digitalguardian.com/blog/what-glba-compliance-understanding-data-protection-requirements-gramm-leach-bliley-act
+- https://www.ftc.gov/business-guidance/privacy-security/gramm-leach-bliley-act
+- https://digitalguardian.com/blog/what-glba-compliance-understanding-data-protection-requirements-gramm-leach-bliley-act

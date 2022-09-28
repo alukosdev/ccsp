@@ -26,4 +26,4 @@ The Federal Act on Data Protection (FADP) is a Swiss law that aims to protect th
 
 ## Sources
 
-- Fedlex. (1992, June 18). *Federal Act on Data Protection*. https://www.fedlex.admin.ch/eli/cc/1993/1945_1945_1945/en
+- https://www.fedlex.admin.ch/eli/cc/1993/1945_1945_1945/en

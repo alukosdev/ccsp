@@ -13,13 +13,13 @@ APP | Australian Privacy Principles
 
 ## Overview
 
-<span id="rev1"></span>The Privacy Act 1988 (Privacy Act) was introduced to promote and protect the privacy of individuals and to regulate how Australian Government agencies and organizations with an annual turnover of more than $3 million, and some other organisations, handle personal information.
+The Privacy Act 1988 (Privacy Act) was introduced to promote and protect the privacy of individuals and to regulate how Australian Government agencies and organizations with an annual turnover of more than $3 million, and some other organisations, handle personal information.
 
-The Privacy Act includes 13 Australian Privacy Principles (APPs), which apply to some private sector organizations, as well as most Australian Government agencies. These are collectively referred to as "APP entities". The Privacy Act also regulates the privacy component of the consumer credit reporting system, tax file numbers, and health and medical research.[[1]](#ref1)
+The Privacy Act includes 13 Australian Privacy Principles (APPs), which apply to some private sector organizations, as well as most Australian Government agencies. These are collectively referred to as "APP entities". The Privacy Act also regulates the privacy component of the consumer credit reporting system, tax file numbers, and health and medical research.
 
 ## Principles
 
-<span id="rev2"></span>The APPs are the cornerstone of the privacy protection framework in the Privacy Act 1988 (Privacy Act). They apply to any organization or agency the Privacy Act covers.
+The APPs are the cornerstone of the privacy protection framework in the Privacy Act 1988 (Privacy Act). They apply to any organization or agency the Privacy Act covers.
 
 There are 13 APPs and they govern standards, rights and obligations around:
 
@@ -30,9 +30,9 @@ There are 13 APPs and they govern standards, rights and obligations around:
 
 The APPs are principles-based law. This gives an organization or agency flexibility to tailor their personal information handling practices to their business models and the diverse needs of individuals. They are also technology neutral, which allows them to adapt to changing technologies.
 
-A breach of an APP is an "interference with the privacy of an individual" and can lead to regulatory action and penalties.[[2]](#ref2)
+A breach of an APP is an "interference with the privacy of an individual" and can lead to regulatory action and penalties.
 
-<span id="rev3"></span>The 13 APPs include:[[3]](#ref3)
+The 13 APPs include:
 
 - APP 1 [Open and transparent management of personal information](#app-1-open-and-transparent-management-of-personal-information)
 - APP 2 [Anonymity and pseudonymity](#app-2-anonymity-and-pseudonymity)
@@ -106,8 +106,8 @@ Outlines an APP entity’s obligations in relation to correcting the personal in
 
 - [x] The Privacy Act includes 13 APPs.
 
-## References
+## Sources
 
-1. <span id="ref1"></span>[⌃](#rev1) Office of the Australian Information Commissioner (OAIC). (n.d.). *The Privacy Act*. https://www.oaic.gov.au/privacy/the-privacy-act
-2. <span id="ref2"></span>[⌃](#rev2) Office of the Australian Information Commissioner (OAIC). (n.d.). *Australian Privacy Principles*. https://www.oaic.gov.au/privacy/australian-privacy-principles
-3. <span id="ref3"></span>[^](#rev3) Office of the Australian Information Commissioner (OAIC). (n.d.). *Australian Privacy Principles quick reference*. https://www.oaic.gov.au/privacy/australian-privacy-principles/australian-privacy-principles-quick-reference
+- https://www.oaic.gov.au/privacy/the-privacy-act
+- https://www.oaic.gov.au/privacy/australian-privacy-principles
+- https://www.oaic.gov.au/privacy/australian-privacy-principles/australian-privacy-principles-quick-reference

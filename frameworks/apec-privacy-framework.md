@@ -83,4 +83,4 @@ The APEC Privacy Framework promotes a consistent approach to information privacy
 
 ## Sources
 
-- APEC. (2015). *APEC Privacy Framework*. https://www.apec.org/docs/default-source/publications/2017/8/apec-privacy-framework-(2015)/217_ecsg_2015-apec-privacy-framework.pdf?sfvrsn=1fe93b6b_1
+- https://www.apec.org/docs/default-source/publications/2017/8/apec-privacy-framework-(2015)/217_ecsg_2015-apec-privacy-framework.pdf?sfvrsn=1fe93b6b_1

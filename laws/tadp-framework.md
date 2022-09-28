@@ -47,4 +47,4 @@ Apart from the new framework, U.S. firms have limited options for cross-border d
 
 ## Sources
 
-- Congressional Research Service (CRS). (2022, June 2). *U.S.-EU Trans-Atlantic Data Privacy Framework*. https://crsreports.congress.gov/product/pdf/IF/IF11613#:~:text=In%20March%202022%2C%20the%20United,points%20in%20U.S.%2DEU%20relations
+- https://crsreports.congress.gov/product/pdf/IF/IF11613#:~:text=In%20March%202022%2C%20the%20United,points%20in%20U.S.%2DEU%20relations
