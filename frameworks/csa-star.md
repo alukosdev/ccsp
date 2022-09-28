@@ -3,100 +3,107 @@ categories: [Standards, Auditing and Assurance]
 tags: [csa]
 ---
 
-!!!danger
-This page is currently queued for revision.
-!!!
-
-# CSA STAR*
-
-!!!warning
-This page requires formatting updates to make it easier to flow. Additionally, it seems CSA has updated some of their verbiage. Therefore, this page should be reviewed and updated accordingly.
-!!!
+# CSA STAR
 
 ## Acronyms, Abbreviations, and Initialisms
 
 Short Form | Full Form
 :--- | :---
-CAI | Consensus Assessments Initiative
 CAIQ | Consensus Assessments Initiative Questionnaire
 CCM | Cloud Controls Matrix
 CSA | Cloud Security Alliance
-CTP | CloudTrust Protocol
-STAR | Security, Trust, and Assurance Registry
+STAR | Security, Trust, Assurance, and Risk
 
 ## Glossary
 
-=== Consensus Assessments Initiative Questionnaire (CAIQ)
-A self-assessment performed by cloud providers, detailing their evaluation of the practice areas and control groups they use in providing their services.
-=== Cloud Controls Matrix (CCM)
+==- Consensus Assessments Initiative Questionnaire (CAIQ)
+
+The Consensus Assessments Initiative Questionnaire (CAIQ) offers an industry-accepted way to document what security controls exist in IaaS, PaaS, and SaaS services, providing security control transparency. It provides a set of Yes/No questions a cloud consumer and cloud auditor may wish to ask of a cloud provider to ascertain their compliance to the Cloud Controls Matrix (CCM).  Therefore, it helps cloud customers to gauge the security posture of prospective cloud service providers and determine if their cloud services are suitably secure.
+
+==- Cloud Controls Matrix (CCM)
+
 [!ref](/standards/csa-ccm/)
-===
+
+==-
 
 ## Overview
 
-The CSA STAR program appeared as demand for a single consistent framework for evaluating cloud providers developed.
+The Security, Trust, Assurance, and Risk (STAR) Registry is a publicly accessible registry that documents the security and privacy controls provided by popular cloud computing offerings.
 
-The CSA STAR program was designed to provide an independent level of program assurance for cloud consumers. Provides a mechanism for users to assess the security of cloud security providers. It allows customers to perform a large component of due diligence and allow a single framework of controls and requirements to be utilized in assessing CSP suitability and the ability to fulfill CSP requirements.
+STAR encompasses the key principles of transparency, rigorous auditing, and harmonization of standards outlined in the [Cloud Controls Matrix (CCM)](/frameworks/csa-ccm.md){ target="_blank" }. Publishing to the registry allows organizations to show current and potential customers their security and compliance posture, including the regulations, standards, and frameworks they adhere to. It ultimately reduces complexity and helps alleviate the need to fill out multiple customer questionnaires.
 
-## Components
+## Levels
 
-The CSA STAR program consists of three levels based on the Open Certification Framework.
+There are multiple levels of assurance for companies that submit to the STAR registry. Each level has a different set of requirements.
 
-### STAR Level 1
-
-!!!
-This tier is also referred to as STAR Self-Assessment.
-!!!
-
-At level one organizations can submit one or both of the security and privacy self-assessments. For the security assessment, organizations use the Cloud Controls Matrix to evaluate and document their security Controls. The privacy assessment submissions are based on the GDPR Code of Conduct.
-
-1. Self-Assessment
-2. GDPR Code of Conduct Self-Assessment
-
-#### STAR Level 1 Continuous
-
-1. Continuous Self-Assessment
-
-A CSP that uses a CAIQ to achieve Self-Assessment, a point-in-time assessment, can use a Continuous Self-Assessment to demonstrate effectiveness of controls over a period of time, to achieve STAR Continuous Level 1.
-
-### STAR Level 2
+- Level 1: Self-Assessment
+- Level 2: Third-Party Audit
 
 !!!
-This tier is also referred to as STAR Attestation and Certification.
+There previously existed a third level of STAR attestation.
 !!!
 
-Requires the release and publication of available results of an assessment carried out by an independent third party based on CSA CCM and ISO 27001:2013 or an AICPA SOC 2.
+### Level 1: Self-Assessment
 
-Organizations looking for a third-party audit can choose from one or more of the security and privacy audits and certifications. An organization's location, along with the regulations and standards it is subject to will have the greatest factor in determining which ones are appropriate to pursue.
+At level 1 organizations can submit one or both of the security and privacy self-assessments. For the security assessment, organizations use the CCM to evaluate and document their security controls. The privacy assessment submissions are based on the GDPR Code of Conduct.
 
-1. Attestation, Certification, and C-Star
+#### Variations of Level 1
 
-- Attestation includes a third-party individual assessment against SOC 2 standards. This level is a collaboration between CSA and the AICPA to provide guidelines for CPAs to conduct SOC 2 engagements using criteria from the AICPA (Trust Service Principles, AT 101) and the CSA CCM.
-- Certification includes a third-party individual assessment against ISO/IEC 27001. This level is a technology-neutral certification that is based on a rigorous, independent third-party assessment of a cloud service provider's security. The certification leverages the requirements of the ISO/IEC 27001 management system standard together with the CSA CCM.
-- C-Star Assessment complies with Chinese national standards. This level is an assessment that is based on an independent third-party assessment of a cloud service provider's security for the Greater China market. The assessment harmonizes CSA best practices with Chinese national standards.
+==- Security Self-Assessment
 
-2. GDPR Code of Conduct Self-Assessment
-
-#### STAR Level 2 Continuous
-
-1. Level 2 + Continuous Self-Assessment
-
-A CSP, who holds a third-party audit, can achieve STAR Level 2 Continuous by adding a Continuous Self-Assessment, which allows them to quickly inform customers of changes to their security programs, instead of communicating those until the next audit period in normal STAR Level 2.
-
-### STAR Level 3
+CSA STAR Self-Assessment is a complimentary offering that documents the security controls provided by various cloud computing offerings, thereby helping users assess the security of cloud providers they currently use or are considering using. Cloud providers submit the [⌃](#consensus-assessments-initiative-questionnaire-caiq) Consensus Assessments Initiative Questionnaire (CAIQ) to document compliance with the CCM. This information then becomes publicly available, promoting industry transparency and providing customer visibility into specific provider security practices.
 
 !!!
-This tier is also referred to as STAR Continuous.
+STAR Self-Assessments are updated annually.
 !!!
 
-1. Continuous Certification
+==- GDPR Self-Assessment
 
-Requires the release and publication of results related to the security properties of monitoring based on the CloudTrust Protocol.
+The Code Self-Assessment covers the compliance to GDPR of the service(s) offered by a CSP. A company after the publication of the relevant document on the Registry will receive a Compliance Mark valid for 1 year.
 
-The CloudTrust protocol is intended to establish a digital trust between a cloud computing customer and provider and create transparency about the providers configurations, vulnerabilities, access, authorization, policy, accountability, anchoring and operating status conditions.
+!!!
+The Self-Assessment shall be revised every time there's a change to the company policies or practices related to the service under assessment.
+!!!
 
-Providers will publish their security practices according to CSA formatting and specifications, including validation of CCM, CTP, and CloudAudit (A6) standards. Customers and tool vendors will retrieve the information in a variety of contexts.
+==- 
 
-Automate the current security practices of cloud providers. Providers publish their security practices according and customers and tool vendors can retrieve and present this information in avariety of contexts.
+### Level 2: Third-Party Audit
 
-A CSP is the most transparent through a continuous, automated process that ensures that security controls are monitored and validated at all times.
+Level 2 of STAR allows organizations to build off of other industry certifications and standards to make them specific for the cloud.
+
+Organizations looking for a third-party audit can choose from one or more of the security and privacy audits and certifications. An organization’s location, along with the regulations and standards it is subject to will have the greatest factor in determining which ones are appropriate to pursue.
+
+There are associated fees for STAR Level 2.
+
+#### Variations of Level 2
+
+==- STAR Attestation: For SOC 2
+
+The CSA STAR Attestation is a collaboration between CSA and the AICPA to provide guidelines for CPAs to conduct SOC 2 engagements using criteria from the AICPA (Trust Service Principles, AT 101) and the CSA Cloud Controls Matrix. The STAR Attestation provides for rigorous third party independent assessments of cloud providers.
+
+!!!
+Attestation listings will expire after one year unless updated.
+!!!
+
+==- STAR Certification: For ISO/IEC 27001:2013
+
+The CSA STAR Certification is a rigorous third-party independent assessment of the security of a cloud service provider. This technology-neutral certification leverages the requirements of the ISO/IEC 27001:2013 management system standard together with the CSA Cloud Controls Matrix.
+
+!!!
+Certification certificates follow normal ISO/IEC 27001 protocol and expire after three years unless updated.
+!!!
+
+==- C-STAR: For the Greater China Market
+
+The CSA C-STAR Assessment is a robust third party independent assessment of the security of a cloud service provider for the Greater China market that harmonizes CSA best practices with Chinese national standards. C-STAR leverages the requirements of the GB/T 22080-2008 management system standard together with the CSA Cloud Controls Matrix, plus 29 related controls selected from GB/T 22239-2008 and GB/Z 28828-2012.
+
+!!!
+Certification certificates expire after three years unless updated.
+!!!
+
+==-
+
+## Sources
+
+- https://cloudsecurityalliance.org/star
+- https://cloudsecurityalliance.org/artifacts/consensus-assessments-initiative-questionnaire-v3-1

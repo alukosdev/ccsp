@@ -39,7 +39,6 @@ BICSI | Building Industry Consulting Services International
 BOSS | Business Operation Support Services
 BPA | Best Practices Analyzer
 CaaS | [Compliance as a Service](/terminology/glossary/#compliance-as-a-service-compaas-caas)
-CAI | Consensus Assessments Initiative
 CAIQ | [Consensus Assessments Initiative Questionnaire](/terminology/glossary/#consensus-assessments-initiative-questionnaire-caiq)
 CAMP | [Cloud Application Management for Platforms](/terminology/glossary/#cloud-application-management-for-platforms-camp)
 CapEx | Capital Expenditure
@@ -74,7 +73,6 @@ CSP | [Cloud Service Provider](/terminology/glossary/#cloud-service-provider-csp
 CSPRNG | Cryptographically Secure Pseudo Random Number Generator
 CSRF | Cross-Site Request Forgery
 CST | Cryptographic and Security Testing
-CTP | CloudTrust Protocol
 CVE | Common Vulnerabilities and Exposures
 CVSS | Common Vulnerability Scoring System
 CWE | Common Weakness Enumeration
@@ -269,7 +267,7 @@ SSAE | Statement on Standards for Attestation Engagements
 SSO | Single Sign-On
 SSRF | Server-Side Request Forgery
 ST | Security Target
-STAR | Security, Trust, and Assurance Registry
+STAR | Security, Trust, Assurance, and Risk
 TADP | Trans-Atlantic Data Privacy
 TCI | Trusted Cloud Initiative
 TCSEC | Trusted Computer System Evaluation Criteria
