@@ -60,3 +60,4 @@ Mappings identify the equivalence, gaps, and misalignment between the control sp
 ## Sources
 
 - https://cloudsecurityalliance.org/research/cloud-controls-matrix
+- https://cloudsecurityalliance.org/artifacts/cloud-controls-matrix-v4
