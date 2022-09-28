@@ -45,17 +45,17 @@ It is composed of 197 control objectives that are structured in 17 domains cover
 
 ## Mappings
 
-Mappings identify the equivalence, gaps, and misalignment between the control specifications of the CCM V4 and the following standards:
+Mappings identify the equivalence, gaps, and misalignment between the control specifications of the CCM v4 and the following standards:
 
-- ISO/IEC 27001
-- ISO/IEC 27002
-- ISO/IEC 27017
-- ISO/IEC 27018
+- [ISO/IEC 27001](/standards/iso-iec-27001-2013.md)
+- [ISO/IEC 27002](/standards/iso-iec-27002-2013.md)
+- [ISO/IEC 27017](/standards/iso-iec-27017-2015.md)
+- [ISO/IEC 27018](/standards/iso-iec-27018-2019.md)
 - CCM v3.0.1
 - AICPA TSC
-- CIS Controls v8
-- NIST 800-53 Rev. 5
-- PCI DSS v3.2.1
+- [CIS Controls v8](/guidance/cis-controls.md)
+- [NIST 800-53 Rev. 5](/standards/nist-sp-800-53.md)
+- [PCI DSS v3.2.1](/standards/pci-dss.md)
 
 ## Noteworthy
 
