@@ -106,6 +106,7 @@ Certification certificates expire after three years unless updated.
 
 - [x] STAR is a publicly accessible registry that documents the security and privacy controls provided by popular cloud computing offerings.
 - [x] STAR encompasses the key principles of transparency, rigorous auditing, and harmonization of standards outlined in the CCM.
+- [x] Cloud providers submit the CAIQ to document compliance with the CCM.
 - [x] There are multiple levels of assurance for companies that submit to the STAR Registry.
 - [x] STAR Level 1 is known as Self-Assessment.
 - [x] STAR Level 2 is known as Third-Party Audit.
