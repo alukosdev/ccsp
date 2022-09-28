@@ -57,6 +57,11 @@ Mappings identify the equivalence, gaps, and misalignment between the control sp
 - NIST 800-53r5
 - PCI DSSv3.2.1
 
+## Noteworthy
+
+- [x] The CCM is composed of 197 control objectives that are structured in 17 domains.
+- [x] The CCM provides guidance on which security controls should be implemented by which actor within the cloud *supply chain*.
+
 ## Sources
 
 - https://cloudsecurityalliance.org/research/cloud-controls-matrix
