@@ -1,15 +1,14 @@
 ---
 categories: [Standards, Security Management and Controls Standards]
+label: CSA CCM
 tags: [csa]
 ---
 
-!!!danger
-This page is currently queued for revision.
-!!!
+:::banner
+The following page reflects information collected from the [Cloud Controls Matrix (CCM) Version 4](https://cloudsecurityalliance.org/research/cloud-controls-matrix){ target="_blank" } published on **June 7, 2021**.
+:::
 
-# CSA CCM*
-
-> Cloud Controls Matrix
+# CSA Cloud Controls Matrix (CCM)
 
 ## Acronyms, Abbreviations, and Initialisms
 
@@ -20,84 +19,44 @@ CSA | Cloud Security Alliance
 
 ## Overview
 
-The CCM is designed to provide *guidance* for cloud vendors and to assist cloud customers with assessing the overall security risk of a CSP. Can be used to perform security control audits.
+The Cloud Security Alliance (CSA) Cloud Controls Matrix (CCM) is a cybersecurity control framework for cloud computing.
 
-The CSA CCM is an essential and up-to-date security controls framework that is addressed to the cloud community and stakeholders. A fundamental richness of the CCM is its ability to provide *mapping* and *cross relationships* with the main industry-accepted security standards, regulations, and controls frameworks (such as ISO 27001/27002, ISACA COBIT, and PCI DSS).
+It is composed of 197 control objectives that are structured in 17 domains covering all key aspects of cloud technology. It can be used as a tool for the systematic assessment of a cloud implementation, and provides guidance on which security controls should be implemented by which actor within the cloud supply chain.
 
-The CSA CCM framework gives organizations the necessary structure relating to information security tailored to the cloud industry.
+## Domains
 
-The CCM allows you to note where specific controls (some of which you might already have in place) will address requirements listed in multiple regulatory and contractual standards, laws, and guides.
+- [!badge variant="primary" text="A&A"] Audit & Assurance
+- [!badge variant="primary" text="AIS"] Application & Interface Security
+- [!badge variant="primary" text="BCR"] Business Continuity Management and Operational Resilience
+- [!badge variant="primary" text="CCC"] Change Control and Configuration Management
+- [!badge variant="primary" text="CEK"] Cryptography, Encryption & Key Management
+- [!badge variant="primary" text="DCS"] Datacenter Security
+- [!badge variant="primary" text="DSP"] Data Security and Privacy Lifecycle Management
+- [!badge variant="primary" text="GRC"] Governance, Risk and Compliance
+- [!badge variant="primary" text="HRS"] Human Resources Security
+- [!badge variant="primary" text="IAM"] Identity & Access Management
+- [!badge variant="primary" text="IPY"] Interoperability & Portability
+- [!badge variant="primary" text="IVS"] Infrastructure & Virtualization Security
+- [!badge variant="primary" text="LOG"] Logging and Monitoring
+- [!badge variant="primary" text="SEF"] Security Incident Management, E-Discovery, & Cloud Forensics
+- [!badge variant="primary" text="STA"] Supply Chain Management, Transparency, and Accountability
+- [!badge variant="primary" text="TVM"] Threat & Vulnerability Management
+- [!badge variant="primary" text="UEM"] Universal Endpoint Management
 
-!!!
-The CSA CCM can be particularly useful for assisting with supply chain reviews.
-!!!
+## Mappings
 
-## Components
+Mappings identify the equivalence, gaps, and misalignment between the control specifications of the CCM V4 and the following standards:
 
-### Domains
+- ISO/IEC 27001
+- ISO/IEC 27002
+- ISO/IEC 27017
+- ISO/IEC 27018
+- CCM V3.0.1
+- AICPA TSC
+- CIS Controls V8
+- NIST 800-53r5
+- PCI DSSv3.2.1
 
-The CCM can be seen as an inventory of cloud service security controls, arranged in the following 16 separate security domains:
+## Sources
 
-- Application and Interface Security
-- Audit Assurance and Compliance
-- Business Continuity Management and Operational Resilience
-- Change Control and Configuration Management
-- Data Security and Information Lifecycle Management
-- Data Center Security
-- Encryption and Key Management
-- Governance and Risk Management
-- Human Resources
-- Identity and Access Management
-- Infrastructure and Virtualization Security
-- Interoperability and Portability
-- Mobile Security
-- Security Incident Management, E-Discovery, and Cloud
-- Supply Chain Management, Transparency, and Accountability
-- Threat and Vulnerability Management
-
-### Inclusions
-
-- AICPA 2009 TSC Map
-- AICPA Trust Service Criteria (SOC 2SM Report)
-- AICPA 2014 TSC
-- BITS Shared Assessments AUP v5.0
-- BITS Shared Assessments SIG v6.0
-- BSI Germany
-- Canada PIPEDA
-- CCM V1.X
-- CIS-AWS-Foundation v1.1
-- COBIT 4.1
-- COBIT 5.0
-- COPPA
-- CSA Enterprise Architecture (formerly Trusted Cloud Initiative)
-- CSA Guidance V3.0
-- ENISA IAF
-- 95/46/EC - European Union Data Protection Directive
-- FedRAMP Security Controls (Final Release, Jan 2012) --LOW IMPACT LEVEL--
-- FedRAMP Security Controls (Final Release, Jan 2012) --MODERATE IMPACT LEVEL--
-- FERPA
-- GAPP (Aug 2009)
-- HIPAA / HITECH Act
-- HITRUST CSF v8.1
-- ISO/IEC 27001:2013
-- ISO/IEC 27002:2013
-- ISO/IEC 27017:2015
-- ISO/IEC 27018:2015
-- ITAR
-- Jericho Forum
-- Mexico - Federal Law on Protection of Personal Data Held by Private Parties
-- NERC CIP
-- NIST SP 800-53 R3
-- NIST SP 800-53 R4 App J
-- NZISM
-- NZISM v2.5
-- ODCA UM: PA R2.0
-- PCI DSS v2.0
-- PCI DSS v3.0
-- PCI DSS v3.2
-- Shared Assessments 2017 AUP
-- IEC 62443-3-3:2013
-- C5
-- NIST SP 800-R4 Moderate
-- AICPA TSC 2017
-- FedRAMP R4 Moderate
+- https://cloudsecurityalliance.org/research/cloud-controls-matrix

@@ -8,7 +8,7 @@ tags: [owasp]
 The following page reflects information collected from the [OWASP Web Security Testing Guide Version 4.2](https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf){ target="_blank" } published on **December 3, 2020**.
 :::
 
-# OWASP Web Security Testing Guide
+# OWASP Web Security Testing Guide (WSTG)
 
 ## Acronyms, Abbreviations, and Initialisms
 

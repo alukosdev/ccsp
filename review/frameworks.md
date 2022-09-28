@@ -22,4 +22,3 @@ New frameworks that have not been classified yet since they've moved from anothe
 - CSA STAR
 - EuroCloud StarAudit
 - FedRAMP
-- Shared Assessments
