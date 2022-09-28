@@ -18,7 +18,7 @@ STAR | Security, Trust, Assurance, and Risk
 
 ==- Consensus Assessments Initiative Questionnaire (CAIQ)
 
-The Consensus Assessments Initiative Questionnaire (CAIQ) offers an industry-accepted way to document what security controls exist in IaaS, PaaS, and SaaS services, providing security control transparency. It provides a set of Yes/No questions a cloud consumer and cloud auditor may wish to ask of a cloud provider to ascertain their compliance to the Cloud Controls Matrix (CCM).  Therefore, it helps cloud customers to gauge the security posture of prospective cloud service providers and determine if their cloud services are suitably secure.
+The Consensus Assessments Initiative Questionnaire (CAIQ) offers an industry-accepted way to document what security controls exist in IaaS, PaaS, and SaaS services, providing security control transparency. It provides a set of Yes/No questions a cloud consumer and cloud auditor may wish to ask of a cloud provider to ascertain their compliance to the Cloud Controls Matrix (CCM). Therefore, it helps cloud customers to gauge the security posture of prospective cloud service providers and determine if their cloud services are suitably secure.
 
 ==-
 
