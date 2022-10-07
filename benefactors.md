@@ -14,4 +14,5 @@ A very gracious thank you to those who found value in these notes and felt compe
 
 Name | Achievement Date
 :--- | :---
+Zonghong Han | N/A
 [Ashley Kingscote](https://www.linkedin.com/in/ashley-kingscote-87581094){ target="_blank" } | [2022/09/14](https://www.credly.com/badges/1b7e92f3-0841-4335-bfc2-5d92b19d2197/linked_in_profile){ target="_blank" }
