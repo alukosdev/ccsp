@@ -21,11 +21,6 @@ The data center Tier levels are:
 - [Tier III: Concurrently Maintainable](#tier-iii-concurrently-maintainable)
 - [Tier IV: Fault-Tolerant](#tier-iv-fault-tolerant)
 
-Parameters | Tier I | Tier II | Tier III | Tier IV
-:--- | :--- | :--- | :--- | :---
-**Uptime** | 99.671% | 99.741% | 99.982% | 99.995%
-** Downtime per year** | <28.8 hours | <22 hours | <1.6 hours | <26.3 minutes
-
 ==- Tier I: Basic Capacity
 
 A Tier I data center is the basic capacity level with infrastructure to support information technology for an office setting and beyond. The requirements for a Tier I facility include:
@@ -63,6 +58,15 @@ Tier IV facilities add fault tolerance to the Tier III topology. When a piece of
 
 ==-
 
+Parameters | Tier I | Tier II | Tier III | Tier IV
+:--- | :--- | :--- | :--- | :---
+**Uptime guarantee** | 99.671% | 99.741% | 99.982% | 99.995%
+**Downtime per year** | <28.8 hours | <22 hours | <1.6 hours | <26.3 minutes
+**Component redundancy** | None | Partial power and cooling (partial N+1) | Full N+1 | Fault-tolerant (2N or 2N+1)
+**Concurrently maintainable** | No | No | Partially | Yes
+**Price** | $ | $$ | $$$ | $$$$
+**Staffing** | None | 1 shift | 1+ shift | 24/7/365
+
 ## Noteworthy
 
 - [x] Tier I is known as `Basic Capacity`.
@@ -74,3 +78,4 @@ Tier IV facilities add fault tolerance to the Tier III topology. When a piece of
 
 - https://uptimeinstitute.com/tier-certification
 - https://uptimeinstitute.com/tiers
+- https://phoenixnap.com/blog/data-center-tiers-classification
