@@ -15,7 +15,7 @@ NFPA | National Fire Protection Association
 
 ## Overview
 
-The National Electrical Code (NEC), or NFPA 70, is the benchmark for safe electrical design, installation, and inspection to protect people and property from electrical hazards.
+The National Electrical Code (NEC), also known as NFPA 70, is the benchmark for safe electrical design, installation, and inspection to protect people and property from electrical hazards.
 
 ## Sources
 
