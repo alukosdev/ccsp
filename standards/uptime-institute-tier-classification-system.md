@@ -64,7 +64,7 @@ Parameters | Tier I | Tier II | Tier III | Tier IV
 **Downtime per year** | <28.8 hours | <22 hours | <1.6 hours | <26.3 minutes
 **Component redundancy** | None | Partial power and cooling (partial N+1) | Full N+1 | Fault-tolerant (2N or 2N+1)
 **Concurrently maintainable** | No | No | Partially | Yes
-**Price** | :moneybag: | :moneybag: :moneybag: | :moneybag: :moneybag: :moneybag: | :moneybag: :moneybag: :moneybag: :moneybag:
+**Price** | :moneybag: | :moneybag::moneybag: | :moneybag::moneybag::moneybag: | :moneybag::moneybag::moneybag::moneybag:
 **Staffing** | None | 1 shift | 1+ shift | 24/7/365
 
 ## Noteworthy
