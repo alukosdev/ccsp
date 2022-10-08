@@ -8,7 +8,7 @@ Name | Description | Category { class="compact" }
 :--- | :--- | :---
 [AICPA SOC](/standards/aicpa-soc.md) | SOC for Service Organizations | Auditing and Assurance
 [ANSI/BICSI 002-2019](/standards/ansi-bicsi-002-2019.md) | Data Center Design and Implementation Best Practices | Datacenter Design
-[ISO 28000:2007](/standards/iso-28000-2007.md) | Specification for security management systems for the supply chain | Supply Chain
+[ISO 28000:2022](/standards/iso-28000-2007.md) | Specification for security management systems for the supply chain | Supply Chain
 [ISO 31000:2018](/standards/iso-31000-2018.md) | Risk management | Risk Management
 [ISO/IEC 15408:2009](/standards/iso-iec-15408-2009.md) | Information technology - Security techniques - Evaluation criteria for IT security | Common Criteria
 ISO/IEC 17788:2014 | Information technology - Cloud computing - Overview and vocabulary | Cloud Computing
