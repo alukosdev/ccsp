@@ -67,14 +67,6 @@ Parameters | Tier I | Tier II | Tier III | Tier IV
 **Price** | :moneybag: | :moneybag::moneybag: | :moneybag::moneybag::moneybag: | :moneybag::moneybag::moneybag::moneybag:
 **Staffing** | None | 1 shift | 1+ shift | 24/7/365
 
-||| Parameters
-**Uptime guarantee**
-**Downtime per year**
-||| Tier I
-99.671%
-<28.8 hours
-|||
-
 ## Noteworthy
 
 - [x] Tier I is known as `Basic Capacity`.
