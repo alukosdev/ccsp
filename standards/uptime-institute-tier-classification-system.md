@@ -4,6 +4,13 @@ categories: [Standards, Data Center Design Standards]
 
 # Uptime Institute Tier Classification System
 
+## Acronyms, Abbreviations, and Initialisms
+
+Short Form | Full Form
+:--- | :---
+IT | Information Technology
+UPS | Uninterruptible Power Supply
+
 ## Overview
 
 The Tier Classification System designed by Uptime Institute is the globally recognized standard for data center reliability and overall performance. It allows for various levels of performance to be chosen based on the intended applications and business parameters associated with those applications.
