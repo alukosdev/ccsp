@@ -16,8 +16,8 @@ The data center Tier definitions define criteria, but not specific technology op
 
 The data center Tier levels are:
 
-- [Tier I: Basic Capacity Level](#tier-i-basic-capacity-level)
-- [Tier II: Redundant Capacity Components](#tier-ii-redundant-capacity-components)
+- [Tier I: Basic Capacity](#tier-i-basic-capacity)
+- [Tier II: Redundant Capacity](#tier-ii-redundant-capacity)
 - [Tier III: Concurrently Maintainable](#tier-iii-concurrently-maintainable)
 - [Tier IV: Fault-Tolerant](#tier-iv-fault-tolerant)
 
