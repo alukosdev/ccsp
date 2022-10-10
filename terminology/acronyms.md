@@ -142,7 +142,7 @@ HSM | [Hardware Security Module](/terminology/glossary/#hardware-security-module
 HSTS | HTTP Strict Transport Security
 HTTP | Hypertext Transfer Protocol
 HTTPS | Hypertext Transfer Protocol Secure
-IaaS | Infrastructure-as-a-Service
+IaaS | Infrastructure as a Service
 IAASB | International Auditing and Assurance Standards Board
 IaC | [Infrastructure as Code](/terminology/glossary/#infrastructure-as-code-iac)
 IAM | Identity and Access Management
@@ -208,7 +208,7 @@ OpEx | Operational Expenditure
 ORM | Object Relational Mapping
 OS | Operating System
 OWASP | Open Web Application Security Project
-PaaS | Platform-as-a-Service
+PaaS | Platform as a Service
 PAN | Primary Account Number
 PASTA | Process for Attack Simulation and Threat Analysis
 PCI | Payment Card Industry
@@ -236,7 +236,7 @@ RPO | [Recovery Point Objective](/terminology/glossary/#recovery-point-objective
 RSL | [Recovery Service Level](/terminology/glossary/#recovery-service-level-rsl)
 RSO | [Reduced Sign-On](/terminology/glossary/#reduced-sign-on-rso)
 RTO | [Recovery Time Objective](/terminology/glossary/#recovery-time-objective-rto)
-SaaS | Software-as-a-Service
+SaaS | Software as a Service
 SABSA | Sherwood Applied Business Security Architecture
 SAD | [Sensitive Authentication Data](/terminology/glossary/#sensitive-authentication-data-sad)
 SAML | Security Assertion Markup Language

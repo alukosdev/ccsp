@@ -66,7 +66,7 @@ The Self-Assessment shall be revised every time there's a change to the company 
 
 Level 2 of STAR allows organizations to build off of other industry certifications and standards to make them specific for the cloud.
 
-Organizations looking for a third-party audit can choose from one or more of the security and privacy audits and certifications. An organization’s location, along with the regulations and standards it is subject to will have the greatest factor in determining which ones are appropriate to pursue.
+Organizations looking for a third-party audit can choose from one or more of the security and privacy audits and certifications. An organization's location, along with the regulations and standards it is subject to will have the greatest factor in determining which ones are appropriate to pursue.
 
 There are associated fees for STAR Level 2.
 
