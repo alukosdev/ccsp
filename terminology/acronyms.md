@@ -103,6 +103,7 @@ EAL | Evaluation Assurance Level
 EAR | Export Administration Regulations
 ECB | Electronic Code Book
 ECPA | Electronic Communication Privacy Act
+eDiscovery | Electronic Discovery
 EDoS | Economic Denial-of-Service
 EEA | [European Economic Area](/terminology/glossary/#european-economic-area-eea)
 EF | Exposure Factor

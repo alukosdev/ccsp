@@ -35,3 +35,7 @@ The *customer collects* relevant data in response to an eDiscovery matter, proce
 ### Third-Party eDiscovery
 
 The customer may hire a third-party with expertise in performing eDiscovery in the cloud.
+
+## Noteworthy
+
+- [x] ISO/IEC 27050-1:2019 contains definitions for eDiscovery and ESI.
