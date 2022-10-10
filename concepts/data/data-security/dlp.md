@@ -1,5 +1,5 @@
 ---
-label: Data Loss Prevention
+label: Data Loss Prevention*
 ---
 
 !!!danger

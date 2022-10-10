@@ -1,5 +1,5 @@
 ---
-label: DRM
+label: DRM*
 ---
 
 !!!danger

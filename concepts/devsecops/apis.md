@@ -1,5 +1,5 @@
 ---
-label: APIs
+label: APIs*
 ---
 
 !!!danger

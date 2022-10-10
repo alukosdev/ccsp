@@ -1,5 +1,5 @@
 ---
-label: Business Impact Analysis
+label: Business Impact Analysis*
 ---
 
 !!!danger

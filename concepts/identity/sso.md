@@ -1,5 +1,5 @@
 ---
-label: SSO
+label: SSO*
 ---
 
 !!!danger

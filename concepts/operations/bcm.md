@@ -1,5 +1,5 @@
 ---
-label: Business Continuity Management
+label: Business Continuity Management*
 ---
 
 !!!danger

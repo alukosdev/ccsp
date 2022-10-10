@@ -1,5 +1,5 @@
 ---
-label: FIM
+label: FIM*
 ---
 
 !!!danger

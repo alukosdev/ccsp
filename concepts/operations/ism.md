@@ -1,5 +1,5 @@
 ---
-label: Information Security Management
+label: Information Security Management*
 ---
 
 !!!danger

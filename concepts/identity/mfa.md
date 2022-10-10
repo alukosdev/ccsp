@@ -1,5 +1,5 @@
 ---
-label: MFA
+label: MFA*
 ---
 
 !!!danger

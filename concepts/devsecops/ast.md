@@ -1,5 +1,5 @@
 ---
-label: Application Security Testing
+label: Application Security Testing*
 ---
 
 !!!danger

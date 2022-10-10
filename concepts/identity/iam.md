@@ -1,5 +1,5 @@
 ---
-label: IAM
+label: IAM*
 ---
 
 !!!danger
