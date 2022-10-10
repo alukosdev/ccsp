@@ -4,7 +4,7 @@ label: Welcome
 ---
 
 :::banner
-This project was created, is actively maintained, and continues to be updated by a single person. If you are interested in supporting the project, please consider [donating](https://square.link/u/AcdjUvi0){ target="_blank" }. ❤️
+This project was created, is actively maintained, and continues to be updated by a single person. If you are interested in supporting the project, please consider [donating](https://square.link/u/AGKBttkH){ target="_blank" }. ❤️
 :::
 
 !!!warning
