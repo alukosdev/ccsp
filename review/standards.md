@@ -38,7 +38,7 @@ NIST SP 500-292 | Cloud Computing Reference Architecture | Cloud Computing
 NIST SP 500-293 | Cloud Computing Technology Roadmap | Cloud Computing
 NIST SP 800-12 Rev. 1 | An Introduction to Information Security |
 NIST SP 800-30 | Guide for Conducting Risk Assessments | Risk
-[NIST SP 800-37](/standards/nist-sp-800-37.md) | Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy | Risk
+[NIST SP 800-37 Rev. 2](/standards/nist-sp-800-37-rev-2.md) | Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy | Risk
 NIST SP 800-40 Rev. 3 | Guide to Enterprise Patch Management Technologies |
 [NIST SP 800-53](/standards/nist-sp-800-53.md) | Security and Privacy Controls for Federal Information Systems and Organizations |
 NIST SP 800-63 | Digital Identity Guidelines | Forensics

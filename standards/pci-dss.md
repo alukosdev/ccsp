@@ -1,5 +1,6 @@
 ---
 categories: [Standards, Security Management and Controls Standards]
+label: PCI DSS*
 tags: [pci]
 ---
 
@@ -7,9 +8,7 @@ tags: [pci]
 This page is currently queued for revision.
 !!!
 
-# PCI DSS*
-
-> Payment Card Industry Data Security Standards
+# Payment Card Industry Data Security Standard
 
 ## Acronyms, Abbreviations, and Initialisms
 
@@ -17,15 +16,15 @@ Short Form | Full Form
 :--- | :---
 AoC | Attestation of Compliance
 ASV | Approved Scanning Vendor
-DSS | Data Security Standards
+DSS | Data Security Standard
 ISA | Internal Security Assessor
 PAN | Primary Account Number
 PCI | Payment Card Industry
 PFI | PCI Forensic Investigator
-QSA |	Qualified Security Assessor
-ROC |	Report of Compliance
-SAD |	Sensitive Authentication Data
-SAQ |	Self-Assessment Questionnaire
+QSA | Qualified Security Assessor
+ROC | Report of Compliance
+SAD | Sensitive Authentication Data
+SAQ | Self-Assessment Questionnaire
 
 ## Glossary
 
