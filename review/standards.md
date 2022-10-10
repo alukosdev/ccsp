@@ -40,7 +40,7 @@ NIST SP 800-12 Rev. 1 | An Introduction to Information Security |
 NIST SP 800-30 | Guide for Conducting Risk Assessments | Risk
 [NIST SP 800-37 Rev. 2](/standards/nist-sp-800-37-rev-2.md) | Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy | Risk
 NIST SP 800-40 Rev. 3 | Guide to Enterprise Patch Management Technologies |
-[NIST SP 800-53](/standards/nist-sp-800-53.md) | Security and Privacy Controls for Federal Information Systems and Organizations |
+[NIST SP 800-53 Rev. 5](/standards/nist-sp-800-53-rev-5.md) | Security and Privacy Controls for Federal Information Systems and Organizations |
 NIST SP 800-63 | Digital Identity Guidelines | Forensics
 NIST SP 800-92 | Guide to Computer Security Log Management |
 NIST SP 800-122 | Guide to Protecting the Confidentiality of Personally Identifiable Information (PII) | Breach Reporting
