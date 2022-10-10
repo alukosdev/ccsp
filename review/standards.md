@@ -10,7 +10,7 @@ Name | Description | Category { class="compact" }
 [ANSI/BICSI 002-2019](/standards/ansi-bicsi-002-2019.md) | Data Center Design and Implementation Best Practices | Datacenter Design
 [ISO 28000:2022](/standards/iso-28000-2022.md) | Security and resilience - Security management systems - Requirements | Supply Chain
 [ISO 31000:2018](/standards/iso-31000-2018.md) | Risk management | Risk Management
-[ISO/IEC 15408:2009](/standards/iso-iec-15408-2009.md) | Information technology - Security techniques - Evaluation criteria for IT security | Common Criteria
+[ISO/IEC 15408-1:2022](/standards/iso-iec-15408-1-2022.md) | Information security, cybersecurity and privacy protection - Evaluation criteria for IT security - Part 1: Introduction and general model | Common Criteria
 ISO/IEC 17788:2014 | Information technology - Cloud computing - Overview and vocabulary | Cloud Computing
 [ISO/IEC 17789:2014](/standards/iso-iec-17789-2014.md) | Information technology - Cloud computing - Reference architecture | Cloud Computing
 ISO/IEC 19086:2016 | Information technology - Cloud computing - Service level agreement (SLA) framework | SLAs
@@ -29,7 +29,7 @@ ISO/IEC 27040:2015 | Information technology - Security techniques - Storage secu
 ISO/IEC 27041:2015 | Information technology - Security techniques - Guidance on assuring suitability and adequacy of incident investigative method | Forensics
 ISO/IEC 27042:2015 | Information technology - Security techniques - Guidelines for the analysis and interpretation of digital evidence | Forensics
 ISO/IEC 27043:2015 | Information technology - Security techniques - Incident investigation principles and processes | Forensics
-[ISO/IEC 27050-1:2019](/standards/iso-iec-27050-1-2019.md) | Information technology - Electronic discovery | eDiscovery
+[ISO/IEC 27050-1:2019](/standards/iso-iec-27050-1-2019.md) | Information technology - Electronic discovery - Part 1: Overview and concepts | eDiscovery
 [NFPA 70](/standards/nfpa-70.md) | National Electrical Code | Datacenter Design
 [NFPA 75](/standards/nfpa-75.md) | Standard for the Fire Protection of Information Technology Equipment | Datacenter Design
 [NFPA 76](/standards/nfpa-76.md) | Standard for the Fire Protection of Telecommunications Facilities | Datacenter Design
