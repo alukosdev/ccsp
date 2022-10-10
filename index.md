@@ -37,6 +37,7 @@ Information contained within these notes is copyrighted. Sources of copyrighted 
 
 ### Social
 
+- The [CCSP Subreddit](https://reddit.com/r/ccsp){ target="_blank" }.
 - The [Certification Station](https://discord.gg/certstation){ target="_blank" } Discord server.
 
 ### Books
