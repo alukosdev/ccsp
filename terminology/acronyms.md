@@ -223,6 +223,7 @@ PIPEDA | Personal Information Protection and Electronic Documents Act
 PKCS | Public Key Cryptography Standards
 PLA | Privacy-Level Agreement
 PMF | Privacy Management Framework
+PP | Protection Profile
 QA | Quality Assurance
 QSA | [Qualified Security Assessor](/terminology/glossary/#qualified-security-assessor-qsa)
 RASP | Runtime Application Self-Protection
