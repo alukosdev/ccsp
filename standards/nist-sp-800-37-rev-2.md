@@ -4,10 +4,6 @@ label: NIST SP 800-37 Rev. 2
 tags: [nist]
 ---
 
-!!!danger
-This page is currently queued for revision.
-!!!
-
 # NIST SP 800-37 Rev. 2: Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy
 
 ## Acronyms, Abbreviations, and Initialisms
