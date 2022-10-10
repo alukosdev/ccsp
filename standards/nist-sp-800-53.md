@@ -1,5 +1,6 @@
 ---
 categories: [Standards, Security Management and Controls Standards]
+label: NIST SP 800-53 Rev. 5*
 tags: [nist]
 ---
 
@@ -7,9 +8,7 @@ tags: [nist]
 This page is currently queued for revision.
 !!!
 
-# NIST SP 800-53*
-
-> Security and Privacy Controls for Federal Information Systems and Organizations
+# NIST SP 800-53 Rev. 5: security and Privacy Controls for Information Systems and Organizations
 
 ## Acronyms, Abbreviations, and Initialisms
 

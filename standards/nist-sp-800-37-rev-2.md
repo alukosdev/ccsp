@@ -15,6 +15,7 @@ This page is currently queued for revision.
 Short Form | Full Form
 :--- | :---
 NIST | National Institute of Standards and Technology
+RMF | Risk Management Framework
 SP | Special Publication
 
 ## Overview
