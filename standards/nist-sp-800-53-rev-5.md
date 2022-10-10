@@ -1,6 +1,6 @@
 ---
 categories: [Standards, Security Management and Controls Standards]
-label: NIST SP 800-53 Rev. 5*
+label: NIST SP 800-53 Rev. 5
 tags: [nist]
 ---
 
