@@ -229,6 +229,7 @@ RBAC | Role-Based Access Control
 RCE | Remote Code Execution
 RDM | Release and Deployment Management
 REST | Representational State Transfer
+RMF | Risk Management Framework
 ROC | [Report of Compliance](/terminology/glossary/#report-of-compliance-roc)
 ROI | [Return on Investment](/terminology/glossary/#return-on-investment-roi)
 RPO | [Recovery Point Objective](/terminology/glossary/#recovery-point-objective-rpo)

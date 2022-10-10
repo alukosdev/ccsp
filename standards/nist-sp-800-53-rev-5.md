@@ -8,7 +8,7 @@ tags: [nist]
 This page is currently queued for revision.
 !!!
 
-# NIST SP 800-53 Rev. 5: security and Privacy Controls for Information Systems and Organizations
+# NIST SP 800-53 Rev. 5: Security and Privacy Controls for Information Systems and Organizations
 
 ## Acronyms, Abbreviations, and Initialisms
 
