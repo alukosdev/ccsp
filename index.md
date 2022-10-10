@@ -15,7 +15,7 @@ I am actively updating these notes to reflect the latest exam revision released 
 
 ## Purpose
 
-These notes were created to aggregate accurate information from reliable sources to facilitate studying for the (ISC)² Certified Cloud Security Professional (CCSP) exam. While these notes were originally intended for personal use, they have been shared publicly to help the community study for and pass the CCSP.
+These notes were created to aggregate accurate information from reliable sources to facilitate studying for the (ISC)² Certified Cloud Security Professional (CCSP) exam. While these notes were originally intended for personal use, in accordance with the fourth canon of the [(ISC)² Code of Ethics](https://www.isc2.org/Ethics){ target="_blank" } to "Advance and protect the profession," they have been shared publicly to help the community study for and pass the CCSP.
 
 ## Credit
 
