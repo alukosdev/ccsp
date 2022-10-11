@@ -18,7 +18,7 @@ ISO/IEC 19941:2017 | Information technology - Cloud computing - Interoperability
 ISO/IEC 19944:2017 | Information technology - Cloud computing - Cloud services and devices: Data flow, data categories and data use | Cloud Computing
 ISO/IEC 20000-1:2019 | Information technology - Service management - Part 1: Service management system requirements |
 [ISO/IEC 27001:2013](/standards/iso-iec-27001-2013.md) | Information technology - Security techniques - Information security management systems - Requirements | ISMS
-[ISO/IEC 27002:2013](/standards/iso-iec-27002-2013.md) | Information technology - Security techniques - Code of practice for information security controls | Best Practices
+[ISO/IEC 27002:2022](/standards/iso-iec-27002-2022.md) | Information technology - Security techniques - Code of practice for information security controls | Best Practices
 ISO/IEC 27005:2018 | Information technology - Security techniques - Information security risk management | Risk Management
 [ISO/IEC 27017:2015](/standards/iso-iec-27017-2015.md) | Information technology - Security techniques - Code of practice for information security controls based on ISO/IEC 27002 for cloud services | Cloud Computing
 [ISO/IEC 27018:2019](/standards/iso-iec-27018-2019.md) | Information technology - Security techniques - Code of practice for protection of personally identifiable information (PII) in public clouds acting as PII processors | PII in the Cloud
