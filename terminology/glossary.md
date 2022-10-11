@@ -734,7 +734,7 @@ Natural disasters are a category of risks to cloud deployments that is based *so
 ==- Network and Information Security (NIS)
 ==- Network Forensics
 Network forensics is defined as the capture, storage, and analysis of network events. The idea is to capture every packet of network traffic and make it available in a single searchable database so that the traffic can be examined and analyzed in detail.
-==- Networking as a Service (NaaS)
+==- Network as a Service (NaaS)
 Includes network services from third-parties to customers that do not want to build their own networking infrastructure.
 ==- Nonfunctional Requirements
 ==- Nonpublic Personal Information (NPI)

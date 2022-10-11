@@ -66,10 +66,11 @@ CORS | Cross-Origin Resource Sharing
 CPEA | Cross-Border Privacy Enforcement Arrangement
 CSA | Cloud Security Alliance
 CSB | Cloud Service Broker
-CSC | Critical Security Controls (formerly)
+CSC | Cloud Service Customer <br> Critical Security Controls (formerly)
 CSCC | [Cloud Standards Customer Council](/terminology/glossary/#cloud-standards-customer-council-cscc)
 CSIM | Continual Service Improvement Management
 CSIRT | Computer Security Incident Response Team
+CSN | Cloud Service Partner
 CSP | [Cloud Service Provider](/terminology/glossary/#cloud-service-provider-csp)
 CSPRNG | Cryptographically Secure Pseudo Random Number Generator
 CSRF | Cross-Site Request Forgery
@@ -189,7 +190,7 @@ MSP | [Managed Service Provider](/terminology/glossary/#managed-service-provider
 MTBF | Mean Time Before Failure
 MTTR | Mean Time to Repair
 MTTS | Mean Time to Switchover
-NaaS | [Networking as a Service](/terminology/glossary/#networking-as-a-service-naas)
+NaaS | [Network as a Service](/terminology/glossary/#networking-as-a-service-naas)
 NBI | Northbound Interface
 NEC | National Electrical Code
 NERC | North American Electric Reliability Corporation
