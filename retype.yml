@@ -7,8 +7,10 @@ branding:
   logo: /static/isc2_ccsp.png
 links:
   - text: Donate
-    icon: heart-fill
     link: https://square.link/u/AGKBttkH
+    target: blank
+  - text: Benefactors
+    link: benefactors.md
     target: blank
 meta:
   title: " | CCSP by Alukos"
