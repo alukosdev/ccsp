@@ -23,7 +23,7 @@ ISO/IEC 27005:2018 | Information technology - Security techniques - Information 
 [ISO/IEC 27017:2015](/standards/iso-iec-27017-2015.md) | Information technology - Security techniques - Code of practice for information security controls based on ISO/IEC 27002 for cloud services | Cloud Computing
 [ISO/IEC 27018:2019](/standards/iso-iec-27018-2019.md) | Information technology - Security techniques - Code of practice for protection of personally identifiable information (PII) in public clouds acting as PII processors | PII in the Cloud
 [ISO/IEC 27034:2011](/standards/iso-iec-27034-2011.md) | Information technology - Security techniques - Application security | ONF/ANF
-[ISO/IEC 27036:2021](/standards/iso-iec-27036-2021.md) | Information technology - Security techniques - Information security for supplier relationships | Supplier Relations
+[ISO/IEC 27036-1:2021](/standards/iso-iec-27036-2021.md) | Cybersecurity - Supplier relationships - Part 1: Overview and concepts | Supplier Relations
 ISO/IEC 27037:2012 | Information technology - Security techniques - Guidelines for identification, collection, acquisition and preservation of digital evidence | Forensics
 ISO/IEC 27040:2015 | Information technology - Security techniques - Storage security | Storage Security
 ISO/IEC 27041:2015 | Information technology - Security techniques - Guidance on assuring suitability and adequacy of incident investigative method | Forensics
