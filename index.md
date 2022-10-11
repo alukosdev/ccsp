@@ -7,7 +7,7 @@ label: Welcome
 This project was created, is actively maintained, and continues to be updated by a single person. If you are interested in supporting the project, please consider [donating](https://square.link/u/AGKBttkH){ target="_blank" }. ❤️
 :::
 
-!!!warning Last Update: 2022/10/11 at 1:27 PM EDT
+!!!warning Last Update: 2022/10/11 at 3:53 PM EDT
 I am actively updating these notes to reflect the latest exam revision released on August 1st, 2022. The content on these pages will change dynamically as these updates occur. Additionally, I am working to migrate references and sources to their individual pages rather than a centralized page. For this reason, some sources may not be properly cited. I appreciate your patience and understanding as I work to apply these updates.
 !!!
 
