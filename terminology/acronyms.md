@@ -273,7 +273,6 @@ ST | Security Target
 STAR | Security, Trust, Assurance, and Risk
 TADP | Trans-Atlantic Data Privacy
 TCI | Trusted Cloud Initiative
-TCSEC | Trusted Computer System Evaluation Criteria
 TLS | Transport Layer Security
 TOCTOU | Time-of-Check, Time-of-Use
 TOTP | Time-Based One-Time Password
@@ -287,7 +286,6 @@ U.S. | United States
 U.S.C. | United States Code
 USG | United States Government
 USML | United States Munitions List
-UTM | Unified Threat Management
 VLAN | Virtual Local Area Network
 VMI | Virtual Machine Introspection
 VPN | Virtual Private Network
