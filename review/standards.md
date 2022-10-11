@@ -30,6 +30,7 @@ ISO/IEC 27041:2015 | Information technology - Security techniques - Guidance on 
 ISO/IEC 27042:2015 | Information technology - Security techniques - Guidelines for the analysis and interpretation of digital evidence | Forensics
 ISO/IEC 27043:2015 | Information technology - Security techniques - Incident investigation principles and processes | Forensics
 [ISO/IEC 27050-1:2019](/standards/iso-iec-27050-1-2019.md) | Information technology - Electronic discovery - Part 1: Overview and concepts | eDiscovery
+[ISO/IEC 29100:2011](/standards/iso-iec-29100-2011.md) | Information technology - Security techniques - Privacy framework
 [NFPA 70](/standards/nfpa-70.md) | National Electrical Code | Datacenter Design
 [NFPA 75](/standards/nfpa-75.md) | Standard for the Fire Protection of Information Technology Equipment | Datacenter Design
 [NFPA 76](/standards/nfpa-76.md) | Standard for the Fire Protection of Telecommunications Facilities | Datacenter Design
