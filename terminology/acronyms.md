@@ -48,6 +48,7 @@ CBPR | Cross-Border Privacy Rules
 CC | Common Criteria
 CCL | Commerce Control List
 CCM | [Cloud Controls Matrix](/terminology/glossary/#cloud-controls-matrix-ccm)
+CCRA | Cloud Computing Reference Architecture
 CDN | Content Delivery Network
 CI | [Configuration Item](/terminology/glossary/#configuration-item-ci)
 CICA | Canadian Institute of Chartered Accountants
