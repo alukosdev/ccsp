@@ -275,6 +275,7 @@ TADP | Trans-Atlantic Data Privacy
 TCI | Trusted Cloud Initiative
 TLS | Transport Layer Security
 TOCTOU | Time-of-Check, Time-of-Use
+TOE | Target of Evaluation
 TOTP | Time-Based One-Time Password
 TPM | [Trusted Platform Module](/terminology/glossary/#trusted-platform-module-tpm)
 TSC | Trust Services Criteria
