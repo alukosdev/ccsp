@@ -703,12 +703,12 @@ A measure of how long it would take for an interruption in service to kill an or
 MAD is measured in *time*.
 !!!
 ==- Maximum Tolerable Downtime (MTD)
-*See [Maximum Allowable Downtime (MAD)](/reference/glossary/#maximum-allowable-downtime-mad)*.
+*See [Maximum Allowable Downtime (MAD)](/terminology/glossary/#maximum-allowable-downtime-mad)*.
 ==- Mean Time Before Failure (MTBF)
 ==- Mean Time to Repair (MTTR)
 ==- Mean Time to Switchover (MTTS)
 ==- Memorandum of Agreement (MOA)
-*See [Memorandum of Agreement (MOU)](/reference/glossary/#memorandum-of-understanding-mou)*.
+*See [Memorandum of Agreement (MOU)](/terminology/glossary/#memorandum-of-understanding-mou)*.
 ==- Memorandum of Understanding (MOU)
 A *nonbinding* agreement between two or more parties outlining the terms and details of an understanding, including each parties' requirements and responsibilities.
 ==- Microsoft Deployment Toolkit (MDT)
@@ -908,7 +908,7 @@ The owner's right to determine to whom information is disclosed. Security protec
 ==- Security Target (ST)
 ==- Security, Trust, and Assurance Registry (STAR)
 ==- Security Zones
-*See [Trust Zones](/reference/glossary/#trust-zones)*.
+*See [Trust Zones](/terminology/glossary/#trust-zones)*.
 ==- Self-Assessment Questionnaire (SAQ)
 The PCI DSS SAQs are validation tools intended to assist merchants and service providers report the results of their PCI DSS self-assessment.
 ==- Sensitive Authentication Data (SAD)
