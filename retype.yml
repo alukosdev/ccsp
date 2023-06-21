@@ -7,7 +7,7 @@ branding:
   logo: /static/isc2_ccsp.png
 links:
   - text: Donate
-    link: https://square.link/u/Vk2R7V2M
+    link: https://www.paypal.com/donate/?hosted_button_id=CV9LKP92844HQ
     target: blank
   - text: Benefactors
     link: benefactors.md
