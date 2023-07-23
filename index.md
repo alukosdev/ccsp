@@ -4,10 +4,10 @@ label: Welcome
 ---
 
 :::banner
-This project was created, is actively maintained, and continues to be updated by a single person. If you are interested in supporting the project, please consider [donating](https://www.paypal.com/donate/?hosted_button_id=CV9LKP92844HQ){ target="_blank" }. ❤️
+This project was created, is maintained, and continues to be supported by a single individual. If you are interested in supporting the project, please consider [donating](https://www.paypal.com/donate/?hosted_button_id=CV9LKP92844HQ){ target="_blank" }. ❤️
 :::
 
-!!!warning Last Update: 2023/07/23 at 1:27 PM EDT
+!!! Last Update on 2023/07/23 at 1:27 PM EDT
 I am actively updating these notes to reflect the latest exam revision released on August 1st, 2022. The content on these pages will change dynamically as these updates occur. Additionally, I am working to migrate references and sources to their individual pages rather than a centralized page. For this reason, some sources may not be properly cited. I appreciate your patience and understanding as I work to apply these updates.
 !!!
 
