@@ -4,7 +4,11 @@ url: ccsp.alukos.com
 generator:
   trailingSlash: true
 branding:
-  logo: /static/isc2_ccsp.png
+  colors:
+    label:
+      text: "#1e82e6"
+  logo: /static/ccsp_logo.png
+  logoDark: /static/ccsp_logodark.png
 links:
   - text: Donate
     link: https://www.paypal.com/donate/?hosted_button_id=CV9LKP92844HQ
